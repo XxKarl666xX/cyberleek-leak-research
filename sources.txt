@@ -1,53 +1,56 @@
-# CYBERLEEK & Media Investigation Sources
+# CYBERLEEK & Media Investigation Verified Sources
 
 ## Primary Portal & Frontend
 https://leek.vilenarios.com/
 https://leek.vilenarios.com/assets/index-CE2GuztQ.js
-https://leek.vilenarios.com/assets/image-CgGkSufa.png
-https://leek.vilenarios.com/assets/favicon-D5_7o8Fv.ico
 
-## Solana Smart Contracts & Accounts
+## Solana Smart Contracts & Explorer Links
 Solana Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
 Token Mint ($CYBERLEEK): ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
-Content Account 1 (Basketball): FSKYZHqqzwKMYevwdZuAM4KRkcNQZqto9RLM27nKeEas
-Content Account 2 (Random Video 1): 9pUqCNKgRctNcm8F6gr6kYZkP5stzGzVRCAX1qcpVXoE
+Solscan Program: https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
+Solana Explorer: https://explorer.solana.com/address/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
+DexScreener Token: https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
+
+## Verified On-Chain Content Accounts
+Content Account 1 (Basketball Video): FSKYZHqqzwKMYevwdZuAM4KRkcNQZqto9RLM27nKeEas
+Content Account 2 (Driving Video): 9pUqCNKgRctNcm8F6gr6kYZkP5stzGzVRCAX1qcpVXoE
 Content Account 3 (Map Sneak Peek 1): 9qjyztEygKNRf5CG6MHSTNbJqAcVjJD4n7JazrhoTuiG
 Content Account 4 (Map Sneak Peek 2): 3k3DqRCTKznq9bmSAa9bxBDC6poRL97johxYNNVXiZNv
 Content Account 5 (Full Map): GwrASq3dqB5e1M2pti8bWiLNJZZhnsxHtsYpu7Y1bWcU
 Frontend Config Account: Eq19BaJAbuxiH8JtL1pX7F8bwVnPVK5vdmhZQ7KAi8cA
 
-## Arweave & Gateway Endpoints
-Uploader Wallet: 7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE
+## Verified Working Direct Media Download Links
 
-### 1. Basketball Video (output.mp4)
+### 1. Basketball Video (output.mp4) — 1440p HEVC (SHA-256: bbcb8f662b...)
 https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
 https://turbo-gateway.com/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
-https://vilenarios.com/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
 https://www.upload.ee/files/19658673/output.mp4.html
-https://www.upload.ee/download/19658673/ca588c03820c230b5ec7/output.mp4
 
-### 2. Random Video 1 (video2.mp4)
+### 2. Driving Video (video2.mp4) — 1080p HEVC (SHA-256: c2a2284d8b...)
 https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
-https://turbo-gateway.com/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
-https://vilenarios.com/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
-https://www.upload.ee/files/19662951/video2.mp4.html
-https://www.upload.ee/download/19662951/7f826eda5700230b5ec9/video2.mp4
 https://transfiles.ru/ybyf9
+https://www.upload.ee/files/19662951/video2.mp4.html
 
-### 3. Map Sneak Peek 1 (Dalton Island)
+### 3. Map Sneak Peek 1 (Dalton Island) — PNG (SHA-256: 0d1f9f522b...)
 https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
 https://turbo-gateway.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
-https://vilenarios.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
-https://ar.io/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
 
-### 4. Map Sneak Peek 2 (Catalan Key / Gloriana Key)
+### 4. Map Sneak Peek 2 (Catalan Key) — PNG (SHA-256: b223c52138...)
 https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 https://turbo-gateway.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
-https://vilenarios.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 
-### 5. Full Map (full_map.png)
+### 5. Full Leonida Map (full_map.png) — 2590x3240 PNG (SHA-256: c5a07256f6...)
 https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
 https://turbo-gateway.com/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
-https://vilenarios.com/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
 https://www.upload.ee/files/19662855/full_map.png.html
-https://www.upload.ee/download/19662855/bf9597c60d99230b5ecd/full_map.png
+
+## Verified Blockchain Ledger Proof Links
+Basketball Video (Block #1982091): https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
+Driving Video (Block #1982709): https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
+Full Map (Block #1982664): https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
+Map Sneak Peek 2 (Block #1981170): https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
+
+## Verified Community Mapping Project Sources
+Reddit Community: https://www.reddit.com/r/GTA6/
+Reddit Mapping Thread: https://www.reddit.com/r/GTA6/comments/18akp16/gta_vi_mapping_project/
+GTAForums Mapping Thread: https://gtaforums.com/topic/985269-gta-vi-mapping-project/

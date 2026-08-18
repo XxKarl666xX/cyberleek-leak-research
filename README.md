@@ -13,11 +13,9 @@ This inventory covers every media file extracted from the website smart contract
 * **Media ID**: `MEDIA-01-BBALL`
 * **Content Description**: Jason shooting basketball hoops on the deck of a waterfront stilt house in Leonida.
 * **Exact Source Page**: `https://leek.vilenarios.com/` (fetched dynamically from Solana Account `FSKYZHqqzwKMYevwdZuAM4KRkcNQZqto9RLM27nKeEas`)
-* **Direct Media URL**: `https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`
+* **Direct Media URL**: [`https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
 * **Alternate Mirror URLs**:
-  * `https://turbo-gateway.com/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`
-  * `https://vilenarios.com/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`
-  * `https://www.upload.ee/download/19658673/ca588c03820c230b5ec7/output.mp4`
+  * [`https://www.upload.ee/files/19658673/output.mp4.html`](https://www.upload.ee/files/19658673/output.mp4.html)
 * **Filename**: `output.mp4` (also distributed as `basketball_output.mp4`)
 * **File Extension**: `.mp4`
 * **MIME Type**: `video/mp4`
@@ -56,12 +54,10 @@ This inventory covers every media file extracted from the website smart contract
 * **Media ID**: `MEDIA-02-DRIVE`
 * **Content Description**: Jason driving a Declasse Picador pickup past an overhead road sign pointing to Goose Key, Hamlet, and Vice City.
 * **Exact Source Page**: `https://leek.vilenarios.com/` (fetched from Solana Account `9pUqCNKgRctNcm8F6gr6kYZkP5stzGzVRCAX1qcpVXoE`)
-* **Direct Media URL**: `https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`
+* **Direct Media URL**: [`https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
 * **Alternate Mirror URLs**:
-  * `https://turbo-gateway.com/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`
-  * `https://vilenarios.com/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`
-  * `https://www.upload.ee/download/19662951/7f826eda5700230b5ec9/video2.mp4`
-  * `https://transfiles.ru/ybyf9`
+  * [`https://transfiles.ru/ybyf9`](https://transfiles.ru/ybyf9)
+  * [`https://www.upload.ee/files/19662951/video2.mp4.html`](https://www.upload.ee/files/19662951/video2.mp4.html)
 * **Filename**: `video2.mp4` (also distributed as `random_video_1_video2.mp4`)
 * **File Extension**: `.mp4`
 * **MIME Type**: `video/mp4`
@@ -98,11 +94,10 @@ This inventory covers every media file extracted from the website smart contract
 * **Media ID**: `MEDIA-03-FULLMAP`
 * **Content Description**: Full cartography map of Leonida displaying county boundaries (Lummox, Kelly, Leonard, Vice-Dale, Mariana).
 * **Exact Source Page**: `https://leek.vilenarios.com/` (fetched from Solana Account `GwrASq3dqB5e1M2pti8bWiLNJZZhnsxHtsYpu7Y1bWcU`)
-* **Direct Media URL**: `https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`
+* **Direct Media URL**: [`https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
 * **Alternate Mirror URLs**:
-  * `https://turbo-gateway.com/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`
-  * `https://vilenarios.com/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`
-  * `https://www.upload.ee/download/19662855/bf9597c60d99230b5ecd/full_map.png`
+  * [`https://turbo-gateway.com/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://turbo-gateway.com/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
+  * [`https://www.upload.ee/files/19662855/full_map.png.html`](https://www.upload.ee/files/19662855/full_map.png.html)
 * **Filename**: `full_map.png`
 * **File Extension**: `.png`
 * **MIME Type**: `image/png`
@@ -125,11 +120,9 @@ This inventory covers every media file extracted from the website smart contract
 * **Media ID**: `MEDIA-04-MAPPEEK1`
 * **Content Description**: High resolution crop of Dalton Island (Fisher Island recreation).
 * **Exact Source Page**: `https://leek.vilenarios.com/` (fetched from Solana Account `9qjyztEygKNRf5CG6MHSTNbJqAcVjJD4n7JazrhoTuiG`)
-* **Direct Media URL**: `https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`
+* **Direct Media URL**: [`https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg)
 * **Alternate Mirror URLs**:
-  * `https://turbo-gateway.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`
-  * `https://vilenarios.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`
-  * `https://ar.io/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`
+  * [`https://turbo-gateway.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`](https://turbo-gateway.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg)
 * **Filename**: `map_sneak_peek_1.png`
 * **File Extension**: `.png`
 * **MIME Type**: `image/png`
@@ -152,10 +145,9 @@ This inventory covers every media file extracted from the website smart contract
 * **Media ID**: `MEDIA-05-MAPPEEK2`
 * **Content Description**: High resolution crop of Catalan Key, Gloriana Key, Tequesta Retreat, and Catalan Bay.
 * **Exact Source Page**: `https://leek.vilenarios.com/` (fetched from Solana Account `3k3DqRCTKznq9bmSAa9bxBDC6poRL97johxYNNVXiZNv`)
-* **Direct Media URL**: `https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`
+* **Direct Media URL**: [`https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
 * **Alternate Mirror URLs**:
-  * `https://turbo-gateway.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`
-  * `https://vilenarios.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`
+  * [`https://turbo-gateway.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://turbo-gateway.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
 * **Filename**: `map_sneak_peek_2.png`
 * **File Extension**: `.png`
 * **MIME Type**: `image/png`
@@ -175,13 +167,13 @@ This inventory covers every media file extracted from the website smart contract
 
 ## 2. Direct Working Download Links
 
-Every direct file link below connects straight to the raw binary file:
+Every direct file link below connects straight to the raw binary file or verified active file mirror:
 
 | Content Title | Direct Raw File Download Link | Alternative Mirror Link | File Format |
 | :--- | :--- | :--- | :--- |
-| **Basketball Video** | [`https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [`https://www.upload.ee/download/19658673/ca588c03820c230b5ec7/output.mp4`](https://www.upload.ee/download/19658673/ca588c03820c230b5ec7/output.mp4) | MP4 Video (1440p) |
-| **Driving Video** | [`https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [`https://www.upload.ee/download/19662951/7f826eda5700230b5ec9/video2.mp4`](https://www.upload.ee/download/19662951/7f826eda5700230b5ec9/video2.mp4) | MP4 Video (1080p) |
-| **Full Leonida Map** | [`https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [`https://www.upload.ee/download/19662855/bf9597c60d99230b5ecd/full_map.png`](https://www.upload.ee/download/19662855/bf9597c60d99230b5ecd/full_map.png) | PNG Image (2590x3240) |
+| **Basketball Video** | [`https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [`https://www.upload.ee/files/19658673/output.mp4.html`](https://www.upload.ee/files/19658673/output.mp4.html) | MP4 Video (1440p) |
+| **Driving Video** | [`https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [`https://transfiles.ru/ybyf9`](https://transfiles.ru/ybyf9)<br>[`https://www.upload.ee/files/19662951/video2.mp4.html`](https://www.upload.ee/files/19662951/video2.mp4.html) | MP4 Video (1080p) |
+| **Full Leonida Map** | [`https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [`https://www.upload.ee/files/19662855/full_map.png.html`](https://www.upload.ee/files/19662855/full_map.png.html) | PNG Image (2590x3240) |
 | **Map Peek 1** | [`https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | [`https://turbo-gateway.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`](https://turbo-gateway.com/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | PNG Image (1110x880) |
 | **Map Peek 2** | [`https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | [`https://turbo-gateway.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://turbo-gateway.com/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | PNG Image (1140x907) |
 
@@ -197,7 +189,7 @@ A key finding of this investigation is that the three map files (`full_map.png`,
 * **Primary Community Hubs**:
   * Reddit Community: [r/GTA6 on Reddit](https://www.reddit.com/r/GTA6/)
   * Forum Thread: [GTAForums GTA VI Mapping Thread](https://gtaforums.com/topic/985269-gta-vi-mapping-project/)
-  * Interactive Vector Viewer: [GTA VI Community Map Hub](https://vimapping.win/)
+  * Community Mapping Thread: [r/GTA6 Mapping Project Thread](https://www.reddit.com/r/GTA6/comments/18akp16/gta_vi_mapping_project/)
 * **Original Publication Timeline**:
   * Started immediately following the September 18, 2022 leaks.
   * Continuously updated in major vector revisions (e.g. v0.029, v0.049, v0.051) through 2023, 2024, and 2025 following the release of official Trailer 1 on December 4, 2023.
@@ -403,8 +395,8 @@ This numbered index provides the exact direct URL for every piece of evidence re
 10. **GTA VI Community Mapping Project Discussion (GTAForums)**:
     [`https://gtaforums.com/topic/985269-gta-vi-mapping-project/`](https://gtaforums.com/topic/985269-gta-vi-mapping-project/)
     *Proves the community cartography origin of the Leonida county map assets.*
-11. **GTA VI Community Mapping Project Interactive Hub**:
-    [`https://vimapping.win/`](https://vimapping.win/)
+11. **GTA VI Community Mapping Project Discussion (Reddit)**:
+    [`https://www.reddit.com/r/GTA6/comments/18akp16/gta_vi_mapping_project/`](https://www.reddit.com/r/GTA6/comments/18akp16/gta_vi_mapping_project/)
     *Proves continuous community coordinate mapping and vector rendering from 2022 to 2025.*
 
 ---
