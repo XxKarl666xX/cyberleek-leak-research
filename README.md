@@ -1,6 +1,6 @@
-# GTA 6 Leaks & Cyberleek Forensic Investigation Report
+# GTA 6 Leaks & Cyberleek Investigation Report
 
-A deep, evidence-first forensic investigation into the August 2026 *Grand Theft Auto VI* leaked videos and map images distributed through the Cyberleek project, the Solana blockchain, and the Arweave decentralized permaweb.
+A deep, evidence first investigation into the August 2026 *Grand Theft Auto VI* leaked videos and map images distributed through the Cyberleek project, the Solana blockchain, and the Arweave decentralized permaweb.
 
 > **WARNING**: The Reddit community (r/GTA6), gaming news outlets, and security researchers have identified Cyberleek as a **cryptocurrency pump-and-dump scam**. While the gameplay footage itself appears to be **authentic Rockstar Games internal footage** (confirmed by active DMCA takedowns from Take-Two Interactive), the Cyberleek group is using the real leaked footage as bait to promote their `$CYBERLEEK` memecoin on Solana. **Do NOT visit their website or interact with any crypto links.** This report documents the technical forensics only.
 
