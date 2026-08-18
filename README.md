@@ -2,6 +2,10 @@
 
 A deep, evidence first forensic investigation into the August 2026 *Grand Theft Auto VI* leaked videos and map images distributed through the Cyberleek project (`leek.vilenarios.com`), the Solana blockchain, and the Arweave decentralized permaweb.
 
+> **WARNING**: The Reddit community (r/GTA6), gaming news outlets, and security researchers have identified Cyberleek as a **cryptocurrency pump-and-dump scam**. While the gameplay footage itself appears to be **authentic Rockstar Games internal footage** (confirmed by active DMCA takedowns from Take-Two Interactive), the Cyberleek group is using the real leaked footage as bait to promote their `$CYBERLEEK` memecoin on Solana. **Do NOT visit their website or interact with any crypto links.** This report documents the technical forensics only.
+
+> **CONTEXT**: This leak surfaced on August 17-18, 2026, exactly **9 days before** the official "GTA VI: An Extended Look" Netflix premiere scheduled for **August 27, 2026 at 3:00 PM ET**. GTA VI is scheduled for release on **November 19, 2026** for PS5 and Xbox Series X|S.
+
 ---
 
 ## 1. Complete Media Inventory
@@ -187,12 +191,12 @@ A key finding of this investigation is that the three map files (`full_map.png`,
 * **Project Name**: **GTA VI Community Mapping Project** (Leonida Mapping Project)
 * **Lead Cartographer**: **DuPz0r** and contributing community cartographers (rollos, Rickyc123, and volunteer community mappers)
 * **Primary Community Hubs**:
-  * Reddit Community: [r/GTA6 on Reddit](https://www.reddit.com/r/GTA6/)
+  * Reddit Community: [r/GTA6 on Reddit](https://www.reddit.com/r/GTA6/) (search "DuPz0r mapping project" for specific threads)
   * Forum Thread: [GTAForums GTA VI Mapping Thread](https://gtaforums.com/topic/985269-gta-vi-mapping-project/)
-  * Community Mapping Thread: [r/GTA6 Mapping Project Thread](https://www.reddit.com/r/GTA6/comments/18akp16/gta_vi_mapping_project/)
 * **Original Publication Timeline**:
   * Started immediately following the September 18, 2022 leaks.
   * Continuously updated in major vector revisions (e.g. v0.029, v0.049, v0.051) through 2023, 2024, and 2025 following the release of official Trailer 1 on December 4, 2023.
+  * Nearly 400 community contributors at peak activity.
 
 ### Evidence Proving the Files are Community Art:
 1. **Identical Road & Vector Geography**: The coastline coordinates, highway junction angles, and vector line weights in `full_map.png` match the exact SVG vector exports published by DuPz0r on the GTA VI Mapping Discord.
@@ -216,84 +220,150 @@ To ensure 100% scientific accuracy, every date claim is categorized into an evid
 
 #### Evidence Record 1: Basketball Video Upload
 * **Claimed Date**: August 17, 2026
-* **Exact Timestamp**: `2026-08-17 18:27:16 UTC` (Unix timestamp: `1787000836`)
+* **Exact Timestamp**: `2026-08-17 21:07:16 UTC` (Unix timestamp: `1787000836`)
 * **Evidence Tier**: **Tier 1 (Immutable Blockchain Record)**
 * **Evidence Type**: Arweave Mainnet Block Header
 * **Evidence URL**: [`https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
-* **Direct Ledger Data**:
+* **Arweave Upload Tag**: `App-Name: sol-arweave-ipfs-uploader`
+* **Direct Ledger Data** (verified via Arweave GraphQL on Aug 19, 2026):
   ```json
   {
     "id": "3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs",
     "block": {
-      "id": "1982091",
-      "timestamp": 1787000836,
-      "height": 1982091
+      "height": 1982091,
+      "timestamp": 1787000836
     },
     "owner": {
       "address": "7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE"
-    }
+    },
+    "data": { "size": "35748783", "type": "video/mp4" },
+    "tags": { "Content-Type": "video/mp4", "App-Name": "sol-arweave-ipfs-uploader" }
   }
   ```
-* **What it proves**: Proves that the exact file with SHA-256 `bbcb8f...` existed and was permanently committed to the Arweave blockchain at 18:27:16 UTC on August 17, 2026.
-* **Confidence**: **100% Confirmed**
+* **What it proves**: Proves that the exact file (35,748,783 bytes, video/mp4) was permanently committed to the Arweave blockchain at 21:07:16 UTC on August 17, 2026.
+* **Confidence**: **100% Confirmed** (block height, timestamp, owner, and data size all independently verified via GraphQL)
 
 ---
 
 #### Evidence Record 2: Driving Video Upload
 * **Claimed Date**: August 18, 2026
-* **Exact Timestamp**: `2026-08-18 16:25:56 UTC` (Unix timestamp: `1787079956`)
+* **Exact Timestamp**: `2026-08-18 19:05:56 UTC` (Unix timestamp: `1787079956`)
 * **Evidence Tier**: **Tier 1 (Immutable Blockchain Record)**
 * **Evidence Type**: Arweave Mainnet Block Header
 * **Evidence URL**: [`https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
-* **Direct Ledger Data**:
+* **Arweave Upload Tag**: `App-Name: sol-arweave-ipfs-uploader`
+* **Direct Ledger Data** (verified via Arweave GraphQL on Aug 19, 2026):
   ```json
   {
     "id": "hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg",
     "block": {
-      "id": "1982709",
-      "timestamp": 1787079956,
-      "height": 1982709
+      "height": 1982709,
+      "timestamp": 1787079956
     },
     "owner": {
       "address": "7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE"
-    }
+    },
+    "data": { "size": "36399611", "type": "video/mp4" },
+    "tags": { "Content-Type": "video/mp4", "App-Name": "sol-arweave-ipfs-uploader" }
   }
   ```
-* **What it proves**: Proves that the exact video file with SHA-256 `c2a228...` existed and was committed to the blockchain at 16:25:56 UTC on August 18, 2026.
-* **Confidence**: **100% Confirmed**
+* **What it proves**: Proves that the exact video file (36,399,611 bytes, video/mp4) was committed to the blockchain at 19:05:56 UTC on August 18, 2026.
+* **Confidence**: **100% Confirmed** (block height, timestamp, owner, and data size all independently verified via GraphQL)
 
 ---
 
 #### Evidence Record 3: Full Map Upload
 * **Claimed Date**: August 18, 2026
-* **Exact Timestamp**: `2026-08-18 14:48:34 UTC` (Unix timestamp: `1787074114`)
+* **Exact Timestamp**: `2026-08-18 17:28:34 UTC` (Unix timestamp: `1787074114`)
 * **Evidence Tier**: **Tier 1 (Immutable Blockchain Record)**
 * **Evidence Type**: Arweave Mainnet Block Header
 * **Evidence URL**: [`https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
-* **Direct Ledger Data**:
+* **Arweave Upload Tag**: `App-Name: sol-arweave-ipfs-uploader`
+* **Direct Ledger Data** (verified via Arweave GraphQL on Aug 19, 2026):
   ```json
   {
     "id": "GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0",
     "block": {
-      "id": "1982664",
-      "timestamp": 1787074114,
-      "height": 1982664
-    }
+      "height": 1982664,
+      "timestamp": 1787074114
+    },
+    "owner": {
+      "address": "7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE"
+    },
+    "data": { "size": "3712210", "type": "image/png" },
+    "tags": { "Content-Type": "image/png", "App-Name": "sol-arweave-ipfs-uploader" }
   }
   ```
-* **What it proves**: Proves that `full_map.png` with SHA-256 `c5a072...` was committed to the ledger on August 18, 2026.
-* **Confidence**: **100% Confirmed**
+* **What it proves**: Proves that `full_map.png` (3,712,210 bytes, image/png) was committed to the ledger at 17:28:34 UTC on August 18, 2026.
+* **Confidence**: **100% Confirmed** (block height, timestamp, owner, and data size all independently verified via GraphQL)
 
 ---
 
 #### Evidence Record 4: Map Sneak Peek 2 Upload
 * **Claimed Date**: August 16, 2026
-* **Exact Timestamp**: `2026-08-16 10:24:11 UTC` (Unix timestamp: `1786885451`)
+* **Exact Timestamp**: `2026-08-16 13:04:11 UTC` (Unix timestamp: `1786885451`)
 * **Evidence Tier**: **Tier 1 (Immutable Blockchain Record)**
 * **Evidence Type**: Arweave Mainnet Block Header
 * **Evidence URL**: [`https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
-* **What it proves**: Proves that `map_sneak_peek_2.png` was the earliest file uploaded by the wallet, timestamped at August 16, 2026 at 10:24 UTC.
+* **Arweave Upload Tag**: `App-Name: sol-arweave-ipfs-uploader`
+* **Direct Ledger Data** (verified via Arweave GraphQL on Aug 19, 2026):
+  ```json
+  {
+    "id": "zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0",
+    "block": {
+      "height": 1981170,
+      "timestamp": 1786885451
+    },
+    "owner": {
+      "address": "7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE"
+    },
+    "data": { "size": "922561", "type": "image/png" },
+    "tags": { "Content-Type": "image/png", "App-Name": "sol-arweave-ipfs-uploader" }
+  }
+  ```
+* **What it proves**: Proves that `map_sneak_peek_2.png` (922,561 bytes) was the earliest media file uploaded by this wallet, timestamped at 13:04:11 UTC on August 16, 2026.
+* **Confidence**: **100% Confirmed** (block height, timestamp, owner, and data size all independently verified via GraphQL)
+
+---
+
+#### Evidence Record 4b: Map Sneak Peek 1 Upload
+* **Note**: This transaction (`MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`) did NOT appear in Arweave GraphQL results when queried by ID or by the same owner wallet. The file IS accessible via `arweave.net` gateway (HTTP 200), but its block metadata could not be independently confirmed through GraphQL as of Aug 19, 2026. This may indicate it was uploaded by a different wallet or is still pending full indexing.
+* **Confidence**: **Partially Confirmed** (file exists and is downloadable, but block timestamp unverified)
+
+---
+
+#### Evidence Record 6: Full Wallet Activity History
+* **Evidence Tier**: **Tier 1 (Immutable Blockchain Record)**
+* **Evidence Type**: Arweave GraphQL owner query
+* **Wallet Address**: `7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE`
+* **Total Transactions Found**: **33 transactions**
+* **Earliest Wallet Activity**: `2026-08-15 12:51:12 UTC` (Block #1980496)
+* **What it proves**: The Cyberleek wallet started deploying website assets (HTML, JS, favicons, manifests) on **August 15, 2026** and progressively uploaded media files over the next 3 days.
+* **Full Wallet Activity Timeline**:
+  ```
+  Aug 15, 12:51 UTC - First ever transaction (image/png, 107,868 bytes - likely site logo)
+  Aug 15, 13:51 UTC - Second image upload (image/png, 107,868 bytes)
+  Aug 15, 15:11 UTC - JSON metadata (application/json, 213 bytes)
+  Aug 15, 16:30 UTC - JSON metadata (application/json, 232 bytes)
+  Aug 15, 20:02-20:44 UTC - Multiple website deployments (HTML, JS, manifests, favicon)
+  Aug 16, 10:11 UTC - Website v2 deployment (HTML, JS, manifest)
+  Aug 16, 12:22 UTC - JSON metadata (application/json, 342 bytes)
+  Aug 16, 13:04 UTC - map_sneak_peek_2.png uploaded (922,561 bytes)
+  Aug 17, 09:11 UTC - Website v3 deployment (HTML, JS, manifest, site image)
+  Aug 17, 11:32 UTC - Website v4 deployment (HTML, manifest)
+  Aug 17, 21:07 UTC - basketball_output.mp4 uploaded (35,748,783 bytes)
+  Aug 18, 17:28 UTC - full_map.png uploaded (3,712,210 bytes)
+  Aug 18, 19:05 UTC - random_video_1_video2.mp4 uploaded (36,399,611 bytes)
+  ```
 * **Confidence**: **100% Confirmed**
+
+---
+
+#### Evidence Record 7: Rockstar DMCA Takedowns
+* **Evidence Tier**: **Tier 2 (Strong Corroborating Proof)**
+* **Evidence Type**: Multiple independent news reports and community observations
+* **What it proves**: Rockstar Games and Take-Two Interactive have been actively issuing DMCA copyright takedown notices to remove the leaked footage from X (Twitter) and other platforms. Industry experts widely interpret active DMCA enforcement as strong confirmation that the footage is authentic Rockstar intellectual property.
+* **Confidence**: **Strong** (independently reported by multiple gaming outlets)
 
 ---
 
@@ -315,27 +385,34 @@ To ensure 100% scientific accuracy, every date claim is categorized into an evid
 
 | Media Item | Claimed Original Date | Earliest Proven Date | Evidence URL | Evidence Type | Exact File Proof? | Evidence Tier | Confidence |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`output.mp4`** (Basketball) | Mid 2025 – Mid 2026 *(Gameplay)* | **2026-08-17 18:27:16 UTC** | [Viewblock Arweave Block 1982091](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | On-Chain Block Header | Yes (SHA-256 match) | **Tier 1** | **100% Confirmed** for upload; **Strong Estimate** for PS5 capture |
-| **`video2.mp4`** (Driving) | Mid 2025 – Mid 2026 *(Gameplay)* | **2026-08-18 16:25:56 UTC** | [Viewblock Arweave Block 1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | On-Chain Block Header | Yes (SHA-256 match) | **Tier 1** | **100% Confirmed** for upload; **Strong Estimate** for PS5 capture |
-| **`full_map.png`** (Leonida Map) | 2024 – 2025 *(Community Art)* | **2026-08-18 14:48:34 UTC** *(Watermarked)* | [Viewblock Arweave Block 1982664](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | On-Chain Block Header | Yes (SHA-256 match) | **Tier 1** | **100% Confirmed** (Community origin proven via vector match) |
-| **`map_sneak_peek_1.png`** | 2024 – 2025 *(Community Art)* | **2026-08-17 18:27 UTC** | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | On-Chain Block Header | Yes (SHA-256 match) | **Tier 1** | **100% Confirmed** |
-| **`map_sneak_peek_2.png`** | 2024 – 2025 *(Community Art)* | **2026-08-16 10:24:11 UTC** | [Viewblock Arweave Block 1981170](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | On-Chain Block Header | Yes (SHA-256 match) | **Tier 1** | **100% Confirmed** |
+| **`output.mp4`** (Basketball) | Mid 2025 – Mid 2026 *(Gameplay)* | **2026-08-17 21:07:16 UTC** | [Viewblock Arweave Block 1982091](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | On-Chain Block Header | Yes (SHA-256 + size match) | **Tier 1** | **100% Confirmed** for upload; **Strong Estimate** for PS5 capture |
+| **`video2.mp4`** (Driving) | Mid 2025 – Mid 2026 *(Gameplay)* | **2026-08-18 19:05:56 UTC** | [Viewblock Arweave Block 1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | On-Chain Block Header | Yes (SHA-256 + size match) | **Tier 1** | **100% Confirmed** for upload; **Strong Estimate** for PS5 capture |
+| **`full_map.png`** (Leonida Map) | 2024 – 2025 *(Community Art)* | **2026-08-18 17:28:34 UTC** *(Watermarked)* | [Viewblock Arweave Block 1982664](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | On-Chain Block Header | Yes (SHA-256 + size match) | **Tier 1** | **100% Confirmed** (Community origin proven via vector match) |
+| **`map_sneak_peek_1.png`** | 2024 – 2025 *(Community Art)* | Unknown (not in GraphQL) | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | Gateway file exists | Yes (SHA-256 match) | **Tier 2** | **Partially Confirmed** (file exists, block unverified) |
+| **`map_sneak_peek_2.png`** | 2024 – 2025 *(Community Art)* | **2026-08-16 13:04:11 UTC** | [Viewblock Arweave Block 1981170](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | On-Chain Block Header | Yes (SHA-256 + size match) | **Tier 1** | **100% Confirmed** |
 
 ---
 
 ## 6. Chronological Master Timeline
 
 ```
-[2022-09-18] ── The 90-clip pre-alpha developer leak occurs on GTAForums (rough debug build).
-[2022-09-20] ── DuPz0r and GTA community cartographers start the GTA VI Mapping Project.
-[2023-12-04] ── Rockstar Games officially publishes GTA VI Trailer 1.
-[2024-2025]  ── Community mappers update the Leonida map vector layers (adding county boundaries).
-[2025-2026]  ── Internal Rockstar Games milestone builds capture PlayStation 5 gameplay.
-[2026-08-16 10:24 UTC] ── Cyberleek wallet uploads map_sneak_peek_2.png to Arweave Block #1981170.
-[2026-08-17 18:27 UTC] ── Cyberleek wallet uploads basketball_output.mp4 and peek_1 to Arweave Block #1982091.
-[2026-08-18 14:48 UTC] ── Cyberleek wallet uploads full_map.png to Arweave Block #1982664.
-[2026-08-18 16:25 UTC] ── Cyberleek wallet uploads random_video_1_video2.mp4 to Arweave Block #1982709.
-[2026-08-18 18:00+ UTC] ── Viral distribution across Reddit, X (Twitter), YouTube, and news portals.
+[2022-09-18]           ── The 90-clip pre-alpha developer leak occurs on GTAForums (rough debug build).
+[2022-09-20]           ── DuPz0r and GTA community cartographers start the GTA VI Mapping Project.
+[2023-12-04]           ── Rockstar Games officially publishes GTA VI Trailer 1.
+[2024-2025]            ── Community mappers update the Leonida map vector layers (adding county boundaries).
+[2025-2026]            ── Internal Rockstar Games milestone builds capture PlayStation 5 gameplay.
+[2026-08-15 12:51 UTC] ── Cyberleek wallet first appears on Arweave (site logo upload, Block #1980496).
+[2026-08-15 20:02 UTC] ── Cyberleek website v1 deployed to Arweave (HTML + JS + favicon).
+[2026-08-16 10:11 UTC] ── Cyberleek website v2 deployed to Arweave.
+[2026-08-16 13:04 UTC] ── map_sneak_peek_2.png uploaded to Arweave Block #1981170.
+[2026-08-17 09:11 UTC] ── Cyberleek website v3 deployed to Arweave.
+[2026-08-17 21:07 UTC] ── basketball_output.mp4 uploaded to Arweave Block #1982091.
+[2026-08-18 17:28 UTC] ── full_map.png uploaded to Arweave Block #1982664.
+[2026-08-18 19:05 UTC] ── random_video_1_video2.mp4 uploaded to Arweave Block #1982709.
+[2026-08-18 20:00+ UTC] ── Viral distribution across Reddit, X (Twitter), YouTube, and news portals.
+[2026-08-18 20:00+ UTC] ── Rockstar/Take-Two begin issuing DMCA takedowns on X (Twitter).
+[2026-08-27 15:00 ET]  ── (UPCOMING) Official "GTA VI: An Extended Look" premieres on Netflix.
+[2026-11-19]           ── (UPCOMING) GTA VI scheduled release date (PS5 / Xbox Series X|S).
 ```
 
 ---
@@ -373,16 +450,16 @@ This numbered index provides the exact direct URL for every piece of evidence re
    *Proves the cryptocurrency token associated with the website distribution.*
 3. **Basketball Video Arweave Block Record (Viewblock)**:
    [`https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
-   *Proves immutable upload timestamp of August 17, 2026 at 18:27:16 UTC.*
+   *Proves immutable upload timestamp of August 17, 2026 at 21:07:16 UTC.*
 4. **Driving Video Arweave Block Record (Viewblock)**:
    [`https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
-   *Proves immutable upload timestamp of August 18, 2026 at 16:25:56 UTC.*
+   *Proves immutable upload timestamp of August 18, 2026 at 19:05:56 UTC.*
 5. **Full Map Arweave Block Record (Viewblock)**:
    [`https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
-   *Proves immutable upload timestamp of August 18, 2026 at 14:48:34 UTC.*
+   *Proves immutable upload timestamp of August 18, 2026 at 17:28:34 UTC.*
 6. **Map Sneak Peek 2 Arweave Block Record (Viewblock)**:
    [`https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
-   *Proves immutable upload timestamp of August 16, 2026 at 10:24:11 UTC.*
+   *Proves immutable upload timestamp of August 16, 2026 at 13:04:11 UTC.*
 7. **Direct Raw Basketball Video (Arweave Permaweb)**:
    [`https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
    *Direct playable binary for Media Item 1 (SHA-256: `bbcb8f...`).*
@@ -395,9 +472,9 @@ This numbered index provides the exact direct URL for every piece of evidence re
 10. **GTA VI Community Mapping Project Discussion (GTAForums)**:
     [`https://gtaforums.com/topic/985269-gta-vi-mapping-project/`](https://gtaforums.com/topic/985269-gta-vi-mapping-project/)
     *Proves the community cartography origin of the Leonida county map assets.*
-11. **GTA VI Community Mapping Project Discussion (Reddit)**:
-    [`https://www.reddit.com/r/GTA6/comments/18akp16/gta_vi_mapping_project/`](https://www.reddit.com/r/GTA6/comments/18akp16/gta_vi_mapping_project/)
-    *Proves continuous community coordinate mapping and vector rendering from 2022 to 2025.*
+11. **GTA VI Community (Reddit r/GTA6)**:
+    [`https://www.reddit.com/r/GTA6/`](https://www.reddit.com/r/GTA6/)
+    *Community hub where mapping project updates and Cyberleek scam warnings are posted. Search "DuPz0r mapping" for specific threads.*
 
 ---
 
@@ -405,6 +482,30 @@ This numbered index provides the exact direct URL for every piece of evidence re
 
 * **Raw Master Footage**: The untouched, non-watermarked source MP4 files from before the FFmpeg `Lavf60.16.100` re-encode have not been publicly discovered on open storage gateways.
 * **Exact Internal Recording Timestamp**: While the gameplay HUD, lighting, and audio confirm it is a post-2024 PlayStation 5 development capture, the exact day and second it was recorded inside Rockstar Games cannot be confirmed without unedited camera/capture card EXIF.
+* **Map Sneak Peek 1 Block Data**: The Arweave transaction for `map_sneak_peek_1.png` (`MyMFWWJ...`) could not be found via GraphQL owner query. The file is accessible via gateway but its exact block timestamp remains unconfirmed.
+* **Cyberleek Manifesto**: The group published 3 "commandments" (no digital pre-orders, no fake DLC, mandatory offline mode). While presented as activism, the community widely views this as cover for the crypto scam.
+
+---
+
+## 10. Verification Methodology
+
+This report was verified on August 19, 2026 using the following independent methods:
+
+| Verification Step | Tool / Method | Result |
+| :--- | :--- | :--- |
+| All 5 file SHA-256 hashes | Python `hashlib` on downloaded files | All 5 MATCH |
+| All 5 file MD5 hashes | Python `hashlib` on downloaded files | All 5 MATCH |
+| All 5 file sizes | Python `os.path.getsize()` | All 5 MATCH |
+| Arweave block heights & timestamps | Arweave GraphQL API (`arweave.net/graphql`) | 4 of 5 MATCH (peek_1 not found) |
+| Arweave owner wallet address | Arweave GraphQL API | MATCH for all 4 found txs |
+| Arweave data sizes from blockchain | Arweave GraphQL API `data.size` field | MATCH for all 4 found txs |
+| Unix timestamp to UTC conversion | Python `datetime.fromtimestamp(ts, tz=timezone.utc)` | All 4 corrected |
+| FFmpeg encoder version | `ffprobe` on downloaded MP4 files | `Lavf60.16.100` / `Lavc60.31.102` confirmed = FFmpeg 6.1 |
+| All README URLs (33 total) | Python `urllib` HTTP HEAD/GET requests | 14 OK, 8 Cloudflare-protected (403), 5 timeout (vilenarios.com), rest mirrors |
+| GTAForums mapping project | Web search cross-reference | Confirmed: DuPz0r, ~400 contributors |
+| Reddit community consensus | Web search on r/GTA6 | Confirmed: widely labeled crypto scam |
+| DMCA takedowns | Multiple news sources | Confirmed: active Take-Two DMCA enforcement |
+| GTA VI release date | Multiple news sources | Confirmed: Nov 19, 2026 |
 
 ---
 
