@@ -600,9 +600,9 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 |:---|:---|:---:|:---|
 | [`https://cyberleek.ario.koltigin.xyz`](https://cyberleek.ario.koltigin.xyz) | ArNS Community Gateway (Koltigin) | 🟢 **WORKS (UP)** | Fully working Web3 gateway mirror |
 | [`https://leek.vilenarios.com`](https://leek.vilenarios.com) | Main Web Application Portal | 🟢 **WORKS (UP)** | Main direct web portal with all leaked clips |
-| `cyberleek.turbo-gateway.com` | Turbo Gateway Web3 Mirror | 🔴 **DOES NOT WORK (DOWN)** | Gateway DNS / server unreachable |
-| `cyberleek.ar.io` | Default AR.IO Gateway | 🔴 **DOES NOT WORK (DOWN)** | Main ArNS node offline / unresponsive |
-| `https://leek.turbo-gateway.com` | Turbo Gateway Secondary Node | 🔴 **DOES NOT WORK (DOWN)** | Connection refused / DNS error |
+| [`https://cyberleek.turbo-gateway.com`](https://cyberleek.turbo-gateway.com) | Turbo Gateway Web3 Mirror | 🔴 **DOES NOT WORK (DOWN)** | Gateway DNS / server unreachable |
+| [`https://cyberleek.ar.io`](https://cyberleek.ar.io) | Default AR.IO Gateway | 🔴 **DOES NOT WORK (DOWN)** | Main ArNS node offline / unresponsive |
+| [`https://leek.turbo-gateway.com`](https://leek.turbo-gateway.com) | Turbo Gateway Secondary Node | 🔴 **DOES NOT WORK (DOWN)** | Connection refused / DNS error |
 
 #### 🖥️ Server Infrastructure & Hosting Providers:
 
