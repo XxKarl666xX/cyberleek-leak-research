@@ -95,17 +95,17 @@ Here's every file that came out of this. All of them were pulled from Cyberleek'
 
 ---
 
-## 2. Quick Download Table
+## 2. Forensic Sources & External Reference Table
 
-All files, straight to the source:
+All external blockchain records and mirrors documented for forensic verification:
 
-| What | Direct Link | Mirror | Format |
+| Content Item | Blockchain Source (Arweave) | External Mirror | Analyzed Format |
 | :--- | :--- | :--- | :--- |
-| **Basketball Video** | [Arweave](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [Upload.ee](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p MP4 (34 MB) |
-| **Driving Video** | [Arweave](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [Transfiles](https://transfiles.ru/ybyf9) / [Upload.ee](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p MP4 (35 MB) |
-| **Full Map** | [Arweave](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [Upload.ee](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.5 MB) |
-| **Map Peek 1** | [Arweave](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | — | 1110×880 PNG |
-| **Map Peek 2** | [Arweave](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | — | 1140×907 PNG |
+| **Basketball Video** | [Arweave Gateway](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [Upload.ee](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p MP4 (34 MB) |
+| **Driving Video** | [Arweave Gateway](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [Transfiles](https://transfiles.ru/ybyf9) / [Upload.ee](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p MP4 (35 MB) |
+| **Full Map** | [Arweave Gateway](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [Upload.ee](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.5 MB) |
+| **Map Peek 1** | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | — | 1110×880 PNG |
+| **Map Peek 2** | [Arweave Gateway](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | — | 1140×907 PNG |
 
 ---
 
@@ -418,6 +418,28 @@ Every link referenced in this report:
 
 ---
 
+---
+
+## 12. Legal Disclaimer & Fair Use Notice
+
+### Non-Affiliation & Trademark Notice
+* *Grand Theft Auto*, *GTA VI*, *Rockstar Games*, *Take-Two Interactive*, and all associated logos, character names, imagery, and trademarks are registered property of **Take-Two Interactive Software, Inc.** and **Rockstar Games**.
+* This repository is an independent, non-commercial research and documentation project. It is **not affiliated with, authorized, maintained, sponsored, or endorsed by Rockstar Games, Take-Two Interactive, or any of their subsidiaries.**
+
+### Fair Use Statement (17 U.S.C. § 107)
+* This project is created strictly for **educational analysis, forensic research, cybersecurity awareness, and news commentary** under the Fair Use provisions of Title 17, United States Code, Section 107.
+* **Public Interest & Fraud Prevention**: A primary focus of this research is exposing and analyzing the **`$CYBERLEEK` cryptocurrency pump-and-dump scheme** to warn gamers, researchers, and the public against online financial fraud that exploits upcoming video game releases.
+
+### No-Hosting & Anti-Infringement Policy
+* **Zero Copyrighted Media Hosted**: This repository **does not host, mirror, or distribute any proprietary game binaries, leaked video files (`.mp4`), or confidential company assets.**
+* All hashes (SHA-256, MD5) and blockchain block identifiers are published solely as cryptographic records for academic research, digital forensics, and integrity verification.
+* Any references to external decentralized networks (Arweave, Solana) are documented strictly for open-source intelligence (OSINT) and investigative purposes.
+
+### Copyright Inquiries & Good-Faith Notice
+If you are a copyright or trademark owner (or their authorized representative) and believe any content or reference in this repository should be modified or removed, please open an issue in this repository or contact the maintainer directly. We respect intellectual property rights and will promptly review and address all good-faith requests.
+
+---
+
 ## License
 
-MIT License. Built for open research and education. All game assets and trademarks belong to Rockstar Games and Take-Two Interactive.
+MIT License. Built for open educational research, cybersecurity awareness, and digital forensics. All game assets and trademarks belong to their respective copyright holders.
