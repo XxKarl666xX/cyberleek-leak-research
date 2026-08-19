@@ -1,58 +1,58 @@
-# CYBERLEEK & MEDIA INVESTIGATION VERIFIED FORENSIC SOURCES
+# CYBERLEEK & MEDIA LEAK CHECKED SOURCES
 
-## 1. Primary Portals & Smart Contracts
-* Portal (Historic / Taken Down): https://leek.vilenarios.com/
-* Gateway Infrastructure 1 (Hetzner, Germany): 49.13.45.141 (cyberleek.ar.io)
-* Gateway Infrastructure 2 (Cablevision, USA): 69.124.94.88
+## 1. Main Websites & Crypto Contracts
+* Main Website (Taken Down): https://leek.vilenarios.com/
+* Gateway Server 1 (Hetzner, Germany): 49.13.45.141 (cyberleek.ar.io)
+* Gateway Server 2 (Cablevision, USA): 69.124.94.88
 * Solana Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
 * Solana Token Mint ($CYBERLEEK): ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
 * Solscan Explorer: https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
 * DexScreener Tracker: https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
 
-## 2. Verified Media Files & Direct Mirror Links
+## 2. Checked Files & Direct Mirror Links
 
-### Video 1: Basketball Gameplay Clip (output.mp4) — 1440p HEVC Main 10 (69.0s)
+### Video 1: Basketball Gameplay Clip (output.mp4) — 1440p HEVC (69.0s)
 * Arweave Permanent Ledger (Block #1982091): https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
-* Secondary Mirror: https://www.upload.ee/files/19658673/output.mp4.html
+* Backup Mirror: https://www.upload.ee/files/19658673/output.mp4.html
 * SHA-256: bbcb8f662b694fc894f09d57a92c4e3cae6df5b9e078ecba6cb6002f23cf9e90
 * MD5: fae109d94943fcfcbffc58a8a4789528
 
-### Video 2: Highway Driving & Delivery Van Clip (video2.mp4) — 1080p HEVC Main 10 (68.0s)
+### Video 2: Highway Driving & Delivery Van Clip (video2.mp4) — 1080p HEVC (68.0s)
 * Arweave Permanent Ledger (Block #1982709): https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
 * Secondary Mirror: https://transfiles.ru/ybyf9
-* Tertiary Mirror: https://www.upload.ee/files/19662951/video2.mp4.html
+* Third Mirror: https://www.upload.ee/files/19662951/video2.mp4.html
 * SHA-256: c2a2284d8bb5be8d022b7d41f021703666d40026e632b7937faeb5ef4c49d6ae
 * MD5: 2e5bbfe76c5b9671d4715694a974b8fb
 
-### Video 3: Taser Weapon Test, Truck Hijack & Boat Cutscene (taser.mp4) — 1080p HEVC Main 10 (124.5s)
-* Primary Mirror: https://gofile.io/d/qW134pdk
-* Secondary Mirror: https://bedrive.ru/ead5
+### Video 3: Taser Weapon Test, Truck Steal & Boat Scene (taser.mp4) — 1080p HEVC (124.5s)
+* Main Mirror: https://gofile.io/d/qW134pdk
+* Backup Mirror: https://bedrive.ru/ead5
 * SHA-256: 785697aa8ae852aed899588ccf7d705b43addbc50e5ac690c7df9a1c60972287
 * SHA-1: 5d51153818628d52bbc86c7887fb2cf9a73f83f2
 * MD5: 92c97b54211d6d08cceda9ac62a10ef6
 
-### Asset 4: Full State of Leonida Map (full_map.png) — 2590x3240 PNG (3.54 MB)
+### File 4: Full State of Leonida Map (full_map.png) — 2590x3240 PNG (3.54 MB)
 * Arweave Permanent Ledger (Block #1982664): https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
-* Secondary Mirror: https://www.upload.ee/files/19662855/full_map.png.html
+* Backup Mirror: https://www.upload.ee/files/19662855/full_map.png.html
 * SHA-256: c5a07256f62f3ae37904540621f2b07d2f647fd10867b620622b3471910563f6
 * MD5: 23a7aee2466b437d3de34a6fc0f44657
 
-### Asset 5: Map Sneak Peek 1 (Dalton Island) — 1110x880 PNG
-* Arweave Direct Gateway: https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
+### File 5: Map Sneak Peek 1 (Dalton Island) — 1110x880 PNG
+* Arweave Link: https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
 * SHA-256: 0d1f9f522b7cd5ac4e4b9702a73e1b7aaac86b3cbd4befb725c488fa4ff9bb12
 
-### Asset 6: Map Sneak Peek 2 (Catalan Key) — 1140x907 PNG
+### File 6: Map Sneak Peek 2 (Catalan Key) — 1140x907 PNG
 * Arweave Permanent Ledger (Block #1981170): https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 * SHA-256: b223c52138bc03a6fc4f27ab0dd58f95cf7ae173efb948a452ea7bf5b552cbac
 
-## 3. Dark Web & Community OSINT Sources
-* Dread Forum (/d/leaks): Stolen GTA6 Footage post by CyberLeeker (Aug 18, 2026 – 07:36 UTC)
-* Twitter OSINT Contributor: @bnwkr (Dread discovery credit)
-* Discord Q&A Contributor: @gamingskew (Server screen captures credit)
-* Community Forensic Debunking Contributors: garza & vaaatiel (Twitter persona & blurred leak analysis credit)
-* Reddit Mapping Project: https://www.reddit.com/r/GTA6/
-* GTAForums Mapping Project: https://gtaforums.com/topic/985269-gta-vi-mapping-project/
+## 3. Dark Web & Community Helper Credits
+* Dread Dark Web Forum (/d/leaks): Stolen GTA6 Footage post by CyberLeeker (Aug 18, 2026 – 07:36 UTC)
+* Twitter Post Finder: @bnwkr (Dread discovery credit)
+* Discord Q&A Screenshots: @gamingskew (Server screenshots credit)
+* Community Twitter Checkers: garza & vaaatiel (Twitter account & blurred fake post checks credit)
+* Reddit Community Mapping Project: https://www.reddit.com/r/GTA6/
+* GTAForums Community Mapping Project: https://gtaforums.com/topic/985269-gta-vi-mapping-project/
