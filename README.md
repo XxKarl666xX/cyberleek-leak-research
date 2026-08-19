@@ -62,7 +62,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🚫 [7.5. Discord Server Bans, Imposter Servers & Disavowal](#discord-bans)
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
-  * 🖥️ [Real Server Hosting (Hetzner & Cablevision)](#server-hosting)
+  * 🌐 [Live Endpoints Tracker & Real Server Hosting](#server-hosting)
   * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
   * ✈️ [Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
