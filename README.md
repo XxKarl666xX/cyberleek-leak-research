@@ -395,14 +395,18 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 
 ---
 
-### 7.5. The Old Discord Server Got Banned
+### 7.5. Discord Server Bans & Restrictions
 
 ![Discord Ban Proof](assets/discord_old_server_banned_proof.png)
-*Cyberleek operating under the alt handle `cyberleek_west` (and `surwest`) on their new server, confirming Discord banned the old one.*
+*Cyberleek operating under the alt handle `cyberleek_west` (and `surwest`) on their replacement server, confirming Discord banned the old one.*
 
-* **Original Server**: Got banned by Discord following copyright and TOS strikes.
-* **New Server Link**: `discord.gg/ZWjnQSSJ2P`
-* **Alt Handle**: On the new server, Cyberleek operates under **`cyberleek_west`** (and `surwest`), confirming *"old discord server was banned so"* with an Account Standing limitation notice.
+![New Server Restricted Proof](assets/discord_new_server_restricted_proof.png)
+*Cyberleek (`cyberleek_west`) posting on the newest server: "the server was restricted again... rip".*
+
+* **Original Server**: Got banned by Discord following copyright and Terms of Service enforcement.
+* **New Replacement Server**: `discord.gg/ZWjnQSSJ2P`
+* **Alt Handle on New Server**: Cyberleek operates under **`cyberleek_west`** (and `surwest`), confirming *"old discord server was banned so"*.
+* **New Server Restricted Again**: On the newest server, Cyberleek confirmed: *"the server was restricted again... rip"*, demonstrating continuous Discord moderation and restriction against their leak servers.
 
 ---
 
