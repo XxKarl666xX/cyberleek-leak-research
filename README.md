@@ -633,6 +633,9 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ![GamingSkew Tweet Proof](assets/cyberleek_2018_forum_tweet_gamingskew.png)
 *Community discovery report shared by `@gamingskew` and `@nico_s29` on X documenting the 2018 forum post.*
 
+![Szenebox vBulletin System Notice](assets/cyberleek_szenebox_forum_system_notice.png)
+*Visiting the live thread URL on `szenebox.org` showing the standard vBulletin permission notice for unregistered guests.*
+
 On August 19, 2026, community researchers [@nico_s29](https://x.com/nico_s29) and [@gamingskew](https://x.com/gamingskew) uncovered archived forum records on [**szenebox.org**](https://szenebox.org) (one of Germany's longest-running underground IT security, hacking, and scene boards, operating since 2007) matching the exact handle [**`cyberleek`**](https://szenebox.org/members/cyberleek/) and his dark flaming skull avatar.
 
 Here is the complete breakdown of evidence proving why Cyberleek is almost certainly an adult German native / resident:
@@ -644,6 +647,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 * **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
   * **Direct Links**: [Szenebox Archive Link](https://szenebox.org/archive/index.php/t-18889.html) / [Live Subforum Thread](https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/) / [Author Profile](https://szenebox.org/members/cyberleek/)
   * **Exact Date & Time**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`)
+  * **Forum Notice Note**: When visiting the live link as a guest, vBulletin displays *"vBulletin System Notice: No information: topic"* because `szenebox.org` restricts User Introductions (`118-user-vorstellungen`) and member profiles (`HTTP 403 Forbidden`) strictly to logged-in registered community members.
   * **Original German**:  
     > *"💡 Vorstellung Cyberleek*  
     > *Hallo zusammen..*  
