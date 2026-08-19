@@ -592,20 +592,27 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 ---
 
 <a id="server-hosting"></a>
-### Their Website Setup & Real Server Hosting
+### Their Website Setup, Endpoints & Gateway Status Tracker
 
-Let's clear up a common misconception about the hosting:
+#### 🌐 All Cyberleek Endpoints & Live Working Status:
+
+| Endpoint URL | Type / Provider | Current Status | Notes |
+|:---|:---|:---:|:---|
+| [`https://cyberleek.ario.koltigin.xyz`](https://cyberleek.ario.koltigin.xyz) | ArNS Community Gateway (Koltigin) | 🟢 **WORKS (UP)** | Fully working Web3 gateway mirror |
+| [`https://leek.vilenarios.com`](https://leek.vilenarios.com) | Main Web Application Portal | 🟢 **WORKS (UP)** | Main direct web portal with all leaked clips |
+| `cyberleek.turbo-gateway.com` | Turbo Gateway Web3 Mirror | 🔴 **DOES NOT WORK (DOWN)** | Gateway DNS / server unreachable |
+| `cyberleek.ar.io` | Default AR.IO Gateway | 🔴 **DOES NOT WORK (DOWN)** | Main ArNS node offline / unresponsive |
+| `https://leek.turbo-gateway.com` | Turbo Gateway Secondary Node | 🔴 **DOES NOT WORK (DOWN)** | Connection refused / DNS error |
+
+#### 🖥️ Server Infrastructure & Hosting Providers:
 
 | Component | What it is | Where it's actually hosted | Current Status |
 |:---|:---|:---|:---|
-| **Raw File Storage** | Arweave blockchain | Decentralized computer network | Stored on ledger |
-| **Main Web Portal** | [`https://leek.vilenarios.com/`](https://leek.vilenarios.com/) | Web Application Portal | 🟢 **ONLINE / ACTIVE (UP)** |
-| **ArNS Mirror Gateway** | [`https://cyberleek.ario.koltigin.xyz`](https://cyberleek.ario.koltigin.xyz) | Koltigin AR.IO Community Gateway | 🟢 **ONLINE / ACTIVE (UP)** |
-| **Default ArNS Gateway** | ArNS (`cyberleek.ar.io`) | AR.IO Gateway Network | 🔴 **Offline / Unreachable** |
+| **Raw File Storage** | Arweave blockchain | Decentralized computer network | Stored permanently on ledger |
 | **Web Server 1** | IP `49.13.45.141` | **Hetzner Online GmbH** (Nuremberg, Germany — `static.141.45.13.49.clients.your-server.de`) | 🔴 **Down / Unresponsive** |
 | **Web Server 2** | IP `69.124.94.88` | **Cablevision Systems / Optimum Online** (Morristown, New Jersey — `ool-457c5e58.dyn.optonline.net`) | 🔴 **Down / Unresponsive** |
 
-> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular browsers need standard web servers (gateways) to show the site. Both the main portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) and the community ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) remain **100% UP and online**, while default ArNS endpoints (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are currently unreachable.
+> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular web browsers need HTTP web servers (gateways) to display the site. Both the main portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) and the community gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) are **100% working and online**, while default gateway endpoints (`turbo-gateway.com` and `cyberleek.ar.io`) are currently down.
 
 ---
 

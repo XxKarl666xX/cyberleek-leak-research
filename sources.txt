@@ -1,10 +1,13 @@
 # CYBERLEEK & MEDIA LEAK CHECKED SOURCES
 
-## 1. Main Websites & Crypto Contracts
-* Main Website 1 (LIVE / ONLINE / UP): https://leek.vilenarios.com/
-* Active ArNS Gateway Mirror (LIVE / ONLINE / UP): https://cyberleek.ario.koltigin.xyz
-* Gateway Server 1 (Hetzner, Germany — Currently Down): 49.13.45.141 (cyberleek.ar.io / cyberleek.turbo-gateway.com)
-* Gateway Server 2 (Cablevision, USA — Currently Down): 69.124.94.88
+## 1. Main Websites & Web3 Endpoints
+* Main Website Portal (🟢 WORKS / UP): https://leek.vilenarios.com/
+* ArNS Community Gateway (🟢 WORKS / UP): https://cyberleek.ario.koltigin.xyz
+* Turbo Gateway Mirror (🔴 DOES NOT WORK / DOWN): https://cyberleek.turbo-gateway.com
+* Default ArNS Gateway (🔴 DOES NOT WORK / DOWN): https://cyberleek.ar.io
+* Secondary Turbo Gateway (🔴 DOES NOT WORK / DOWN): https://leek.turbo-gateway.com
+* Gateway Server 1 (Hetzner, Germany — 🔴 DOWN): 49.13.45.141
+* Gateway Server 2 (Cablevision, USA — 🔴 DOWN): 69.124.94.88
 * Solana Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
 * Solana Token Mint ($CYBERLEEK): ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
 * Solscan Explorer: https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
