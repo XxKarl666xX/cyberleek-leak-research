@@ -10,7 +10,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > <a id="key-alerts"></a>
 > ### 🚨 Critical Facts & Latest Status (Must Read First)
 > 
-> * 🟢 **LIVE STATUS UPDATE (August 19, 2026)**: The main website portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (Cablevision USA) and the active ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (Contabo EU) are **ONLINE & ACTIVE (UP)**! All websites that are **DOWN** (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, `leek.turbo-gateway.com`) are hosted on **Hetzner server `49.13.45.141` in Germany**, confirming a targeted **Take-Two host-level DMCA takedown** against Hetzner.
+> * 🟢 **LIVE STATUS UPDATE (August 19, 2026)**: The main website portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (Cablevision USA) and the active ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (Contabo EU) are **ONLINE & ACTIVE (UP)**! All websites that are **DOWN** (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, `leek.turbo-gateway.com`) are hosted on **Hetzner server `49.13.45.141` in Germany**, pointing to a **likely Take-Two host-level DMCA takedown theory** against Hetzner.
 > * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside promoter.
 > * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
 > * ⚠️ **TOKEN & PROBABLE SCAM WARNING**: The **`$CYBERLEEK` token and donation polls are run directly by the official Cyberleek website**, NOT by the Twitter account. Gaming news outlets, Ross Scott (Stop Killing Games), and community researchers agree this is **almost certainly a cryptocurrency pump-and-dump scheme** using GTA 6 hype to cash out. **Do NOT buy their token or send crypto.**
@@ -626,12 +626,12 @@ Every domain and gateway was tested via live DNS resolution and IP geolocation t
 > **How this actually works**: While the *raw data hashes* live permanently on the Arweave and Solana blockchains, regular web browsers need standard HTTP web servers (gateways) to display the site. Both the direct portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (hosted via Cablevision) and the community gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (hosted via Contabo in Europe) are **100% working and online**, while default gateway endpoints hosted on Hetzner (`49.13.45.141`) are currently down.
 
 > [!TIP]
-> 💡 **Crucial Realization: All Down Sites Are Hosted by Hetzner (Confirmed Host-Level DMCA)**  
+> 💡 **Crucial Discovery: All Down Sites Are Hosted by Hetzner (Likely DMCA Takedown Theory)**  
 > Look closely at the IP table above: **every single website that went down (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, and `leek.turbo-gateway.com`) is hosted on the exact same server IP: [`49.13.45.141`](https://ipinfo.io/49.13.45.141) under Hetzner Online GmbH in Germany.**  
 > 
 > Meanwhile, the websites on Cablevision USA (`69.124.94.88`) and Contabo France/EU (`176.57.189.36`) are **still 100% up and working**.  
 > 
-> **What this proves**: Hetzner is known for strictly enforcing copyright laws. This confirms that **Take-Two / Rockstar's legal team sent a direct DMCA / abuse takedown notice to Hetzner Germany**, causing Hetzner to suspend or block server `49.13.45.141`. The leaker didn't take the site down themselves — it was a targeted legal takedown by Rockstar/Take-Two.
+> **The Strong DMCA Theory**: Hetzner is known for strictly enforcing copyright laws. The leading community theory is that **Take-Two / Rockstar's legal team sent a direct DMCA / abuse takedown notice to Hetzner Germany**, causing Hetzner to suspend or block server `49.13.45.141`. While not officially confirmed by Hetzner abuse logs yet, the fact that only Hetzner-hosted domains went dark makes a host-level takedown the most likely explanation.
 
 ---
 
