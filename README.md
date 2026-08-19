@@ -8,7 +8,7 @@ Everything we know about the August 2026 GTA VI gameplay leak. Every claim backe
 
 ---
 
-## 1. What Got Leaked (All 5 Files)
+## 1. What Got Leaked (All 6 Files)
 
 Here's every file that came out of this. All of them were pulled from Cyberleek's smart contract data and their decentralized storage.
 
@@ -95,14 +95,36 @@ Here's every file that came out of this. All of them were pulled from Cyberleek'
 
 ---
 
+### File 6: Taser, Truck Hijacking & Boat Cutscene Clip
+
+* **ID**: `MEDIA-06-TASER`
+* **What you see**: 
+  * **Part 1 (0:00 – 1:52)**: Jason drives a muscle car into the **Allied Crystal Co.** loading depot at night, toggles his tactical flashlight, equips a **Stun Gun / Taser** (`9 1` ammo), tasers an NPC worker with full neuromuscular ragdoll physics, and hijacks an **MTL Packer** semi-truck.
+  * **Part 2 (1:55 – 2:04)**: High-end daytime cutscene on a boat in the mangrove keys. Jason drinks beer with a companion with full dialogue: *"Enjoy your life till the men in suits decide to finally shut you the fuck up."*
+* **Mirrors**: [`gofile.io/d/qW134pdk`](https://gofile.io/d/qW134pdk) / [`bedrive.ru/ead5`](https://bedrive.ru/ead5)
+* **Filename**: `taser.mp4`
+* **Size**: 28.21 MB (28,213,903 bytes)
+* **Resolution**: 1920×1080 (1080p Full HD)
+* **FPS**: 30.00 (constant)
+* **Length**: ~124.5 seconds (2 minutes, 4.5 seconds)
+* **Codec**: H.265/HEVC, 10-bit color, BT.2020 (Main 10)
+* **Audio**: AAC stereo, 48kHz, 160 kbps
+* **SHA-256**: `785697aa8ae852aed899588ccf7d705b43addbc50e5ac690c7df9a1c60972287`
+* **SHA-1**: `5d51153818628d52bbc86c7887fb2cf9a73f83f2`
+* **MD5**: `92c97b54211d6d08cceda9ac62a10ef6`
+* **Encoder**: FFmpeg 6.1 (`Lavf60.16.100` / `Lavc60.31.102 libx265`) — **exact same encoding pipeline as the Basketball and Driving videos**.
+
+---
+
 ## 2. Forensic Sources & External Reference Table
 
-All external blockchain records and mirrors documented for forensic verification:
+All external records and mirrors documented for forensic verification:
 
-| Content Item | Blockchain Source (Arweave) | External Mirror | Analyzed Format |
+| Content Item | Source / Primary Link | Secondary Mirror | Analyzed Format |
 | :--- | :--- | :--- | :--- |
 | **Basketball Video** | [Arweave Gateway](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [Upload.ee](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p MP4 (34 MB) |
 | **Driving Video** | [Arweave Gateway](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [Transfiles](https://transfiles.ru/ybyf9) / [Upload.ee](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p MP4 (35 MB) |
+| **Taser / Boat Video** | [Gofile.io](https://gofile.io/d/qW134pdk) | [Bedrive.ru](https://bedrive.ru/ead5) | 1080p MP4 (28 MB) |
 | **Full Map** | [Arweave Gateway](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [Upload.ee](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.5 MB) |
 | **Map Peek 1** | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | — | 1110×880 PNG |
 | **Map Peek 2** | [Arweave Gateway](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | — | 1140×907 PNG |
@@ -202,6 +224,7 @@ Take-Two and Rockstar have been carpet-bombing social media with copyright taked
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `output.mp4` | Basketball clip | **Aug 17, 21:07 UTC** | [Viewblock #1982091](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | ✅ SHA-256 + size | Real footage, date confirmed |
 | `video2.mp4` | Driving clip | **Aug 18, 19:05 UTC** | [Viewblock #1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | ✅ SHA-256 + size | Real footage, date confirmed |
+| `taser.mp4` | Taser & Boat clip | **Aug 18 / 19 (Dread/Mirrors)** | Gofile / Bedrive | ✅ SHA-256 + size | Real footage (taser + cutscene) |
 | `full_map.png` | State map | **Aug 18, 17:28 UTC** | [Viewblock #1982664](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | ✅ SHA-256 + size | 4/5 counties match trailers |
 | `map_sneak_peek_1.png` | Island crop | Unknown | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | ✅ SHA-256 | File works, block not found |
 | `map_sneak_peek_2.png` | Key crop | **Aug 16, 13:04 UTC** | [Viewblock #1981170](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | ✅ SHA-256 + size | Date confirmed |
@@ -222,6 +245,8 @@ Every source used in this investigation and whether it's still up:
 | Arweave `GVTWJUb...` | ✅ Yes | Full map | Block #1982664 |
 | Arweave `MyMFWWJ...` | ✅ Yes | Map peek 1 | Active on gateway |
 | Arweave `zbfExgT...` | ✅ Yes | Map peek 2 | Block #1981170 |
+| Gofile `d/qW134pdk` | ✅ Yes | Taser video mirror | Active mirror |
+| Bedrive `ead5` | ✅ Yes | Taser video mirror | Active mirror |
 | Upload.ee mirrors | ✅ Yes | 3 backups | All working |
 | Transfiles mirror | ✅ Yes | 1 backup | Working |
 
