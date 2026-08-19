@@ -227,9 +227,12 @@ Every source used in this investigation and whether it's still up:
 
 ---
 
-## 7. Cyberleek's Discord Claims
+## 7. Cyberleek's Discord Claims (Old Server Archive)
 
-Cyberleek originally set up a Discord server that got quickly banned/terminated after the leaks went viral. They then created a **new Discord server** (`discord.gg/ZWjnQSSJ2P`) where they've been chatting with community members and dropping hints about the game. Here are the confirmed screenshots and claims from their Discord messages:
+The screenshots and Q&A below were captured from Cyberleek's **original Discord server before it was banned**:
+
+* **The Old Server**: Where Cyberleek actively answered community questions about the leak and game details before Discord terminated the server.
+* **The New Server**: After the ban, Cyberleek set up a replacement server (`discord.gg/ZWjnQSSJ2P`), posting under an alt account named **`surwest`** to notify members that the old server had been banned.
 
 *(Screenshots credit: [@gamingskew](https://x.com/gamingskew) on X)*
 
@@ -286,6 +289,9 @@ Nobody knows who's actually behind this. Here's everything we could find:
 **Backup: [@MrCyberLeek](https://x.com/MrCyberLeek)**
 * The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account.
 * Both confirmed linked by [The Gamer](https://www.thegamer.com/).
+
+**Discord Alt: `surwest`**
+* Account used by Cyberleek on their new replacement Discord server to announce that their original server was banned.
 
 **NOT official: [@Miosz179322](https://x.com/Miosz179322)**
 * This account is **not affiliated** with Cyberleek. It just reposts old leaked content.
