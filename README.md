@@ -1,8 +1,10 @@
 # GTA 6 Leak Breakdown — The Cyberleek Files & Full Proof
 
-![Repo Views](https://komarev.com/ghpvc/?username=zyrexdz-cyberleek-research&color=blue&style=flat-square&label=REPO+VIEWS)
+![Repo Views](https://komarev.com/ghpvc/?username=zyrexdz-cyberleek-research&color=blue&style=flat-square&label=REPO+VIEWS) [![Community Discord](https://img.shields.io/badge/Discord-Join%20Research%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cF83SGS33m)
 
 Everything we know about the August 2026 GTA VI gameplay leaks. Every claim backed with links, hashes, technical video checks, and on-chain proof.
+
+💬 **Official Research Community Discord**: Join our community server created by the repo maintainer for leak research, evidence submission, and discussion: [**https://discord.gg/cF83SGS33m**](https://discord.gg/cF83SGS33m)
 
 > [!IMPORTANT]
 > <a id="key-alerts"></a>
@@ -829,6 +831,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 ## 13. Contributing & Submitting Evidence
 
 Have you spotted an error, found new verifiable evidence, or want to contribute additional research?
+* **Join the Community Discord**: [Join our Research Discord Server](https://discord.gg/cF83SGS33m) to chat with maintainers, submit findings, and share evidence.
 * **Open an Issue**: [Submit an Issue](https://github.com/zyrexdz/cyberleek-leak-research/issues) to suggest corrections, share mirrors, or submit newly discovered community findings.
 * **Submit a Pull Request**: [Open a Pull Request](https://github.com/zyrexdz/cyberleek-leak-research/pulls) with documented sources and proof.
 * *Note: All contributions must strictly adhere to our Fair Use & No-Hosting policy (do not submit raw copyrighted `.mp4` video files, torrent links, or confidential company binaries).*
