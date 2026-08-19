@@ -605,16 +605,30 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 #### 4. The "Promoter / Middleman" Theory
 ![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
 *Tweets sent via "Twitter for iPhone" at strange hours.*
-* **The Takeaway**: The real video files (`output.mp4`, `video2.mp4`, `taser.mp4`) are definitely real Rockstar footage. However, the Twitter account and Discord server may simply be run by a **crypto promoter** who got access to the files early, slapped their `$CYBERLEEK` Solana token branding on them, and created the "No Disc, No Peace" drama to pump their coin. Meanwhile, the actual source who originally had the clips remains quiet.
+* **The Takeaway**: The real video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) are definitely real Rockstar footage. However, the Twitter account and Discord server were run by a **crypto promoter** who got access to the files early, slapped their `$CYBERLEEK` Solana token branding on them, and created drama to pump their coin.
+
+#### 5. Hard Proof from Video 4: "CYBERLEEK DOES NOT HAVE TWITTER"
+![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
+*Official watermark from the newest 4th video drop (`junkies.mp4`) explicitly stating Cyberleek has no Twitter account.*
+
+* **The Smoking Gun**: In the newest 4th leak (`junkies.mp4`), the official leaker placed a large warning watermark directly over the video frame:
+  > **`CYBERLEEK DOES NOT HAVE TWITTER`**  
+  > **`OFFICIAL NEWS ONLY HERE:`**  
+  > **`cyberleek.turbo-gateway.com`**  
+  > **`cyberleek.ar.io`**
+* **What This Officially Confirms**:
+  1. The **`@cyberleek_ar_io` Twitter account is 100% FAKE / IMPOSTER**.
+  2. The real leaker running the website and Solana smart contracts has disowned the Twitter account completely.
+  3. The Twitter account was just an unauthorized crypto promoter, while the real leaker communicates strictly through their Web3 websites.
 
 <a id="natedrake-age"></a>
-#### 5. Insider Confirmation on Footage Age (`NateDrake`)
+#### 6. Insider Confirmation on Footage Age (`NateDrake`)
 ![NateDrake Age Proof](assets/community_claim_natedrake_age.png)
 *Gaming insider `NateDrake` commenting on the leaks: "Um.... unless a new round of previews are underway, this claim isn't accurate. Also, the leaked footage is over a year old."*
 * **What this proves**: Well-known gaming insider `NateDrake` confirmed that **the leaked footage is over a year old** (likely from a 2024–early 2025 internal build). This matches up with Cyberleek's own Discord statement that the map asset dates back to 2023.
 
 <a id="full-build-theory"></a>
-#### 6. Community Theory: Does the Leaker Have the Full Game Build?
+#### 7. Community Theory: Does the Leaker Have the Full Game Build?
 ![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
 *Gaming creator `@NikTek` sharing a theory that the leaker might have a full build, which was quickly reposted by Cyberleek.*
 
@@ -626,12 +640,15 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   3. **Video captures ≠ Game files**: Having short video recordings on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game build.
 
 <a id="szenebox-profile"></a>
-#### 7. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
+#### 8. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
 ![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
 *Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018.*
 
 ![GamingSkew Tweet Proof](assets/cyberleek_2018_forum_tweet_gamingskew.png)
 *Community discovery report shared by `@gamingskew` and `@nico_s29` on X documenting the 2018 forum post.*
+
+![Szenebox Google Search Index Proof](assets/szenebox_google_search_index_proof.png)
+*Google Search index proof showing user `cyberleek` on `szenebox.org` in January 2018 discussing JS coding help and reporting an XSS web security bug.*
 
 ![Szenebox vBulletin System Notice](assets/cyberleek_szenebox_forum_system_notice.png)
 *Visiting the live thread URL on `szenebox.org` showing the standard vBulletin permission notice for unregistered guests.*
@@ -642,9 +659,9 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ---
 
-##### 1. The 2018 Introduction Post
+##### 1. The 2018 Forum Posts & German Slang
 
-* **The Forum Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
+* **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
   * **Direct Links**: [Szenebox Archive Link](https://szenebox.org/archive/index.php/t-18889.html) / [Live Forum Thread](https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/) / [Author Profile](https://szenebox.org/members/cyberleek/)
   * **Exact Date & Time**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`)
   * **Forum Notice**: If you open the live link without logging in, the site says *"vBulletin System Notice: No information: topic"* because `szenebox.org` locks user intros (`118-user-vorstellungen`) and member pages to registered accounts only.
@@ -654,7 +671,11 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
     > *Ich bin 'Cyberleek', zwischen 25 und 30 Jahre alt. Ich interessiere mich für Web-Security/Penetration Testing sowie Linux/Server-Administration. Wenn ich Zeit habe, bastle ich auch gerne mit meinem 3D-Drucker oder baue Dinge mit dem Raspberry Pi. Leider arbeite ich nicht in diesem Bereich. Mal sehen, was die Zukunft bringt."*
   * **English Translation**:  
     > *"Hello everyone.. I'm 'Cyberleek', between 25 and 30 years old. I'm interested in web security/penetration testing as well as Linux/server administration. When I have time, I also like to tinker with my 3D printer or build things with the Raspberry Pi. Unfortunately, I don't work in this field. Let's see what the future holds."*
-  * **How We Know He Speaks German**: The phrasing (*"Hallo zusammen.."*, *"bastle ich auch gerne"*, *"Mal sehen was die Zukunft bringt"*) is 100% natural, everyday German written on a German board — not translated text.
+* **Thread 2: JS Hackit & Web Security Bugs (`03.01.2018`)**:
+  * **Indexed Google Proof**: Google's search crawler indexed two other SzeneBox posts from `cyberleek` on the exact same day:
+    1. **`JS Hackit - Hilfe` (`03.01.2018 11:18`)**: *"cyberleek: Moiin an alle.. Ich bin ein absoluter N00b was JS angeht..."* (Using the Northern German greeting *"Moiin"*).
+    2. **`ToLink.to Linkcrypter` (`03.01.2018 01:13`)**: *"cyberleek: XSS Lücke im Username.. @cyberleek, danke für das aufspüren der Sicherheitslücke."* (Reporting an XSS security bug on a German website).
+  * **How We Know He Speaks German**: Writing natural German phrases (*"bastle ich gerne"*, *"Moiin an alle"*, *"XSS Lücke im Username"*) on a German forum proves he is a native German speaker who was active in the German security scene.
 
 ---
 
