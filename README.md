@@ -223,6 +223,24 @@ The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mecha
 ![Radar Minimap](assets/hud_minimap_radar.png)
 *The updated GTA VI rounded minimap showing player direction, compass positioning, and activity icons.*
 
+#### 4. NPC Dialogue Tree: `DEFUSE` vs `WARN` (RDR2 System in GTA VI)
+![RDR2 Dialogue Tree](assets/hud_rdr2_defuse_warn_driver.png)
+*When interacting with NPCs or drivers, players get contextual dialogue choices:*
+* **`DEFUSE`**: De-escalates conflicts and calms down agitated NPCs without violence (directly ported from Red Dead Redemption 2's conversation tree).
+* **`WARN`**: Threatens or intimidates the driver/NPC.
+
+#### 5. Police Danger Zone & Search Radius (RDR2 Wanted System)
+![Danger Zone Search Area](assets/hud_rdr2_dangerzone_search_area.png)
+*When wanted, the minimap displays a large red **Danger Zone / Search Radius** (just like RDR2's police investigation areas). Players must break line-of-sight and escape outside the red circle to lose the cops.*
+
+#### 6. Karma & Morality System
+![Karma Demon Icon](assets/hud_karma_demon_icon.png)
+*A purple smiling demon/devil icon discovered in the UI, pointing to an underlying **Karma / Morality / Honor system** where player choices (stealing, defusing, killing) influence character reputation.*
+
+#### 7. Vehicle Fuel & Gas Gauge System
+![Vehicle Fuel System](assets/hud_fuel_gas_system_vapid.png)
+*Below the vehicle name card (**Vapid '70 Ganado**), a dedicated **Gas Pump / Fuel Icon** is visible with a level meter, confirming an active in-game vehicle refueling and gas tank system!*
+
 ---
 
 ## 5. Map & County Breakdown
@@ -251,7 +269,12 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 *Demonstration showing how the overview map expands into detailed road layouts when zoomed in.*
 * When zoomed in, the overview map reveals complete local street networks, highway interchanges, and building layouts for areas like **Catalan Key**, **Gloriana Key**, and **Dalton Island**.
 
-### 2. Legendary Animals Confirmed (RDR2 Hunting System in GTA VI)
+### 2. Map Size Comparison: GTA 6 is ~1.656x Bigger than GTA 5
+![Landmass Comparison](assets/community_claim_landmass_size_gta5_comparison.png)
+*Python pixel-counting script by Reddit user `u/UUT-` (`r/GTA6unmoderated`) comparing landmass area.*
+* **Landmass Measurement**: By counting usable land pixels, GTA VI's Leonida comes out to **778,026 pixels** versus GTA V's San Andreas at **469,834 pixels** — making GTA VI **1.656 times larger in pure landmass** than GTA V. This matches Jason Schreier's earlier reporting that Rockstar scaled the launch map to ~1.5x–2x with plans to add more land post-release.
+
+### 3. Legendary Animals Confirmed (RDR2 Hunting System in GTA VI)
 ![Legendary Gator Marker](assets/community_claim_legendary_animal_gator.png)
 *Crowned alligator icon inside a yellow badge pin in the Grassrivers swamp.*
 * **Legendary Animal Hunting**: The map features special icons like a **crowned alligator** in the Grassrivers wetlands. This confirms that the **Legendary Animal hunting system from Red Dead Redemption 2** is returning in GTA VI as a side activity.
