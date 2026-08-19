@@ -61,6 +61,7 @@
 * Dread Dark Web Forum (/d/leaks): Stolen GTA6 Footage post by CyberLeeker (Aug 18, 2026 – 07:36 UTC)
 * Twitter Post Finder: @bnwkr (Dread discovery credit)
 * Discord Q&A Screenshots: @gamingskew (Server screenshots credit)
+* 2018 Szenebox Forum Discovery: @nico_s29 & @gamingskew (Jan 3, 2018 introduction post & identity profile credit)
 * Community Twitter Checkers: garza & vaaatiel (Twitter account & blurred fake post checks credit)
 * Community Map Insight: martipk (Developer overview map verification credit)
 * Footage Age Insight: NateDrake (Internal build age verification credit)

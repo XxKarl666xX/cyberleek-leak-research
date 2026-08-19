@@ -46,6 +46,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
   * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
   * 🎮 [Full Game Build Theory (NikTek & Cyberleek Repost)](#full-build-theory)
+  * 🔍 [2018 Forum History & Identity Profile (Szenebox Discovery)](#szenebox-profile)
 * 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
 * ❓ **[10. What We Still Don't Know](#unknowns)**
 * ⚖️ **[11. Final Verdict](#verdict)**
@@ -623,6 +624,21 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   1. **Just one playtest recording**: The fact that Jason is wearing the same outfit in every video proves someone simply recorded **one 10–15 minute playtest session** and cut it into smaller video clips.
   2. **Cyberleek's own words in Discord**: In their Q&A, Cyberleek admitted *"the person playing was chilling"* and confirmed they are **not the player holding the controller**. They only received pre-recorded MP4 video files from an outside contact.
   3. **Video captures ≠ Game files**: Having short video recordings on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game build.
+
+<a id="szenebox-profile"></a>
+#### 7. 2018 Forum History & Identity Profile (Szenebox Discovery)
+![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
+*Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018 (discovered by `@nico_s29` & `@gamingskew`).*
+
+* **Where the Post Came From**: On August 19, 2026, community researchers `@nico_s29` and `@gamingskew` uncovered an archived 2018 introduction post from German tech and security forum **`szenebox.org`** under the username **`cyberleek`** (featuring his dark flaming skull avatar).
+* **Exact Timestamp**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`).
+* **Original Translated Statement**:
+  > *"I'm 'Cyberleek,' between 25 and 30 years old. I'm interested in web security/penetration testing as well as Linux/server administration. When I have time, I also like to tinker with my 3D printer or build things with the Raspberry Pi. Unfortunately, I don't work in this field. Let's see what the future holds."*
+* **What This Proves About the Leaker**:
+  1. **Actual Age**: Stating he was 25–30 years old in January 2018 means in August 2026 he is **between 33 and 38 years old**. He is an adult millennial who grew up during the classic PC gaming and warez era, *not* a teenager like the 2022 Lapsus$ hacker.
+  2. **German Language & Server Hosting Match**: He posted natively in German on a German tech board. This directly connects to his primary reverse proxy server being hosted in **Germany** (**Hetzner Online GmbH**, Falkenstein IP `49.13.45.141`).
+  3. **Linux / Sysadmin Skillset**: Explains how he managed multi-server Nginx reverse proxy routing, automated Solana blockchain tracking, and Arweave decentralized storage scripts.
+  4. **Why He Chose the Anti-DRM Manifesto**: His 2000s/2010s PC gaming background explains his fixation on physical game discs, banning digital pre-orders, and citing Stop Killing Games — matching the views of older PC gaming enthusiasts.
 
 ---
 
