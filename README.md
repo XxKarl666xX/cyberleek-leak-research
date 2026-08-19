@@ -43,6 +43,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
   * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
+  * 🎮 [Full Game Build Theory (NikTek & Cyberleek Repost)](#full-build-theory)
 * 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
 * ❓ **[10. What We Still Don't Know](#unknowns)**
 * ⚖️ **[11. Final Verdict](#verdict)**
@@ -532,6 +533,18 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ![NateDrake Age Proof](assets/community_claim_natedrake_age.png)
 *Gaming insider `NateDrake` commenting on the leaks: "Um.... unless a new round of previews are underway, this claim isn't accurate. Also, the leaked footage is over a year old."*
 * **What this proves**: Well-known gaming insider `NateDrake` confirmed that **the leaked footage is over a year old** (likely from a 2024–early 2025 internal build). This matches up with Cyberleek's own Discord statement that the map asset dates back to 2023.
+
+<a id="full-build-theory"></a>
+#### 6. Community Theory: Does the Leaker Have the Full Game Build?
+![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
+*Gaming creator `@NikTek` sharing a theory that the leaker might have a full build, which was quickly reposted by Cyberleek.*
+
+* **The Theory**: Creator `@NikTek` pointed out on X that in all 3 video leaks, Jason is wearing the exact same clothes (white tank top, blue jeans, backward cap, and backpack) during very early gameplay. He theorized that the leaker might have a whole playable build of GTA VI.
+* **Why Cyberleek Reposted It**: Cyberleek immediately reposted this tweet to fuel the hype and draw more attention to their `$CYBERLEEK` crypto token.
+* **The Reality (Why they don't have the full game)**:
+  1. **Just one playtest recording**: The fact that Jason is wearing the same outfit in every video proves someone simply recorded **one 10–15 minute playtest session** and cut it into smaller video clips.
+  2. **Cyberleek's own words in Discord**: In their Q&A, Cyberleek admitted *"the person playing was chilling"* and confirmed they are **not the player holding the controller**. They only received pre-recorded MP4 video files from an outside contact.
+  3. **Video captures ≠ Game files**: Having short video recordings on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game build.
 
 ---
 
