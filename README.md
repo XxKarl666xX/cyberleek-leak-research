@@ -12,6 +12,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > 
 > * 🟢 **LIVE STATUS UPDATE (August 19, 2026)**: The main website portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (Cablevision USA) and the active ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (Contabo EU) are **ONLINE & ACTIVE (UP)**! All websites that are **DOWN** (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, `leek.turbo-gateway.com`) are hosted on **Hetzner server `49.13.45.141` in Germany**, pointing to a **likely Take-Two host-level DMCA takedown theory** against Hetzner.
 > * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: Both the suspended [@cyberleek_ar_io](https://x.com/cyberleek_ar_io) and its secondary backup account [**@MrCyberLeek**](https://x.com/MrCyberLeek) on X are **100% FAKE / IMPOSTERS** run by an outside promoter seeking clout.
+> * 💬 **DISCORD Q&A CLAIMS ARE UNVERIFIED / PROMOTER FICTION**: All text claims from the old "Cyberleek Discord" (Lucia intro mission, prison pickup, 2023 map claim, Robux currency) were posted on a server shared by the fake Twitter promoter. Only the 4 video files, map images, on-chain Solana tx, and official website portals are genuine.
 > * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
 > * ⚠️ **TOKEN & PROBABLE SCAM WARNING**: The **`$CYBERLEEK` token and donation polls are run directly by the official Cyberleek website**, NOT by the Twitter account. Gaming news outlets, Ross Scott (Stop Killing Games), and community researchers agree this is **almost certainly a cryptocurrency pump-and-dump scheme** using GTA 6 hype to cash out. **Do NOT buy their token or send crypto.**
 > * 🇩🇪 **LEAKER IDENTITY**: 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Nuremberg, Bavaria, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
@@ -57,7 +58,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🐊 [3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
   * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
-* 💬 **[7. What Cyberleek Claimed in Discord (Archived Q&A)](#discord-qa)**
+* 💬 **[7. What Was Claimed in Discord (Archived Q&A — Fake Promoter Claims)](#discord-qa)**
   * 💰 [Creator Currency Traded for Real Money (Robux Theory)](#creator-currency-claim)
   * 🚫 [7.5. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
@@ -506,29 +507,40 @@ Every date here has a source you can check yourself:
 ---
 
 <a id="discord-qa"></a>
-## 7. What Cyberleek Claimed in Discord (Archived Q&A)
+## 7. What Was Claimed in Discord (Archived Q&A — ⚠️ UNVERIFIED / PROMOTER FICTION)
 
-*(Screenshots courtesy of [@gamingskew](https://x.com/gamingskew) on X)*
-
-Before their original Discord server got taken down, Cyberleek did a Q&A answering questions about the game. Here is everything they said with the screenshots as proof:
+> [!WARNING]
+> ⚠️ **CRITICAL WARNING: These Discord Claims Are Unverified & Almost Certainly FAKE!**  
+> 
+> * **How This Discord Was Created**: This Discord server was created and shared **exclusively through the fake `@cyberleek_ar_io` Twitter account**.
+> * **The Chain of Inauthenticity**: As proven by Video 4's official watermark (**`"CYBERLEEK DOES NOT HAVE TWITTER"`**), the Twitter account was a fake promoter. This means the person typing in this Discord server was **the same fake promoter pretending to be the leaker**.
+> * **What is REAL vs What is FAKE**:
+>   * 🟢 **GENUINE EVIDENCE**: Only the **4 video files** (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`), the **map images**, the **on-chain Solana transaction**, and the **official Arweave website portals** (`leek.vilenarios.com` / `cyberleek.ario.koltigin.xyz`) are genuine developer material.
+>   * 🔴 **UNVERIFIED / PROMOTER FICTION**: The claims below have **zero proof in the video files, zero proof on the blockchain, and zero proof on the official website**. They were typed by a fake promoter looking for clout.
+> 
+> *These claims are archived below strictly for historical documentation and community research:*
 
 ### 1. Lucia's Intro Mission
 ![Discord Claim 1](assets/discord_claim_1_lucia_intro.png)
+* **Status**: 🔴 **UNVERIFIED / PROMOTER SPECULATION**
 * **What they said**: *"Lucia has an intro mission before prison, you go to prison in the actual game."*
-* **Context**: Trailer 1 starts with Lucia already in prison talking to her parole officer Stefanie. Cyberleek claims the actual game has a playable prologue *before* that prison scene.
+* **Context**: Trailer 1 starts with Lucia already in prison talking to her parole officer Stefanie. The Discord user claimed the game has a playable prologue *before* prison. However, no leaked developer footage or files back this up.
 
 ### 2. Prison Pickup & Campaign Progression
 ![Discord Claim 2](assets/discord_claim_2_prison_pickup.png)
-* **What they said**: Jason picks Lucia up from prison in a pickup truck (looks like the Declasse Picador from the driving video). They said this is very early in the game — around 2% campaign completion.
+* **Status**: 🔴 **UNVERIFIED / PROMOTER SPECULATION**
+* **What they said**: Jason picks Lucia up from prison in a pickup truck (Declasse Picador) at around 2% campaign completion. No developer files verify this story point.
 
 ### 3. The Leaked Map is From 2023 & PS5 Pro Performance
 ![Discord Claim 3](assets/discord_claim_3_map2023_ps5pro.png)
-* **What they said about the map**: **"The map is from 2023."** This is a critical detail — it means the map asset was already 3 years old by August 2026.
-* **What they said about PS5 Pro**: The build they saw did NOT run at 60 FPS on PS5 Pro yet. Still locked at 30 FPS.
+* **Status**: 🟡 **PARTIALLY PLAUSIBLE, BUT UNVERIFIED**
+* **What they said about the map**: *"The map is from 2023."* (While gaming insider NateDrake confirmed the build is over a year old, this specific Discord message comes from the fake promoter).
+* **What they said about PS5 Pro**: Claimed the build ran at 30 FPS on PS5 Pro.
 
 ### 4. Cyberleek Did NOT Record the Footage Themselves
 ![Discord Claim 4](assets/discord_claim_4_not_the_player.png)
-* **What they said**: When asked why the gameplay had no shooting, Cyberleek said: *"the person playing was chilling."* They confirmed they are **not the person holding the controller**. They got the recordings from someone else.
+* **Status**: 🔴 **PROMOTER DEFLECTION**
+* **What they said**: When asked why the gameplay had no shooting, the user said: *"the person playing was chilling"* and claimed they are not the player holding the controller.
 
 <a id="creator-currency-claim"></a>
 ### 5. In-Game Creator Currency Traded for Real Money (Robux Theory)
@@ -538,16 +550,14 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 ![Gaming Culture Tweet](assets/discord_claim_5_creator_currency_tweet.png)
 *Viral breakdown by `@GamingCulture` on X reporting the leaker's creator currency claim.*
 
+* **Status**: 🔴 **100% UNVERIFIED / CRYPTO HYPE BAIT**
 * **What they said**:
   > *"There Is A Currency in GTA 6*  
   > *That Can Be Traded to Real Life Money (Like Robux)*  
   > *More Details Soon."*
-* **The Theory & Context**:
-  1. **In-Game Social Media**: GTA VI heavily features an in-game parody of TikTok and Instagram Reels (as shown throughout Trailer 1). The theory is that players or content creators who produce viral in-game content could earn creator rewards.
-  2. **Rockstar's FiveM Acquisition**: In August 2023, Rockstar officially acquired **Cfx.re** (the team behind *FiveM* and *RedM* roleplay servers). FiveM already had creator subscription and payout systems, so Rockstar could be integrating official creator monetization into GTA VI's online ecosystem.
 * **Fact Check & Scam Warning**:
-  * **Status: UNVERIFIED / SPECULATION**. Cyberleek provided **zero code proof, HUD pictures, or leaked database strings** to back this up.
-  * **Why to be skeptical**: Since Cyberleek is actively promoting their own `$CYBERLEEK` cryptocurrency memecoin, making unproven claims about "earning real money in GTA 6" is an easy way to bait crypto investors and generate hype. Treat this claim strictly as unconfirmed speculation.
+  * The promoter provided **zero code strings, zero UI assets, and zero leaked database proof**.
+  * Making unproven claims about "earning real money in GTA 6" was a blatant tactic to bait excited gamers into buying the `$CYBERLEEK` memecoin. Treat this as completely fake unless Rockstar officially announces creator tools.
 
 ---
 
