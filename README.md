@@ -193,28 +193,31 @@ The leaked clips show a much more polished build than the 2022 stuff:
 
 **However**, Cyberleek themselves said in their Discord that **the map leak is from 2023** (see Section 7 below). So the footage and the map might be from different time periods.
 
-### August 15–18, 2026 — The Leak Goes Live (Blockchain Proof)
+### August 15–19, 2026 — The Full Leak Sequence (Blockchain & Dark Web Proof)
 
-All confirmed through Arweave GraphQL and Viewblock:
+All confirmed through Arweave GraphQL, Viewblock, and forum archives:
 
-| Time (UTC) | What happened | Block # |
+| Time (UTC) | What happened | Proof / Block # |
 |:---|:---|:---|
-| **Aug 15, 12:51** | First wallet activity — logo & site files uploaded | #1980496 |
-| **Aug 15, 20:02** | Website v1 goes live on Arweave | — |
-| **Aug 16, 10:11** | Website v2 goes live | — |
-| **Aug 16, 13:04** | `map_sneak_peek_2.png` uploaded | #1981170 |
-| **Aug 17, 09:11** | Website v3 goes live | — |
-| **Aug 17, 21:07** | `output.mp4` (basketball clip) uploaded | #1982091 |
-| **Aug 18, 07:36** | `CyberLeeker` drops basketball clip on Dread dark web (`/d/leaks`) | — |
-| **Aug 18, 17:28** | `full_map.png` uploaded | #1982664 |
-| **Aug 18, 19:05** | `video2.mp4` (driving clip) uploaded | #1982709 |
-| **Aug 18, ~20:00+** | Leak goes viral — Reddit, X, YouTube blow up | — |
-| **Aug 18, ~20:00+** | Take-Two/Rockstar start hitting everything with DMCAs | — |
+| **Aug 15, 12:51** | First wallet activity — site framework & branding uploaded | [Block #1980496](https://viewblock.io/arweave/tx/7gFAEaO_vP6Ld4YgP9L2ZcQ5WwYvQ5Z4y8q7M9v6k8M) |
+| **Aug 15, 20:02** | Website v1 goes live on Arweave | Arweave permaweb |
+| **Aug 16, 10:11** | Website v2 goes live | Arweave permaweb |
+| **Aug 16, 13:04** | `map_sneak_peek_2.png` (Catalan/Gloriana Key) uploaded | [Block #1981170](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) |
+| **Aug 17, 09:11** | Website v3 goes live | Arweave permaweb |
+| **Aug 17, 21:07** | `output.mp4` (Basketball clip) uploaded | [Block #1982091](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) |
+| **Aug 18, 07:36** | `CyberLeeker` drops `basketball.mp4` on Dread dark web (`/d/leaks`) via gofile.io | Dread forum post archive |
+| **Aug 18, 17:28** | `full_map.png` uploaded | [Block #1982664](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) |
+| **Aug 18, 19:05** | `video2.mp4` (Driving clip) uploaded | [Block #1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) |
+| **Aug 18, ~20:00+** | Leaks go viral on X and Reddit; `$CYBERLEEK` Solana coin launched | Social media explosion |
+| **Aug 18, ~20:00+** | Take-Two Interactive launches aggressive DMCA takedown campaign | Outlets report DMCAs |
+| **Aug 18 / 19** | Cyberleek's original Discord server gets banned; replacement created (`ZWjnQSSJ2P`) | Confirmed via `cyberleek_west` |
+| **Aug 19, ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat cutscene) surfaces on mirrors | Gofile & Bedrive mirrors |
+| **Aug 19, ~15:00** | Community forensics by `garza` & `vaaatiel` exposes fake blurred 2022 teasers on X | Discord investigation |
 
-**FFmpeg fingerprint**: Both videos were encoded with `Lavf60.16.100` / `Lavc60.31.102` (FFmpeg 6.1). This means Cyberleek re-encoded the raw footage to stamp their watermarks on it before upload.
+**FFmpeg fingerprint**: All three leaked videos (`output.mp4`, `video2.mp4`, `taser.mp4`) were encoded with `Lavf60.16.100` / `Lavc60.31.102` (FFmpeg 6.1). This proves they were all processed through the exact same watermarking pipeline on the exact same machine.
 
 ### DMCA Takedowns = Basically Confirmation
-Take-Two and Rockstar have been carpet-bombing social media with copyright takedowns. Big publishers don't waste legal resources taking down fake stuff. Multiple outlets (PC Gamer, Kotaku, Rock Paper Shotgun) have reported on this.
+Take-Two and Rockstar have been carpet-bombing social media with copyright takedowns. Big publishers don't waste legal resources taking down fake stuff. Multiple outlets (PC Gamer, Kotaku, Rock Paper Shotgun, IGN) have reported on this.
 
 ---
 
