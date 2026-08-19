@@ -57,6 +57,8 @@
 * Community Map Insight: martipk (Developer overview map verification credit)
 * Footage Age Insight: NateDrake (Internal build age verification credit)
 * HUD & Map Discoveries: GTA VI UNMODERATED Discord Server (HUD elements, Clone Key mechanics, RDR2 Defuse tree, Danger Zone, Karma icon, Fuel gauge, Map Zoom & Legendary Animals credit)
+* Twitter Gameplay Breakdown: @NikTek on X (6-star wanted level, RDR2 melee disarm, wearable dropped hats, restricted area AI breakdown credit)
+* In-Car iFruit CarPlay Discovery: @7Kkurd on X (iFruit logo on vehicle GPS minimap credit)
 * Landmass Size Python Analysis: u/UUT- on r/GTA6unmoderated (1.656x GTA 5 landmass calculation credit)
 * Reddit Community Mapping Project: https://www.reddit.com/r/GTA6/
 * GTAForums Community Mapping Project: https://gtaforums.com/topic/985269-gta-vi-mapping-project/

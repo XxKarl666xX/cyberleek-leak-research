@@ -241,6 +241,25 @@ The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mecha
 ![Vehicle Fuel System](assets/hud_fuel_gas_system_vapid.png)
 *Below the vehicle name card (**Vapid '70 Ganado**), a dedicated **Gas Pump / Fuel Icon** is visible with a level meter, confirming an active in-game vehicle refueling and gas tank system!*
 
+#### 8. In-Car iFruit CarPlay Navigation System
+![iFruit CarPlay Minimap](assets/community_7kkurd_ifruit_carplay_minimap.png)
+*Discovered by X user `@7Kkurd`: When driving modern cars, the top-left of the GPS minimap displays the **iFruit logo** (Apple parody), confirming an in-game **Apple CarPlay / iFruit dashboard integration**.*
+
+---
+
+### Community Breakdown on X: Full Gameplay Observations (`@NikTek`)
+
+![NikTek Breakdown Part 1](assets/community_niktek_breakdown_part1.png)
+![NikTek Breakdown Part 2](assets/community_niktek_breakdown_part2.png)
+*Viral breakdown by gaming creator `@NikTek` analyzing combat, wanted levels, and environmental mechanics in `taser.mp4`.*
+
+Key gameplay observations documented by `@NikTek`:
+1. **6-Star Wanted Level Confirmed**: GTA VI returns to the classic 6-star law enforcement tier.
+2. **RDR2 Melee, Disarm & Knockout Cameras**: Jason can disarm enemies in real-time melee combat, kick them to the ground, and trigger slow-motion knockout camera angles like in *Red Dead Redemption 2*.
+3. **Wearable Dropped Hats**: When security guards are knocked down, their hats fall off. Jason can pick up and wear their hats on the spot (identical to RDR2's hat system).
+4. **Restricted Area NPC AI**: Parking in private factory yards triggers immediate hostility from security without firing a shot.
+5. **Dense Traffic & Retail Euphoria Physics**: High vehicle density on highways and ultra-smooth body physics when shocking NPCs with the Taser.
+
 ---
 
 ## 5. Map & County Breakdown
