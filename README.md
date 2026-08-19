@@ -229,7 +229,7 @@ Every source used in this investigation and whether it's still up:
 
 ## 7. Cyberleek's Discord Claims
 
-Cyberleek runs an active Discord server (`discord.gg/ZWjnQSSJ2P`) where they've been chatting with community members and dropping hints about the game. Here are the confirmed screenshots and claims from their Discord messages:
+Cyberleek originally set up a Discord server that got quickly banned/terminated after the leaks went viral. They then created a **new Discord server** (`discord.gg/ZWjnQSSJ2P`) where they've been chatting with community members and dropping hints about the game. Here are the confirmed screenshots and claims from their Discord messages:
 
 *(Screenshots credit: [@gamingskew](https://x.com/gamingskew) on X)*
 
