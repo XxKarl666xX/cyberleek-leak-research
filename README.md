@@ -894,17 +894,36 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 *Screenshots from SzeneBox showing Cyberleek's secondary account `tech-forum` advertising his Swiss site `tech-forum.ch` and discussing Linux, 3D printing, and CS:GO game servers. (Discovery credit: [@nico_s29](https://x.com/nico_s29) on X — [Issue #12](https://github.com/zyrexdz/cyberleek-leak-research/issues/12))*
 
-On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) found additional forum posts on `szenebox.org` proving Cyberleek operated a second account under the name **`tech-forum`**:
-* **The Swiss Forum Project (`tech-forum.ch`)**:
-  * On **December 22, 2017**, user `tech-forum` introduced his new website: [**`https://tech-forum.ch`**](https://tech-forum.ch) (`.ch` is the Swiss country domain).
-  * **Matching Hobbies (3D Printing & Linux)**: He created subforums for `$Home`, `$Computer`, `$Gaming`, and **`$3D Druck` (3D Printing)** — the exact same 3D printing and server hobbies Cyberleek listed in his January 2018 intro post!
-* **Linux Terminal & Server Experience**:
-  * On January 11, 2018, he explained that the `$` symbols on his categories were taken directly from the **Linux command-line terminal**.
-  * On January 18, 2018, he posted an update announcing he added a **CS:GO Game Server**, user session manager, and automated anti-spam bots to his server.
-* **The Direct Account Link**:
-  * In another post on Szenebox, `cyberleek` asked the site admins for help recovering access to his `tech-forum` secondary account after losing the password, 100% confirming both accounts belong to the same person.
-* **Swiss-German Language Details**:
-  * Uses Swiss spelling (*"Grüsse"* with `ss` rather than German `ß`, which is standard in Switzerland) and casual words (*"Gesunheitliche Probs"*).
+On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered archived posts on `szenebox.org` proving Cyberleek operated a second account under the username **`tech-forum`**. Here is the full line-by-line translation of all 4 posts:
+
+* **Post 1: Website Introduction (`22.12.2017 16:40`) — "Tech-Forum stellt sich vor"**:
+  * **Original German**:  
+    > *"Guten Tag an alle.. Gerne würde ich euch mein kleines noch sehr junges Forum vorstellen. Es ist unter https://tech-forum.ch erreichbar, noch keine Woche alt, und in der Beta Phase. Das Ziel soll es sein neue Leute, neue Erfahrungen und Ideen zu finden. Da dass Forum noch in der Beta Phase ist, braucht es User die es konstruktiv beurteilen, neue Ideen kreieren und etwas Inhalt hinzufügen. In Zukunft werden je nach bedarf weitere 'Head Themen' folgen. Bisher haben wir folgende : -$Home, -$Computer, -$Gaming, -$3D Druck"*
+  * **English Translation**:  
+    > *"Good day everyone.. I would like to introduce my small, very new forum to you. It is accessible at https://tech-forum.ch, less than a week old, and in beta. The goal is to find new people, experiences, and ideas. Since the forum is still in beta, it needs users to constructively review it, create new ideas, and add content. In the future, more main topics will follow. So far we have: -$Home, -$Computer, -$Gaming, -$3D Printing"*
+  * *Takeaway*: Created categories for **`$3D Druck` (3D Printing)** and `$Gaming`, matching the exact 3D printing hobby mentioned in his January 3, 2018 intro!
+
+* **Post 2: Explaining the `$` Template (`05.01.2018 07:29`)**:
+  * **Original German**:  
+    > *"Die $ sind noch vom alten Template, ich fands noch cool. Unter Computer gibt es das Forum 'Betriebssysteme' und dort wiederum 'Adnroid' & 'Ios' Betreibssystem ja. Da Versteh ich nun die Fraqge ehrlich gesagt nicht ganz. Es sind beides Betreibssysteme, und ein Smartphone ist auch eine Art eines Rechners.. Trotzdem Danke für dein Feedback"*
+  * **English Translation**:  
+    > *"The $ are from the old template, I still thought it looked cool. Under Computer there is the 'Operating Systems' section, with Android & iOS. Honestly I don't quite understand the question. Both are operating systems, and a smartphone is also a type of computer.. Thanks for your feedback anyway"*
+
+* **Post 3: Linux Terminal Origin & Swiss-German Slang (`11.01.2018 11:03`)**:
+  * **Original German**:  
+    > *"Besten Dank für dein Feeback ! Das mit dem Content ist so eine Sache, zur Zeit bin ich noch immer der Top Poster. Die $ Habe ich mehr oder weniger von Linux geschmuggelt, zumindest stammt die Idee von dort (Terminal). Könntest du die Sache mit dem 'Div' etwas genauer erläutern oder mir eine PN mit einem Screenshot machen ? Ich überseh das wohl. Sory für die späte antwort, hatte in den letzten Tagen Gesunheitliche Probs. Grüsse"*
+  * **English Translation**:  
+    > *"Thank you very much for your feedback! The content thing is tricky, right now I'm still the top poster. The $ I more or less smuggled from Linux, at least the idea comes from there (the terminal). Could you explain the <div> issue in more detail or send me a PM with a screenshot? I must have missed that. Sorry for the late reply, had some health issues the last few days. Greetings (Grüsse)"*
+  * *Takeaway*: Confirms he got the `$` prefix from the **Linux bash terminal**, understands HTML `<div>` layout code, and uses Swiss spelling (*"Grüsse"* with `ss` rather than `ß`, and *"Gesunheitliche Probs"*).
+
+* **Post 4: CS:GO Game Server & Spam Bots (`18.01.2018 14:02`)**:
+  * **Original German**:  
+    > *"Update : - Gast Berechtigungen wurden geändert, - Csgo Spiel Server hinzugefügt, - Session Manager für User, - Forum Bot / Auto Spam Filter aktiviert https://tech-forum.ch"*
+  * **English Translation**:  
+    > *"Update: - Guest permissions were changed, - CS:GO Game Server added, - Session Manager for users, - Forum Bot / Auto Spam Filter activated https://tech-forum.ch"*
+  * *Takeaway*: Proves he was hosting dedicated multiplayer **CS:GO Game Servers** and building automated anti-spam bots in early 2018.
+
+* **The Direct Account Link**: In another post on Szenebox, `cyberleek` asked the site admins for help because **he lost the password to his secondary account `tech-forum`**, confirming 100% that both accounts belonged to the same person.
 
 ---
 
