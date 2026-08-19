@@ -8,15 +8,19 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > <a id="key-alerts"></a>
 > ### 🚨 Critical Facts & Alerts (Must Read First)
 > 
-> 1. **❌ CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**:
->    ![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
->    *In the newest 4th video drop (`junkies.mp4`), the official watermark explicitly states: **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**. The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside crypto promoter.*
-> 2. **🎮 The 4 Gameplay Videos & Maps Are 100% Real**:
->    * All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
-> 3. **⚠️ Token & Scam Warning**:
->    * **Do not buy any `$CYBERLEEK` crypto tokens or send money.** The leaker and fake social media promoters are using the leak hype to pump memecoins.
-> 4. **🇩🇪 Leaker Identity**:
->    * 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Falkenstein, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
+> * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside crypto promoter.
+> * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE 100% REAL**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
+> * ⚠️ **TOKEN & SCAM WARNING**: **Do not buy any `$CYBERLEEK` crypto tokens or send money.** The leaker and fake social media promoters are using the leak hype to pump memecoins.
+> * 🇩🇪 **LEAKER IDENTITY**: 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Falkenstein, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
+
+<div align="center">
+
+#### ❌ Official Proof from Video 4 Watermark: "CYBERLEEK DOES NOT HAVE TWITTER"
+<img src="assets/cyberleek_watermark_no_twitter_proof.png" alt="Cyberleek No Twitter Watermark" width="600" />
+
+*In the newest 4th video drop (`junkies.mp4`), the official watermark explicitly states: **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**.*
+
+</div>
 
 > [!NOTE]
 > **TIMING**: These leaks dropped on August 17–19, 2026 — exactly **9 days before** the official "GTA VI: An Extended Look" Netflix premiere on **August 27, 2026 at 3:00 PM ET**. The game launches **November 19, 2026** on PS5 and Xbox Series X|S.
