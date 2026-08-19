@@ -1,5 +1,7 @@
 # GTA 6 Leak Breakdown — The Cyberleek Files & Full Proof
 
+![Repo Views](https://komarev.com/ghpvc/?username=zyrexdz-cyberleek-research&color=blue&style=flat-square&label=REPO+VIEWS)
+
 Everything we know about the August 2026 GTA VI gameplay leaks. Every claim backed with links, hashes, technical video checks, and on-chain proof.
 
 > [!WARNING]
