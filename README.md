@@ -642,50 +642,50 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ---
 
-##### 1. The 2018 Szenebox Forum Posts & Linguistic Markers
+##### 1. The 2018 Forum Posts & German Slang
 
 * **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
-  * **Direct Links**: [Szenebox Archive Link](https://szenebox.org/archive/index.php/t-18889.html) / [Live Subforum Thread](https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/) / [Author Profile](https://szenebox.org/members/cyberleek/)
+  * **Direct Links**: [Szenebox Archive Link](https://szenebox.org/archive/index.php/t-18889.html) / [Live Forum Thread](https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/) / [Author Profile](https://szenebox.org/members/cyberleek/)
   * **Exact Date & Time**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`)
-  * **Forum Notice Note**: When visiting the live link as a guest, vBulletin displays *"vBulletin System Notice: No information: topic"* because `szenebox.org` restricts User Introductions (`118-user-vorstellungen`) and member profiles (`HTTP 403 Forbidden`) strictly to logged-in registered community members.
+  * **Forum Notice**: If you open the live link without logging in, the site says *"vBulletin System Notice: No information: topic"* because `szenebox.org` locks user intros (`118-user-vorstellungen`) and member pages to registered accounts only.
   * **Original German**:  
     > *"💡 Vorstellung Cyberleek*  
     > *Hallo zusammen..*  
     > *Ich bin 'Cyberleek', zwischen 25 und 30 Jahre alt. Ich interessiere mich für Web-Security/Penetration Testing sowie Linux/Server-Administration. Wenn ich Zeit habe, bastle ich auch gerne mit meinem 3D-Drucker oder baue Dinge mit dem Raspberry Pi. Leider arbeite ich nicht in diesem Bereich. Mal sehen, was die Zukunft bringt."*
   * **English Translation**:  
     > *"Hello everyone.. I'm 'Cyberleek', between 25 and 30 years old. I'm interested in web security/penetration testing as well as Linux/server administration. When I have time, I also like to tinker with my 3D printer or build things with the Raspberry Pi. Unfortunately, I don't work in this field. Let's see what the future holds."*
-* **Thread 2: JavaScript Security Challenge (`03.01.2018, 11:18 UTC+1`)**:
+* **Thread 2: Coding Challenge (`03.01.2018, 11:18 UTC+1`)**:
   * **Original German**:  
     > *"Moiin an alle.. Ich bin ein absoluter N00b was JS angeht, jedoch wollt ich bei folgendem Hackit mal gucken wie weit ich komme..."*
-  * **Linguistic Proof**: The greeting **"Moiin"** (*Moin / Moin Moin*) is an unmistakable regional greeting used specifically in **Northern Germany** (Hamburg, Bremen, Lower Saxony, Schleswig-Holstein). The casual phrasing (*"bastle ich gerne"*, *"Mal sehen was die Zukunft bringt"*) is fluent, idiomatic native German.
+  * **How We Know He Speaks German**: The greeting **"Moiin"** (*Moin*) is a well-known local greeting in **Northern Germany** (Hamburg, Bremen, Lower Saxony). The casual way he writes (*"bastle ich gerne"*, *"Mal sehen was die Zukunft bringt"*) is 100% natural, everyday German — not a translator tool.
 
 ---
 
-##### 2. Age & Profile Verification
+##### 2. Age & Background Check
 
-| Biographical Metric | 2018 Forum Record | 2026 Leak Situation |
+| Detail | 2018 Forum Post | What It Means Today |
 | :--- | :--- | :--- |
-| **Age** | Stated **25–30 years old** (Jan 2018) | Currently **33 to 38 years old** (Adult millennial, *not* a teenager). |
-| **Primary Language** | Native German | Native German speaker who posts in English on Web3/Twitter. |
-| **Technical Interests** | Linux server admin, web security, Raspberry Pi, 3D printing. | Configured multi-server Linux Nginx reverse proxies, automated Web3 pipelines. |
-| **Coding Background** | Started learning JavaScript on Hackit challenges in 2018. | Developed custom Vanilla JavaScript Web3 bundle (`index-CE2GuztQ.js`). |
+| **Age** | Said he was **25–30 years old** (Jan 2018) | He is now **33 to 38 years old** (an adult, *not* a teenager). |
+| **Main Language** | Native German | Native German speaker who writes in English on Twitter and Web3. |
+| **Tech Hobbies** | Linux servers, web security, Raspberry Pi, 3D printing. | Set up custom Linux Nginx reverse proxies and automated crypto scripts. |
+| **Coding Experience** | Started learning JavaScript on web challenges in 2018. | Built the custom JavaScript app used for his leak website (`index-CE2GuztQ.js`). |
 
 ---
 
-##### 3. Infrastructure & Datacenter Evidence (Hetzner Germany)
+##### 3. Server & Datacenter Setup (Hetzner Germany)
 
-* **Primary Reverse Proxy IP**: [`49.13.45.141`](https://ipinfo.io/49.13.45.141)
-* **Datacenter Provider**: [**Hetzner Online GmbH**](https://www.hetzner.com/) (Germany's largest cloud & dedicated hosting provider).
-* **Server Location**: **Falkenstein, Saxony, Germany** ([`AS24940`](https://ipinfo.io/AS24940)).
-* **Reverse DNS Hostname**: `static.49.13.45.141.clients.your-server.de` (`your-server.de` is Hetzner's proprietary German administration portal).
-* **Verification & Billing**: Hetzner enforces strict anti-fraud KYC policies, requiring European bank accounts (SEPA transfers), EU credit cards, or government ID verification to maintain active servers.
+* **Main Server IP**: [`49.13.45.141`](https://ipinfo.io/49.13.45.141)
+* **Hosting Company**: [**Hetzner Online GmbH**](https://www.hetzner.com/) (Germany's biggest server provider).
+* **Server Location**: **Falkenstein, Germany** ([`AS24940`](https://ipinfo.io/AS24940)).
+* **Server Address (rDNS)**: `static.49.13.45.141.clients.your-server.de` (`your-server.de` is Hetzner's German customer portal).
+* **ID & Bank Checks**: Hetzner requires EU bank transfers (SEPA), European cards, or photo ID checks to rent servers.
 
 ---
 
-##### 4. European Timezone & Cultural Alignment
+##### 4. European Time & Gamer Mindset
 
-* **Timezone Patterns**: The date format used across all forum archives (`03.01.2018`) follows the European `DD.MM.YYYY` standard. His online activity bursts and blockchain deployment timestamps consistently line up with Central European Time (CET/CEST — UTC+1/UTC+2).
-* **Anti-DRM & Consumer Rights Ideology**: Germany and the EU have the world's strongest digital consumer protection movements (*Verbraucherzentrale* and the European *Stop Killing Games* initiative). Cyberleek's focus on physical game discs, banning digital-only preorders, and preserving offline playability perfectly mirrors the philosophy of the older European PC gaming and warez scene.
+* **Timezone Habits**: All forum dates (`03.01.2018`) use the European day-first format (`DD.MM.YYYY`). His online posts and crypto drops happen during normal daytime and evening hours in **German time (CET/CEST)**.
+* **Why He Wants Physical Discs**: Germany and Europe have very strong consumer rights laws. His anger about digital pre-orders and wanting physical game discs matches the mindset of older European PC gamers who grew up with physical game boxes.
 
 ---
 
