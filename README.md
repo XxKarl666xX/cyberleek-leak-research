@@ -10,6 +10,41 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 ---
 
+## 📑 Clickable Table of Contents / Jump to Section
+
+* 📁 **[1. What Got Leaked (All 6 Files)](#1-what-got-leaked-all-6-files)**
+  * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#file-1-basketball-gameplay-clip)
+  * 🚗 [File 2: Highway Driving & Delivery Van (`video2.mp4`)](#file-2-highway-driving--delivery-van-clip)
+  * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#file-3-full-state-of-leonida-map)
+  * 🏝️ [File 4: Map Sneak Peek 1 — Dalton Island](#file-4-map-sneak-peek-1-dalton-island)
+  * 🏝️ [File 5: Map Sneak Peek 2 — Catalan & Gloriana Key](#file-5-map-sneak-peek-2-catalan-key--gloriana-key)
+  * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`)](#file-6-taser-truck-hijacking--boat-cutscene-clip)
+* 🔗 **[2. Direct Links & Mirror Table](#2-direct-links--mirror-table)**
+* 📊 **[3. Video Comparison & Technical Details](#3-video-comparison--technical-details)**
+* ⏱️ **[4. Second-by-Second Video Breakdown](#4-second-by-second-video-breakdown)**
+  * 🎮 [New HUD & Gameplay Mechanics (Clone Key, RDR2 Defuse, Fuel, CarPlay)](#new-hud--gameplay-mechanics-discovered-in-the-footage)
+  * 🐦 [Community Breakdown on X (@NikTek)](#community-breakdown-on-x-full-gameplay-observations-niktek)
+* 🗺️ **[5. Map & County Breakdown](#5-map--county-breakdown)**
+  * 🔍 [Map Zoom Road Details](#1-map-zoom-reveals-detailed-road-networks)
+  * 📐 [Map Size Comparison (1.656x Bigger than GTA 5)](#2-map-size-comparison-gta-6-is-1656x-bigger-than-gta-5)
+  * 🐊 [Legendary Animals Confirmed (RDR2 Hunting System)](#3-legendary-animals-confirmed-rdr2-hunting-system-in-gta-vi)
+  * 🌲 [Deep Dive: Lummox County & Mount Kalaga](#4-deep-dive-what-is-lummox-county--is-it-official)
+* 📅 **[6. Complete Timeline & Date Proof](#6-complete-timeline--date-proof)**
+* 💬 **[7. What Cyberleek Claimed in Discord (Archived Q&A)](#7-what-cyberleek-claimed-in-discord-archived-qa)**
+  * 🚫 [7.5. The Old Discord Server Got Banned](#75-the-old-discord-server-got-banned)
+* 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#8-web-research-online-setup-dark-web--debunking)**
+  * 👤 [Official Accounts vs Fake Copycats](#their-online-accounts--known-handles)
+  * 🖥️ [Real Server Hosting (Hetzner & Cablevision)](#their-website-setup--real-server-hosting)
+  * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#hack-forums--the-dark-web-trail-dread)
+  * 🔍 [Community Debunking by Garza & Vaaatiel](#community-debunking-is-the-twitter-account-even-the-real-leaker)
+  * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#5-insider-confirmation-on-footage-age-natedrake)
+* 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#9-how-everyone-reacted)**
+* ❓ **[10. What We Still Don't Know](#10-what-we-still-dont-know)**
+* ⚖️ **[11. Final Verdict](#11-final-verdict)**
+* 📜 **[12. Legal Disclaimer & Fair Use Notice](#12-legal-disclaimer--fair-use-notice)**
+
+---
+
 ## 1. What Got Leaked (All 6 Files)
 
 Here's every file that came out of this leak cluster. All of them were pulled from Cyberleek's smart contract data, decentralized Arweave storage, and online download mirrors.
