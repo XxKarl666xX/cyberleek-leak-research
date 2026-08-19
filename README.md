@@ -770,9 +770,14 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 * This project is made strictly for **educational analysis, cybersecurity awareness, and news commentary** under the Fair Use provisions of Title 17, United States Code, Section 107.
 * **Public Warning & Scam Prevention**: A main focus of this research is exposing and analyzing the **`$CYBERLEEK` cryptocurrency pump-and-dump scheme** to warn gamers and the public against online money scams.
 
-### No-Hosting Policy
-* **No Copyrighted Videos Hosted**: This repository **does not host, mirror, or share any raw game files, leaked video files (`.mp4`), or confidential company assets.**
-* All hashes (SHA-256, MD5) and blockchain block numbers are published only as digital records for research and fact-checking.
+### No-Hosting Policy & Zero Binary Rule
+* **No Copyrighted Files Hosted**: This repository **does NOT host, store, mirror, or distribute any proprietary game binaries, leaked video files (`.mp4`), audio stems, or confidential developer builds.**
+* All hashes (SHA-256, MD5, SHA-1) and blockchain block numbers are published strictly as cryptographic digital records for academic fact-checking and public scam verification.
+* All visual assets in `assets/` consist exclusively of low-resolution analytical screenshot crops, user interface diagrams, and public social media posts used under transformative fair use.
+
+### DMCA Takedown & Copyright Notice Protocol
+* We respect the intellectual property rights of **Take-Two Interactive Software, Inc.** and **Rockstar Games**.
+* If you are a copyright owner or authorized representative and believe any transformative commentary or educational crop in this repository exceeds the boundaries of Fair Use (17 U.S.C. § 107), please [**Open a GitHub Issue**](https://github.com/zyrexdz/cyberleek-leak-research/issues) or contact the maintainer directly. Any legitimately disputed asset will be reviewed and addressed immediately without the need for formal legal notices.
 
 ---
 
@@ -782,7 +787,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 Have you spotted an error, found new verifiable evidence, or want to contribute additional research?
 * **Open an Issue**: [Submit an Issue](https://github.com/zyrexdz/cyberleek-leak-research/issues) to suggest corrections, share mirrors, or submit newly discovered community findings.
 * **Submit a Pull Request**: [Open a Pull Request](https://github.com/zyrexdz/cyberleek-leak-research/pulls) with documented sources and proof.
-* *Note: All contributions must adhere to our Fair Use & No-Hosting policy (do not submit raw copyrighted `.mp4` video files or torrent links).*
+* *Note: All contributions must strictly adhere to our Fair Use & No-Hosting policy (do not submit raw copyrighted `.mp4` video files, torrent links, or confidential company binaries).*
 
 ---
 
