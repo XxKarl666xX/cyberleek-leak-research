@@ -11,7 +11,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > ### 🚨 Critical Facts & Latest Status (Must Read First)
 > 
 > * 🟢 **LIVE STATUS UPDATE (August 19, 2026)**: The main website portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (Cablevision USA) and the active ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (Contabo EU) are **ONLINE & ACTIVE (UP)**! All websites that are **DOWN** (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, `leek.turbo-gateway.com`) are hosted on **Hetzner server `49.13.45.141` in Germany**, pointing to a **likely Take-Two host-level DMCA takedown theory** against Hetzner.
-> * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside promoter.
+> * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: Both the suspended [@cyberleek_ar_io](https://x.com/cyberleek_ar_io) and its secondary backup account [**@MrCyberLeek**](https://x.com/MrCyberLeek) on X are **100% FAKE / IMPOSTERS** run by an outside promoter seeking clout.
 > * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
 > * ⚠️ **TOKEN & PROBABLE SCAM WARNING**: The **`$CYBERLEEK` token and donation polls are run directly by the official Cyberleek website**, NOT by the Twitter account. Gaming news outlets, Ross Scott (Stop Killing Games), and community researchers agree this is **almost certainly a cryptocurrency pump-and-dump scheme** using GTA 6 hype to cash out. **Do NOT buy their token or send crypto.**
 > * 🇩🇪 **LEAKER IDENTITY**: 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Nuremberg, Bavaria, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
@@ -584,8 +584,8 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 1. ❌ **[@cyberleek_ar_io](https://x.com/cyberleek_ar_io)** — 🔴 **SUSPENDED BY X (August 19, 2026)**
    * **Role**: Primary fake promoter / imposter account (~88.9k followers before ban).
    * **Status**: Permanently suspended by X for impersonation, DMCA violations, and token promotion.
-2. ❌ **[@MrCyberLeek](https://x.com/MrCyberLeek)** — 🔴 **FAKE BACKUP / CLOUT PROMOTER**
-   * Secondary backup account run by the same promoter. Posted a fake "FBI/SWAT raid" GIF right after the main account was banned.
+2. ❌ **[@MrCyberLeek](https://x.com/MrCyberLeek) (`https://x.com/MrCyberLeek`)** — 🔴 **100% FAKE SECONDARY PROMOTER**
+   * **Role**: Secondary backup account run by the exact same promoter. Posted a fake "FBI/SWAT raid" GIF right after the main account was banned to stage fake drama.
 3. ❌ **[@cyberleekario](https://x.com/cyberleekario)** & **[@Miosz179322](https://x.com/Miosz179322)** — Fake copycat accounts on X. Not affiliated with anything.
 4. ❌ **Fake Discord Accounts / Imposter Servers** — Accounts claiming "8 PM EST drops", officially fake.
 
