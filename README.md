@@ -515,7 +515,7 @@ Every date here has a source you can check yourself:
 | **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
 | **2026-08-19 ~22:30** | Official leaker website poll concludes; `▶ Plane (DAY)` wins 100% of votes (65,342 $CYBERLEEK) | [Poll Winner Snapshot](#poll-plane-winner) | Confirms upcoming **Video 5** is scheduled as a daytime airplane flight / cinematic drive-by clip. |
 | **2026-08-19 ~23:48** | **Fake promoter Twitter `@cyberleek_ar_io` suspended by X** | [Suspension Proof](#debunking-twitter) | X bans the fake account; backup `@MrCyberLeek` posts a fake "FBI raid" GIF stunt. |
-| **2026-08-19 ~23:55** | **Hetzner Web3 gateways go OFFLINE (`leek.vilenarios.com` & Contabo UP)** | Network status check | Gateways on Hetzner `49.13.45.141` go down (likely DMCA), while Cablevision & Contabo mirrors remain up. |
+| **2026-08-20 ~02:00** | **All Cyberleek Web3 gateways & portals restored ONLINE** | Live network checks | All gateways and mirrors (`leek.vilenarios.com`, `cyberleek.ario.koltigin.xyz`, `leek.turbo-gateway.com`, `cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are 100% up and working. |
 
 ---
 
