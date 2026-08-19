@@ -228,13 +228,27 @@ Every source used in this investigation and whether it's still up:
 
 ## 7. Cyberleek's Discord Claims
 
-Cyberleek has a Discord server where they've been chatting with community members and dropping hints about the game. Here are the confirmed claims from their Discord messages:
+Cyberleek has a Discord server where they've been chatting with community members and dropping hints about the game. Here are the confirmed screenshots and claims from their Discord messages:
 
 *(Screenshots credit: [@gamingskew](https://x.com/gamingskew) on X)*
 
-![Cyberleek Discord claims](assets/discord_claims_1.png)
+#### 1. Lucia Intro & Game Start
+![Lucia Intro Discord Claim](assets/discord_claim_1_lucia_intro.png)
+*Cyberleek stating that Lucia isn't introduced into the game right away.*
 
-### What They Said:
+#### 2. Lucia Prison Storyline
+![Lucia Prison Storyline Discord Claim](assets/discord_claim_2_prison_pickup.png)
+*Cyberleek confirming with a green checkmark that Jason picks Lucia up from prison.*
+
+#### 3. Map Date (2023) & PS5 Pro Performance
+![Map Date and PS5 Pro Discord Claim](assets/discord_claim_3_map2023_ps5pro.png)
+*Cyberleek stating the leaked map is from a 2023 build, and answering "Not yet" regarding 60fps on PS5 Pro.*
+
+#### 4. Leaker Gameplay Identity & Rockstar Contact
+![Leaker Gameplay Identity Discord Claim](assets/discord_claim_4_not_the_player.png)
+*Cyberleek dodging whether they're the one playing ("I can't answer that") and confirming Rockstar hasn't contacted them.*
+
+### What They Said (Summary Table):
 
 | Claim | Context | What It Means |
 |:---|:---|:---|
@@ -276,17 +290,19 @@ Nobody knows who's actually behind this. Here's everything we could find:
 * This account is **not affiliated** with Cyberleek. It just reposts old leaked content.
 * Don't confuse it with the real accounts above.
 
-### Their Website Setup
+### Their Website Setup & Real Server Hosting
 
-| Part | Details |
-|:---|:---|
-| **Site** | `cyberleek.ar.io` (decentralized domain) |
-| **Old URL** | `leek.vilenarios.com` (now dead) |
-| **Hosting** | Arweave — permanent, literally can't be deleted |
-| **Domain** | ArNS (Arweave Name System) — no WHOIS, no registrar, no way to trace the owner through normal tools |
-| **Gateway** | `vilenarios.com` belongs to Phil Mataras, an AR.IO developer — **NOT Cyberleek**, they just used his public infrastructure |
+Let's clear up a common misconception about the hosting:
 
-The fact they used Arweave + ArNS means these files are **permanent and untakeable**. Even if every website mirror dies, the raw files live on the blockchain forever. That's not amateur-level thinking.
+| Component | What it is | Where it's actually hosted |
+|:---|:---|:---|
+| **Raw Binary Storage** | Arweave blockchain | Distributed miner nodes (decentralized storage network) |
+| **Domain Resolution** | ArNS (`cyberleek.ar.io`) | AR.IO Gateway Network |
+| **Web Gateway Server 1** | IP `49.13.45.141` | **Hetzner Online GmbH** (Nuremberg, Germany — `static.141.45.13.49.clients.your-server.de`) |
+| **Web Gateway Server 2** | IP `69.124.94.88` | **Cablevision Systems / Optimum Online** (Morristown, New Jersey — `ool-457c5e58.dyn.optonline.net`) |
+| **Old Portal** | `leek.vilenarios.com` | Taken down via DMCA / host action |
+
+> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular browsers need standard HTTP web servers (gateways) to view the site. Those gateway servers run on normal commercial hosting companies like **Hetzner** in Germany and **Cablevision/Optimum** in the US. This means Take-Two / Rockstar **can and do shut down the web portals** by sending abuse notices to Hetzner and domain registrars (which is why `leek.vilenarios.com` went offline). The raw files remain queryable on the blockchain, but the public websites are tied to ordinary web hosts.
 
 ### The $CYBERLEEK Token
 
