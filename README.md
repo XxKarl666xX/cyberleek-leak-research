@@ -8,9 +8,9 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > <a id="key-alerts"></a>
 > ### 🚨 Critical Facts & Alerts (Must Read First)
 > 
-> * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside crypto promoter.
+> * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside promoter.
 > * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
-> * ⚠️ **TOKEN & SCAM WARNING**: **Do not buy any `$CYBERLEEK` crypto tokens or send money.** The leaker and fake social media promoters are using the leak hype to pump memecoins.
+> * ⚠️ **TOKEN & PROBABLE SCAM WARNING**: The **`$CYBERLEEK` token and donation polls are run directly by the official Cyberleek website**, NOT by the Twitter account. Gaming news outlets, Ross Scott (Stop Killing Games), and community researchers agree this is **almost certainly a cryptocurrency pump-and-dump scheme** using GTA 6 hype to cash out. **Do NOT buy their token or send crypto.**
 > * 🇩🇪 **LEAKER IDENTITY**: 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Nuremberg, Bavaria, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
 
 <div align="center">
@@ -644,7 +644,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 #### 4. The "Promoter / Middleman" Theory
 ![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
 *Tweets sent via "Twitter for iPhone" at strange hours.*
-* **The Takeaway**: The real video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) are definitely real Rockstar footage. However, the Twitter account and Discord server were run by a **crypto promoter** who got access to the files early, slapped their `$CYBERLEEK` Solana token branding on them, and created drama to pump their coin.
+* **The Takeaway**: The real video files are genuine developer footage, and the **`$CYBERLEEK` Solana token, donation smart contracts, and voting polls are run directly by the official Cyberleek website itself**. The `@cyberleek_ar_io` Twitter account was an outside imposter/promoter piggybacking on the leaker's coin to build social media clout. However, the token itself remains a **probable cryptocurrency pump-and-dump scheme** run by the leakers to extract money from excited gamers.
 
 #### 5. Hard Proof from Video 4: "CYBERLEEK DOES NOT HAVE TWITTER"
 ![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
