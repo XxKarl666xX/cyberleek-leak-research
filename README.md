@@ -604,15 +604,21 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 | [`https://cyberleek.ar.io`](https://cyberleek.ar.io) | Default AR.IO Gateway | 🔴 **DOES NOT WORK (DOWN)** | Main ArNS node offline / unresponsive |
 | [`https://leek.turbo-gateway.com`](https://leek.turbo-gateway.com) | Turbo Gateway Secondary Node | 🔴 **DOES NOT WORK (DOWN)** | Connection refused / DNS error |
 
-#### 🖥️ Server Infrastructure & Hosting Providers:
+#### 🖥️ Server Infrastructure & Hosting Providers (All Websites):
 
-| Component | What it is | Where it's actually hosted | Current Status |
-|:---|:---|:---|:---|
-| **Raw File Storage** | Arweave blockchain | Decentralized computer network | Stored permanently on ledger |
-| **Web Server 1** | IP `49.13.45.141` | **Hetzner Online GmbH** (Nuremberg, Germany — `static.141.45.13.49.clients.your-server.de`) | 🔴 **Down / Unresponsive** |
-| **Web Server 2** | IP `69.124.94.88` | **Cablevision Systems / Optimum Online** (Morristown, New Jersey — `ool-457c5e58.dyn.optonline.net`) | 🔴 **Down / Unresponsive** |
+| Website / Service | Role & Function | Hosting Provider & Location | IP / Network Routing | Live Status |
+|:---|:---|:---|:---|:---:|
+| [**`https://leek.vilenarios.com`**](https://leek.vilenarios.com) | Main Web Application Portal | Web Server / Cloud Hosting Provider | Direct DNS Web Gateway | 🟢 **ONLINE (UP)** |
+| [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) | ArNS Community Mirror Gateway | Koltigin AR.IO Community Node | Decentralized ArNS Routing | 🟢 **ONLINE (UP)** |
+| [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io) | Official ArNS Gateway | AR.IO Decentralized Gateway Network | Main AR.IO Gateway Node | 🔴 **DOWN** |
+| [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | Turbo Gateway Web3 Mirror | Turbo Arweave Gateway Network | Turbo Arweave Cache Proxy | 🔴 **DOWN** |
+| [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | Secondary Gateway Node | Turbo Arweave Gateway Network | Turbo Arweave Cache Proxy | 🔴 **DOWN** |
+| **Backend Web Server 1** | Reverse Proxy / Web Gateway | **Hetzner Online GmbH** (Nuremberg, Bavaria, Germany) | IP [`49.13.45.141`](https://ipinfo.io/49.13.45.141) (`static.141.45.13.49...`) | 🔴 **DOWN** |
+| **Backend Web Server 2** | Reverse Proxy / Web Gateway | **Cablevision Systems / Optimum Online** (Morristown, NJ, USA) | IP [`69.124.94.88`](https://ipinfo.io/69.124.94.88) (`ool-457c5e58.dyn...`) | 🔴 **DOWN** |
+| **Arweave Permanent Ledger** | Raw Media & Map File Storage | Global Decentralized Storage Network | Arweave Ledger Block Miners | 🟢 **PERMANENT** |
+| **Solana Blockchain** | Smart Contracts, Voting & Video 4 Post | Solana Validator Network (Mainnet-Beta) | Program ID `7rAgHPLDc9...` | 🟢 **ACTIVE** |
 
-> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular web browsers need HTTP web servers (gateways) to display the site. Both the main portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) and the community gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) are **100% working and online**, while default gateway endpoints (`turbo-gateway.com` and `cyberleek.ar.io`) are currently down.
+> **How this actually works**: While the *raw data hashes* live permanently on the Arweave and Solana blockchains, regular web browsers need standard HTTP web servers (gateways) to display the site. Both the direct portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) and the community gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) are **100% working and online**, while default gateway endpoints (`turbo-gateway.com`, `cyberleek.ar.io`, and the Hetzner/Cablevision backend servers) are currently unreachable.
 
 ---
 
