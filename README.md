@@ -37,46 +37,58 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 * 📁 **[1. What Got Leaked (All 7 Files)](#what-got-leaked)**
   * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
-  * 🚗 [File 2: Highway Driving & Delivery Van (`video2.mp4`)](#driving-clip)
+  * 🚗 [File 2: Highway Driving & Delivery Van Clip (`video2.mp4`)](#driving-clip)
   * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#full-map)
   * 🏝️ [File 4: Map Sneak Peek 1 (Dalton Island)](#dalton-island)
   * 🏝️ [File 5: Map Sneak Peek 2 (Catalan & Gloriana Key)](#catalan-key)
-  * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`)](#taser-clip)
+  * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene Clip (`taser.mp4`)](#taser-clip)
   * 💉 [File 7: Junkies Encounter, Police Motorcycle & Zombix Clip (`junkies.mp4`)](#junkies-clip)
+
 * 🔗 **[2. Direct Links & Mirror Table](#direct-links)**
+
 * 📊 **[3. Video Comparison & Technical Details](#video-comparison)**
+
 * ⏱️ **[4. Second-by-Second Video Breakdown](#video-breakdown)**
-  * 🏀 [Video 1: Basketball Gameplay](#bball-breakdown)
-  * 🚗 [Video 2: Highway Driving](#driving-breakdown)
-  * ⚡ [Video 3: Taser, Truck & Boat Cutscene](#taser-breakdown)
-  * 💉 [Video 4: Junkies Encounter, Canal Fight & Police Motorcycle](#junkies-breakdown)
+  * 🏀 [Video 1: Basketball Gameplay Breakdown (69s)](#bball-breakdown)
+  * 🚗 [Video 2: Highway Driving Breakdown (68s)](#driving-breakdown)
+  * ⚡ [Video 3: Taser, Truck Hijacking & Boat Cutscene (124.5s)](#taser-breakdown)
+  * 💉 [Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (144.5s)](#junkies-breakdown)
   * 🎮 [New HUD & Gameplay Mechanics (Clone Key, Stamina, Minimap, RDR2 Defuse, Fuel, CarPlay, Zombix)](#new-hud-mechanics)
-  * 🐦 [Community Breakdown on X (@NikTek)](#niktek-breakdown)
+  * 🐦 [Community Gameplay Observations on X (@NikTek)](#niktek-breakdown)
+
 * 🗺️ **[5. Map & County Breakdown](#map-breakdown)**
-  * 🔍 [1. Map Zoom Road Details](#map-zoom)
-  * 📐 [2. Map Size Comparison (1.656x Bigger than GTA 5)](#landmass-size)
+  * 🔍 [1. Map Zoom Road Networks & Geography](#map-zoom)
+  * 📐 [2. Map Size Comparison (1.656x Bigger than GTA V)](#landmass-size)
   * 🐊 [3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
   * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
+
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
+
 * 💬 **[7. What Was Claimed in Discord (Archived Q&A — Fake Promoter Claims)](#discord-qa)**
   * ❌ [5. Real-Money Creator Currency / Robux (Debunked Crypto Bait)](#creator-currency-claim)
   * 🚫 [7.5. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
+
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
-  * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
+  * 👤 [Their Online Accounts & Known Handles](#official-accounts)
   * 🌐 [1. Official Endpoints & Live Status Tracker](#official-endpoints)
-  * 🖥️ [2. Server Infrastructure & IP Resolution](#server-hosting)
-  * 💰 [3. Blockchain & Money Trail (Token Pre-Dated Leaks)](#token-money-trail)
-  * 🧅 [4. Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
-  * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
-  * ✈️ [7. Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
-  * ⏳ [8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
-  * ❌ [9. Debunked Full Game Build Theory](#full-build-theory)
-  * ❌ [10. Debunking Fake Theories (RDR2 Mod Claim)](#debunking-rdr2-mod)
-  * 🔍 [11. 2018 Forum History & Identity Profile (Szenebox Discovery)](#szenebox-profile)
+  * 🖥️ [2. Server Infrastructure, IP Resolution & Hosting Providers](#server-hosting)
+  * 💰 [3. Blockchain & Money Trail (Token & Website Set Up 3 Days Early)](#token-money-trail)
+  * 🧅 [4. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
+  * 🔍 [5. Community Debunking: Imposter Accounts & Fake FBI Drama](#debunking-twitter)
+  * ✈️ [6. Next Video Drop Confirmed: "Plane (DAY)" (Official Poll Winner)](#poll-plane-winner)
+  * ⏳ [7. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
+  * ❌ [8. Debunked Misconception: Full Game Build Theory](#full-build-theory)
+  * ❌ [9. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
+  * 🔍 [10. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)](#szenebox-profile)
+
 * 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
+
 * ❓ **[10. What We Still Don't Know](#unknowns)**
+
 * ⚖️ **[11. Final Verdict](#verdict)**
+
 * 📜 **[12. Legal Disclaimer & Fair Use Notice](#legal-disclaimer)**
+
 * 🤝 **[13. Contributing & Submitting Evidence](#contributing)**
 
 ---
@@ -714,7 +726,7 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 ---
 
 <a id="debunking-twitter"></a>
-### Community Debunking: Is the Twitter Account Even the Real Leaker?
+### 5. Community Debunking: Is the Twitter Account Even the Real Leaker?
 
 *(Investigation & evidence credits: Discord users **`garza`** and **`vaaatiel`**)*
 
@@ -773,7 +785,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ---
 
 <a id="poll-plane-winner"></a>
-#### 7. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Ended)
+### 6. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Ended)
 ![Cyberleek Poll Winner Plane](assets/cyberleek_official_poll_plane_day_winner.png)
 *The closed poll on the official leaker website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) confirming "Plane (DAY)" won 100% of the vote.*
 
@@ -791,7 +803,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ---
 
 <a id="natedrake-age"></a>
-#### 8. Hard Proof on Footage Age: Radio Song Proves Build is January 2025 or Newer
+### 7. Hard Proof on Footage Age: Radio Song Proves Build is January 2025 or Newer
 
 *(Radio song discovery credit: GitHub contributor [@Phantonymous](https://github.com/Phantonymous) — [Issue #2](https://github.com/zyrexdz/cyberleek-leak-research/issues/2) & industry confirmation by `NateDrake`)*
 
@@ -812,7 +824,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ---
 
 <a id="full-build-theory"></a>
-#### 9. ❌ DEBUNKED MISCONCEPTION: Does the Leaker Have the Full Game Build?
+### 8. ❌ DEBUNKED MISCONCEPTION: Does the Leaker Have the Full Game Build?
 ![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
 *❌ **DEBUNKED THEORY**: The theory that the leaker has the full playable game build.*
 
@@ -824,7 +836,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ---
 
 <a id="debunking-rdr2-mod"></a>
-#### 10. ❌ 100% DEBUNKED FAKE THEORY: "It's Just an RDR2 Mod with a Cities: Skylines Map"
+### 9. ❌ 100% DEBUNKED FAKE THEORY: "It's Just an RDR2 Mod with a Cities: Skylines Map"
 ![Debunking RDR2 Mod Theory](assets/debunking_fake_rdr2_mod_theory.png)
 *❌ **100% DEBUNKED VIRAL CLAIM**: Tweet by `@DailyInterw6ac` falsely claiming the leaks are just a Cities: Skylines map imported into Red Dead Redemption 2.*
 
@@ -843,8 +855,10 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   6. **Jason Schreier & Industry Verification**: Top investigative gaming journalist **Jason Schreier (Bloomberg)** and major gaming outlets independently verified that the footage is genuine Rockstar developer material.
   7. **Copyright Law (DMCA)**: Under federal law (17 U.S.C. § 512), Take-Two can only issue DMCA takedowns on proprietary content they own. They do not strike fan mods or *Cities: Skylines* builds.
 
+---
+
 <a id="szenebox-profile"></a>
-#### 10. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
+### 10. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)
 ![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
 *Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018.*
 
