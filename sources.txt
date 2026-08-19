@@ -77,6 +77,5 @@
 * User Profile: `cyberleek` (https://szenebox.org/members/cyberleek/ — Registered pre-2018, Dark Flaming Skull Avatar)
 * Introduction Thread (Archive): https://szenebox.org/archive/index.php/t-18889.html ("💡 Vorstellung Cyberleek" — Posted Jan 3, 2018, 00:31 UTC+1)
 * Introduction Thread (Live Subforum): https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/
-* JavaScript Challenge Thread: "Hackit" (Posted Jan 3, 2018, 11:18 UTC+1 — Northern German "Moiin")
 * Primary Gateway Server: Hetzner Online GmbH (AS24940, Falkenstein, Germany — IP `49.13.45.141` / https://ipinfo.io/49.13.45.141)
 * Reverse DNS Record: `static.49.13.45.141.clients.your-server.de` (Hetzner German Portal)

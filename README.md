@@ -642,9 +642,9 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ---
 
-##### 1. The 2018 Forum Posts & German Slang
+##### 1. The 2018 Introduction Post
 
-* **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
+* **The Forum Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
   * **Direct Links**: [Szenebox Archive Link](https://szenebox.org/archive/index.php/t-18889.html) / [Live Forum Thread](https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/) / [Author Profile](https://szenebox.org/members/cyberleek/)
   * **Exact Date & Time**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`)
   * **Forum Notice**: If you open the live link without logging in, the site says *"vBulletin System Notice: No information: topic"* because `szenebox.org` locks user intros (`118-user-vorstellungen`) and member pages to registered accounts only.
@@ -654,10 +654,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
     > *Ich bin 'Cyberleek', zwischen 25 und 30 Jahre alt. Ich interessiere mich für Web-Security/Penetration Testing sowie Linux/Server-Administration. Wenn ich Zeit habe, bastle ich auch gerne mit meinem 3D-Drucker oder baue Dinge mit dem Raspberry Pi. Leider arbeite ich nicht in diesem Bereich. Mal sehen, was die Zukunft bringt."*
   * **English Translation**:  
     > *"Hello everyone.. I'm 'Cyberleek', between 25 and 30 years old. I'm interested in web security/penetration testing as well as Linux/server administration. When I have time, I also like to tinker with my 3D printer or build things with the Raspberry Pi. Unfortunately, I don't work in this field. Let's see what the future holds."*
-* **Thread 2: Coding Challenge (`03.01.2018, 11:18 UTC+1`)**:
-  * **Original German**:  
-    > *"Moiin an alle.. Ich bin ein absoluter N00b was JS angeht, jedoch wollt ich bei folgendem Hackit mal gucken wie weit ich komme..."*
-  * **How We Know He Speaks German**: The greeting **"Moiin"** (*Moin*) is a well-known local greeting in **Northern Germany** (Hamburg, Bremen, Lower Saxony). The casual way he writes (*"bastle ich gerne"*, *"Mal sehen was die Zukunft bringt"*) is 100% natural, everyday German — not a translator tool.
+  * **How We Know He Speaks German**: The phrasing (*"Hallo zusammen.."*, *"bastle ich auch gerne"*, *"Mal sehen was die Zukunft bringt"*) is 100% natural, everyday German written on a German board — not translated text.
 
 ---
 
