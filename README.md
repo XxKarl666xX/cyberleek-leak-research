@@ -166,7 +166,32 @@ All external links and mirrors saved for checking:
 
 ## 4. Second-by-Second Video Breakdown
 
-### What Happens in `taser.mp4` (Timestamp — What Happens — Why It Matters):
+Here is what happens in all 3 leaked videos, broken down by timestamp:
+
+### Video 1: Basketball Gameplay (`output.mp4`, 69 Seconds)
+![Basketball Frame](assets/video1_bball_focus_meter.jpg)
+
+* **`00:00:00` — Outdoor Waterfront Court** — Jason stands on a clean wooden deck holding a basketball with ocean and modern house architecture in the background. *Why it matters*: Shows real-time sunlight, shadow angles, and water reflections.
+* **`00:00:15` — Aiming the Basketball Shot** — Jason gets into shooting stance; a circular meter ("Focus" bar) appears around the player UI. *Why it matters*: First look at how mini-games and sports activities work in GTA VI.
+* **`00:00:30` — First Shot & Focus Meter Charge** — Jason releases the ball; it swishes through the net, and the Focus meter gains a yellow charge segment. *Why it matters*: Confirms the Focus mechanic rewards player timing and accuracy with special gameplay buffs.
+* **`00:00:48` — Dribble & Step-Back Shot** — Jason dribbles back to the three-point line and takes another shot. *Why it matters*: Shows smooth character body motion, natural foot stepping on wooden planks, and realistic net mesh physics.
+* **`00:01:05` — Final Shot & Camera Reset** — Jason finishes shooting and turns around as the clip ends. *Why it matters*: Seamless camera movement returning back to normal free-roam mode.
+
+---
+
+### Video 2: Highway Driving & Delivery Van (`video2.mp4`, 68 Seconds)
+![Driving Frame](assets/video2_driving_picador_highway.jpg)
+
+* **`00:00:00` — Driving the Declasse Picador** — Jason drives a rusty red/brown Declasse Picador pickup truck along a dual-lane asphalt highway. *Why it matters*: Shows real car handling, tire grip, and high-speed motion blur on Leonida roads.
+* **`00:00:18` — Overhead Highway Exit Signs** — The car passes under large green overhead highway signs pointing toward **Goose Key**, **Hamlet**, and **Vice City**. *Why it matters*: Confirms real in-game travel routes connecting the Keys to the Vice City metro.
+* **`00:00:35` — Traffic Density & Delivery Vans** — The truck passes commercial delivery vans and other traffic in the right lane. *Why it matters*: Shows working NPC traffic driving AI, lane-changing behavior, and varied vehicle models.
+* **`00:00:52` — Suspension Bump over Bridge Joint** — The truck drives over a bridge road seam; the suspension bounces and shakes the camera naturally. *Why it matters*: Confirms realistic car suspension and shock-absorber physics.
+* **`00:01:05` — Vice City Skyline Horizon** — Distant tall buildings of Vice City appear on the horizon across the water before the video ends. *Why it matters*: Confirms long-distance view distance across Leonida waterways.
+
+---
+
+### Video 3: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`, 124.5 Seconds)
+![Taser Aim](assets/video3_taser_weapon_aim.jpg)
 
 * **`00:00:00` — Night Driving in Muscle Car** — Jason drives a rusty muscle car on a dark road. *Why it matters*: Shows real car suspension bumps, headlight beams, and road wetness on the real game engine.
 * **`00:00:23` — Pulling into Allied Crystal Yard** — Car turns into a factory gate with trucks and fuel tanks. *Why it matters*: Confirms the factory town of Ambrosia (parody of Clewiston, Florida).
@@ -182,7 +207,7 @@ All external links and mirrors saved for checking:
 
 ## 5. Map & County Breakdown
 
-The leaked map names 5 counties. We checked them against official Rockstar trailers and fan maps:
+The leaked map names 5 counties. We checked them against official Rockstar trailers, insider claims, and fan maps:
 
 | County | On Leaked Map? | Seen in Official Trailers? | Proof Source |
 | :--- | :--- | :--- | :--- |
@@ -194,6 +219,12 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 
 ![Trailer 2 Mariana County Proof](assets/trailer2_mariana_county_proof.png)
 *Highway sign from Trailer 2 at 2:29 showing Route 404 East heading into Mariana County.*
+
+### Community Map Expert Breakdown (`martipk`):
+![Martipk Map Breakdown](assets/community_claim_martipk_map_real.png)
+*Community researcher `martipk` explaining why the leaked map is an authentic developer overview asset.*
+
+* **Why the map is real**: As community researcher `martipk` pointed out, the leaked map is a **low-render developer overview** that intentionally omits small streets, bridges, and tunnels for high-level planning. The coastal outlines, water inlets, and county borders match trailer landmarks with extreme accuracy that fan maps never had.
 
 ### Other Real Locations on the Leaked Map:
 * **Ambrosia**: Confirmed location of the **Allied Crystal Sugar Refinery** shown in `taser.mp4`.
@@ -339,6 +370,11 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
 *Tweets sent via "Twitter for iPhone" at strange hours.*
 * **The Takeaway**: The real video files (`output.mp4`, `video2.mp4`, `taser.mp4`) are definitely real Rockstar footage. However, the Twitter account and Discord server may simply be run by a **crypto promoter** who got access to the files early, slapped their `$CYBERLEEK` Solana token branding on them, and created the "No Disc, No Peace" drama to pump their coin. Meanwhile, the actual source who originally had the clips remains quiet.
+
+#### 5. Insider Confirmation on Footage Age (`NateDrake`)
+![NateDrake Age Proof](assets/community_claim_natedrake_age.png)
+*Gaming insider `NateDrake` commenting on the leaks: "Um.... unless a new round of previews are underway, this claim isn't accurate. Also, the leaked footage is over a year old."*
+* **What this proves**: Well-known gaming insider `NateDrake` confirmed that **the leaked footage is over a year old** (likely from a 2024–early 2025 internal build). This matches up with Cyberleek's own Discord statement that the map asset dates back to 2023.
 
 ---
 
