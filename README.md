@@ -215,7 +215,7 @@ Here are the 7 files leaked by Cyberleek between August 16 and August 19, 2026:
   * **Part 6 (2:13.5 – 2:24.5)**: Spliced daylight boat cutscene where Jason drinks beer with Raul: *"Enjoy your life till the moment I decide to finally shut you the fuck up."*
 * **On-Chain Post**: Account `2XRc2NJhXkcFNBzWeMkbGunBMLLKRjdEkV9aBWZQ1ow`, Authority `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`
 * **On-Chain Transaction**: `3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv` (BlockTime `1787158475` / `2026-08-19 16:54:35 UTC`)
-* **Mirrors**: [`transfiles.ru/vimdx`](https://transfiles.ru/vimdx)
+* **Main Mirror**: [`gofile.io/d/t87ORtpm`](https://gofile.io/d/t87ORtpm)
 * **Filename**: `junkies.mp4`
 * **Size**: 38.08 MB (39,933,164 bytes)
 * **Resolution**: 1920×1080 (1080p Full HD)
@@ -240,7 +240,7 @@ All external links and mirrors saved for checking:
 | **Basketball Video** | [Arweave Gateway](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [Upload.ee](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p MP4 (34 MB) |
 | **Driving Video** | [Arweave Gateway](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [Transfiles](https://transfiles.ru/ybyf9) / [Upload.ee](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p MP4 (35 MB) |
 | **Taser / Boat Video** | [Gofile.io](https://gofile.io/d/qW134pdk) | [Bedrive.ru](https://bedrive.ru/ead5) | 1080p MP4 (28 MB) |
-| **Junkies / Canal Video** | [Transfiles Mirror](https://transfiles.ru/vimdx) | Solana Tx `3iKf4UjN...` | 1080p MP4 (38 MB) |
+| **Junkies / Canal Video** | [Gofile.io](https://gofile.io/d/t87ORtpm) | Solana Tx `3iKf4UjN...` | 1080p MP4 (38 MB) |
 | **Full Map** | [Arweave Gateway](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [Upload.ee](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.5 MB) |
 | **Map Peek 1** | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | — | 1110×880 PNG |
 | **Map Peek 2** | [Arweave Gateway](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | — | 1140×907 PNG |
@@ -491,7 +491,7 @@ Every date here has a source you can check yourself:
 | **2026-08-18 / 19** | Cyberleek's original Discord server gets banned; replacement created (`ZWjnQSSJ2P`) | Confirmed via `cyberleek_west` | Proves Discord ban action. |
 | **2026-08-19 ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat scene) surfaces on mirrors | [Gofile Mirror](https://gofile.io/d/qW134pdk) | Proves third video surfaced. |
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
-| **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Transfiles Mirror](https://transfiles.ru/vimdx) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
+| **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
 
 ---
 
