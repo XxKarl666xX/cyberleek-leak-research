@@ -75,6 +75,8 @@
 * In-Car iFruit CarPlay Discovery: @7Kkurd on X (iFruit logo on vehicle GPS minimap credit)
 * Creator Currency / Real-Money Claim Breakdown: @GamingCulture on X (Robux-style creator economy report credit)
 * Blockchain Funding & Token Creation Discovery: @TheRealJoeSchro on GitHub (Issue #3 wallet trail & Solscan discovery credit)
+* Dark Web Watermark Evolution Insight: @ReversedC0W3030 on GitHub (Issue #6 Dread cleaner video comparison credit)
+* Hetzner Payment & Verification Nuance: @XxKarl666xX on GitHub (Issue #7 VPS PayPal verification correction credit)
 * Fake Twitter Suspension & FBI GIF Discovery: jorin77 on Discord
 * RDR2 Mod Theory Fact-Checking: @DailyInterw6ac claim debunking (Engine memory, physics, and voice acting proof)
 * Landmass Size Python Analysis: u/UUT- on r/GTA6unmoderated (1.656x GTA 5 landmass calculation credit)

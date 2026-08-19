@@ -709,6 +709,7 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 * **The Username**: Posted by user **`CyberLeeker`**.
 * **The Timestamp**: **August 18, 2026 at 07:36 UTC** — roughly **12 hours before** it went viral on mainstream social media.
 * **The Post**: Titled *"Stolen GTA6 Footage"*, sharing the basketball clip via temporary file hosts (`gofile.io` and `temp...`).
+* **Watermark Evolution**: The initial dark web leak on Dread had a **smaller, cleaner watermark**. When the leaker later prepared their public website, they re-encoded the video with a much larger promotional watermark promoting their website and crypto token. *(Discovery credit: [@ReversedC0W3030](https://github.com/ReversedC0W3030) — [Issue #6](https://github.com/zyrexdz/cyberleek-leak-research/issues/6))*
 
 ---
 
@@ -899,7 +900,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 * **Hosting Company**: [**Hetzner Online GmbH**](https://www.hetzner.com/) (Germany's biggest server provider).
 * **Server Location**: **Nuremberg, Bavaria, Germany** ([`AS24940`](https://ipinfo.io/AS24940)).
 * **Server Address (rDNS)**: `static.141.45.13.49.clients.your-server.de` (`your-server.de` is Hetzner's German customer portal).
-* **ID & Bank Checks**: Hetzner requires EU bank transfers (SEPA), European cards, or photo ID checks to rent servers.
+* **Payment & Verification Nuance**: While Hetzner is based in Germany and frequently asks for EU bank/card details or ID for dedicated servers, cloud VPS instances can also be purchased via PayPal without strict identity checks, meaning false account info could potentially be used. *(Correction credit: [@XxKarl666xX](https://github.com/XxKarl666xX) — [Issue #7](https://github.com/zyrexdz/cyberleek-leak-research/issues/7))*
 
 ---
 
