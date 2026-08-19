@@ -90,7 +90,10 @@
 * Introduction Thread (Archive): https://szenebox.org/archive/index.php/t-18889.html
 * JS Hackit Thread: https://www.szenebox.org/52-exploits_codes_tools/7978-js_hackit_-_hilfe/ (Jan 3, 2018)
 * Tech-Forum & XMPP Link Thread: https://www.szenebox.org/207-archiv/7928-tech-forum_stellt_sich_vor/index2.html#post70405 (`tech-forum.ch` / `cookie@im-tech-forum.ch`)
-* Wayback Machine Archives: https://web.archive.org/web/*/https://tech-forum.ch (Snapshots from 2018–2019 — Debian Apache server)
+* Wayback Machine Archives: https://web.archive.org/web/*/https://tech-forum.ch
+  * Snapshot 1 (March 28, 2019 - 200 OK): http://web.archive.org/web/20190328090751/http://tech-forum.ch/
+  * Snapshot 2 (August 11, 2018): https://web.archive.org/web/20180811201124/https://tech-forum.ch/
+  * Snapshot 3 (August 4, 2018): http://web.archive.org/web/20180804025115/http://tech-forum.ch/
 * Swiss WHOIS Registry: Pre-2021 SWITCH records for `tech-forum.ch` (Discovered by @Nico-Strecker — Issue #12)
 * Third-Party Threat Intel Mention: Tec-Bite Article (https://www.tec-bite.ch/is-any-of-your-companies-data-in-dark-web/ — Feb 2023)
 * Third-Party Cybercrime Index: Dancho Danchev Memoir (https://dn721608.ca.archive.org/0/items/dancho-danchev-cyber-intelligence-cybercrime-memoir-second-edition-2023/Dancho_Danchev_Cyber_Intelligence_Cybercrime_Memoir_Second_Edition_2023.pdf — Page 396)

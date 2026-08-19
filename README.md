@@ -10,7 +10,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > <a id="key-alerts"></a>
 > ### 🚨 Critical Facts & Latest Status (Must Read First)
 > 
-> * 🟢 **LIVE STATUS UPDATE (August 19, 2026)**: The main website portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (Cablevision USA) and the active ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (Contabo EU) are **ONLINE & ACTIVE (UP)**! All websites that are **DOWN** (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, `leek.turbo-gateway.com`) are hosted on **Hetzner server `49.13.45.141` in Germany**, pointing to a **likely Take-Two host-level DMCA takedown theory** against Hetzner.
+> * 🟢 **LIVE STATUS UPDATE**: ALL official websites, portals, and Web3 gateway mirrors ([**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/), [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz), [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com), [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com), [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io)) are **100% ONLINE & ACTIVE (UP)**!
 > * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: Both the suspended [@cyberleek_ar_io](https://x.com/cyberleek_ar_io) and its secondary backup account [**@MrCyberLeek**](https://x.com/MrCyberLeek) on X are **100% FAKE / IMPOSTERS** run by an outside promoter seeking clout.
 > * 💬 **DISCORD Q&A CLAIMS ARE UNVERIFIED / PROMOTER FICTION**: All text claims from the old "Cyberleek Discord" (Lucia intro mission, prison pickup, 2023 map claim, Robux currency) were posted on a server shared by the fake Twitter promoter. Only the 4 video files, map images, on-chain Solana tx, and official website portals are genuine.
 > * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
@@ -954,9 +954,11 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
   * *Takeaway*: 100% proves `cyberleek` and `tech-forum` are the exact same person, and reveals his personal XMPP / Jabber contact address: **`cookie@im-tech-forum.ch`**.
 
 * **Wayback Machine Snapshots & Swiss WHOIS Trail**:
-  * **Wayback Machine Archive**: [tech-forum.ch on Archive.org](https://web.archive.org/web/*/https://tech-forum.ch)
-    * 🔗 [**March 28, 2019 Snapshot (200 OK)**](http://web.archive.org/web/20190328090751/http://tech-forum.ch/): Shows `Apache/2.4.25 (Debian) Server at tech-forum.ch Port 80` hosting `bild.php`, matching his Debian Linux server setup.
-    * 🔗 [**August 11, 2018 Snapshot**](https://web.archive.org/web/20180811201124/https://tech-forum.ch/): Shows the site during its active HTTPS configuration.
+  * **Wayback Machine Archive Links**:
+    * 🔗 [**Full Archive Calendar Index**](https://web.archive.org/web/*/https://tech-forum.ch) — Complete Wayback Machine history for `tech-forum.ch`.
+    * 🔗 [**Snapshot 1: March 28, 2019 (200 OK)**](http://web.archive.org/web/20190328090751/http://tech-forum.ch/): Shows `Apache/2.4.25 (Debian) Server at tech-forum.ch Port 80` hosting `bild.php`, matching his Debian Linux server setup.
+    * 🔗 [**Snapshot 2: August 11, 2018**](https://web.archive.org/web/20180811201124/https://tech-forum.ch/): Shows the site during its active HTTPS configuration.
+    * 🔗 [**Snapshot 3: August 4, 2018**](http://web.archive.org/web/20180804025115/http://tech-forum.ch/): Shows the early HTTP to HTTPS redirection setup.
   * **Swiss WHOIS Data Point (Discovery credit: [@Nico-Strecker](https://github.com/Nico-Strecker) on GitHub — [Issue #12](https://github.com/zyrexdz/cyberleek-leak-research/issues/12))**:
     * **Pre-2021 Swiss Transparency**: Prior to January 1, 2021, the official Swiss `.ch` registry (**SWITCH** / `nic.ch`) published the full real names, postal addresses, and contact info of all domain owners by default.
     * **Domain Lifecycle**: `tech-forum.ch` was registered in December 2017 and later let expire after 2019.
