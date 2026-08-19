@@ -279,6 +279,11 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 *Crowned alligator icon inside a yellow badge pin in the Grassrivers swamp.*
 * **Legendary Animal Hunting**: The map features special icons like a **crowned alligator** in the Grassrivers wetlands. This confirms that the **Legendary Animal hunting system from Red Dead Redemption 2** is returning in GTA VI as a side activity.
 
+### 4. Deep Dive: What is Lummox County & Is It Official?
+* **Seen in Official Trailers?**: ❌ **Not directly yet**. While *Vice-Dale County* (police cruiser door at `0:28` in Trailer 1), *Mariana County* (Route 404 East sign at `2:29` in Trailer 2), and *Kelly / Leonard Counties* (police cruisers in Port Gellhorn) are 100% verified in official trailers, the specific printed name *"Lummox County"* has not appeared on an official road sign or police badge in trailers so far.
+* **Where It Is Located**: Lummox County makes up the **northernmost wilderness region** of the State of Leonida on the leaked map, representing thick forests, hills, and river canyons inspired by northern Florida and southern Georgia (like Providence Canyon State Park, GA).
+* **Mount Kalaga National Park**: The main landmark inside Lummox County is **Mount Kalaga** / **Mount Kalaga National Park**. Mount Kalaga was originally discovered in internal developer coordinate tags and world-boundary names during the 2022 leaks, and is designed as a rugged mountain wilderness area (similar to Roanoke Ridge in *Red Dead Redemption 2*) featuring hunting, fishing, off-roading, and encounters with secluded backcountry NPCs.
+
 ### Other Real Locations on the Leaked Map:
 * **Ambrosia**: Confirmed location of the **Allied Crystal Sugar Refinery** shown in `taser.mp4`.
 * **Catalan Key & Gloriana Key**: Matches `map_sneak_peek_2.png`.
