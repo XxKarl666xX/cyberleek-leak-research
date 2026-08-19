@@ -61,6 +61,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🖥️ [Real Server Hosting (Hetzner & Cablevision)](#server-hosting)
   * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
+  * ✈️ [Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
   * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
   * 🎮 [Full Game Build Theory (NikTek & Cyberleek Repost)](#full-build-theory)
   * 🔍 [2018 Forum History & Identity Profile (Szenebox Discovery)](#szenebox-profile)
@@ -492,6 +493,7 @@ Every date here has a source you can check yourself:
 | **2026-08-19 ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat scene) surfaces on mirrors | [Gofile Mirror](https://gofile.io/d/qW134pdk) | Proves third video surfaced. |
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
 | **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
+| **2026-08-19 ~22:30** | Official leaker website poll concludes; `▶ Plane (DAY)` wins 100% of votes (65,342 $CYBERLEEK) | [Poll Winner Snapshot](#poll-plane-winner) | Confirms upcoming **Video 5** is scheduled as a daytime airplane flight / cinematic drive-by clip. |
 
 ---
 
@@ -658,14 +660,30 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   2. The real leaker running the website and Solana smart contracts has disowned the Twitter account completely.
   3. The Twitter account was just an unauthorized crypto promoter, while the real leaker communicates strictly through their Web3 websites.
 
+<a id="poll-plane-winner"></a>
+#### 6. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Ended)
+![Cyberleek Poll Winner Plane](assets/cyberleek_official_poll_plane_day_winner.png)
+*The closed poll on the official leaker website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) confirming "Plane (DAY)" won 100% of the vote.*
+
+* **The Poll Breakdown**:
+  * **Title**: *"Next GTA 6 Video... Cinematic drive by?"*
+  * **Winning Option**: **`▶ Plane (DAY)`** won with **100.0% of the total vote** (`65,342.86 $CYBERLEEK` tokens donated to wallet `8MAye9xrLzeeapUMo2XM9r3TRsoTNnz9pywqoTpiiK1B`).
+  * **Other Options on the Ballot**: `Car (DAY)` (0 votes), `Car (NIGHT)` (0 votes), `Motorcycle (NIGHT)` (0 votes).
+  * **Official Website Release Window**: *"The winning choice will be featured in the 'Content' section within 24h after the poll ends."*
+* **What This Reveals About the Leaker's Archive**:
+  1. **Video 5 Topic**: The upcoming 5th video drop will showcase **Daytime Airplane Flight / Aerial Gameplay / Cinematic Drive-By** action in Leonida.
+  2. **Organized Playtest Vault**: The poll options prove the leaker possesses categorized playtest footage sorted by vehicle types and lighting conditions (`Car Day/Night`, `Motorcycle Night`, `Plane Day`).
+* **Scam Warning on Voting Mechanics**:
+  * The voting system required community members to send non-refundable `$CYBERLEEK` Solana tokens directly to separate wallet addresses to vote. This served as a classic **token sink** designed to pump on-chain volume and encourage memecoin purchases.
+
 <a id="natedrake-age"></a>
-#### 6. Insider Confirmation on Footage Age (`NateDrake`)
+#### 7. Insider Confirmation on Footage Age (`NateDrake`)
 ![NateDrake Age Proof](assets/community_claim_natedrake_age.png)
 *Gaming insider `NateDrake` commenting on the leaks: "Um.... unless a new round of previews are underway, this claim isn't accurate. Also, the leaked footage is over a year old."*
 * **What this indicates**: Well-known gaming insider `NateDrake` stated that **the leaked footage is over a year old** (likely from a 2024–early 2025 internal build). This matches up with Cyberleek's own Discord statement that the map asset dates back to 2023.
 
 <a id="full-build-theory"></a>
-#### 7. Community Theory: Does the Leaker Have the Full Game Build?
+#### 8. Community Theory: Does the Leaker Have the Full Game Build?
 ![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
 *Gaming creator `@NikTek` sharing a theory that the leaker might have a full build, which was quickly reposted by Cyberleek.*
 
@@ -677,7 +695,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   3. **Video captures ≠ Game files**: Having short video recordings on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game build.
 
 <a id="szenebox-profile"></a>
-#### 8. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
+#### 9. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
 ![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
 *Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018.*
 
@@ -764,7 +782,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 * **Map Sneak Peek 1's block data** — the file works fine on Arweave's gateway but doesn't show up in the wallet's transaction history on GraphQL.
 * **How they got the footage** — could be leftover access from the 2022 breach, an insider, or they bought it from someone. Cyberleek dodged this question in Discord.
 * **One person or a team?** — the tech setup is solid but the social media posting style is messy (promoter vs real uploader).
-* **Will more leaks drop?** — they promised multiple drops, with `taser.mp4` surfacing as the third clip and `junkies.mp4` surfacing as the fourth clip via Solana transaction `3iKf4UjN...`.
+* **Will more leaks drop?** — Yes, the official website poll just closed confirming **Video 5: "Plane (DAY) — Cinematic Drive-By"** won 100% of the community votes and is scheduled as the next upcoming drop within 24 hours.
 
 ---
 
