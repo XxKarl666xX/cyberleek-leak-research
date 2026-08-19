@@ -33,18 +33,26 @@
 * SHA-1: 5d51153818628d52bbc86c7887fb2cf9a73f83f2
 * MD5: 92c97b54211d6d08cceda9ac62a10ef6
 
-### File 4: Full State of Leonida Map (full_map.png) — 2590x3240 PNG (3.54 MB)
+### Video 4: Junkies Encounter, Police Motorcycle & Canal Fight (junkies.mp4) — 1080p HEVC (144.5s)
+* Main Mirror: https://transfiles.ru/vimdx
+* Solana On-Chain Post: Account 2XRc2NJhXkcFNBzWeMkbGunBMLLKRjdEkV9aBWZQ1ow
+* Solana Transaction (BlockTime 1787158475 / 2026-08-19 16:54:35 UTC): 3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv
+* SHA-256: 44927e1820ee191df93666fb4d8add3fad7990d39ed3c4cabee60027ed0fc6d2
+* SHA-1: c7124956ea8e474f92b31188ec0c311a9a341bcb
+* MD5: 6abf17ae32673056c8d34d7b3e15baa1
+
+### File 5: Full State of Leonida Map (full_map.png) — 2590x3240 PNG (3.54 MB)
 * Arweave Permanent Ledger (Block #1982664): https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
 * Backup Mirror: https://www.upload.ee/files/19662855/full_map.png.html
 * SHA-256: c5a07256f62f3ae37904540621f2b07d2f647fd10867b620622b3471910563f6
 * MD5: 23a7aee2466b437d3de34a6fc0f44657
 
-### File 5: Map Sneak Peek 1 (Dalton Island) — 1110x880 PNG
+### File 6: Map Sneak Peek 1 (Dalton Island) — 1110x880 PNG
 * Arweave Link: https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
 * SHA-256: 0d1f9f522b7cd5ac4e4b9702a73e1b7aaac86b3cbd4befb725c488fa4ff9bb12
 
-### File 6: Map Sneak Peek 2 (Catalan Key) — 1140x907 PNG
+### File 7: Map Sneak Peek 2 (Catalan Key) — 1140x907 PNG
 * Arweave Permanent Ledger (Block #1981170): https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 * SHA-256: b223c52138bc03a6fc4f27ab0dd58f95cf7ae173efb948a452ea7bf5b552cbac

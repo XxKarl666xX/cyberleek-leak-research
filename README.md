@@ -14,20 +14,22 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 ## 📑 Clickable Table of Contents / Jump to Section
 
-* 📁 **[1. What Got Leaked (All 6 Files)](#what-got-leaked)**
+* 📁 **[1. What Got Leaked (All 7 Files)](#what-got-leaked)**
   * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
   * 🚗 [File 2: Highway Driving & Delivery Van (`video2.mp4`)](#driving-clip)
   * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#full-map)
   * 🏝️ [File 4: Map Sneak Peek 1 (Dalton Island)](#dalton-island)
   * 🏝️ [File 5: Map Sneak Peek 2 (Catalan & Gloriana Key)](#catalan-key)
   * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`)](#taser-clip)
+  * 💉 [File 7: Junkies Encounter, Police Motorcycle & Zombix Clip (`junkies.mp4`)](#junkies-clip)
 * 🔗 **[2. Direct Links & Mirror Table](#direct-links)**
 * 📊 **[3. Video Comparison & Technical Details](#video-comparison)**
 * ⏱️ **[4. Second-by-Second Video Breakdown](#video-breakdown)**
   * 🏀 [Video 1: Basketball Gameplay](#bball-breakdown)
   * 🚗 [Video 2: Highway Driving](#driving-breakdown)
   * ⚡ [Video 3: Taser, Truck & Boat Cutscene](#taser-breakdown)
-  * 🎮 [New HUD & Gameplay Mechanics (Clone Key, Stamina, Minimap, RDR2 Defuse, Fuel, CarPlay)](#new-hud-mechanics)
+  * 💉 [Video 4: Junkies Encounter, Canal Fight & Police Motorcycle](#junkies-breakdown)
+  * 🎮 [New HUD & Gameplay Mechanics (Clone Key, Stamina, Minimap, RDR2 Defuse, Fuel, CarPlay, Zombix)](#new-hud-mechanics)
   * 🐦 [Community Breakdown on X (@NikTek)](#niktek-breakdown)
 * 🗺️ **[5. Map & County Breakdown](#map-breakdown)**
   * 🔍 [1. Map Zoom Road Details](#map-zoom)
@@ -53,9 +55,9 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 ---
 
 <a id="what-got-leaked"></a>
-## 1. What Got Leaked (All 6 Files)
+## 1. What Got Leaked (All 7 Files)
 
-Here's every file that came out of this leak cluster. All of them were pulled from Cyberleek's smart contract data, decentralized Arweave storage, and online download mirrors.
+Here are the 7 files leaked by Cyberleek between August 16 and August 19, 2026:
 
 <a id="bball-clip"></a>
 ### File 1: Basketball Gameplay Clip
@@ -173,6 +175,43 @@ Here's every file that came out of this leak cluster. All of them were pulled fr
 
 ---
 
+<a id="junkies-clip"></a>
+### File 7: Junkies Encounter, Police Motorcycle & Zombix Clip
+![Police Motorcycle Melee](assets/hud_vcpd_police_motorcycle_melee.png)
+*Jason knocking down a Vice City Police Department motorcycle officer at the intersection.*
+
+![Fuzzard Drain Canal](assets/video4_junkies_00_42_jason_interaction.jpg)
+*Fuzzard Drain Canal underneath massive highway overpasses.*
+
+![Homeless Camp & Zombix](assets/video4_junkies_01_20_combat_or_action.jpg)
+*Homeless camp brawl, RDR2 Stranger interaction prompts, and Zombix medical consumable discovery.*
+
+* **ID**: `MEDIA-07-JUNKIES`
+* **What you see**:
+  * **Part 1 (0:00 – 0:18)**: Jason (wearing a red/brown t-shirt, jeans, and a watch) walks across a highway median marked with an overhead **"TO 97"** route shield sign. A **Vice City Police Department motorcycle officer** is knocked down next to his fallen motorcycle ("VICE CITY POLICE" on the fairing). Jason fights the officer with hand-to-hand combat.
+  * **Part 2 (0:18 – 0:36)**: Jason steals the police motorcycle and accelerates down a multi-lane highway past a **Vapid** dealership sign.
+  * **Part 3 (0:36 – 0:50)**: Jason rides into the **Fuzzard Drain Canal** beneath massive highway overpass pillars with realistic water reflections. A 1-Star wanted level triggers with disguise/glove icons.
+  * **Part 4 (0:50 – 1:35)**: Jason walks into a detailed homeless encampment with tents, shopping carts, and junked cars. The **Red Dead Redemption 2 interaction dialogue wheel** appears on screen (`GREET`, `TAUNT`, `STRANGER`). An NPC speaks: *"Guys, this is a crazy conversation."* A melee fight breaks out with a homeless man in a yellow shirt while a woman yells: *"Dude, stop!"*
+  * **Part 5 (1:35 – 2:11.5)**: A gameplay tutorial box appears: *"Repeated use of Zombix will temporarily have a weaker effect on your health."* Jason equips a Hunting Knife and knife-fights hostile NPCs on the canal bank. A purple demon karma icon appears on the right screen edge.
+  * **Cut (2:11.5 – 2:13.5)**: 2.04-second black screen with complete audio silence where two clips were edited together.
+  * **Part 6 (2:13.5 – 2:24.5)**: Spliced daylight boat cutscene where Jason drinks beer with Raul: *"Enjoy your life till the moment I decide to finally shut you the fuck up."*
+* **On-Chain Post**: Account `2XRc2NJhXkcFNBzWeMkbGunBMLLKRjdEkV9aBWZQ1ow`, Authority `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`
+* **On-Chain Transaction**: `3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv` (BlockTime `1787158475` / `2026-08-19 16:54:35 UTC`)
+* **Mirrors**: [`transfiles.ru/vimdx`](https://transfiles.ru/vimdx)
+* **Filename**: `junkies.mp4`
+* **Size**: 38.08 MB (39,933,164 bytes)
+* **Resolution**: 1920×1080 (1080p Full HD)
+* **FPS**: 30.00 (constant)
+* **Length**: ~144.53 seconds (2 minutes, 24.53 seconds)
+* **Video format**: H.265/HEVC, 10-bit color, BT.2020 (Main 10)
+* **Audio**: AAC stereo, 48kHz, 160.9 kbps CBR
+* **SHA-256**: `44927e1820ee191df93666fb4d8add3fad7990d39ed3c4cabee60027ed0fc6d2`
+* **SHA-1**: `c7124956ea8e474f92b31188ec0c311a9a341bcb`
+* **MD5**: `6abf17ae32673056c8d34d7b3e15baa1`
+* **Software used to edit**: FFmpeg 6.1 (`Lavf60.16.100` / `Lavc60.31.102 libx265`) — **exact same toolchain used across all 4 leaked gameplay videos**.
+
+---
+
 <a id="direct-links"></a>
 ## 2. Direct Links & Mirror Table
 
@@ -183,6 +222,7 @@ All external links and mirrors saved for checking:
 | **Basketball Video** | [Arweave Gateway](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [Upload.ee](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p MP4 (34 MB) |
 | **Driving Video** | [Arweave Gateway](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [Transfiles](https://transfiles.ru/ybyf9) / [Upload.ee](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p MP4 (35 MB) |
 | **Taser / Boat Video** | [Gofile.io](https://gofile.io/d/qW134pdk) | [Bedrive.ru](https://bedrive.ru/ead5) | 1080p MP4 (28 MB) |
+| **Junkies / Canal Video** | [Transfiles Mirror](https://transfiles.ru/vimdx) | Solana Tx `3iKf4UjN...` | 1080p MP4 (38 MB) |
 | **Full Map** | [Arweave Gateway](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [Upload.ee](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.5 MB) |
 | **Map Peek 1** | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | — | 1110×880 PNG |
 | **Map Peek 2** | [Arweave Gateway](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | — | 1140×907 PNG |
@@ -192,26 +232,28 @@ All external links and mirrors saved for checking:
 <a id="video-comparison"></a>
 ## 3. Video Comparison & Technical Details
 
-### Comparing All 3 Videos:
+### Comparing All 4 Videos:
 
-| Video | Shared Footage | New Footage | Reused Footage | Main Differences |
+| Video | Shared Footage | New Footage | Reused Footage | Main Highlights |
 | :--- | :--- | :--- | :--- | :--- |
-| **`output.mp4` (Basketball)** | None | **100% (69.0s)** | None | 1440p resolution; shows basketball minigame and Focus bar on a private deck. |
-| **`video2.mp4` (Highway Drive)** | None | **100% (68.0s)** | None | 1080p resolution; shows pickup truck driving and highway exit signs. |
-| **`taser.mp4` (Taser / Truck / Boat)** | None | **100% (124.5s)** | None | 1080p resolution; **2 clips joined together** showing night warehouse action and day boat cutscene. |
+| **`output.mp4` (Basketball)** | None | **100% (69.0s)** | None | 1440p resolution; shows basketball minigame and Focus bar on a waterfront court. |
+| **`video2.mp4` (Highway Drive)** | None | **100% (68.0s)** | None | 1080p resolution; shows Declasse Picador driving and highway signs to Goose Key & Hamlet. |
+| **`taser.mp4` (Taser / Truck / Boat)** | None | **100% (124.5s)** | None | 1080p resolution; **2 clips joined together** showing night sugar refinery yard and day boat cutscene. |
+| **`junkies.mp4` (Junkies / Canal / Boat)**| Boat cutscene (11s) | **92.4% (133.5s)**| Boat scene shared with `taser.mp4` | 1080p resolution; **2 clips joined together** showing police motorcycle combat, Fuzzard Drain Canal, homeless camp, Zombix health tip, and knife fight. |
 
 ### Technical Details Check:
 
-| Check | `output.mp4` (Basketball) | `video2.mp4` (Highway) | `taser.mp4` (Taser / Boat) | What This Means |
-| :--- | :--- | :--- | :--- | :--- |
-| **Software Tool** | `Lavf60.16.100` | `Lavf60.16.100` | `Lavf60.16.100` | **Exact same FFmpeg 6.1 version** |
-| **Video Engine** | `Lavc60.31.102 libx265` | `Lavc60.31.102 libx265` | `Lavc60.31.102 libx265` | **Exact same video encoder** |
-| **Color Depth** | `yuv420p10le` (10-bit) | `yuv420p10le` (10-bit) | `yuv420p10le` (10-bit) | High color quality from dev kit |
-| **Color Standard** | `bt2020nc` | `bt2020nc` | `bt2020nc` | Modern HDR standard |
-| **Frame Rate** | Smooth 30.00 fps | Smooth 30.00 fps | Smooth 30.00 fps | Standard console capture |
-| **Sound Rate** | 48,000 Hz Stereo | 48,000 Hz Stereo | 48,000 Hz Stereo | Clear studio sound |
+| Check | `output.mp4` (Basketball) | `video2.mp4` (Highway) | `taser.mp4` (Taser / Boat) | `junkies.mp4` (Junkies / Canal) | What This Means |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Software Tool** | `Lavf60.16.100` | `Lavf60.16.100` | `Lavf60.16.100` | `Lavf60.16.100` | **Exact same FFmpeg 6.1 version** |
+| **Video Engine** | `Lavc60.31.102 libx265` | `Lavc60.31.102 libx265` | `Lavc60.31.102 libx265` | `Lavc60.31.102 libx265` | **Exact same video encoder** |
+| **Color Depth** | `yuv420p10le` (10-bit) | `yuv420p10le` (10-bit) | `yuv420p10le` (10-bit) | `yuv420p10le` (10-bit) | High color quality from dev kit |
+| **Color Standard** | `bt2020nc` | `bt2020nc` | `bt2020nc` | `bt2020nc` | Modern HDR standard |
+| **Frame Rate** | Smooth 30.00 fps | Smooth 30.00 fps | Smooth 30.00 fps | Smooth 30.00 fps | Standard console capture |
+| **Sound Rate** | 48,000 Hz Stereo | 48,000 Hz Stereo | 48,000 Hz Stereo | 48,000 Hz Stereo | Clear studio sound |
+| **Character Outfit**| White tank top, cap | White tank top, cap | White tank top, cap | Red/brown t-shirt, watch | Different outfits / session saves |
 
-> **Key takeaway**: The exact same software tags on all 3 videos prove that the same person/setup converted, watermarked, and saved all of them.
+> **Key takeaway**: The exact same software tags on all 4 videos prove that the same person/setup converted, watermarked, and saved all of them. Notice that both `taser.mp4` and `junkies.mp4` feature the exact same 2-second black silence gap splicing gameplay into the boat cutscene!
 
 ---
 
@@ -260,10 +302,35 @@ Here is what happens in all 3 leaked videos, broken down by timestamp:
 
 ---
 
+<a id="junkies-breakdown"></a>
+### Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (`junkies.mp4`, 144.5 Seconds)
+![Police Motorcycle Melee](assets/hud_vcpd_police_motorcycle_melee.png)
+*Jason in hand-to-hand combat against a Vice City Police motorcycle officer.*
+
+![Homeless Camp](assets/video4_junkies_01_00_encampment_env.jpg)
+*Homeless camp underneath the concrete highway overpasses.*
+
+![Knife Combat & Zombix](assets/video4_junkies_02_00_jason_movement.jpg)
+*Knife combat on the embankment of Fuzzard Drain Canal.*
+
+* **`00:00:00` — Golden Hour Intersection** — Jason (wearing a red/brown t-shirt, dark jeans, and a watch) walks across a highway median. An overhead cantilever arm displays a **"TO 97"** Florida route shield highway sign. *Why it matters*: Shows realistic dusk lighting, asphalt textures, and Leonida road numbering.
+* **`00:00:08` — Police Motorcycle Officer Melee** — A Vice City Police Department motorcycle officer is down on the road next to a fallen police motorcycle with "VICE CITY POLICE" written on the windshield. Jason engages in fluid close-quarters hand-to-hand combat, knocking the officer unconscious. *Why it matters*: Confirms Vice City Police Department motorcycle units, realistic striking impact physics, and character combat animations.
+* **`00:00:18` — Hijacking & Driving Police Bike** — Jason mounts the police motorcycle, starts the engine, and drives down the road past an overhead traffic signal and a **Vapid** dealership sign. *Why it matters*: Shows motorcycle acceleration physics, responsive turning, and brand-name vehicle dealerships.
+* **`00:00:36` — Fuzzard Drain Canal** — Jason steers the motorcycle down into the concrete embankment of **Fuzzard Drain Canal** underneath massive elevated highway overpasses. A 1-Star wanted level triggers with disguise/glove icons. *Why it matters*: Reveals a brand-new, never-before-seen canal basin location in Vice City with realistic murky water reflections and concrete slope physics.
+* **`00:00:50` — Detailed Homeless Encampment** — Jason walks into an active homeless tent city under the concrete pillars filled with tents, shopping carts, trash piles, and junked cars. *Why it matters*: Shows immense environmental detail and atmospheric world-building in Vice City's hidden corners.
+* **`00:01:00` — RDR2 Stranger Interaction Menu** — When approaching the homeless NPCs, the **Red Dead Redemption 2 interaction dialogue prompt** appears in the lower-right (`GREET`, `TAUNT`, `STRANGER`). An NPC speaks: *"Guys, this is a crazy conversation."* *Why it matters*: 100% proves the Red Dead Redemption 2 dynamic conversation tree has been fully built into GTA VI.
+* **`00:01:15` — Encampment Fist Fight** — A fight breaks out; Jason punches a homeless man in a yellow shirt. A woman in a blue tank top panics and yells: *"Dude, stop!"* The wanted level increases to 2 Stars. *Why it matters*: Shows dynamic civilian panic reactions, realistic facial expressions, and adaptive voice response lines.
+* **`00:01:35` — Zombix Health Drug Mechanic** — A gameplay tutorial pop-up appears on the left: *"Repeated use of Zombix will temporarily have a weaker effect on your health."* Jason equips a Hunting Knife / Pocket Knife. A purple demon karma icon appears on the right edge. *Why it matters*: Discovers a brand-new GTA VI gameplay mechanic where **Zombix** acts as a consumable medical painkiller/drug with diminishing returns upon repeated use.
+* **`00:01:50` — Canal Bank Knife Combat** — Jason knife-fights a hostile NPC on the grass embankment beside the water. Real-time water ripples and bridge reflections react dynamically behind them. *Why it matters*: Shows smooth melee weapon animations, dynamic blood effects, and advanced water rendering.
+* **`00:02:11.5` — 2.04-Second Black Screen Cut** — The screen cuts to black with complete audio silence for 2.04 seconds before resuming. *Why it matters*: Identical editing pattern to `taser.mp4`, proving the leaker spliced two separate clips together into one file using FFmpeg.
+* **`00:02:13.5` — Daylight Boat Story Scene** — Spliced boat cutscene where Jason and Raul drink beer while cruising across the bay: *"Enjoy your life till the moment I decide to finally shut you the fuck up."* *Why it matters*: High-definition facial animation, authentic voice acting, and boat wake physics.
+
+---
+
 <a id="new-hud-mechanics"></a>
 ### New HUD & Gameplay Mechanics Discovered in the Footage
 
-The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mechanics from the footage:
+The community spotted several brand-new UI and gameplay mechanics from the footage:
 
 #### 1. Vehicle Theft Choices: `CLONE KEY` vs `SMASH WINDOW`
 ![Clone Key vs Smash Window](assets/hud_clone_key_smash_window.png)
@@ -279,11 +346,12 @@ The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mecha
 ![Radar Minimap](assets/hud_minimap_radar.png)
 *The updated GTA VI rounded minimap showing player direction, compass positioning, and activity icons.*
 
-#### 4. NPC Dialogue Tree: `DEFUSE` vs `WARN` (RDR2 System in GTA VI)
-![RDR2 Dialogue Tree](assets/hud_rdr2_defuse_warn_driver.png)
+#### 4. NPC Dialogue Tree: `GREET` / `TAUNT` / `DEFUSE` / `WARN` (RDR2 System in GTA VI)
+![RDR2 Greet Taunt](assets/hud_rdr2_greet_taunt_stranger.png)
 *When interacting with NPCs or drivers, players get contextual dialogue choices:*
-* **`DEFUSE`**: De-escalates conflicts and calms down agitated NPCs without violence (directly ported from Red Dead Redemption 2's conversation tree).
-* **`WARN`**: Threatens or intimidates the driver/NPC.
+* **`GREET` / `DEFUSE`**: Friendly conversation or de-escalating conflicts without violence (directly ported from Red Dead Redemption 2's conversation tree).
+* **`TAUNT` / `WARN`**: Antagonizes, threatens, or intimidates the NPC.
+* **`STRANGER` Indicator**: Circular targeting lock showing the active conversation partner.
 
 #### 5. Police Danger Zone & Search Radius (RDR2 Wanted System)
 ![Danger Zone Search Area](assets/hud_rdr2_dangerzone_search_area.png)
@@ -293,11 +361,20 @@ The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mecha
 ![Karma Demon Icon](assets/hud_karma_demon_icon.png)
 *A purple smiling demon/devil icon discovered in the UI, pointing to an underlying **Karma / Morality / Honor system** where player choices (stealing, defusing, killing) influence character reputation.*
 
-#### 7. Vehicle Fuel & Gas Gauge System
+#### 7. Zombix Medical Consumable & Drug Tolerance System
+![Zombix Drug Tip](assets/hud_zombix_drug_health_tip.png)
+*In-game tutorial discovery: **"Repeated use of Zombix will temporarily have a weaker effect on your health."***
+* Zombix (originally an advertised painkiller brand in GTA V / GTA Online) is now a fully functional in-game medical consumable in GTA VI that heals the player, but features a **tolerance / diminishing returns mechanic** if used repeatedly.
+
+#### 8. Location System: Fuzzard Drain Canal
+![Fuzzard Drain Canal](assets/hud_fuzzard_drain_canal_location.png)
+*Active location pop-up above the minimap introducing **Fuzzard Drain Canal**, an authentic South Florida-style concrete drainage basin under major highway interchanges.*
+
+#### 9. Vehicle Fuel & Gas Gauge System
 ![Vehicle Fuel System](assets/hud_fuel_gas_system_vapid.png)
 *Below the vehicle name card (**Vapid '70 Ganado**), a dedicated **Gas Pump / Fuel Icon** is visible with a level meter, confirming an active in-game vehicle refueling and gas tank system!*
 
-#### 8. In-Car iFruit CarPlay Navigation System
+#### 10. In-Car iFruit CarPlay Navigation System
 ![iFruit CarPlay Minimap](assets/community_7kkurd_ifruit_carplay_minimap.png)
 *Discovered by X user `@7Kkurd`: When driving modern cars, the top-left of the GPS minimap displays the **iFruit logo** (Apple parody), confirming an in-game **Apple CarPlay / iFruit dashboard integration**.*
 
@@ -394,6 +471,7 @@ Every date here has a source you can check yourself:
 | **2026-08-18 / 19** | Cyberleek's original Discord server gets banned; replacement created (`ZWjnQSSJ2P`) | Confirmed via `cyberleek_west` | Proves Discord ban action. |
 | **2026-08-19 ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat scene) surfaces on mirrors | [Gofile Mirror](https://gofile.io/d/qW134pdk) | Proves third video surfaced. |
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
+| **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Transfiles Mirror](https://transfiles.ru/vimdx) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
 
 ---
 
@@ -562,26 +640,26 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ## 10. What We Still Don't Know
 
 * **The original raw files** — the clean videos before Cyberleek added their watermarks with FFmpeg haven't surfaced.
-* **When exactly the footage was captured** — the graphics look like a recent PS5 build, but without the raw files there's no way to pin down the exact recording date.
+* **When exactly the footage was captured** — the graphics look like a recent build, but without the raw files there's no way to pin down the exact recording date.
 * **Map Sneak Peek 1's block data** — the file works fine on Arweave's gateway but doesn't show up in the wallet's transaction history on GraphQL.
 * **How they got the footage** — could be leftover access from the 2022 breach, an insider, or they bought it from someone. Cyberleek dodged this question in Discord.
 * **One person or a team?** — the tech setup is solid but the social media posting style is messy (promoter vs real uploader).
-* **Will more leaks actually drop?** — they said "2-4 more" and `taser.mp4` surfaced as the third video. We don't know if more videos exist.
+* **Will more leaks drop?** — they promised multiple drops, with `taser.mp4` surfacing as the third clip and `junkies.mp4` surfacing as the fourth clip via Solana transaction `3iKf4UjN...`.
 
 ---
 
 <a id="verdict"></a>
 ## 11. Final Verdict
 
-**VERDICT: REAL (Genuine Rockstar Games Gameplay & Cutscene — Watermarked & Spliced by the Leaker)**  
-**Confidence Level: 96% (High Confidence)**
+**VERDICT: REAL (Genuine Rockstar Games Gameplay & Cutscenes — Watermarked & Spliced by the Leaker)**  
+**Confidence Level: 97% (High Confidence)**
 
-1. **What proves it is real**: Real game physics, natural body reactions to the taser shock, detailed skin lighting, on-screen button tips, and brand-new voice acting dialogue with zero past mentions anywhere online.
-2. **What proves it was edited**: Clear proof of FFmpeg 6.1 re-encoding (`Lavf60.16.100` / `Lavc60.31.102 libx265`), added watermark images, and a 2-second black silence cut at 01:52.5.
+1. **What proves it is real**: Real game physics, natural body reactions to melee combat and taser shocks, detailed skin and lighting, in-game button hints, the functional RDR2 Greet/Taunt conversation tree, the Zombix medical consumable tolerance mechanic, and brand-new voice acting dialogue with zero past mentions anywhere online.
+2. **What proves it was edited**: Clear proof of FFmpeg 6.1 re-encoding (`Lavf60.16.100` / `Lavc60.31.102 libx265`), added watermark images, and 2-second black silence cuts at 01:52.5 (in `taser.mp4`) and 02:11.5 (in `junkies.mp4`).
 3. **What proves parts are old/recycled**: The map was confirmed by Cyberleek to be from 2023. Twitter threats posted by `@cyberleek_ar_io` used blurred pictures from the old 2022 leak.
-4. **What proves the video footage is actually new**: The scenes in `taser.mp4`, `output.mp4`, and `video2.mp4` do not appear in any trailer, demo, or 2022 leak. The Taser weapon and boat cutscene are 100% brand-new.
-5. **What is still unknown**: Exactly how the hacker got the files from Rockstar or their partners.
-6. **How strong the evidence is**: Blockchain timestamps on Arweave, video file checks, audio silence checks, and official Take-Two copyright takedowns give rock-solid proof.
+4. **What proves the video footage is actually new**: The scenes across all 4 videos (`output.mp4`, `video2.mp4`, `taser.mp4`, and `junkies.mp4`) do not appear in any trailer, demo, or 2022 leak. The Taser weapon, Fuzzard Drain Canal, VCPD motorcycle combat, Zombix drug system, and boat cutscene are 100% brand-new.
+5. **What is still unknown**: Exactly how the leaker obtained the playtest video recordings from Rockstar Games or their development partners.
+6. **How strong the evidence is**: Blockchain timestamps on Arweave and Solana, file metadata checks, audio silence checks, and official Take-Two copyright takedowns give rock-solid proof.
 
 ---
 
