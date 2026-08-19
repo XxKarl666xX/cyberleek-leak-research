@@ -631,9 +631,9 @@ Here is the complete list of all known Cyberleek website portals, Web3 gateways,
 |:---|:---|:---:|:---|
 | [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) | ArNS Community Gateway (Koltigin) | 🟢 **WORKS (UP)** | Fully active Web3 mirror gateway |
 | [**`https://leek.vilenarios.com`**](https://leek.vilenarios.com) | Main Web Application Portal | 🟢 **WORKS (UP)** | Direct web portal with all leaked clips |
-| [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | Turbo Gateway Web3 Mirror | 🔴 **DOES NOT WORK (DOWN)** | Gateway DNS / server unreachable |
-| [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io) | Default AR.IO Gateway | 🔴 **DOES NOT WORK (DOWN)** | Main ArNS node offline / unresponsive |
-| [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | Turbo Gateway Secondary Node | 🔴 **DOES NOT WORK (DOWN)** | Connection refused / DNS error |
+| [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | Turbo Gateway Secondary Node | 🟢 **WORKS (UP)** | Restored & responding from Hetzner node |
+| [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | Turbo Gateway Web3 Mirror | 🟢 **WORKS (UP)** | Restored on Hetzner German gateway |
+| [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io) | Default AR.IO Gateway | 🟢 **WORKS (UP)** | Restored ArNS gateway endpoint |
 
 ---
 
@@ -646,21 +646,16 @@ Every domain and gateway was tested via live DNS resolution and IP geolocation t
 |:---|:---|:---|:---|:---|:---:|
 | [**`leek.vilenarios.com`**](https://leek.vilenarios.com) | [`69.124.94.88`](https://ipinfo.io/69.124.94.88) | **Cablevision Systems Corp.** (`AS6128`) | Mahwah, New Jersey, USA 🇺🇸 | `ool-457c5e58.dyn.optonline.net` | 🟢 **UP** |
 | [**`cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) | [`176.57.189.36`](https://ipinfo.io/176.57.189.36) | **Contabo GmbH** (`AS51167`) | Lauterbourg, Grand Est, France / EU 🇪🇺 | `vmi884299.contaboserver.net` | 🟢 **UP** |
-| [**`cyberleek.ar.io`**](https://cyberleek.ar.io) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🔴 **DOWN** |
-| [**`cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🔴 **DOWN** |
-| [**`leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🔴 **DOWN** |
+| [**`cyberleek.ar.io`**](https://cyberleek.ar.io) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🟢 **UP (Restored)** |
+| [**`cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🟢 **UP (Restored)** |
+| [**`leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🟢 **UP (Restored)** |
 | **Arweave Permanent Ledger** | *Decentralized Storage* | **Arweave Mining & Validator Nodes** | Global Decentralized Storage Network 🌐 | `arweave.net` | 🟢 **PERMANENT** |
 | **Solana Blockchain Ledger** | *Decentralized Blockchain* | **Solana Validator Network** | Global Decentralized Validator Network 🌐 | Program ID `7rAgHPLDc9...` | 🟢 **ACTIVE** |
 
-> **How this actually works**: While the *raw data hashes* live permanently on the Arweave and Solana blockchains, regular web browsers need standard HTTP web servers (gateways) to display the site. Both the direct portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (hosted via Cablevision) and the community gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (hosted via Contabo in Europe) are **100% working and online**, while default gateway endpoints hosted on Hetzner (`49.13.45.141`) are currently down.
+> **How this actually works**: While the *raw data hashes* live permanently on the Arweave and Solana blockchains, regular web browsers need standard HTTP web servers (gateways) to display the site. All primary gateways, community mirrors, and Hetzner nodes (`49.13.45.141`) are **100% online and responding**.
 
-> [!TIP]
-> 💡 **Crucial Discovery: All Down Sites Are Hosted by Hetzner (Likely DMCA Takedown Theory)**  
-> Look closely at the IP table above: **every single website that went down (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, and `leek.turbo-gateway.com`) is hosted on the exact same server IP: [`49.13.45.141`](https://ipinfo.io/49.13.45.141) under Hetzner Online GmbH in Germany.**  
-> 
-> Meanwhile, the websites on Cablevision USA (`69.124.94.88`) and Contabo France/EU (`176.57.189.36`) are **still 100% up and working**.  
-> 
-> **The Strong DMCA Theory**: Hetzner is known for strictly enforcing copyright laws. The leading community theory is that **Take-Two / Rockstar's legal team sent a direct DMCA / abuse takedown notice to Hetzner Germany**, causing Hetzner to suspend or block server `49.13.45.141`. While not officially confirmed by Hetzner abuse logs yet, the fact that only Hetzner-hosted domains went dark makes a host-level takedown the most likely explanation.
+> [!NOTE]
+> 💡 **Server Restoration Note**: The temporary outage on the Hetzner Germany nodes (`49.13.45.141`) was resolved, indicating it was likely caused by extreme traffic volume, DDoS protection filters, or a temporary gateway restart rather than a permanent host takedown. All official mirrors and community portals remain fully reachable.
 
 ---
 

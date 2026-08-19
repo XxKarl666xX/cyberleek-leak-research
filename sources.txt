@@ -3,11 +3,11 @@
 ## 1. Main Websites, Web3 Endpoints & Server Resolution
 * Main Website Portal (🟢 WORKS / UP): https://leek.vilenarios.com/ -> IP `69.124.94.88` (Cablevision Systems Corp., AS6128, Mahwah, NJ, USA)
 * ArNS Community Gateway (🟢 WORKS / UP): https://cyberleek.ario.koltigin.xyz -> IP `176.57.189.36` (Contabo GmbH, AS51167, Lauterbourg, France / EU)
-* Turbo Gateway Mirror (🔴 DOES NOT WORK / DOWN): https://cyberleek.turbo-gateway.com -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
-* Default ArNS Gateway (🔴 DOES NOT WORK / DOWN): https://cyberleek.ar.io -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
-* Secondary Turbo Gateway (🔴 DOES NOT WORK / DOWN): https://leek.turbo-gateway.com -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
-* Backend Server 1 (🔴 DOWN): IP `49.13.45.141` (Hetzner Online GmbH, Nuremberg, Bavaria, Germany — `static.141.45.13.49.clients.your-server.de`)
-* Backend Server 2 (🔴 DOWN): IP `69.124.94.88` (Cablevision Systems Corp., Mahwah, NJ, USA — `ool-457c5e58.dyn.optonline.net`)
+* Turbo Gateway Mirror (🟢 WORKS / UP): https://cyberleek.turbo-gateway.com -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
+* Default ArNS Gateway (🟢 WORKS / UP): https://cyberleek.ar.io -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
+* Secondary Turbo Gateway (🟢 WORKS / UP): https://leek.turbo-gateway.com -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
+* Main Portal (🟢 WORKS / UP): https://leek.vilenarios.com -> IP `69.124.94.88` (Cablevision Systems Corp., Mahwah, NJ, USA — `ool-457c5e58.dyn.optonline.net`)
+* Gateway Node Server (🟢 UP): IP `49.13.45.141` (Hetzner Online GmbH, Nuremberg, Bavaria, Germany — `static.141.45.13.49.clients.your-server.de`)
 * Solana Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
 * Solana Token Mint ($CYBERLEEK): ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
 * Solscan Explorer: https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
