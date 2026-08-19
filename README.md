@@ -953,6 +953,15 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
     > *"Hi. 1. Sorry for the late reply. Currently I unfortunately have no access to my 'tech-forum' account here. When I catch the admin hopefully it will work again soon. 2. Many thanks for your positive feedback! Great to hear! I will continue to do my best! Update: Anti-fraud system introduced. New contact address XMPP: cookie@im-tech-forum.ch"*
   * *Takeaway*: 100% proves `cyberleek` and `tech-forum` are the exact same person, and reveals his personal XMPP / Jabber contact address: **`cookie@im-tech-forum.ch`**.
 
+* **Wayback Machine Snapshots & Swiss WHOIS Trail**:
+  * **Wayback Machine Archive**: [tech-forum.ch on Archive.org](https://web.archive.org/web/*/https://tech-forum.ch)
+    * 🔗 [**March 28, 2019 Snapshot (200 OK)**](http://web.archive.org/web/20190328090751/http://tech-forum.ch/): Shows `Apache/2.4.25 (Debian) Server at tech-forum.ch Port 80` hosting `bild.php`, matching his Debian Linux server setup.
+    * 🔗 [**August 11, 2018 Snapshot**](https://web.archive.org/web/20180811201124/https://tech-forum.ch/): Shows the site during its active HTTPS configuration.
+  * **Swiss WHOIS Data Point (Discovery credit: [@Nico-Strecker](https://github.com/Nico-Strecker) on GitHub — [Issue #12](https://github.com/zyrexdz/cyberleek-leak-research/issues/12))**:
+    * **Pre-2021 Swiss Transparency**: Prior to January 1, 2021, the official Swiss `.ch` registry (**SWITCH** / `nic.ch`) published the full real names, postal addresses, and contact info of all domain owners by default.
+    * **Domain Lifecycle**: `tech-forum.ch` was registered in December 2017 and later let expire after 2019.
+    * **Historical Records**: Because Swiss privacy laws changed on Jan 1, 2021 to redact personal WHOIS info, commercial historical archives from 2017–2019 (such as *DomainTools*, *SecurityTrails*, or *WhoisXML*) could hold the original unredacted owner registration records.
+
 ---
 
 ##### 3. 2023 Forum Activity: Tracking Data Leaks, BreachForums & VPN Routing
