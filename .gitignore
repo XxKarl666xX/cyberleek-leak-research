@@ -1,11 +1,12 @@
 # Raw video and media binaries
 *.mp4
 *.mkv
-*.png
-*.jpg
-*.jpeg
 *.zip
 *.tar.gz
+
+# Allow documentation assets
+!assets/
+!assets/**
 
 # Python
 __pycache__/
