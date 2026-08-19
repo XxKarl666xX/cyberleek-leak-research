@@ -500,7 +500,8 @@ Every date here has a source you can check yourself:
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
 | **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
 | **2026-08-19 ~22:30** | Official leaker website poll concludes; `▶ Plane (DAY)` wins 100% of votes (65,342 $CYBERLEEK) | [Poll Winner Snapshot](#poll-plane-winner) | Confirms upcoming **Video 5** is scheduled as a daytime airplane flight / cinematic drive-by clip. |
-| **2026-08-19 ~23:55** | **Web3 AR.IO gateways go OFFLINE (`leek.vilenarios.com` remains UP)** | Network status check | AR.IO gateway endpoints (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are down, while `https://leek.vilenarios.com/` is actively online. |
+| **2026-08-19 ~23:48** | **Fake promoter Twitter `@cyberleek_ar_io` suspended by X** | [Suspension Proof](#debunking-twitter) | X bans the fake account; backup `@MrCyberLeek` posts a fake "FBI raid" GIF stunt. |
+| **2026-08-19 ~23:55** | **Hetzner Web3 gateways go OFFLINE (`leek.vilenarios.com` & Contabo UP)** | Network status check | Gateways on Hetzner `49.13.45.141` go down (likely DMCA), while Cablevision & Contabo mirrors remain up. |
 
 ---
 
@@ -577,19 +578,14 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 <a id="official-accounts"></a>
 ### Their Online Accounts & Known Handles
 
-**Only Official Accounts on X (Twitter):**
-1. **Main: [@cyberleek_ar_io](https://x.com/cyberleek_ar_io)**
-   * **Bio**: "Fighting For Gamer's Rights. @MrCyberLeek V2 $CYBERLEEK"
-   * **Created**: March 2026 (or an older account renamed in March 2026)
-   * **Followers**: ~88,900 (as of Aug 19, 2026)
-   * **Banner**: *"We do not own the games, if they do not give us physical editions."*
-2. **Secondary / Backup: [@MrCyberLeek](https://x.com/MrCyberLeek)**
-   * The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account. Confirmed linked by [The Gamer](https://www.thegamer.com/).
-
-**Fake / Unofficial Accounts (Beware):**
-* ❌ **[@cyberleekario](https://x.com/cyberleekario)** — Fake copycat account on X mimicking the name (missing underscores). Not official.
-* ❌ **[@Miosz179322](https://x.com/Miosz179322)** — Unaffiliated account reposting old leaked clips. Not official.
-* ❌ **Fake Discord Accounts / Imposter Servers** — Accounts claiming "8 PM EST drops" or new official channels, officially disavowed by Cyberleek on X.
+**Twitter (X) Accounts Breakdown (All Confirmed Fake by Video 4 Watermark):**
+1. ❌ **[@cyberleek_ar_io](https://x.com/cyberleek_ar_io)** — 🔴 **SUSPENDED BY X (August 19, 2026)**
+   * **Role**: Primary fake promoter / imposter account (~88.9k followers before ban).
+   * **Status**: Permanently suspended by X for impersonation, DMCA violations, and token promotion.
+2. ❌ **[@MrCyberLeek](https://x.com/MrCyberLeek)** — 🔴 **FAKE BACKUP / CLOUT PROMOTER**
+   * Secondary backup account run by the same promoter. Posted a fake "FBI/SWAT raid" GIF right after the main account was banned.
+3. ❌ **[@cyberleekario](https://x.com/cyberleekario)** & **[@Miosz179322](https://x.com/Miosz179322)** — Fake copycat accounts on X. Not affiliated with anything.
+4. ❌ **Fake Discord Accounts / Imposter Servers** — Accounts claiming "8 PM EST drops", officially fake.
 
 ---
 
@@ -693,8 +689,24 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   2. The real leaker running the website and Solana smart contracts has disowned the Twitter account completely.
   3. The Twitter account was just an unauthorized crypto promoter, while the real leaker communicates strictly through their Web3 websites.
 
+#### 6. Fake Promoter Account Suspended & Fake "FBI Raid" GIF Stunt
+<div align="center">
+  <img src="assets/fake_twitter_cyberleek_suspended.png" alt="Fake Twitter Suspended" width="300" />
+  <img src="assets/fake_twitter_secondary_mrcyberleek_fbi_gif.png" alt="Fake Secondary FBI Raid GIF" width="300" />
+</div>
+
+*Left: `@cyberleek_ar_io` suspended on X. Right: Backup account `@MrCyberLeek` posting a SWAT/FBI door-breach GIF pretending to be raided.*
+
+* **What Happened**:
+  1. On August 19, 2026 (~23:48 UTC), X officially **suspended the main fake promoter account (`@cyberleek_ar_io`)** for impersonation and DMCA copyright violations.
+  2. Immediately after the ban, the promoter switched to their secondary backup account (**`@MrCyberLeek`**) and posted a **SWAT / FBI door-breach GIF**, pretending that law enforcement or the FBI kicked down their door.
+* **Why This "FBI Raid" is 100% Fake Drama (LARP)**:
+  1. **The Real Leaker Has No Twitter**: Video 4's watermark already proved the real leaker is strictly on Web3/Arweave (`"CYBERLEEK DOES NOT HAVE TWITTER"`).
+  2. **How Real Police Raids Work**: In a real federal raid or search warrant, **law enforcement immediately seizes all phones, laptops, and networking hardware**. A real suspect doesn't stay on Twitter on their phone 2 minutes later posting SWAT GIFs.
+  3. **Attention-Seeking Stunt**: The promoter simply staged a fake dramatic "raid" to farm engagement and trick followers after getting their main account banned.
+
 <a id="poll-plane-winner"></a>
-#### 6. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Ended)
+#### 7. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Ended)
 ![Cyberleek Poll Winner Plane](assets/cyberleek_official_poll_plane_day_winner.png)
 *The closed poll on the official leaker website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) confirming "Plane (DAY)" won 100% of the vote.*
 
