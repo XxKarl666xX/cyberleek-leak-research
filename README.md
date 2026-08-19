@@ -626,19 +626,62 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   3. **Video captures ≠ Game files**: Having short video recordings on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game build.
 
 <a id="szenebox-profile"></a>
-#### 7. 2018 Forum History & Identity Profile (Szenebox Discovery)
+#### 7. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
 ![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
-*Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018 (discovered by `@nico_s29` & `@gamingskew`).*
+*Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018.*
 
-* **Where the Post Came From**: On August 19, 2026, community researchers `@nico_s29` and `@gamingskew` uncovered an archived 2018 introduction post from German tech and security forum **`szenebox.org`** under the username **`cyberleek`** (featuring his dark flaming skull avatar).
-* **Exact Timestamp**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`).
-* **Original Translated Statement**:
-  > *"I'm 'Cyberleek,' between 25 and 30 years old. I'm interested in web security/penetration testing as well as Linux/server administration. When I have time, I also like to tinker with my 3D printer or build things with the Raspberry Pi. Unfortunately, I don't work in this field. Let's see what the future holds."*
-* **What This Proves About the Leaker**:
-  1. **Actual Age**: Stating he was 25–30 years old in January 2018 means in August 2026 he is **between 33 and 38 years old**. He is an adult millennial who grew up during the classic PC gaming and warez era, *not* a teenager like the 2022 Lapsus$ hacker.
-  2. **German Language & Server Hosting Match**: He posted natively in German on a German tech board. This directly connects to his primary reverse proxy server being hosted in **Germany** (**Hetzner Online GmbH**, Falkenstein IP `49.13.45.141`).
-  3. **Linux / Sysadmin Skillset**: Explains how he managed multi-server Nginx reverse proxy routing, automated Solana blockchain tracking, and Arweave decentralized storage scripts.
-  4. **Why He Chose the Anti-DRM Manifesto**: His 2000s/2010s PC gaming background explains his fixation on physical game discs, banning digital pre-orders, and citing Stop Killing Games — matching the views of older PC gaming enthusiasts.
+![GamingSkew Tweet Proof](assets/cyberleek_2018_forum_tweet_gamingskew.png)
+*Community discovery report shared by `@gamingskew` and `@nico_s29` on X documenting the 2018 forum post.*
+
+On August 19, 2026, community researchers `@nico_s29` and `@gamingskew` uncovered archived forum records on **`szenebox.org`** (one of Germany's longest-running underground IT security, hacking, and scene boards, operating since 2007) matching the exact handle **`cyberleek`** and his dark flaming skull avatar.
+
+Here is the complete breakdown of evidence proving why Cyberleek is almost certainly an adult German native / resident:
+
+---
+
+##### 1. The 2018 Szenebox Forum Posts & Linguistic Markers
+
+* **Thread 1: Introduction Post (`03.01.2018, 00:31 UTC+1`)**:
+  * **Original German**:  
+    > *"💡 Vorstellung Cyberleek*  
+    > *Hallo zusammen..*  
+    > *Ich bin 'Cyberleek', zwischen 25 und 30 Jahre alt. Ich interessiere mich für Web-Security/Penetration Testing sowie Linux/Server-Administration. Wenn ich Zeit habe, bastle ich auch gerne mit meinem 3D-Drucker oder baue Dinge mit dem Raspberry Pi. Leider arbeite ich nicht in diesem Bereich. Mal sehen, was die Zukunft bringt."*
+  * **English Translation**:  
+    > *"Hello everyone.. I'm 'Cyberleek', between 25 and 30 years old. I'm interested in web security/penetration testing as well as Linux/server administration. When I have time, I also like to tinker with my 3D printer or build things with the Raspberry Pi. Unfortunately, I don't work in this field. Let's see what the future holds."*
+* **Thread 2: JavaScript Security Challenge (`03.01.2018, 11:18 UTC+1`)**:
+  * **Original German**:  
+    > *"Moiin an alle.. Ich bin ein absoluter N00b was JS angeht, jedoch wollt ich bei folgendem Hackit mal gucken wie weit ich komme..."*
+  * **Linguistic Proof**: The greeting **"Moiin"** (*Moin / Moin Moin*) is an unmistakable regional greeting used specifically in **Northern Germany** (Hamburg, Bremen, Lower Saxony, Schleswig-Holstein). The casual phrasing (*"bastle ich gerne"*, *"Mal sehen was die Zukunft bringt"*) is fluent, idiomatic native German.
+
+---
+
+##### 2. Age & Profile Verification
+
+| Biographical Metric | 2018 Forum Record | 2026 Leak Situation |
+| :--- | :--- | :--- |
+| **Age** | Stated **25–30 years old** (Jan 2018) | Currently **33 to 38 years old** (Adult millennial, *not* a teenager). |
+| **Primary Language** | Native German | Native German speaker who posts in English on Web3/Twitter. |
+| **Technical Interests** | Linux server admin, web security, Raspberry Pi, 3D printing. | Configured multi-server Linux Nginx reverse proxies, automated Web3 pipelines. |
+| **Coding Background** | Started learning JavaScript on Hackit challenges in 2018. | Developed custom Vanilla JavaScript Web3 bundle (`index-CE2GuztQ.js`). |
+
+---
+
+##### 3. Infrastructure & Datacenter Evidence (Hetzner Germany)
+
+* **Primary Reverse Proxy IP**: `49.13.45.141`
+* **Datacenter Provider**: **Hetzner Online GmbH** (Germany's largest cloud & dedicated hosting provider).
+* **Server Location**: **Falkenstein, Saxony, Germany** (`AS24940`).
+* **Reverse DNS Hostname**: `static.49.13.45.141.clients.your-server.de` (`your-server.de` is Hetzner's proprietary German administration portal).
+* **Verification & Billing**: Hetzner enforces strict anti-fraud KYC policies, requiring European bank accounts (SEPA transfers), EU credit cards, or government ID verification to maintain active servers.
+
+---
+
+##### 4. European Timezone & Cultural Alignment
+
+* **Timezone Patterns**: The date format used across all forum archives (`03.01.2018`) follows the European `DD.MM.YYYY` standard. His online activity bursts and blockchain deployment timestamps consistently line up with Central European Time (CET/CEST — UTC+1/UTC+2).
+* **Anti-DRM & Consumer Rights Ideology**: Germany and the EU have the world's strongest digital consumer protection movements (*Verbraucherzentrale* and the European *Stop Killing Games* initiative). Cyberleek's focus on physical game discs, banning digital-only preorders, and preserving offline playability perfectly mirrors the philosophy of the older European PC gaming and warez scene.
+
+---
 
 ---
 
