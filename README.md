@@ -69,7 +69,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🧅 [4. Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
   * ✈️ [7. Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
-  * ⏳ [8. Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
+  * ⏳ [8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
   * ❌ [9. Debunked Full Game Build Theory](#full-build-theory)
   * ❌ [10. Debunking Fake Theories (RDR2 Mod Claim)](#debunking-rdr2-mod)
   * 🔍 [11. 2018 Forum History & Identity Profile (Szenebox Discovery)](#szenebox-profile)
@@ -325,7 +325,7 @@ Here is what happens in all 4 leaked videos, broken down by timestamp:
 * **`00:00:55` — Stun Gun / Taser Weapon** — Top-right screen shows `9 1` ammo with a yellow taser gun picture. *Why it matters*: First proof that GTA VI has a working non-lethal Stun Gun / Taser.
 * **`00:01:13` — Shocking the Worker** — Jason shocks a factory worker who drops to the ground realistically. Ammo becomes `8 1`. *Why it matters*: Real body-ragdoll physics that can't be faked with simple game mods.
 * **`00:01:29` — Funny Voice Line** — Jason runs toward a blue semi truck while the worker yells: *"Stop! That's a gift from one of my boyfriends!"* *Why it matters*: Real Rockstar humor and voice acting with zero past mentions anywhere online.
-* **`00:01:47` — Stealing the Semi Truck** — Jason gets in the truck; screen shows **`MTL PACKER`**. *Why it matters*: Confirms the real GTA truck name and working getting-in animations.
+* **`00:01:47` — Stealing Semi Truck & In-Game Radio ("Sports Car" by Tate McRae)** — Jason gets in the truck; screen shows **`MTL PACKER`** and the vehicle radio plays *"Sports Car"* by Tate McRae. *Why it matters*: Tate McRae released this single on **January 24, 2025**, providing solid chronological proof that this GTA 6 build is from **early 2025 or newer**!
 * **`00:01:52.5` — 2-Second Black Screen Cut** — Screen turns black with total silence for 2 seconds. *Why it matters*: Proves the leaker edited two separate videos together into one file.
 * **`00:01:54.5` — Boat Story Scene** — Daytime cutscene on a boat where Jason and his friend cheers beer bottles with voice lines (*"Good living. Here's to you, buddy."* → *"Enjoy your life till the men in suits decide to finally shut you the fuck up."*). *Why it matters*: Real story cutscene showing skin detail, realistic eyes, and studio voice lines.
 
@@ -790,10 +790,23 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ---
 
 <a id="natedrake-age"></a>
-#### 8. Insider Confirmation on Footage Age (`NateDrake`)
-![NateDrake Age Proof](assets/community_claim_natedrake_age.png)
-*Gaming insider `NateDrake` commenting on the leaks: "Um.... unless a new round of previews are underway, this claim isn't accurate. Also, the leaked footage is over a year old."*
-* **What this indicates**: Well-known gaming insider `NateDrake` stated that **the leaked footage is over a year old** (likely from a 2024–early 2025 internal build). This matches up with Cyberleek's own Discord statement that the map asset dates back to 2023.
+#### 8. Hard Proof on Footage Age: Radio Song Proves Build is January 2025 or Newer
+
+*(Radio song discovery credit: GitHub contributor [@Phantonymous](https://github.com/Phantonymous) — [Issue #2](https://github.com/zyrexdz/cyberleek-leak-research/issues/2) & industry confirmation by `NateDrake`)*
+
+<div align="center">
+  <img src="assets/community_claim_natedrake_age.png" alt="NateDrake Age Proof" width="340" />
+  <img src="assets/community_claim_tate_mcrae_2025_build_proof.png" alt="Tate McRae 2025 Build Proof" width="340" />
+</div>
+
+*Left: Insider NateDrake confirming the footage is over a year old. Right: GitHub contributor `Phantonymous` pointing out the in-game radio track.*
+
+* **The In-Game Radio Discovery**:
+  * In Video 3 (`taser.mp4`), when Jason hijacks the semi truck and starts driving, the vehicle radio plays the pop song **"Sports Car" by Tate McRae**.
+  * **The Release Date Proof**: Tate McRae officially released her single *"Sports Car"* on **January 24, 2025** (as part of her album *So Close to What*).
+* **What This Conclusively Proves**:
+  1. **Not an Old 2023 Build**: Because Rockstar could not have added a January 2025 song into the game before it existed in the real world, this proves the gameplay build was **compiled on or after January 24, 2025**!
+  2. **Matches Insider Reports**: Gaming insider `NateDrake` noted the footage was recorded from a build over a year old (early 2025), which lines up with the radio track timeline.
 
 ---
 

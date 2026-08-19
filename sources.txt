@@ -69,6 +69,7 @@
 * Community Twitter Checkers: garza & vaaatiel (Twitter account & blurred fake post checks credit)
 * Community Map Insight: martipk (Developer overview map verification credit)
 * Footage Age Insight: NateDrake (Internal build age verification credit)
+* Radio Track & 2025 Build Age Discovery: @Phantonymous on GitHub (Issue #2 Tate McRae "Sports Car" radio station discovery credit)
 * HUD & Map Discoveries: GTA VI UNMODERATED Discord Server (HUD elements, Clone Key mechanics, RDR2 Defuse tree, Danger Zone, Karma icon, Fuel gauge, Map Zoom & Legendary Animals credit)
 * Twitter Gameplay Breakdown: @NikTek on X (6-star wanted level, RDR2 melee disarm, wearable dropped hats, restricted area AI breakdown credit)
 * In-Car iFruit CarPlay Discovery: @7Kkurd on X (iFruit logo on vehicle GPS minimap credit)
