@@ -69,6 +69,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * ✈️ [Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
   * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
   * 🎮 [Full Game Build Theory (NikTek & Cyberleek Repost)](#full-build-theory)
+  * ❌ [Debunking Fake Theories (RDR2 Mod Claim)](#debunking-rdr2-mod)
   * 🔍 [2018 Forum History & Identity Profile (Szenebox Discovery)](#szenebox-profile)
 * 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
 * ❓ **[10. What We Still Don't Know](#unknowns)**
@@ -718,8 +719,28 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   2. **Cyberleek's own words in Discord**: In their Q&A, Cyberleek admitted *"the person playing was chilling"* and confirmed they are **not the player holding the controller**. They only received pre-recorded MP4 video files from an outside contact.
   3. **Video captures ≠ Game files**: Having short video recordings on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game build.
 
+<a id="debunking-rdr2-mod"></a>
+#### 9. Debunking the Fake Theory: "It's Just an RDR2 Mod with a Cities: Skylines Map"
+![Debunking RDR2 Mod Theory](assets/debunking_fake_rdr2_mod_theory.png)
+*Viral tweet by `@DailyInterw6ac` claiming the leaks are just a Cities: Skylines map imported into Red Dead Redemption 2.*
+
+* **The Viral Claim**: A viral post on X claimed that all GTA 6 leaks are *"fake"*, alleging a modder made the map in *Cities: Skylines*, imported it into *Red Dead Redemption 2*, added custom character skins, and that *"you can hear RDR2 horse death sounds when someone dies."*
+* **Why This Theory is 100% False & Technically Impossible**:
+  1. **Engine Memory Limits (RAGE 8 vs RAGE 9)**: Red Dead Redemption 2 runs on RAGE 8. Attempting to load hundreds of square kilometers of dense modern skyscrapers, multi-lane highway overpasses, and hundreds of AI cars into RDR2 would instantly crash the game with an `ERR_MEM_EMBEDDEDALLOC_ALLOC` memory overflow error.
+  2. **Motorcycle & Modern Vehicle Physics**: In Video 4 (`junkies.mp4`), Jason rides a police motorcycle into the canal. The dynamic tire friction, body lean angles, four-wheel suspension, and water displacement run on Rockstar's new RAGE 9 physics engine. RDR2 only supports horses and wooden wagons.
+  3. **Brand-New Voice Acting & Lip Syncing**:
+     * In the boat scene, Raul says: *"Enjoy your life till the moment I decide to finally shut you the fuck up."*
+     * In the canal fight, homeless NPCs yell: *"Guys, this is a crazy conversation"* and *"Dude, stop!"*
+     * These voice lines have **never existed in any past game or movie**. Creating Hollywood-grade voice acting with dynamic facial motion capture and lip-syncing is impossible in a fan mod.
+  4. **Brand-New Gameplay Mechanics (Zombix Tolerance & Clone Key)**:
+     * In Video 4 at 01:35, an official tutorial popup appears: *"Repeated use of Zombix will temporarily have a weaker effect on your health."* This consumable tolerance mechanic is completely new to GTA 6.
+     * The electronic "Clone Key" vehicle theft mini-game uses dynamic waveform decryption that does not exist in any other game.
+  5. **Placeholder Sounds Are Normal in Game Dev**: In early development builds, **Rockstar always reuses sound effects from their previous games** as temporary placeholders (early *GTA V* builds used gun sounds from *GTA IV* and hit sounds from *Max Payne 3*). Hearing legacy sound stems is standard developer practice, not proof of a mod.
+  6. **Jason Schreier & Industry Verification**: Top investigative gaming journalist **Jason Schreier (Bloomberg)** and major gaming outlets independently verified that the footage is genuine Rockstar developer material.
+  7. **Copyright Law (DMCA)**: Under federal law (17 U.S.C. § 512), Take-Two can only issue DMCA takedowns on proprietary content they own. They do not strike fan mods or *Cities: Skylines* builds.
+
 <a id="szenebox-profile"></a>
-#### 9. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
+#### 10. Deep Dive: German Identity Proof & 2018 Forum Trail (Szenebox)
 ![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
 *Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018.*
 
