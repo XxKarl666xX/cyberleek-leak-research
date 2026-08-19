@@ -961,6 +961,10 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
     * **Pre-2021 Swiss Transparency**: Prior to January 1, 2021, the official Swiss `.ch` registry (**SWITCH** / `nic.ch`) published the full real names, postal addresses, and contact info of all domain owners by default.
     * **Domain Lifecycle**: `tech-forum.ch` was registered in December 2017 and later let expire after 2019.
     * **Historical Records**: Because Swiss privacy laws changed on Jan 1, 2021 to redact personal WHOIS info, commercial historical archives from 2017–2019 (such as *DomainTools*, *SecurityTrails*, or *WhoisXML*) could hold the original unredacted owner registration records.
+  * **Third-Party Security Citations (Discovery credit: [@harrispop](https://github.com/harrispop) — [Issue #13](https://github.com/zyrexdz/cyberleek-leak-research/issues/13))**:
+    * 🔗 [**Tec-Bite Cybersecurity Report (February 2023)**](https://www.tec-bite.ch/is-any-of-your-companies-data-in-dark-web/): A Swiss IT security firm cited `tech-forum.ch` as a case study analyzing exposed forum accounts on the dark web.
+    * 🔗 [**Dancho Danchev Cybercrime Intelligence Memoir (2023)**](https://dn721608.ca.archive.org/0/items/dancho-danchev-cyber-intelligence-cybercrime-memoir-second-edition-2023/Dancho_Danchev_Cyber_Intelligence_Cybercrime_Memoir_Second_Edition_2023.pdf): Prominent security intelligence researcher Dancho Danchev included `http://www.tech-forum.ch/` (PDF page 396) in a compilation index of online technical and scene discussion boards.
+    * *Context*: These third-party records prove `tech-forum.ch` had an established footprint in Swiss IT security monitoring lists.
 
 ---
 

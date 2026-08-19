@@ -92,6 +92,8 @@
 * Tech-Forum & XMPP Link Thread: https://www.szenebox.org/207-archiv/7928-tech-forum_stellt_sich_vor/index2.html#post70405 (`tech-forum.ch` / `cookie@im-tech-forum.ch`)
 * Wayback Machine Archives: https://web.archive.org/web/*/https://tech-forum.ch (Snapshots from 2018–2019 — Debian Apache server)
 * Swiss WHOIS Registry: Pre-2021 SWITCH records for `tech-forum.ch` (Discovered by @Nico-Strecker — Issue #12)
+* Third-Party Threat Intel Mention: Tec-Bite Article (https://www.tec-bite.ch/is-any-of-your-companies-data-in-dark-web/ — Feb 2023)
+* Third-Party Cybercrime Index: Dancho Danchev Memoir (https://dn721608.ca.archive.org/0/items/dancho-danchev-cyber-intelligence-cybercrime-memoir-second-edition-2023/Dancho_Danchev_Cyber_Intelligence_Cybercrime_Memoir_Second_Edition_2023.pdf — Page 396)
 * WebSec Exploit Hunting Thread: https://www.szenebox.org/50-suche_websec-interessierten_%C3%BC_austausch_%C3%BCber_sicherheitsl%C3%BCcke_-15752-post96416/ (April 9, 2023)
 * Cloudflare & VPN Bypass Thread: https://www.szenebox.org/72-_anti_bot_spam_cloudflare-16781-post98065/ (July 23–25, 2023)
 * Data Leaks & BreachForums Thread: https://www.szenebox.org/42-szene_daily_talk_offtopic/16718-wo_findet_data_leaks/#post98128 (July 28, 2023)
