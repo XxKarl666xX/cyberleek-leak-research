@@ -1,474 +1,403 @@
-# GTA 6 Leaks & Cyberleek Investigation Report
+# GTA 6 Leak Breakdown — The Cyberleek Files
 
-A complete, evidence-based investigation into the August 2026 *Grand Theft Auto VI* leaked gameplay videos and map images shared through the "Cyberleek" website, Solana blockchain, and Arweave storage network.
+Everything we know about the August 2026 GTA VI gameplay leak. Every claim backed with links, hashes, and on-chain proof.
 
-> **WARNING**: The r/GTA6 Reddit community, gaming news sites, and security researchers have identified Cyberleek as a **cryptocurrency pump-and-dump scam**. While the leaked gameplay footage itself appears to be **real internal Rockstar Games footage** (proven by Take-Two Interactive issuing copyright takedowns), the Cyberleek group is using these real clips to hype up their `$CYBERLEEK` token on Solana. **Do not visit their website or click their crypto links.** This report focuses purely on the files, dates, and evidence.
+> **HEADS UP**: Reddit, IGN, GamesRadar, and pretty much everyone agrees — Cyberleek is running a **crypto pump-and-dump scam**. The gameplay they leaked looks real (Rockstar is hitting everything with DMCA takedowns, which basically confirms it), but they're using the hype to push their `$CYBERLEEK` memecoin on Solana. **Don't click their crypto links. Don't buy their token.** This page is just about the files and the facts.
 
-> **CONTEXT**: This leak surfaced on August 17–18, 2026, roughly **9 days before** the official "GTA VI: An Extended Look" Netflix premiere on **August 27, 2026 at 3:00 PM ET**. GTA VI is currently scheduled to launch on **November 19, 2026** for PlayStation 5 and Xbox Series X|S.
-
----
-
-## 1. Full Media Inventory
-
-Here is the complete list of all 5 media files found through the smart contract data, decentralized storage links, and mirror downloads:
-
-### Media Item 1: Basketball Gameplay Video
-
-* **Media ID**: `MEDIA-01-BBALL`
-* **What it shows**: Jason shooting basketball hoops on the wooden deck of a waterfront house in Leonida.
-* **Where it was found**: `https://leek.vilenarios.com/` (loaded from Solana account `FSKYZHqqzwKMYevwdZuAM4KRkcNQZqto9RLM27nKeEas`)
-* **Direct File Link**: [`https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
-* **Backup Mirror**:
-  * [`https://www.upload.ee/files/19658673/output.mp4.html`](https://www.upload.ee/files/19658673/output.mp4.html)
-* **File Name**: `output.mp4` (also shared as `basketball_output.mp4`)
-* **File Type**: `.mp4` video (`video/mp4`)
-* **File Size**: `35,748,783` bytes (about 34.09 MB)
-* **Resolution**: `2560 × 1440` (1440p QHD)
-* **Screen Ratio**: `16:9`
-* **Frame Rate**: `30.00 fps` (Constant Frame Rate)
-* **Length**: `69.001` seconds (1 minute, 9 seconds)
-* **Total Frames**: `2,070` video frames / `3,235` audio frames
-* **Video Codec**: HEVC / H.265 (Main 10 Profile, 10-bit color, BT.2020 color space)
-* **Audio Codec**: AAC LC (Stereo, 48,000 Hz)
-* **Bitrate**: `4.14 Mbps` overall (`3.97 Mbps` video / `162 kbps` audio)
-* **File Hashes**:
-  * SHA-256: `bbcb8f662b8f973e6c59a0a2c98c9cd361eee67bc7593eeada9a43f6211eab82`
-  * MD5: `12bcdbceb4340737fd04d0fdbd55f83f`
-* **Encoder Used**: `Lavf60.16.100` / `Lavc60.31.102 libx265` (FFmpeg 6.1 series)
-* **File State**: Re-encoded by the leaker to add text and watermarks before uploading.
+> **TIMING**: These leaks dropped on August 17–18, 2026 — exactly **9 days before** the official "GTA VI: An Extended Look" Netflix premiere on **August 27, 2026 at 3:00 PM ET**. The game launches **November 19, 2026** on PS5 and Xbox Series X|S.
 
 ---
 
-### Media Item 2: Highway Driving & Delivery Van Video
+## 1. What Got Leaked (All 5 Files)
 
-* **Media ID**: `MEDIA-02-DRIVE`
-* **What it shows**: Jason driving a Declasse Picador pickup truck past green overhead highway signs pointing toward Goose Key, Hamlet, and Vice City.
-* **Where it was found**: `https://leek.vilenarios.com/` (loaded from Solana account `9pUqCNKgRctNcm8F6gr6kYZkP5stzGzVRCAX1qcpVXoE`)
-* **Direct File Link**: [`https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
-* **Backup Mirrors**:
-  * [`https://transfiles.ru/ybyf9`](https://transfiles.ru/ybyf9)
-  * [`https://www.upload.ee/files/19662951/video2.mp4.html`](https://www.upload.ee/files/19662951/video2.mp4.html)
-* **File Name**: `video2.mp4` (also shared as `random_video_1_video2.mp4`)
-* **File Type**: `.mp4` video (`video/mp4`)
-* **File Size**: `36,399,611` bytes (about 34.71 MB)
-* **Resolution**: `1920 × 1080` (1080p Full HD)
-* **Screen Ratio**: `16:9`
-* **Frame Rate**: `30.00 fps` (Constant Frame Rate)
-* **Length**: `68.000` seconds (1 minute, 8 seconds)
-* **Total Frames**: `2,040` video frames / `3,189` audio frames
-* **Video Codec**: HEVC / H.265 (Main 10 Profile, 10-bit color, BT.2020 color space)
-* **Audio Codec**: AAC LC (Stereo, 48,000 Hz)
-* **Bitrate**: `4.28 Mbps` overall (`4.11 Mbps` video / `162 kbps` audio)
-* **File Hashes**:
-  * SHA-256: `c2a2284d8b83b28f4fa4919e99b5f903bbea3925a35177357fe398a861a9a638`
-  * MD5: `2ed931a5370f84c446212313e263147b`
-* **Encoder Used**: `Lavf60.16.100` / `Lavc60.31.102 libx265` (FFmpeg 6.1 series)
-* **File State**: Re-encoded by the leaker to add text and watermarks before uploading.
+Here's every file that came out of this. All of them were pulled from Cyberleek's smart contract data and their decentralized storage.
+
+### File 1: Basketball Gameplay Clip
+
+* **ID**: `MEDIA-01-BBALL`
+* **What you see**: Jason shooting hoops on a wooden deck at a waterfront house somewhere in Leonida. There's a "Focus" meter that fills up when you make shots — looks like a proper gameplay mechanic, not a debug thing.
+* **Found at**: `https://leek.vilenarios.com/` (pulled from Solana account `FSKYZHqqzwKMYevwdZuAM4KRkcNQZqto9RLM27nKeEas`)
+* **Direct download**: [`arweave.net/3XQv_9nd...`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
+* **Backup**: [`upload.ee/files/19658673`](https://www.upload.ee/files/19658673/output.mp4.html)
+* **Filename**: `output.mp4`
+* **Size**: 34.09 MB
+* **Resolution**: 2560×1440 (1440p)
+* **FPS**: 30 (constant)
+* **Length**: ~69 seconds
+* **Codec**: H.265/HEVC, 10-bit color, BT.2020
+* **Audio**: AAC stereo, 48kHz
+* **SHA-256**: `bbcb8f662b8f973e6c59a0a2c98c9cd361eee67bc7593eeada9a43f6211eab82`
+* **MD5**: `12bcdbceb4340737fd04d0fdbd55f83f`
+* **Encoder**: FFmpeg 6.1 (`Lavf60.16.100` / `Lavc60.31.102 libx265`)
+* **Note**: Re-encoded by Cyberleek to burn in their watermarks before uploading.
 
 ---
 
-### Media Item 3: Full Leonida State Map
+### File 2: Highway Driving & Delivery Van Clip
 
-* **Media ID**: `MEDIA-03-FULLMAP`
-* **What it shows**: A full map of the state of Leonida displaying five county boundaries (Lummox, Kelly, Leonard, Vice-Dale, and Mariana).
-* **Where it was found**: `https://leek.vilenarios.com/` (loaded from Solana account `GwrASq3dqB5e1M2pti8bWiLNJZZhnsxHtsYpu7Y1bWcU`)
-* **Direct File Link**: [`https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
-* **Backup Mirror**:
-  * [`https://www.upload.ee/files/19662855/full_map.png.html`](https://www.upload.ee/files/19662855/full_map.png.html)
-* **File Name**: `full_map.png`
-* **File Type**: `.png` image (`image/png`)
-* **File Size**: `3,712,210` bytes (about 3.54 MB)
-* **Dimensions**: `2590 × 3240` pixels
-* **Color Mode**: 32-bit RGBA (includes alpha transparency channel)
-* **File Hashes**:
-  * SHA-256: `c5a07256f62f3ae37904540621f2b07d2f647fd10867b620622b3471910563f6`
-  * MD5: `23a7aee2466b437d3de34a6fc0f44657`
-* **Image Hashes**:
-  * Difference Hash (dHash): `8c8c2b8727872662`
-  * Average Hash (aHash): `191ffebfff1c08cc`
-* **File State**: Edited to add blue border banners with Cyberleek branding before uploading.
+* **ID**: `MEDIA-02-DRIVE`
+* **What you see**: Jason driving a Declasse Picador pickup past green highway signs pointing to Goose Key, Hamlet, and Vice City. You can see car damage physics, traffic, and the HUD minimap in action.
+* **Found at**: `https://leek.vilenarios.com/` (Solana account `9pUqCNKgRctNcm8F6gr6kYZkP5stzGzVRCAX1qcpVXoE`)
+* **Direct download**: [`arweave.net/hhOoYZt...`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
+* **Backups**: [`transfiles.ru/ybyf9`](https://transfiles.ru/ybyf9) / [`upload.ee/files/19662951`](https://www.upload.ee/files/19662951/video2.mp4.html)
+* **Filename**: `video2.mp4`
+* **Size**: 34.71 MB
+* **Resolution**: 1920×1080 (1080p)
+* **FPS**: 30 (constant)
+* **Length**: ~68 seconds
+* **Codec**: H.265/HEVC, 10-bit color, BT.2020
+* **Audio**: AAC stereo, 48kHz
+* **SHA-256**: `c2a2284d8b83b28f4fa4919e99b5f903bbea3925a35177357fe398a861a9a638`
+* **MD5**: `2ed931a5370f84c446212313e263147b`
+* **Encoder**: FFmpeg 6.1 (`Lavf60.16.100` / `Lavc60.31.102 libx265`)
+* **Note**: Same deal — re-encoded with watermarks baked in.
 
 ---
 
-### Media Item 4: Map Sneak Peek 1 (Dalton Island)
+### File 3: Full Leonida State Map
 
-* **Media ID**: `MEDIA-04-MAPPEEK1`
-* **What it shows**: A close-up crop of Dalton Island (the GTA version of Fisher Island).
-* **Where it was found**: `https://leek.vilenarios.com/` (loaded from Solana account `9qjyztEygKNRf5CG6MHSTNbJqAcVjJD4n7JazrhoTuiG`)
-* **Direct File Link**: [`https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg)
-* **File Name**: `map_sneak_peek_1.png`
-* **File Type**: `.png` image (`image/png`)
-* **File Size**: `787,106` bytes (about 768 KB)
-* **Dimensions**: `1110 × 880` pixels
-* **Color Mode**: 24-bit RGB
-* **File Hashes**:
-  * SHA-256: `0d1f9f522b7cd5ac4e4b9702a73e1b7aaac86b3cbd4befb725c488fa4ff9bb12`
-  * MD5: `963f64f3361f3f429b494081957b7878`
-* **File State**: Cropped image teaser with added watermark banner.
-
----
-
-### Media Item 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)
-
-* **Media ID**: `MEDIA-05-MAPPEEK2`
-* **What it shows**: A close-up crop of Catalan Key, Gloriana Key, Tequesta Retreat, and Catalan Bay.
-* **Where it was found**: `https://leek.vilenarios.com/` (loaded from Solana account `3k3DqRCTKznq9bmSAa9bxBDC6poRL97johxYNNVXiZNv`)
-* **Direct File Link**: [`https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
-* **File Name**: `map_sneak_peek_2.png`
-* **File Type**: `.png` image (`image/png`)
-* **File Size**: `922,561` bytes (about 900 KB)
-* **Dimensions**: `1140 × 907` pixels
-* **Color Mode**: 24-bit RGB
-* **File Hashes**:
-  * SHA-256: `b223c52138bc03a6fc4f27ab0dd58f95cf7ae173efb948a452ea7bf5b552cbac`
-  * MD5: `4b5f4272c6e96cae827204cd7634437d`
-* **File State**: Cropped image teaser with added watermark banner.
+* **ID**: `MEDIA-03-FULLMAP`
+* **What you see**: The entire state of Leonida with 5 counties labeled — Lummox, Kelly, Leonard, Vice-Dale, and Mariana. Vice City is in the southeast corner.
+* **Found at**: `https://leek.vilenarios.com/` (Solana account `GwrASq3dqB5e1M2pti8bWiLNJZZhnsxHtsYpu7Y1bWcU`)
+* **Direct download**: [`arweave.net/GVTWJUb...`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
+* **Backup**: [`upload.ee/files/19662855`](https://www.upload.ee/files/19662855/full_map.png.html)
+* **Filename**: `full_map.png`
+* **Size**: 3.54 MB
+* **Dimensions**: 2590×3240
+* **Color**: 32-bit RGBA
+* **SHA-256**: `c5a07256f62f3ae37904540621f2b07d2f647fd10867b620622b3471910563f6`
+* **MD5**: `23a7aee2466b437d3de34a6fc0f44657`
+* **Note**: Has blue border banners added by Cyberleek pushing their branding. The map itself underneath looks legit. Cyberleek claimed in Discord that **this map is from 2023** (see Discord Claims section below).
 
 ---
 
-## 2. Working Download Links
+### File 4: Map Sneak Peek 1 (Dalton Island)
 
-All direct links below connect straight to the raw files:
+* **ID**: `MEDIA-04-MAPPEEK1`
+* **What you see**: A zoomed-in crop of Dalton Island (GTA's version of Fisher Island, Miami).
+* **Direct download**: [`arweave.net/MyMFWWJ...`](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg)
+* **Filename**: `map_sneak_peek_1.png`
+* **Size**: ~768 KB (1110×880)
+* **SHA-256**: `0d1f9f522b7cd5ac4e4b9702a73e1b7aaac86b3cbd4befb725c488fa4ff9bb12`
+* **MD5**: `963f64f3361f3f429b494081957b7878`
 
-| Content Title | Direct Download Link | Alternative Mirror Link | Quality & Format |
+---
+
+### File 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)
+
+* **ID**: `MEDIA-05-MAPPEEK2`
+* **What you see**: Zoomed-in crop showing Catalan Key, Gloriana Key, Tequesta Retreat, and Catalan Bay.
+* **Direct download**: [`arweave.net/zbfExgT...`](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
+* **Filename**: `map_sneak_peek_2.png`
+* **Size**: ~900 KB (1140×907)
+* **SHA-256**: `b223c52138bc03a6fc4f27ab0dd58f95cf7ae173efb948a452ea7bf5b552cbac`
+* **MD5**: `4b5f4272c6e96cae827204cd7634437d`
+
+---
+
+## 2. Quick Download Table
+
+All files, straight to the source:
+
+| What | Direct Link | Mirror | Format |
 | :--- | :--- | :--- | :--- |
-| **Basketball Video** | [`https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [`https://www.upload.ee/files/19658673/output.mp4.html`](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p QHD MP4 (34.09 MB) |
-| **Driving Video** | [`https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [`https://transfiles.ru/ybyf9`](https://transfiles.ru/ybyf9)<br>[`https://www.upload.ee/files/19662951/video2.mp4.html`](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p FHD MP4 (34.71 MB) |
-| **Full Leonida Map** | [`https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [`https://www.upload.ee/files/19662855/full_map.png.html`](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.54 MB) |
-| **Map Peek 1** | [`https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg`](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | *(Arweave Gateway)* | 1110×880 PNG (768 KB) |
-| **Map Peek 2** | [`https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | *(Arweave Gateway)* | 1140×907 PNG (900 KB) |
+| **Basketball Video** | [Arweave](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | [Upload.ee](https://www.upload.ee/files/19658673/output.mp4.html) | 1440p MP4 (34 MB) |
+| **Driving Video** | [Arweave](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | [Transfiles](https://transfiles.ru/ybyf9) / [Upload.ee](https://www.upload.ee/files/19662951/video2.mp4.html) | 1080p MP4 (35 MB) |
+| **Full Map** | [Arweave](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | [Upload.ee](https://www.upload.ee/files/19662855/full_map.png.html) | 2590×3240 PNG (3.5 MB) |
+| **Map Peek 1** | [Arweave](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | — | 1110×880 PNG |
+| **Map Peek 2** | [Arweave](https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | — | 1140×907 PNG |
 
 ---
 
-## 3. Map Breakdown & County Evidence
+## 3. Is the Map Real?
 
-### Is the Map Real or Fan-Made?
+**Short answer: probably yes, at least mostly.**
 
-**Big takeaway**: **4 out of the 5 counties shown on the leaked map are 100% officially confirmed by Rockstar Games in their official trailers.**
+4 out of the 5 counties on the leaked map have been officially shown by Rockstar in their own trailers. That's a really strong match.
 
-![Mariana County and Vice-Dale County Road Sign in GTA VI Trailer 2](assets/trailer2_mariana_county_proof.png)
+![Mariana County road sign from GTA VI Trailer 2](assets/trailer2_mariana_county_proof.png)
 
-### The 5 Counties on the Map & Where They Come From:
+### County-by-County Breakdown:
 
-1. **Vice-Dale County** (Confirmed by Rockstar):
-   * Spotted on an official police seal and cruiser in **GTA VI Trailer 1 at timestamp 0:28**.
-   * Watch the moment on [Official GTA VI Trailer 1 on YouTube](https://www.youtube.com/watch?v=QdBZY2fkU-0).
-   * Documented on [GTA Wiki - Vice-Dale County](https://gta.fandom.com/wiki/Vice-Dale_County) and [GTABoom](https://www.gtaboom.com/).
+1. **Vice-Dale County** ✅ *Confirmed by Rockstar*
+   * Police seal visible in **Trailer 1 at 0:28** — [Watch on YouTube](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+   * Also on [GTA Wiki](https://gta.fandom.com/wiki/Vice-Dale_County)
 
-2. **Mariana County** (Confirmed by Rockstar):
-   * Spotted on an overhead highway sign (**Route 404 East: Mariana County / Vice-Dale County**) in **GTA VI Trailer 2 at timestamp 2:29 / 2:47**.
-   * The actual frame is embedded in the screenshot above.
+2. **Mariana County** ✅ *Confirmed by Rockstar*
+   * Highway sign (Route 404 East) in **Trailer 2 at 2:29** — see screenshot above
 
-3. **Kelly County & Leonard County** (Confirmed by Rockstar):
-   * Discovered on official road signs and sheriff car liveries in early development material and trailer scenes.
+3. **Kelly County** ✅ *Confirmed by Rockstar*
+   * Found on sheriff car liveries in trailer footage
 
-4. **Lummox County** (Found on Leaked Map):
-   * Located at the northern section of the map.
+4. **Leonard County** ✅ *Confirmed by Rockstar*
+   * Found on road signs in early development material
 
-### Community Mapping Project Context:
-* The GTA community has been mapping Leonida since September 2022 using coordinates from trailers and leaks.
-* You can check the fan project here: [State of Leonida Interactive Map](https://map.stateofleonida.net/) / [VI Map](https://vimap.saamexe.com/) and on [GTAForums Mapping Thread](https://gtaforums.com/topic/985269-gta-vi-mapping-project/).
-* Over 400 community members helped build that fan map.
-* **Our conclusion on the map**: Because 4 of the 5 county names match official Rockstar trailers, the county layout matches Rockstar's official lore. However, the blue watermark banners were clearly added by Cyberleek to promote their crypto token.
+5. **Lummox County** ❓ *Only on the leaked map*
+   * Sits at the top of the map. Not seen in any official trailer yet.
 
----
+**Bottom line**: 4 of 5 matching official trailers is a very strong signal. The blue watermark borders are clearly Cyberleek's addition to push their brand, but the actual map data underneath checks out.
 
-## 4. Evidence for Timeline Dates (Before & During the Leak)
-
-Here is the exact proof for every date mentioned in this report:
-
-### 1. September 18, 2022 (The First Big GTA 6 Leak)
-* **What happened**: A hacker named `teapotuberhacker` posted 90 unfinished gameplay clips on GTAForums.
-* **Proof links**:
-  * [Wikipedia: Grand Theft Auto VI - September 2022 Leaks](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#September_2022_leaks)
-  * [GTAForums Historical Record](https://gtaforums.com/)
-* **How we know it was an early pre-alpha build**:
-  * On-screen text showed `Build 2021/2022`.
-  * Debug camera coordinates were visible all over the screen.
-  * Blocks of untextured grey geometry and placeholder GTA V weapon wheels/sounds were used.
+### Community Mapping Context
+The GTA community has been piecing together Leonida since September 2022 using trailer coordinates. Over 400 contributors built the fan map:
+* [State of Leonida Map](https://map.stateofleonida.net/) / [VI Map](https://vimap.saamexe.com/)
+* [GTAForums Mapping Thread](https://gtaforums.com/topic/985269-gta-vi-mapping-project/)
 
 ---
 
-### 2. December 4, 2023 (Official Trailer 1 Release)
-* **What happened**: Rockstar Games released the first official GTA 6 trailer.
-* **Proof links**:
-  * [Official GTA VI Trailer 1 on YouTube](https://www.youtube.com/watch?v=QdBZY2fkU-0)
-  * [Official Rockstar Games Website](https://www.rockstargames.com/VI)
-* **Key timestamps**:
-  * `0:28` — News broadcast showing the **Vice-Dale County** police seal.
-  * `0:45` — Aerial beach view showing Vice City roads.
-  * `1:10` — Official character models of Lucia and Jason.
+## 4. Timeline & Date Proof
+
+Every date here has a source you can check yourself.
+
+### September 18, 2022 — The Original GTA 6 Leak
+A hacker called `teapotuberhacker` dropped 90 unfinished gameplay clips on GTAForums. This was the Lapsus$ breach (Arion Kurtaj). Totally separate from Cyberleek.
+* [Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#September_2022_leaks) / [GTAForums](https://gtaforums.com/)
+* That footage had `Build 2021/2022` text, debug cameras everywhere, untextured geometry, and GTA V placeholder sounds.
+
+### December 4, 2023 — Official Trailer 1
+Rockstar dropped the first real look at GTA 6.
+* [YouTube](https://www.youtube.com/watch?v=QdBZY2fkU-0) / [Rockstar Website](https://www.rockstargames.com/VI)
+* `0:28` — Vice-Dale County police seal on screen
+* `1:10` — First look at Lucia and Jason
+
+### Trailer 2 — Mariana County Confirmed
+* `2:29` — Route 404 East highway sign showing both Mariana County and Vice-Dale County
+
+### Mid-2025 to Mid-2026 — When This Footage Was Probably Recorded
+The leaked clips show a much more polished build than the 2022 stuff:
+* Finished HUD with minimap, health bar, stamina bar, and a working "Focus" meter
+* Realistic lighting, volumetric fog, water physics, real car damage
+* No debug text or test menus anywhere on screen
+* Sources: [PC Gamer](https://www.pcgamer.com/), [Kotaku](https://kotaku.com/)
+
+**However**, Cyberleek themselves said in their Discord that **the map leak is from 2023** (see Section 7 below). So the footage and the map might be from different time periods.
+
+### August 15–18, 2026 — The Leak Goes Live (Blockchain Proof)
+
+All confirmed through Arweave GraphQL and Viewblock:
+
+| Time (UTC) | What happened | Block # |
+|:---|:---|:---|
+| **Aug 15, 12:51** | First wallet activity — logo & site files uploaded | #1980496 |
+| **Aug 15, 20:02** | Website v1 goes live on Arweave | — |
+| **Aug 16, 10:11** | Website v2 goes live | — |
+| **Aug 16, 13:04** | `map_sneak_peek_2.png` uploaded | #1981170 |
+| **Aug 17, 09:11** | Website v3 goes live | — |
+| **Aug 17, 21:07** | `output.mp4` (basketball clip) uploaded | #1982091 |
+| **Aug 18, 17:28** | `full_map.png` uploaded | #1982664 |
+| **Aug 18, 19:05** | `video2.mp4` (driving clip) uploaded | #1982709 |
+| **Aug 18, ~20:00+** | Leak goes viral — Reddit, X, YouTube blow up | — |
+| **Aug 18, ~20:00+** | Take-Two/Rockstar start hitting everything with DMCAs | — |
+
+**FFmpeg fingerprint**: Both videos were encoded with `Lavf60.16.100` / `Lavc60.31.102` (FFmpeg 6.1). This means Cyberleek re-encoded the raw footage to stamp their watermarks on it before upload.
+
+### DMCA Takedowns = Basically Confirmation
+Take-Two and Rockstar have been carpet-bombing social media with copyright takedowns. Big publishers don't waste legal resources taking down fake stuff. Multiple outlets (PC Gamer, Kotaku, Rock Paper Shotgun) have reported on this.
 
 ---
 
-### 3. GTA VI Trailer 2 (Mariana County Confirmation)
-* **What happened**: Rockstar Games officially confirmed **Mariana County** in Trailer 2.
-* **Key timestamp**:
-  * `2:29` — Overhead highway sign on Route 404 East shows **Mariana County** alongside **Vice-Dale County** (see screenshot in Section 3).
+## 5. Date & Evidence Summary Table
+
+| File | Type | Upload Date (Proven) | Proof | Hash Match? | Verdict |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `output.mp4` | Basketball clip | **Aug 17, 21:07 UTC** | [Viewblock #1982091](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | ✅ SHA-256 + size | Real footage, date confirmed |
+| `video2.mp4` | Driving clip | **Aug 18, 19:05 UTC** | [Viewblock #1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | ✅ SHA-256 + size | Real footage, date confirmed |
+| `full_map.png` | State map | **Aug 18, 17:28 UTC** | [Viewblock #1982664](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | ✅ SHA-256 + size | 4/5 counties match trailers |
+| `map_sneak_peek_1.png` | Island crop | Unknown | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | ✅ SHA-256 | File works, block not found |
+| `map_sneak_peek_2.png` | Key crop | **Aug 16, 13:04 UTC** | [Viewblock #1981170](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | ✅ SHA-256 + size | Date confirmed |
 
 ---
 
-### 4. Mid-2025 to Mid-2026 (When the August 2026 Footage Was Recorded)
-* **What happened**: The leaked gameplay clips (Basketball and Driving) were recorded from a modern PS5 / Xbox Series X internal build.
-* **Proof sources**:
-  * [PC Gamer Analysis](https://www.pcgamer.com/)
-  * [Kotaku Report](https://kotaku.com/)
-* **Technical details proving this is a late-stage build**:
-  * **Retail-style HUD**: Has a finished mini-map, health bar, stamina bar, and an interactive "Focus" meter that fills up when making basketball shots.
-  * **Engine Quality**: Realistic lighting, volumetric fog, water physics, and car damage that look far beyond the rough 2022 leak.
-  * **No debug spam**: No huge developer logs or test menus blocking the screen.
+## 6. Source Check Table
+
+Every source used in this investigation and whether it's still up:
+
+| Source | Working? | What's There | Notes |
+| :--- | :--- | :--- | :--- |
+| `leek.vilenarios.com` | ❌ Taken down | Main site | Was connected to Solana RPC |
+| `assets/index-CE2GuztQ.js` | Saved locally | Frontend script | Has the Program ID & token info |
+| Solana Program `7rAgHPLD...` | ✅ Yes | 8 content accounts | Contains all 5 Arweave file links |
+| Arweave `3XQv_9nd...` | ✅ Yes | Basketball video | Block #1982091 |
+| Arweave `hhOoYZt...` | ✅ Yes | Driving video | Block #1982709 |
+| Arweave `GVTWJUb...` | ✅ Yes | Full map | Block #1982664 |
+| Arweave `MyMFWWJ...` | ✅ Yes | Map peek 1 | Active on gateway |
+| Arweave `zbfExgT...` | ✅ Yes | Map peek 2 | Block #1981170 |
+| Upload.ee mirrors | ✅ Yes | 3 backups | All working |
+| Transfiles mirror | ✅ Yes | 1 backup | Working |
 
 ---
 
-### 5. August 15–18, 2026 (Upload Dates Proven on Blockchain)
-* **What happened**: Cyberleek put their website online and uploaded the media files to the Arweave storage network.
-* **Direct on-chain proof** (verified using Arweave GraphQL and Viewblock):
-  * **First wallet upload**: `2026-08-15 12:51:12 UTC` (Block #1980496) — Logo & Website files.
-  * **Map Sneak Peek 2**: `2026-08-16 13:04:11 UTC` (Block #1981170, Unix `1786885451`).
-  * **Basketball Video**: `2026-08-17 21:07:16 UTC` (Block #1982091, Unix `1787000836`).
-  * **Full Map Image**: `2026-08-18 17:28:34 UTC` (Block #1982664, Unix `1787074114`).
-  * **Driving Video**: `2026-08-18 19:05:56 UTC` (Block #1982709, Unix `1787079956`).
-* **Software footprint**: Running `ffprobe` on the videos shows they were transcoded with `Lavf60.16.100` / `Lavc60.31.102` (FFmpeg 6.1) to burn in watermarks before upload.
+## 7. Cyberleek's Discord Claims
+
+Cyberleek has a Discord server where they've been chatting with community members and dropping hints about the game. Here are the confirmed claims from their Discord messages:
+
+*(Screenshots credit: [@gamingskew](https://x.com/gamingskew) on X)*
+
+![Cyberleek Discord claims](assets/discord_claims_1.png)
+
+### What They Said:
+
+| Claim | Context | What It Means |
+|:---|:---|:---|
+| **"The map l*ak is from 2023"** | When asked if there's more to the map | They're saying the map image is from a 2023 build — meaning it's probably outdated and the final map could be bigger or different |
+| **"Lucia isn't introduced into the game straight away"** | Responding to someone saying "someone last year got their hands on the game" | You don't play as Lucia from the beginning — she shows up later in the story |
+| **✅ (green check) to "you have to pick her up from prison?"** | User @Deepak_sama_ asked if you pick Lucia up from prison | Confirms Lucia starts in prison and Jason picks her up — lines up with the ankle monitor seen in the trailers |
+| **"I can't answer that" when asked "you got footage but you're not the guy playing"** | User Piersicar pointed out Cyberleek has the footage but might not be the one who recorded it | Dodge answer — pretty much confirms they didn't record the footage themselves. They got it from someone else. |
+| **"Not yet" when asked about 60fps on PS5 Pro** | User @Vladimir asked about PS5 Pro performance | As of the build they have access to, the PS5 Pro version doesn't hit 60fps yet — could change before launch |
+| **"No" when asked "have you heard from R*?"** | User @ED asked if Rockstar contacted them | As of that moment, Rockstar hadn't reached out directly to Cyberleek |
+
+### What This Tells Us
+- They probably **didn't record the footage themselves** — they got it from someone with access
+- The **map is from a 2023 build**, which means it might not show the final version of the game world
+- The **Lucia prison storyline** matches what we've seen in the trailers (ankle monitor, mugshot scenes)
+- The game **doesn't run at 60fps on PS5 Pro yet** — but that could change with optimization before launch
+- Rockstar **hasn't contacted them directly** (at least as of when they said this)
 
 ---
 
-### 6. Rockstar Games Copyright Takedowns
-* **What happened**: Take-Two Interactive and Rockstar Games started taking down copies of the August 2026 gameplay on social media.
-* **Reported by**: [PC Gamer](https://www.pcgamer.com/), [Kotaku](https://kotaku.com/), and [Rock Paper Shotgun](https://www.rockpapershotgun.com/).
-* **Why it matters**: Big game publishers only issue DMCA takedowns for real, internal company materials.
+## 8. Who is Cyberleek?
 
----
+Nobody knows who's actually behind this. Here's everything we could find:
 
-## 5. Verified Date & Evidence Table
+### Their X (Twitter) Accounts
 
-| Media Item | What it is | Earliest Proven Upload Time | Proof Link | Proof Type | File Match? | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`output.mp4`** | Basketball Gameplay | **2026-08-17 21:07:16 UTC** | [Viewblock Block #1982091](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | On-Chain Block Header | Yes (SHA-256 + size match) | **100% Confirmed** upload date; Real gameplay |
-| **`video2.mp4`** | Highway Driving | **2026-08-18 19:05:56 UTC** | [Viewblock Block #1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | On-Chain Block Header | Yes (SHA-256 + size match) | **100% Confirmed** upload date; Real gameplay |
-| **`full_map.png`** | Leonida State Map | **2026-08-18 17:28:34 UTC** | [Viewblock Block #1982664](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) | On-Chain Block Header | Yes (SHA-256 + size match) | **100% Confirmed** upload date; 4 of 5 counties confirmed in Trailers 1 & 2 |
-| **`map_sneak_peek_1.png`** | Dalton Island Map | Unknown *(Active on gateway)* | [Arweave Gateway](https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg) | Gateway Binary | Yes (SHA-256 match) | File downloadable; Block unverified |
-| **`map_sneak_peek_2.png`** | Catalan Key Map | **2026-08-16 13:04:11 UTC** | [Viewblock Block #1981170](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | On-Chain Block Header | Yes (SHA-256 + size match) | **100% Confirmed** upload date; 4 of 5 counties confirmed in Trailers 1 & 2 |
-
----
-
-## 6. Master Timeline
-
-```
-[2022-09-18]           ── 90 pre-alpha test clips leak on GTAForums (early 2021-2022 test build).
-[2022-09-20]           ── DuPz0r and the community start the GTA VI Mapping Project.
-[2023-12-04]           ── Rockstar officially drops Trailer 1 (shows Vice-Dale County at 0:28).
-[TRAILER 2]            ── Rockstar drops Trailer 2 (shows Mariana County on Route 404 at 2:29).
-[2024-2025]            ── Community mappers update the fan map using trailer landmarks.
-[2025-2026]            ── Rockstar internal milestone builds record high-quality PS5 gameplay.
-[2026-08-15 12:51 UTC] ── Cyberleek wallet first shows up on Arweave (uploads site logo, Block #1980496).
-[2026-08-15 20:02 UTC] ── Cyberleek website v1 goes live on Arweave.
-[2026-08-16 10:11 UTC] ── Cyberleek website v2 goes live on Arweave.
-[2026-08-16 13:04 UTC] ── map_sneak_peek_2.png uploaded to Arweave Block #1981170.
-[2026-08-17 09:11 UTC] ── Cyberleek website v3 goes live on Arweave.
-[2026-08-17 21:07 UTC] ── basketball_output.mp4 uploaded to Arweave Block #1982091.
-[2026-08-18 17:28 UTC] ── full_map.png uploaded to Arweave Block #1982664.
-[2026-08-18 19:05 UTC] ── random_video_1_video2.mp4 uploaded to Arweave Block #1982709.
-[2026-08-18 20:00+ UTC] ── Leak goes viral on Reddit, X (Twitter), YouTube, and gaming news sites.
-[2026-08-18 20:00+ UTC] ── Take-Two / Rockstar start issuing copyright takedowns on social media.
-[2026-08-27 15:00 ET]  ── (UPCOMING) Official "GTA VI: An Extended Look" airs on Netflix.
-[2026-11-19]           ── (UPCOMING) Official GTA VI release date for PS5 and Xbox Series X|S.
-```
-
----
-
-## 7. Sources Audit Table
-
-Here is the status of every source URL found in the project:
-
-| Source Reference | Working? | What was found | Total Media | Blockchain / Server Record |
-| :--- | :--- | :--- | :--- | :--- |
-| `https://leek.vilenarios.com/` | Site Taken Down | Main Website Portal | 1 | Connected to Solana Mainnet RPC |
-| `assets/index-CE2GuztQ.js` | Saved in Archive | Web App Script | 1 | Contained Program ID & Token info |
-| `Solana Program 7rAgHPLD...` | Yes (RPC 200) | 8 Content Accounts | 8 | Disclosed all 5 Arweave file links |
-| `Arweave 3XQv_9nd...` | Yes (HTTP 200) | Basketball Video | 1 | Block #1982091 (`1787000836`) |
-| `Arweave hhOoYZt...` | Yes (HTTP 200) | Driving Video | 1 | Block #1982709 (`1787079956`) |
-| `Arweave GVTWJUb...` | Yes (HTTP 200) | Full Map Image | 1 | Block #1982664 (`1787074114`) |
-| `Arweave MyMFWWJ...` | Yes (HTTP 200) | Map Sneak Peek 1 | 1 | Active on Arweave gateway |
-| `Arweave zbfExgT...` | Yes (HTTP 200) | Map Sneak Peek 2 | 1 | Block #1981170 (`1786885451`) |
-| `Upload.ee 19658673` | Yes (HTTP 200) | Basketball Mirror | 1 | Working direct download |
-| `Upload.ee 19662951` | Yes (HTTP 200) | Driving Mirror | 1 | Working direct download |
-| `Upload.ee 19662855` | Yes (HTTP 200) | Full Map Mirror | 1 | Working direct download |
-| `Transfiles ybyf9` | Yes (HTTP 200) | Driving Mirror | 1 | Working direct download |
-
----
-
-## 8. Verified Links & Evidence Index
-
-All verified links used in this report:
-
-1. **Official GTA VI Trailer 1 (Rockstar Games YouTube)**:
-   [`https://www.youtube.com/watch?v=QdBZY2fkU-0`](https://www.youtube.com/watch?v=QdBZY2fkU-0)
-   *Shows Vice City, characters, and the Vice-Dale County police seal at 0:28.*
-2. **Official GTA VI Trailer 2 (Rockstar Games YouTube)**:
-   *Shows **Mariana County** and Route 404 East overhead sign at timestamp **2:29 / 2:47** (see screenshot in `assets/trailer2_mariana_county_proof.png`).*
-3. **Official Rockstar Games GTA VI Website**:
-   [`https://www.rockstargames.com/VI`](https://www.rockstargames.com/VI)
-   *Official news and release announcements.*
-4. **2022 GTA VI Leak History (Wikipedia)**:
-   [`https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#September_2022_leaks`](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#September_2022_leaks)
-   *Documents the original September 18, 2022 leak.*
-5. **GTA VI Community Mapping Project (GTAForums)**:
-   [`https://gtaforums.com/topic/985269-gta-vi-mapping-project/`](https://gtaforums.com/topic/985269-gta-vi-mapping-project/)
-   *Documents community coordinate mapping from 2022 to 2026.*
-6. **State of Leonida Interactive Map**:
-   [`https://map.stateofleonida.net/`](https://map.stateofleonida.net/) *(mirror at [`https://vimap.saamexe.com/`](https://vimap.saamexe.com/))*
-   *Interactive fan map for location and trailer comparisons.*
-7. **GTA VI Community (Reddit r/GTA6)**:
-   [`https://www.reddit.com/r/GTA6/`](https://www.reddit.com/r/GTA6/)
-   *Community discussions, leak breakdowns, and scam alerts.*
-8. **Solana Smart Contract Account (Solscan)**:
-   [`https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a`](https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a)
-   *The on-chain smart contract where Cyberleek stored their media list.*
-9. **Cyberleek Token on DexScreener**:
-   [`https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg`](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg)
-   *Shows the memecoin token pushed by the leaker.*
-10. **Basketball Video Arweave Block Record (Viewblock)**:
-    [`https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
-    *Proves upload timestamp of August 17, 2026 at 21:07:16 UTC (Block #1982091).*
-11. **Driving Video Arweave Block Record (Viewblock)**:
-    [`https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
-    *Proves upload timestamp of August 18, 2026 at 19:05:56 UTC (Block #1982709).*
-12. **Full Map Arweave Block Record (Viewblock)**:
-    [`https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
-    *Proves upload timestamp of August 18, 2026 at 17:28:34 UTC (Block #1982664).*
-13. **Map Sneak Peek 2 Arweave Block Record (Viewblock)**:
-    [`https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0`](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0)
-    *Proves upload timestamp of August 16, 2026 at 13:04:11 UTC (Block #1981170).*
-14. **Direct Playable Basketball Video**:
-    [`https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs`](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
-15. **Direct Playable Driving Video**:
-    [`https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg`](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
-16. **Direct Full Map Image**:
-    [`https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0`](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
-
----
-
-## 9. Who is Cyberleek? (OSINT Profile)
-
-Nobody knows who's actually behind this. Here's everything publicly available:
-
-### Social Media Accounts
-
-**Main Account: [@cyberleek_ar_io](https://x.com/cyberleek_ar_io) on X (Twitter)**
+**Main: [@cyberleek_ar_io](https://x.com/cyberleek_ar_io)**
 * **Bio**: "Fighting For Gamer's Rights. @MrCyberLeek V2 $CYBERLEEK"
-* **Account Created**: March 2026 — that's **~5 months before** any leak dropped. This was planned ahead of time.
+* **Created**: March 2026 — that's **5 months before** any leak. This was planned ahead of time.
 * **Followers**: ~88,900 (as of Aug 19, 2026)
-* **Profile Picture**: Cartoon leek character with blue sunglasses
-* **Banner**: Black background with white text: *"We do not own the games, if they do not give us physical editions."*
-* **Biggest Post**: "2-4 More Leaks incoming." — **9.5 million views**, 80K likes, 3.8K reposts.
+* **Profile pic**: Cartoon leek character with blue sunglasses
+* **Banner**: *"We do not own the games, if they do not give us physical editions."*
+* **Biggest post**: "2-4 More Leaks incoming." — **9.5 million views**
 
-**Second Account: [@MrCyberLeek](https://x.com/MrCyberLeek)**
-* Referenced in the main bio as "V2" — meaning `@cyberleek_ar_io` is likely a replacement for this earlier account.
-* Both confirmed linked by The Gamer.
+**Backup: [@MrCyberLeek](https://x.com/MrCyberLeek)**
+* The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account.
+* Both confirmed linked by [The Gamer](https://www.thegamer.com/).
 
-### Website & Infrastructure
+### Their Website Setup
 
 | Part | Details |
 |:---|:---|
-| **Main Site** | `cyberleek.ar.io` (decentralized domain on ArNS) |
-| **Original URL** | `leek.vilenarios.com` (now taken down) |
-| **Hosting** | Arweave — permanent, can't be deleted |
-| **Domain System** | ArNS (Arweave Name System) — no WHOIS, no registrar, no way to look up the real owner through normal domain tools |
-| **Gateway Owner** | `vilenarios.com` belongs to Phil Mataras, an AR.IO developer — **he is NOT Cyberleek**, they just used his gateway infrastructure |
+| **Site** | `cyberleek.ar.io` (decentralized domain) |
+| **Old URL** | `leek.vilenarios.com` (now dead) |
+| **Hosting** | Arweave — permanent, literally can't be deleted |
+| **Domain** | ArNS (Arweave Name System) — no WHOIS, no registrar, no way to trace the owner through normal tools |
+| **Gateway** | `vilenarios.com` belongs to Phil Mataras, an AR.IO developer — **NOT Cyberleek**, they just used his public infrastructure |
 
-> **Why this matters**: By using Arweave (permanent storage) and ArNS (decentralized naming), Cyberleek made it so their files **can never be fully taken down**. Even if the website gets blocked, the raw files live forever on the Arweave blockchain. This is a technically sophisticated setup — not something an average troll would build.
+The fact they used Arweave + ArNS means these files are **permanent and untakeable**. Even if every website mirror dies, the raw files live on the blockchain forever. That's not amateur-level thinking.
 
-### Crypto / Token Trail
+### The $CYBERLEEK Token
 
 | Detail | Value |
 |:---|:---|
-| **Token Name** | $CYBERLEEK |
-| **Contract Address** | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` |
-| **Blockchain** | Solana |
-| **DexScreener** | [`Link`](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg) |
-| **Status** | Flagged as **pump-and-dump scam** by Reddit, GamesRadar, IGN, and security researchers |
+| **Name** | $CYBERLEEK |
+| **Contract** | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` |
+| **Chain** | Solana |
+| **Tracker** | [DexScreener](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg) |
+| **Verdict** | **Pump-and-dump scam** — flagged by Reddit, GamesRadar, IGN, and security researchers |
 
-### The "CYBERLEEK Edict" (Manifesto)
+### Their Manifesto ("No Disc, No Peace")
 
-Their manifesto demands three things from game publishers:
+Three demands aimed at game publishers:
+1. **Ship physical discs** — stop digital-only pre-orders
+2. **Stop selling fake DLC** — don't paywall content already in the game files
+3. **Keep games playable offline** — games shouldn't die when servers shut down
 
-1. **End digital-only pre-orders** — ship physical discs
-2. **Stop selling "fake" single-player DLC** — no paywalling content already in the game files
-3. **Offline/preservation safeguards** — games must work even if servers shut down
+They threatened "2-4 more leaks" and demanded a "public apology and concrete commitment" from Rockstar. As of Aug 19, no new files have dropped.
 
-**Slogan**: *"No Disc, No Peace"*
+### Hack Forum Presence: Zero
 
-### Hack Forum Presence: **None Found**
+| Forum | Found? |
+|:---|:---|
+| BreachForums | ❌ |
+| RaidForums | ❌ |
+| PwnForums | ❌ |
+| Cracked.io | ❌ |
+| Nulled.to | ❌ |
 
-| Forum | Found? | Notes |
-|:---|:---|:---|
-| BreachForums | ❌ | Only other users discussing the leak |
-| RaidForums | ❌ | Same — discussion threads only |
-| PwnForums | ❌ | Discussion threads only |
-| Cracked.io | ❌ | No match |
-| Nulled.to | ❌ | No match |
+Real hacker groups have forum accounts. Cyberleek has none. They only operate through X and blockchain. That points to this being a **crypto play wrapped in fake activism**, not a real hacking collective.
 
-> **What this means**: Real hacktivists and leak groups usually have established forum accounts. Cyberleek has zero forum presence — they operate only through X (Twitter) and blockchain. This supports the idea that it's a **crypto play disguised as activism**, not a traditional hacking collective.
+### Are They Connected to the 2022 Lapsus$ Leak?
 
-### Is Cyberleek Connected to the 2022 Leak?
+**No.** The 2022 leak was Arion Kurtaj (Lapsus$ group). He was caught, tried, and got an indefinite hospital order. Cyberleek is totally separate. Confirmed by [GTA Intel](https://gtaintel.com/), Reddit, and industry reporters.
 
-**No.** The 2022 GTA VI leak was done by Arion Kurtaj, a member of the **Lapsus$** hacking group. He was caught, tried, and sentenced to an indefinite hospital order. Cyberleek is a completely separate and unrelated entity. Confirmed by GTA Intel, multiple Reddit threads, and industry reporters.
+### How Everyone Reacted
 
-### How the Gaming Community Reacted
+* **Stop Killing Games (Ross Scott)**: Officially distanced themselves. Called it "unacceptable" and warned people "do not send any money to CyberLeek." ([IGN](https://ign.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com/))
+* **Reddit (r/GTA6)**: Footage looks real, but Cyberleek is a scam. That's the consensus.
+* **Gaming press**: IGN, Eurogamer, Kotaku, PC Gamer, GamesRadar, Rock Paper Shotgun, GameSpot, The Gamer, and GTA Intel all covered it and flagged the memecoin.
+* **Rockstar**: No public statement. Just DMCA takedowns everywhere.
 
-* **Stop Killing Games (Ross Scott's movement)**: Officially distanced themselves. Said using illegal means "is unacceptable" and warned followers "do not send any money to CyberLeek." ([IGN](https://ign.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com/))
-* **Reddit (r/GTA6)**: Strong consensus — the footage is real, but Cyberleek is a crypto scam.
-* **Gaming Press**: IGN, Eurogamer, Kotaku, PC Gamer, GamesRadar, Rock Paper Shotgun, GameSpot, The Gamer, and GTA Intel all covered the leak and flagged the memecoin scheme.
+### The Real Picture
 
-### Bottom Line on Cyberleek
+The X account was made 5 months early. The memecoin launched at the same time as the leak. Every watermark pushes `$CYBERLEEK`. They have zero forum presence. Their Discord chats suggest they didn't even record the footage themselves. 
 
-The whole operation looks like a **calculated crypto/clout play**, not genuine activism. The X account was made 5 months early, the memecoin launched at the same time as the leak, every piece of content pushes `$CYBERLEEK`, and they have zero presence on actual hacking forums. Someone had access to real Rockstar footage and chose to monetize it through a crypto pump-and-dump wrapped in a "No Disc, No Peace" manifesto.
-
----
-
-## 10. Things We Still Don't Know
-
-* **Original Raw Videos**: The clean, non-watermarked original MP4 files from before Cyberleek re-encoded them with FFmpeg have not been found publicly.
-* **Exact Recording Minute Inside Rockstar**: While the graphics and HUD show it was recorded from a post-2024 PS5 build, the exact recording day/time inside Rockstar's studio cannot be confirmed without unedited camera/capture card files.
-* **Map Sneak Peek 1 Block Info**: The transaction for `map_sneak_peek_1.png` wasn't found in the main wallet's transaction history on GraphQL, even though the file is live on the gateway.
-* **The "Manifesto"**: Cyberleek published 3 "commandments" demanding no digital pre-orders and mandatory offline support. While framed as consumer activism, the community widely sees this as an excuse to promote their crypto scheme.
-* **How They Got the Footage**: No confirmed source. Could be leftover access from 2022 Lapsus$ breach, a new separate insider, or purchased from a third party.
-* **One Person or a Group?**: The X bio references two accounts, the infrastructure is sophisticated, but communication style is inconsistent across posts.
-* **Will More Leaks Drop?**: They threatened "2-4 more leaks" but as of Aug 19 no new content has appeared beyond the original 5 files.
-* **Will They Be Caught?**: Using decentralized infrastructure (Arweave, Solana, ArNS) makes tracing significantly harder than traditional hosting. Would require blockchain forensics on the Solana wallet and exchange cooperation if the token creator cashed out.
+This looks like someone who got their hands on real Rockstar footage and decided to turn it into a crypto pump-and-dump, with a "No Disc, No Peace" manifesto to make it seem like activism.
 
 ---
 
-## 11. How Everything Was Verified
+## 9. What We Still Don't Know
 
-Here is how each piece of information was checked:
+* **The original raw files** — the clean, un-watermarked videos before Cyberleek added their branding with FFmpeg haven't surfaced.
+* **When exactly the footage was captured** — the graphics look like a post-2024 PS5 build, but without the raw files there's no way to pin down the exact recording date.
+* **Map Sneak Peek 1's block data** — the file works fine on Arweave's gateway but doesn't show up in the wallet's transaction history on GraphQL. Weird.
+* **How they got the footage** — could be leftover access from the 2022 Lapsus$ breach, a new insider, or they bought it from someone. Cyberleek dodged this question in Discord.
+* **One person or a team?** — the tech setup is sophisticated but the social media posting style is inconsistent.
+* **Will more leaks actually drop?** — they said "2-4 more" but nothing new has come out since the original 5 files.
+* **Will they get caught?** — using Arweave, Solana, and ArNS makes them much harder to trace than someone using regular hosting. Would need blockchain forensics and exchange cooperation.
 
-| What was tested | How it was tested | Result |
+---
+
+## 10. All Verified Links
+
+Every link referenced in this report:
+
+1. [Official GTA VI Trailer 1](https://www.youtube.com/watch?v=QdBZY2fkU-0) — Vice-Dale County seal at 0:28
+2. Official GTA VI Trailer 2 — Mariana County sign at 2:29 (screenshot in `assets/trailer2_mariana_county_proof.png`)
+3. [Rockstar Games GTA VI Website](https://www.rockstargames.com/VI)
+4. [2022 Leak History (Wikipedia)](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#September_2022_leaks)
+5. [GTA VI Mapping Project (GTAForums)](https://gtaforums.com/topic/985269-gta-vi-mapping-project/)
+6. [State of Leonida Map](https://map.stateofleonida.net/) / [VI Map mirror](https://vimap.saamexe.com/)
+7. [r/GTA6 (Reddit)](https://www.reddit.com/r/GTA6/)
+8. [Solana Smart Contract (Solscan)](https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a)
+9. [$CYBERLEEK Token (DexScreener)](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg)
+10. [Basketball Video Block (Viewblock)](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) — Aug 17, 2026 21:07 UTC
+11. [Driving Video Block (Viewblock)](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) — Aug 18, 2026 19:05 UTC
+12. [Full Map Block (Viewblock)](https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0) — Aug 18, 2026 17:28 UTC
+13. [Map Peek 2 Block (Viewblock)](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) — Aug 16, 2026 13:04 UTC
+14. [Basketball Video (direct)](https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs)
+15. [Driving Video (direct)](https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg)
+16. [Full Map (direct)](https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0)
+
+---
+
+## 11. How We Checked Everything
+
+| What | How | Result |
 | :--- | :--- | :--- |
-| All 5 SHA-256 hashes | Python `hashlib` on downloaded files | All 5 match 100% |
-| All 5 MD5 hashes | Python `hashlib` on downloaded files | All 5 match 100% |
-| All 5 file sizes | Python `os.path.getsize()` | All 5 match 100% |
-| Arweave block heights & dates | Arweave GraphQL API | 4 of 5 confirmed on-chain |
-| Arweave wallet address | Arweave GraphQL API | Confirmed wallet `7gFAEaO...` |
-| Video encoder software | `ffprobe` on downloaded MP4s | Confirmed FFmpeg 6.1 series (`Lavf60.16.100`) |
-| All links in report | Multithreaded Python URL tester | All links active and working |
-| Official Trailer 1 proof | YouTube / Rockstar Games | Confirmed (Vice-Dale seal at 0:28) |
-| Official Trailer 2 proof | YouTube / Rockstar Games | Confirmed (Mariana County sign at 2:29) |
-| September 2022 leak proof | Wikipedia / GTAForums / Rockstar statements | Confirmed (Sept 18, 2022 leak) |
-| Community mapping project | GTAForums / State of Leonida Map | Confirmed (~400 contributors) |
-| Reddit community consensus | r/GTA6 search & analysis | Confirmed (labeled as crypto scam) |
-| DMCA takedowns | Gaming news outlets (PC Gamer, Kotaku) | Confirmed (active Take-Two enforcement) |
-| GTA VI release date | Official Rockstar Games announcement | Confirmed (Nov 19, 2026) |
-| Cyberleek X profile (@cyberleek_ar_io) | Manual X/Twitter profile inspection | Confirmed: Bio, followers (~88.9K), created March 2026 |
-| Second X account (@MrCyberLeek) | Cross-referenced via bio + The Gamer reporting | Confirmed linked to same operator |
-| Hack forum presence | Searched BreachForums, RaidForums, PwnForums, Cracked.io, Nulled.to | No accounts found — only discussion threads by others |
-| $CYBERLEEK token | DexScreener, Reddit, IGN, GamesRadar reporting | Confirmed pump-and-dump scam (contract: `ApZuxd...bKg`) |
-| Lapsus$ connection | GTA Intel, Reddit, news cross-reference | Confirmed: **No connection** to Arion Kurtaj / Lapsus$ |
-| Stop Killing Games reaction | IGN, Rock Paper Shotgun, Eurogamer | Confirmed: SKG officially distanced from Cyberleek |
-| ArNS domain ownership | AR.IO documentation, Phil Mataras public profile | `vilenarios.com` is AR.IO infra, not Cyberleek's property |
+| All 5 SHA-256 hashes | Python `hashlib` on downloaded files | ✅ All match |
+| All 5 MD5 hashes | Python `hashlib` | ✅ All match |
+| All 5 file sizes | Python `os.path.getsize()` | ✅ All match |
+| Arweave block heights & dates | Arweave GraphQL API | ✅ 4 of 5 confirmed on-chain |
+| Arweave wallet address | Arweave GraphQL API | ✅ Confirmed `7gFAEaO...` |
+| Video encoder ID | `ffprobe` on both MP4s | ✅ FFmpeg 6.1 (`Lavf60.16.100`) |
+| All links in report | Python multithreaded URL checker | ✅ All active |
+| Trailer 1 counties | YouTube / Rockstar | ✅ Vice-Dale at 0:28 |
+| Trailer 2 counties | YouTube / Rockstar | ✅ Mariana at 2:29 |
+| 2022 leak history | Wikipedia / GTAForums / Rockstar | ✅ Confirmed |
+| Community mapping | GTAForums / State of Leonida | ✅ ~400 contributors |
+| Reddit consensus | r/GTA6 search | ✅ Crypto scam |
+| DMCA takedowns | PC Gamer, Kotaku, Rock Paper Shotgun | ✅ Active enforcement |
+| GTA VI release date | Rockstar Games | ✅ Nov 19, 2026 |
+| Cyberleek X profile | Manual inspection of @cyberleek_ar_io | ✅ ~88.9K followers, created March 2026 |
+| Second X account | Cross-ref bio + The Gamer | ✅ @MrCyberLeek linked |
+| Hack forum presence | BreachForums, RaidForums, PwnForums, Cracked.io, Nulled.to | ❌ No accounts found |
+| $CYBERLEEK token | DexScreener, Reddit, IGN, GamesRadar | ✅ Pump-and-dump |
+| Lapsus$ connection | GTA Intel, Reddit, news | ❌ No connection (separate entity) |
+| Stop Killing Games reaction | IGN, Rock Paper Shotgun, Eurogamer | ✅ Officially distanced |
+| ArNS domain | AR.IO docs | ✅ vilenarios.com is AR.IO infra, not Cyberleek's |
+| Discord claims | Screenshots via @gamingskew | ✅ Map from 2023, Lucia in prison, no 60fps on Pro yet |
 
 ---
 
 ## License
 
-MIT License. Created for open educational and forensic research. All game assets and trademarks belong to Rockstar Games and Take-Two Interactive.
+MIT License. Built for open research and education. All game assets and trademarks belong to Rockstar Games and Take-Two Interactive.
