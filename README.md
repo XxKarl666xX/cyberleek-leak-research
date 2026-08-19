@@ -59,7 +59,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
 * 💬 **[7. What Was Claimed in Discord (Archived Q&A — Fake Promoter Claims)](#discord-qa)**
-  * 💰 [Creator Currency Traded for Real Money (Robux Theory)](#creator-currency-claim)
+  * ❌ [5. Real-Money Creator Currency / Robux (Debunked Crypto Bait)](#creator-currency-claim)
   * 🚫 [7.5. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
@@ -67,11 +67,11 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🖥️ [2. Server Infrastructure & IP Resolution](#server-hosting)
   * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
-  * ✈️ [Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
-  * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
-  * 🎮 [Full Game Build Theory (NikTek & Cyberleek Repost)](#full-build-theory)
-  * ❌ [Debunking Fake Theories (RDR2 Mod Claim)](#debunking-rdr2-mod)
-  * 🔍 [2018 Forum History & Identity Profile (Szenebox Discovery)](#szenebox-profile)
+  * ✈️ [7. Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
+  * ⏳ [8. Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
+  * ❌ [9. Debunked Full Game Build Theory](#full-build-theory)
+  * ❌ [10. Debunking Fake Theories (RDR2 Mod Claim)](#debunking-rdr2-mod)
+  * 🔍 [11. 2018 Forum History & Identity Profile (Szenebox Discovery)](#szenebox-profile)
 * 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
 * ❓ **[10. What We Still Don't Know](#unknowns)**
 * ⚖️ **[11. Final Verdict](#verdict)**
@@ -520,44 +520,52 @@ Every date here has a source you can check yourself:
 > 
 > *These claims are archived below strictly for historical documentation and community research:*
 
-### 1. Lucia's Intro Mission
+### 1. ❌ Lucia's Intro Mission (DEBUNKED / FAKE PROMOTER SPECULATION)
 ![Discord Claim 1](assets/discord_claim_1_lucia_intro.png)
-* **Status**: 🔴 **UNVERIFIED / PROMOTER SPECULATION**
-* **What they said**: *"Lucia has an intro mission before prison, you go to prison in the actual game."*
-* **Context**: Trailer 1 starts with Lucia already in prison talking to her parole officer Stefanie. The Discord user claimed the game has a playable prologue *before* prison. However, no leaked developer footage or files back this up.
+*❌ **DEBUNKED PROMOTER CLAIM**: A screenshot from the fake promoter's Discord claiming Lucia has an intro mission before prison.*
 
-### 2. Prison Pickup & Campaign Progression
+* 🚫 **Verdict**: **FAKE / UNVERIFIED SPECULATION**
+* **The Reason**: This Discord server was created and run by the fake Twitter promoter. **Zero leaked developer clips or internal files support this claim.**
+
+---
+
+### 2. ❌ Prison Pickup & Campaign Progression (DEBUNKED / FAKE PROMOTER SPECULATION)
 ![Discord Claim 2](assets/discord_claim_2_prison_pickup.png)
-* **Status**: 🔴 **UNVERIFIED / PROMOTER SPECULATION**
-* **What they said**: Jason picks Lucia up from prison in a pickup truck (Declasse Picador) at around 2% campaign completion. No developer files verify this story point.
+*❌ **DEBUNKED PROMOTER CLAIM**: Screenshot claiming Jason picks Lucia up in a truck at 2% game completion.*
 
-### 3. The Leaked Map is From 2023 & PS5 Pro Performance
+* 🚫 **Verdict**: **FAKE / UNVERIFIED SPECULATION**
+* **The Reason**: Pure guessing by the promoter. None of the leaked developer documents or video files mention this storyline point.
+
+---
+
+### 3. 🟡 The Leaked Map is From 2023 & PS5 Pro (PARTIALLY PLAUSIBLE, BUT FROM FAKE DISCORD)
 ![Discord Claim 3](assets/discord_claim_3_map2023_ps5pro.png)
-* **Status**: 🟡 **PARTIALLY PLAUSIBLE, BUT UNVERIFIED**
-* **What they said about the map**: *"The map is from 2023."* (While gaming insider NateDrake confirmed the build is over a year old, this specific Discord message comes from the fake promoter).
-* **What they said about PS5 Pro**: Claimed the build ran at 30 FPS on PS5 Pro.
+*🟡 **UNVERIFIED DISCORD SOURCE**: Screenshot discussing 2023 map date and PS5 Pro 30 FPS.*
 
-### 4. Cyberleek Did NOT Record the Footage Themselves
+* ⚠️ **Verdict**: **UNVERIFIED SOURCE**
+* **The Reason**: While industry insider NateDrake confirmed the build is over a year old, this specific Discord message comes from the fake promoter looking for attention.
+
+---
+
+### 4. ❌ "Cyberleek Did Not Record The Footage" (PROMOTER DEFLECTION)
 ![Discord Claim 4](assets/discord_claim_4_not_the_player.png)
-* **Status**: 🔴 **PROMOTER DEFLECTION**
-* **What they said**: When asked why the gameplay had no shooting, the user said: *"the person playing was chilling"* and claimed they are not the player holding the controller.
+*❌ **PROMOTER DEFLECTION**: Discord screenshot claiming the leaker wasn't holding the controller.*
+
+* 🚫 **Verdict**: **PROMOTER DEFLECTION**
+* **The Reason**: The fake promoter used this excuse to explain why they couldn't produce live custom gameplay on demand.
+
+---
 
 <a id="creator-currency-claim"></a>
-### 5. In-Game Creator Currency Traded for Real Money (Robux Theory)
+### 5. ❌ In-Game Real-Money Creator Currency / Robux Theory (100% DEBUNKED CRYPTO BAIT)
 ![Discord Claim 5](assets/discord_claim_5_creator_currency_robux.png)
-*Cyberleek claiming in Discord that GTA VI features a currency that can be traded for real money like Robux.*
+*❌ **DEBUNKED FAKE CLAIM**: Discord message claiming GTA 6 has a currency traded for real money like Robux.*
 
 ![Gaming Culture Tweet](assets/discord_claim_5_creator_currency_tweet.png)
-*Viral breakdown by `@GamingCulture` on X reporting the leaker's creator currency claim.*
+*Report by `@GamingCulture` covering the unverified Discord claim.*
 
-* **Status**: 🔴 **100% UNVERIFIED / CRYPTO HYPE BAIT**
-* **What they said**:
-  > *"There Is A Currency in GTA 6*  
-  > *That Can Be Traded to Real Life Money (Like Robux)*  
-  > *More Details Soon."*
-* **Fact Check & Scam Warning**:
-  * The promoter provided **zero code strings, zero UI assets, and zero leaked database proof**.
-  * Making unproven claims about "earning real money in GTA 6" was a blatant tactic to bait excited gamers into buying the `$CYBERLEEK` memecoin. Treat this as completely fake unless Rockstar officially announces creator tools.
+* 🚫 **Verdict**: **100% FAKE / CRYPTO PUMP-AND-DUMP BAIT**
+* **The Reason**: The promoter provided **zero code strings, zero UI pictures, and zero leaked database proof**. This was an obvious lie made up to bait crypto buyers into purchasing their `$CYBERLEEK` memecoin.
 
 ---
 
@@ -677,31 +685,34 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 #### 2. AI-Generated Banners & Fake Teaser Images
 * The account's header banners and teasers were found to be AI-upscaled pictures made from old 2022 leak screenshots, trying to look like they have unlimited new clips.
 
-#### 3. Posting Blurred 2022 Leaks as "New Threats"
+#### 3. ❌ DEBUNKED FAKE THREAT: Posting Blurred 2022 Leaks as "New Clips"
 ![Blurred 2022 Leak Tweet](assets/debunking_blurred_2022_leak_tweet.png)
-*Tweet by @cyberleek_ar_io threatening Rockstar with an intentionally blurred image that turned out to be from the 2022 leak.*
-* In a deleted post, the account threatened Rockstar: *"I will continue leaking GTA 6 clips if u do not come out and apologize..."* with a blurry picture. Community members quickly showed that the blurry picture was just a recycled frame from the **September 2022 nightclub leak** (Port Gellhorn), not a new clip.
+*❌ **DEBUNKED FAKE POST**: The fake @cyberleek_ar_io account threatened Rockstar with a blurred image that was actually from the old September 2022 nightclub leak.*
 
-#### 4. The "Promoter / Middleman" Theory
+* 🚫 **Verdict**: **100% FAKE / RECYCLED OLD FOOTAGE**
+* **The Reason**: The promoter didn't have any exclusive new footage to leak. They took a frame from the 2022 Port Gellhorn nightclub leak, blurred it in Photoshop, and pretended it was a brand-new threat.
+
+---
+
+#### 4. The Promoter / Middleman Reality
 ![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
 *Tweets sent via "Twitter for iPhone" at strange hours.*
 * **The Takeaway**: The real video files are genuine developer footage, and the **`$CYBERLEEK` Solana token, donation smart contracts, and voting polls are run directly by the official Cyberleek website itself**. The `@cyberleek_ar_io` Twitter account was an outside imposter/promoter piggybacking on the leaker's coin to build social media clout. However, the token itself remains a **probable cryptocurrency pump-and-dump scheme** run by the leakers to extract money from excited gamers.
 
-#### 5. Hard Proof from Video 4: "CYBERLEEK DOES NOT HAVE TWITTER"
+---
+
+#### 5. ❌ OFFICIAL PROOF: "CYBERLEEK DOES NOT HAVE TWITTER"
 ![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
-*Official watermark from the newest 4th video drop (`junkies.mp4`) explicitly stating Cyberleek has no Twitter account.*
+*Official watermark from the 4th video drop (`junkies.mp4`) explicitly proving Cyberleek never had Twitter.*
 
-* **The Smoking Gun**: In the newest 4th leak (`junkies.mp4`), the official leaker placed a large warning watermark directly over the video frame:
-  > **`CYBERLEEK DOES NOT HAVE TWITTER`**  
-  > **`OFFICIAL NEWS ONLY HERE:`**  
-  > **`cyberleek.turbo-gateway.com`**  
-  > **`cyberleek.ar.io`**
-* **What This Officially Confirms**:
-  1. The **`@cyberleek_ar_io` Twitter account is 100% FAKE / IMPOSTER**.
-  2. The real leaker running the website and Solana smart contracts has disowned the Twitter account completely.
-  3. The Twitter account was just an unauthorized crypto promoter, while the real leaker communicates strictly through their Web3 websites.
+* 🚫 **Verdict**: **ALL TWITTER ACCOUNTS ARE 100% FAKE / IMPOSTERS**
+* **The Reason**: In the 4th video drop (`junkies.mp4`), the official leaker placed a large watermark directly over the video frame:
+  > **`CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE`**
+* This officially confirmed that the Twitter account was an unauthorized promoter, and the real leaker communicates strictly through their Web3 website.
 
-#### 6. Fake Promoter Account Suspended & Fake "FBI Raid" GIF Stunt
+---
+
+#### 6. ❌ DEBUNKED FAKE DRAMA: Account Suspended & Fake "FBI Raid" GIF Stunt
 <div align="center">
   <img src="assets/fake_twitter_cyberleek_suspended.png" alt="Fake Twitter Suspended" width="300" />
   <img src="assets/fake_twitter_secondary_mrcyberleek_fbi_gif.png" alt="Fake Secondary FBI Raid GIF" width="300" />
@@ -709,13 +720,11 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 *Left: `@cyberleek_ar_io` suspended on X. Right: Backup account `@MrCyberLeek` posting a SWAT/FBI door-breach GIF pretending to be raided. (Discovery credit: `jorin77` on Discord)*
 
-* **What Happened**:
-  1. On August 19, 2026 (~23:48 UTC), X officially **suspended the main fake promoter account (`@cyberleek_ar_io`)** for impersonation and DMCA copyright violations.
-  2. Immediately after the ban, the promoter switched to their secondary backup account (**`@MrCyberLeek`**) and posted a **SWAT / FBI door-breach GIF**, pretending that law enforcement or the FBI kicked down their door.
-* **Why This "FBI Raid" is 100% Fake Drama (LARP)**:
-  1. **The Real Leaker Has No Twitter**: Video 4's watermark already proved the real leaker is strictly on Web3/Arweave (`"CYBERLEEK DOES NOT HAVE TWITTER"`).
-  2. **How Real Police Raids Work**: In a real federal raid or search warrant, **law enforcement immediately seizes all phones, laptops, and networking hardware**. A real suspect doesn't stay on Twitter on their phone 2 minutes later posting SWAT GIFs.
-  3. **Attention-Seeking Stunt**: The promoter simply staged a fake dramatic "raid" to farm engagement and trick followers after getting their main account banned.
+* 🚫 **Verdict**: **100% FAKE DRAMA / LARP**
+* **What Happened**: On August 19, 2026 (~23:48 UTC), X suspended `@cyberleek_ar_io`. Minutes later, their backup account `@MrCyberLeek` posted a SWAT door-breach GIF pretending they got raided by police.
+* **The Reason It's Fake**: In a real federal raid, **police immediately seize all phones and computers**. You don't stay on Twitter on your iPhone posting SWAT memes 2 minutes later. It was just a fake dramatic exit by the promoter.
+
+---
 
 <a id="poll-plane-winner"></a>
 #### 7. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Ended)
@@ -733,39 +742,43 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 * **Scam Warning on Voting Mechanics**:
   * The voting system required community members to send non-refundable `$CYBERLEEK` Solana tokens directly to separate wallet addresses to vote. This served as a classic **token sink** designed to pump on-chain volume and encourage memecoin purchases.
 
+---
+
 <a id="natedrake-age"></a>
-#### 7. Insider Confirmation on Footage Age (`NateDrake`)
+#### 8. Insider Confirmation on Footage Age (`NateDrake`)
 ![NateDrake Age Proof](assets/community_claim_natedrake_age.png)
 *Gaming insider `NateDrake` commenting on the leaks: "Um.... unless a new round of previews are underway, this claim isn't accurate. Also, the leaked footage is over a year old."*
 * **What this indicates**: Well-known gaming insider `NateDrake` stated that **the leaked footage is over a year old** (likely from a 2024–early 2025 internal build). This matches up with Cyberleek's own Discord statement that the map asset dates back to 2023.
 
-<a id="full-build-theory"></a>
-#### 8. Community Theory: Does the Leaker Have the Full Game Build?
-![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
-*Gaming creator `@NikTek` sharing a theory that the leaker might have a full build, which was quickly reposted by Cyberleek.*
+---
 
-* **The Theory**: Creator `@NikTek` pointed out on X that in all 3 video leaks, Jason is wearing the exact same clothes (white tank top, blue jeans, backward cap, and backpack) during very early gameplay. He theorized that the leaker might have a whole playable build of GTA VI.
-* **Why Cyberleek Reposted It**: Cyberleek immediately reposted this tweet to fuel the hype and draw more attention to their `$CYBERLEEK` crypto token.
-* **The Reality (Why they don't have the full game)**:
-  1. **Just one playtest recording**: The fact that Jason is wearing the same outfit in every video proves someone simply recorded **one 10–15 minute playtest session** and cut it into smaller video clips.
-  2. **Cyberleek's own words in Discord**: In their Q&A, Cyberleek admitted *"the person playing was chilling"* and confirmed they are **not the player holding the controller**. They only received pre-recorded MP4 video files from an outside contact.
-  3. **Video captures ≠ Game files**: Having short video recordings on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game build.
+<a id="full-build-theory"></a>
+#### 9. ❌ DEBUNKED MISCONCEPTION: Does the Leaker Have the Full Game Build?
+![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
+*❌ **DEBUNKED THEORY**: The theory that the leaker has the full playable game build.*
+
+* 🚫 **Verdict**: **FALSE / MISCONCEPTION**
+* **The Reality (Why they do NOT have the full game)**:
+  1. **Just one playtest recording session**: Jason is wearing the exact same clothes (white tank top, blue jeans, backward cap, and backpack) across all clips. This proves someone merely recorded **one 10–15 minute playtest session** and cut it into smaller clips.
+  2. **Video clips ≠ Game build**: Having short MP4 video captures on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game executable.
+
+---
 
 <a id="debunking-rdr2-mod"></a>
-#### 9. Debunking the Fake Theory: "It's Just an RDR2 Mod with a Cities: Skylines Map"
+#### 10. ❌ 100% DEBUNKED FAKE THEORY: "It's Just an RDR2 Mod with a Cities: Skylines Map"
 ![Debunking RDR2 Mod Theory](assets/debunking_fake_rdr2_mod_theory.png)
-*Viral tweet by `@DailyInterw6ac` claiming the leaks are just a Cities: Skylines map imported into Red Dead Redemption 2.*
+*❌ **100% DEBUNKED VIRAL CLAIM**: Tweet by `@DailyInterw6ac` falsely claiming the leaks are just a Cities: Skylines map imported into Red Dead Redemption 2.*
 
-* **The Viral Claim**: A viral post on X claimed that all GTA 6 leaks are *"fake"*, alleging a modder made the map in *Cities: Skylines*, imported it into *Red Dead Redemption 2*, added custom character skins, and that *"you can hear RDR2 horse death sounds when someone dies."*
-* **Why This Theory is 100% False & Technically Impossible**:
-  1. **Engine Memory Limits (RAGE 8 vs RAGE 9)**: Red Dead Redemption 2 runs on RAGE 8. Attempting to load hundreds of square kilometers of dense modern skyscrapers, multi-lane highway overpasses, and hundreds of AI cars into RDR2 would instantly crash the game with an `ERR_MEM_EMBEDDEDALLOC_ALLOC` memory overflow error.
-  2. **Motorcycle & Modern Vehicle Physics**: In Video 4 (`junkies.mp4`), Jason rides a police motorcycle into the canal. The dynamic tire friction, body lean angles, four-wheel suspension, and water displacement run on Rockstar's new RAGE 9 physics engine. RDR2 only supports horses and wooden wagons.
+* 🚫 **Verdict**: **100% FALSE & TECHNICALLY IMPOSSIBLE**
+* **The Clear Reasons Why It's Impossible**:
+  1. **Engine Crash Limits (RAGE 8 vs RAGE 9)**: Red Dead Redemption 2 runs on RAGE 8. Importing hundreds of square kilometers of modern skyscrapers, highway overpasses, and AI cars would instantly crash RDR2 with a memory overflow error (`ERR_MEM_EMBEDDEDALLOC_ALLOC`).
+  2. **Motorcycle & Modern Physics**: In Video 4 (`junkies.mp4`), Jason rides a police motorcycle into the canal. The tire traction on wet concrete, body lean angles, four-wheel car suspension, and water displacement physics run on Rockstar's new RAGE 9 engine. RDR2 only supports horses and wooden wagons.
   3. **Brand-New Voice Acting & Lip Syncing**:
      * In the boat scene, Raul says: *"Enjoy your life till the moment I decide to finally shut you the fuck up."*
      * In the canal fight, homeless NPCs yell: *"Guys, this is a crazy conversation"* and *"Dude, stop!"*
-     * These voice lines have **never existed in any past game or movie**. Creating Hollywood-grade voice acting with dynamic facial motion capture and lip-syncing is impossible in a fan mod.
+     * These voice lines have **never existed in any past game or movie**. Creating Hollywood-grade studio voice acting with dynamic facial motion capture and lip-syncing is impossible in a fan mod.
   4. **Brand-New Gameplay Mechanics (Zombix Tolerance & Clone Key)**:
-     * In Video 4 at 01:35, an official tutorial popup appears: *"Repeated use of Zombix will temporarily have a weaker effect on your health."* This consumable tolerance mechanic is completely new to GTA 6.
+     * In Video 4 at 01:35, an official tutorial popup appears: *"Repeated use of Zombix will temporarily have a weaker effect on your health."* This consumable tolerance mechanic was created specifically for GTA 6.
      * The electronic "Clone Key" vehicle theft mini-game uses dynamic waveform decryption that does not exist in any other game.
   5. **Placeholder Sounds Are Normal in Game Dev**: In early development builds, **Rockstar always reuses sound effects from their previous games** as temporary placeholders (early *GTA V* builds used gun sounds from *GTA IV* and hit sounds from *Max Payne 3*). Hearing legacy sound stems is standard developer practice, not proof of a mod.
   6. **Jason Schreier & Industry Verification**: Top investigative gaming journalist **Jason Schreier (Bloomberg)** and major gaming outlets independently verified that the footage is genuine Rockstar developer material.
