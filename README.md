@@ -65,7 +65,8 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
   * 🌐 [1. Official Endpoints & Live Status Tracker](#official-endpoints)
   * 🖥️ [2. Server Infrastructure & IP Resolution](#server-hosting)
-  * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
+  * 💰 [3. Blockchain & Money Trail (Token Pre-Dated Leaks)](#token-money-trail)
+  * 🧅 [4. Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
   * ✈️ [7. Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
   * ⏳ [8. Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
@@ -651,8 +652,52 @@ Every domain and gateway was tested via live DNS resolution and IP geolocation t
 
 ---
 
+<a id="token-money-trail"></a>
+### 3. Blockchain & Money Trail: Token & Website Were Set Up 3 Days Before the Leaks
+
+*(Blockchain wallet trail discovery courtesy of GitHub contributor [@TheRealJoeSchro](https://github.com/TheRealJoeSchro) — [Issue #3](https://github.com/zyrexdz/cyberleek-leak-research/issues/3))*
+
+A community member investigated public Solana blockchain data on Solscan and uncovered new details about when the `$CYBERLEEK` crypto token and website were actually funded and created:
+
+```
+26sZDubW854zGAasvrUaRAgY54MiC97CEHWZKPRMPMQ9 (Starting Wallet, Aug 4)
+ └─ 156.03 SOL ➔ EjsB4qhcQv3zwXWqMbD739VA7nFc85f2egwTnkr3KGB2 (Aug 13, drained)
+     └─ 156 SOL ➔ 2ZdUUvrr7ANY2rzpbyBcZHp1hTZ5uTY8JZ4vFnYnvJhD (Hub wallet)
+         ├─ Fanned out through ~20 fresh throwaway wallets (Aug 13–15)
+         ├─ 4.61 SOL ➔ 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3 (Deploys website program Aug 15)
+         └─ Swept together ➔ Ec2qmcpCCD9hjahAcquiQf5JkZWCK68BUahCje1izYC7 (Collector wallet)
+             └─ 321.42 SOL ➔ Hok9nbV89yBSKCttxe3goqajwbiqQa9mtHvQBsbJH3Np (Token Creator Hub)
+```
+
+#### 1. What the Public Blockchain Data Confirms (Facts):
+1. **Token & Site Created on August 15**: The `$CYBERLEEK` token, its Raydium trading pool, and the Solana website code (`7rAgHPLD...`) were created on **August 15, 2026** (between 14:00 and 22:00 UTC). The gameplay footage was only published **3 days later** (August 18 on Dread at 07:36 UTC).
+2. **Hidden Money Trail**: Over **156 SOL (~$12,000+)** was moved starting August 13 through a network of around **20 fresh throwaway wallets** with quick paired transfers before being combined into the token creation wallet.
+3. **Same Setup for Token & Website**: The wallet that deployed the website program (`6Nq6...`) received 4.61 SOL from this exact same wallet network on August 15.
+4. **Insider Tokens & Trading Fees**: The creator seeded the Raydium liquidity pool with 330 SOL + 730M tokens, but sent **270 Million tokens (27% of the total supply)** to a side wallet (`CbfbaNpC...`) before the pool went live, while keeping the trading fee NFT (which collects fees on every trade).
+
+---
+
+#### 2. The Theory: Was the Leak a Pre-Planned Marketing Stunt to Sell Crypto?
+* **The Theory**: Because the token and website were prepared and funded 3 days before any videos were posted, a popular theory is that the whole leak event was arranged specifically to hype up and sell a new crypto token.
+* **Why This Theory Makes Sense**: Launching the website and liquidity pool first ensured that as soon as the footage went viral, excited fans looking for more info would immediately see the token and trading links.
+
+---
+
+#### 3. Why We CANNOT Be 100% Sure (Counter-Points & What We Still Don't Know):
+While the wallet trail is real, we still have to be careful before jumping to final conclusions:
+1. **The Leaker Could Be an Opportunist, Not the Original Hacker**:
+   * Having old gameplay videos and setting up a website doesn't prove *who* originally took the footage from Rockstar or *when*. The footage itself is over a year old (from 2023–2024). The person setting up the website could have bought or received the files earlier and decided to make money off them.
+2. **Wallets Do Not Reveal Real-World Identity**:
+   * All the wallets in the chain are fresh, anonymous accounts without personal verification tags. The blockchain shows *how* the money moved, but it cannot show who was sitting at the keyboard.
+3. **Multiple People Could Be Involved**:
+   * It is possible that the person holding the game clips partnered with someone else who specializes in crypto launches, meaning the leaker and the token creators might not even be the same individual.
+
+* **Summary**: The blockchain proves the money and token were set up days before the leak went public, making it very likely an organized money-making plan, but we cannot know for sure who originally obtained the game files or their full motivations.
+
+---
+
 <a id="dread-trail"></a>
-### Hack Forums & The Dark Web Trail (Dread)
+### 4. Hack Forums & The Dark Web Trail (Dread)
 
 *(Dread post discovery credit: [@bnwkr](https://x.com/bnwkr) on X)*
 
