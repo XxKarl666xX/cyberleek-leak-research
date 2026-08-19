@@ -79,5 +79,5 @@
 * Introduction Thread (Live Subforum): https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/
 * Google Search Crawler Index: SzeneBox posts from `cyberleek` (Jan 3, 2018 — JS Hackit & ToLink.to XSS Vulnerability Report)
 * Video 4 Leak Watermark Proof: "CYBERLEEK DOES NOT HAVE TWITTER" (Official Video 4 drop explicitly confirming @cyberleek_ar_io is fake)
-* Primary Gateway Server: Hetzner Online GmbH (AS24940, Falkenstein, Germany — IP `49.13.45.141` / https://ipinfo.io/49.13.45.141)
-* Reverse DNS Record: `static.49.13.45.141.clients.your-server.de` (Hetzner German Portal)
+* Primary Gateway Server: Hetzner Online GmbH (AS24940, Nuremberg, Bavaria, Germany — IP `49.13.45.141` / https://ipinfo.io/49.13.45.141)
+* Reverse DNS Record: `static.141.45.13.49.clients.your-server.de` (Hetzner German Portal)
