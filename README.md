@@ -871,9 +871,20 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ![Szenebox vBulletin System Notice](assets/cyberleek_szenebox_forum_system_notice.png)
 *Visiting the live thread URL on `szenebox.org` showing the standard vBulletin permission notice for unregistered guests.*
 
-On August 19, 2026, community researchers [@nico_s29](https://x.com/nico_s29) and [@gamingskew](https://x.com/gamingskew) uncovered archived forum records on [**szenebox.org**](https://szenebox.org) (one of Germany's longest-running underground IT security, hacking, and scene boards, operating since 2007) matching the exact handle [**`cyberleek`**](https://szenebox.org/members/cyberleek/) and his dark flaming skull avatar.
+On August 19, 2026, community researchers [@nico_s29](https://x.com/nico_s29) and [@gamingskew](https://x.com/gamingskew) uncovered archived forum records on [**szenebox.org**](https://szenebox.org) (one of Germany's longest-running underground IT security, hacking, and scene boards, operating since 2007) matching the exact handle [**`cyberleek`**](https://szenebox.org/members/5490.html) and his dark flaming skull avatar.
 
-Here is the complete breakdown of evidence proving why Cyberleek is almost certainly an adult German native / resident:
+> [!NOTE]
+> ⚠️ **Is this 100% confirmed to be the GTA 6 leaker?**  
+> We cannot say with 100% certainty that the SzeneBox forum user is the exact same person releasing the GTA 6 files today, because usernames and profile pictures can theoretically be copied or shared.  
+> 
+> However, there are **very strong clues and matching facts** that make it extremely likely to be him:
+> 1. **Same Unique Alias & Avatar**: The exact name `cyberleek` paired with the identical dark flaming skull avatar used for years.
+> 2. **German Server Infrastructure**: The main Cyberleek leak server was hosted on [**Hetzner Germany**](https://www.hetzner.com/) (`49.13.45.141`).
+> 3. **Active in Data Leak Boards**: In 2023, he was actively tracking **BreachForums** and database leaks on SzeneBox.
+> 4. **Matching European Timezone**: Drops, website updates, and online posts occur during normal daytime and evening hours in **German time (CET/CEST)**.
+> 5. **Matching Tech Background**: Linux server setup, custom JavaScript web apps, CS:GO servers, and privacy VPN routing.
+
+Here is the complete breakdown of forum evidence:
 
 ---
 
