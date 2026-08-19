@@ -252,6 +252,10 @@ The screenshots and Q&A below were captured from Cyberleek's **original Discord 
 ![Leaker Gameplay Identity Discord Claim](assets/discord_claim_4_not_the_player.png)
 *Cyberleek dodging whether they're the one playing ("I can't answer that") and confirming Rockstar hasn't contacted them.*
 
+#### 5. Old Server Ban Announcement (on New Server)
+![Old Discord Server Ban Proof](assets/discord_old_server_banned_proof.png)
+*Cyberleek posting from their alt handle `cyberleek_west` on the new replacement server confirming: "old discord server was banned so" alongside a Discord Account Standing limitation warning.*
+
 ### What They Said (Summary Table):
 
 | Claim | Context | What It Means |
@@ -262,6 +266,7 @@ The screenshots and Q&A below were captured from Cyberleek's **original Discord 
 | **"I can't answer that" when asked "you got footage but you're not the guy playing"** | User Piersicar pointed out Cyberleek has the footage but might not be the one who recorded it | Dodge answer — pretty much confirms they didn't record the footage themselves. They got it from someone else. |
 | **"Not yet" when asked about 60fps on PS5 Pro** | User @Vladimir asked about PS5 Pro performance | As of the build they have access to, the PS5 Pro version doesn't hit 60fps yet — could change before launch |
 | **"No" when asked "have you heard from R*?"** | User @ED asked if Rockstar contacted them | As of that moment, Rockstar hadn't reached out directly to Cyberleek |
+| **"old discord server was banned so"** | Announcement on new server from `cyberleek_west` | Confirms the original Discord server got taken down by Discord |
 
 ### What This Tells Us
 - They probably **didn't record the footage themselves** — they got it from someone with access
@@ -269,6 +274,7 @@ The screenshots and Q&A below were captured from Cyberleek's **original Discord 
 - The **Lucia prison storyline** matches what we've seen in the trailers (ankle monitor, mugshot scenes)
 - The game **doesn't run at 60fps on PS5 Pro yet** — but that could change with optimization before launch
 - Rockstar **hasn't contacted them directly** (at least as of when they said this)
+- Their original Discord server **got banned by Discord**, forcing them to create the replacement server
 
 ---
 
@@ -291,8 +297,8 @@ Nobody knows who's actually behind this. Here's everything we could find:
    * The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account.
    * Both confirmed linked by [The Gamer](https://www.thegamer.com/).
 
-**Discord Alt:**
-* **`surwest`** — Handle used by Cyberleek on the new replacement server to announce the old server ban.
+**Discord Alt Handles:**
+* **`cyberleek_west`** (also known as `surwest`) — Alt handle used on the replacement server to announce the old server ban.
 
 **Fake / Unofficial Accounts (Beware):**
 * ❌ **[@cyberleekario](https://x.com/cyberleekario)** — Fake impersonator account mimicking the name (missing underscores). Not official.
