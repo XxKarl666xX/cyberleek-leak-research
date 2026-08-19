@@ -183,6 +183,7 @@ All confirmed through Arweave GraphQL and Viewblock:
 | **Aug 16, 13:04** | `map_sneak_peek_2.png` uploaded | #1981170 |
 | **Aug 17, 09:11** | Website v3 goes live | — |
 | **Aug 17, 21:07** | `output.mp4` (basketball clip) uploaded | #1982091 |
+| **Aug 18, 07:36** | `CyberLeeker` drops basketball clip on Dread dark web (`/d/leaks`) | — |
 | **Aug 18, 17:28** | `full_map.png` uploaded | #1982664 |
 | **Aug 18, 19:05** | `video2.mp4` (driving clip) uploaded | #1982709 |
 | **Aug 18, ~20:00+** | Leak goes viral — Reddit, X, YouTube blow up | — |
@@ -228,7 +229,7 @@ Every source used in this investigation and whether it's still up:
 
 ## 7. Cyberleek's Discord Claims
 
-Cyberleek has a Discord server where they've been chatting with community members and dropping hints about the game. Here are the confirmed screenshots and claims from their Discord messages:
+Cyberleek runs an active Discord server (`discord.gg/ZWjnQSSJ2P`) where they've been chatting with community members and dropping hints about the game. Here are the confirmed screenshots and claims from their Discord messages:
 
 *(Screenshots credit: [@gamingskew](https://x.com/gamingskew) on X)*
 
@@ -323,17 +324,31 @@ Three demands aimed at game publishers:
 
 They threatened "2-4 more leaks" and demanded a "public apology and concrete commitment" from Rockstar. As of Aug 19, no new files have dropped.
 
-### Hack Forum Presence: Zero
+### Hack Forums & The Dark Web Trail (Dread)
 
-| Forum | Found? |
-|:---|:---|
-| BreachForums | ❌ |
-| RaidForums | ❌ |
-| PwnForums | ❌ |
-| Cracked.io | ❌ |
-| Nulled.to | ❌ |
+*(Dread post discovery credit: [@bnwkr](https://x.com/bnwkr) on X)*
 
-Real hacker groups have forum accounts. Cyberleek has none. They only operate through X and blockchain. That points to this being a **crypto play wrapped in fake activism**, not a real hacking collective.
+![Dread Dark Web Leak Post](assets/dread_darkweb_leak_post.png)
+*User "CyberLeeker" posting the stolen GTA 6 basketball gameplay clip on Dread (/d/leaks) on August 18, 2026 at 07:36 UTC.*
+
+Before the leak blew up across Twitter and Reddit, the leaker actually dropped the footage on the dark web first:
+
+* **The Forum**: **Dread** (the Tor-based dark web community, in the `/d/leaks` sub-dread).
+* **The Username**: Posted by user **`CyberLeeker`**.
+* **The Timestamp**: **August 18, 2026 at 07:36 UTC** — roughly **12 hours before** it went viral on mainstream social media.
+* **The Post**: Titled *"Stolen GTA6 Footage"*, sharing the basketball clip via temporary file hosts (`gofile.io` and `temp...`).
+* **The Reaction**: Almost nobody noticed it at the time (only 4 comments). One user (`pieceL`) noted they thought they saw it on "darkforums".
+
+| Platform | Found? | Details |
+|:---|:---|:---|
+| **Dread** (Dark Web `/d/leaks`) | ✅ | Posted by **`CyberLeeker`** on Aug 18, 07:36 UTC |
+| BreachForums | ❌ | Only other users discussing the leak |
+| RaidForums | ❌ | Discussion threads only |
+| PwnForums | ❌ | Discussion threads only |
+| Cracked.io | ❌ | No match |
+| Nulled.to | ❌ | No match |
+
+> **What this tells us**: The leaker originally tried quietly dumping the basketball video on dark web leak boards in the morning. When it barely got any traction there, they shifted strategy — deploying the Arweave decentralized storage, launching the Solana memecoin, and going all-out on X (Twitter) with their "No Disc, No Peace" manifesto to generate maximum viral hype.
 
 ### Are They Connected to the 2022 Lapsus$ Leak?
 
@@ -408,15 +423,13 @@ Every link referenced in this report:
 | DMCA takedowns | PC Gamer, Kotaku, Rock Paper Shotgun | ✅ Active enforcement |
 | GTA VI release date | Rockstar Games | ✅ Nov 19, 2026 |
 | Cyberleek X profile | Manual inspection of @cyberleek_ar_io | ✅ ~88.9K followers, created March 2026 |
-| Second X account | Cross-ref bio + The Gamer | ✅ @MrCyberLeek linked |
-| Hack forum presence | BreachForums, RaidForums, PwnForums, Cracked.io, Nulled.to | ❌ No accounts found |
+| Hack forum presence | BreachForums, RaidForums, PwnForums, Cracked.io, Nulled.to | ❌ No clearnet accounts found |
+| Dread dark web leak | Dread /d/leaks (Tor) / confirmed via @bnwkr | ✅ Posted by CyberLeeker on Aug 18, 07:36 UTC |
 | $CYBERLEEK token | DexScreener, Reddit, IGN, GamesRadar | ✅ Pump-and-dump |
 | Lapsus$ connection | GTA Intel, Reddit, news | ❌ No connection (separate entity) |
 | Stop Killing Games reaction | IGN, Rock Paper Shotgun, Eurogamer | ✅ Officially distanced |
 | ArNS domain | AR.IO docs | ✅ vilenarios.com is AR.IO infra, not Cyberleek's |
 | Discord claims | Screenshots via @gamingskew | ✅ Map from 2023, Lucia in prison, no 60fps on Pro yet |
-
----
 
 ---
 
