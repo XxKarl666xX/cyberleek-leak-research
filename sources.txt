@@ -88,6 +88,7 @@
 * User Profile: `cyberleek` (https://szenebox.org/members/cyberleek/ — Registered pre-2018, Dark Flaming Skull Avatar)
 * Introduction Thread (Archive): https://szenebox.org/archive/index.php/t-18889.html ("💡 Vorstellung Cyberleek" — Posted Jan 3, 2018, 00:31 UTC+1)
 * Introduction Thread (Live Subforum): https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/
+* Secondary Account & Swiss Forum Discovery: `tech-forum` / https://tech-forum.ch (Dec 22, 2017 thread discovered by @nico_s29 on X / Issue #12)
 * Google Search Crawler Index: SzeneBox posts from `cyberleek` (Jan 3, 2018 — JS Hackit & ToLink.to XSS Vulnerability Report)
 * Video 4 Leak Watermark Proof: "CYBERLEEK DOES NOT HAVE TWITTER" (Official Video 4 drop explicitly confirming @cyberleek_ar_io is fake)
 * Fake Twitter Accounts: https://x.com/cyberleek_ar_io (Suspended) & https://x.com/MrCyberLeek (Fake secondary promoter account)

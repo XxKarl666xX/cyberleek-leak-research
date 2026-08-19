@@ -883,18 +883,43 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ---
 
-##### 2. Age & Background Check
+##### 2. The Second Account (`tech-forum`) & Swiss Website (`tech-forum.ch`)
+
+<div align="center">
+  <img src="assets/cyberleek_techforum_intro_dec2017.png" alt="Tech-Forum Introduction" width="210" />
+  <img src="assets/cyberleek_techforum_dollar_template_jan2018.png" alt="Tech-Forum Dollar Template" width="210" />
+  <img src="assets/cyberleek_techforum_linux_terminal_jan2018.png" alt="Tech-Forum Linux Terminal" width="210" />
+  <img src="assets/cyberleek_techforum_csgo_server_jan2018.png" alt="Tech-Forum CSGO Server" width="210" />
+</div>
+
+*Screenshots from SzeneBox showing Cyberleek's secondary account `tech-forum` advertising his Swiss site `tech-forum.ch` and discussing Linux, 3D printing, and CS:GO game servers. (Discovery credit: [@nico_s29](https://x.com/nico_s29) on X — [Issue #12](https://github.com/zyrexdz/cyberleek-leak-research/issues/12))*
+
+On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) found additional forum posts on `szenebox.org` proving Cyberleek operated a second account under the name **`tech-forum`**:
+* **The Swiss Forum Project (`tech-forum.ch`)**:
+  * On **December 22, 2017**, user `tech-forum` introduced his new website: [**`https://tech-forum.ch`**](https://tech-forum.ch) (`.ch` is the Swiss country domain).
+  * **Matching Hobbies (3D Printing & Linux)**: He created subforums for `$Home`, `$Computer`, `$Gaming`, and **`$3D Druck` (3D Printing)** — the exact same 3D printing and server hobbies Cyberleek listed in his January 2018 intro post!
+* **Linux Terminal & Server Experience**:
+  * On January 11, 2018, he explained that the `$` symbols on his categories were taken directly from the **Linux command-line terminal**.
+  * On January 18, 2018, he posted an update announcing he added a **CS:GO Game Server**, user session manager, and automated anti-spam bots to his server.
+* **The Direct Account Link**:
+  * In another post on Szenebox, `cyberleek` asked the site admins for help recovering access to his `tech-forum` secondary account after losing the password, 100% confirming both accounts belong to the same person.
+* **Swiss-German Language Details**:
+  * Uses Swiss spelling (*"Grüsse"* with `ss` rather than German `ß`, which is standard in Switzerland) and casual words (*"Gesunheitliche Probs"*).
+
+---
+
+##### 3. Age & Background Check
 
 | Detail | 2018 Forum Post | What It Means Today |
 | :--- | :--- | :--- |
 | **Age** | Said he was **25–30 years old** (Jan 2018) | He is now **33 to 38 years old** (an adult, *not* a teenager). |
-| **Main Language** | Native German | Native German speaker who writes in English on Twitter and Web3. |
-| **Tech Hobbies** | Linux servers, web security, Raspberry Pi, 3D printing. | Set up custom Linux Nginx reverse proxies and automated crypto scripts. |
+| **Main Language** | Native German / Swiss-German | German/Swiss speaker who writes in English on Twitter and Web3. |
+| **Tech Hobbies** | Linux servers, web security, Raspberry Pi, 3D printing. | Set up custom Linux Nginx reverse proxies, CS:GO servers, and crypto scripts. |
 | **Coding Experience** | Started learning JavaScript on web challenges in 2018. | Built the custom JavaScript app used for his leak website (`index-CE2GuztQ.js`). |
 
 ---
 
-##### 3. Server & Datacenter Setup (Hetzner Germany)
+##### 4. Server & Datacenter Setup (Hetzner Germany)
 
 * **Main Server IP**: [`49.13.45.141`](https://ipinfo.io/49.13.45.141)
 * **Hosting Company**: [**Hetzner Online GmbH**](https://www.hetzner.com/) (Germany's biggest server provider).
@@ -904,7 +929,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ---
 
-##### 4. European Time & Gamer Mindset
+##### 5. European Time & Gamer Mindset
 
 * **Timezone Habits**: All forum dates (`03.01.2018`) use the European day-first format (`DD.MM.YYYY`). His online posts and crypto drops happen during normal daytime and evening hours in **German time (CET/CEST)**.
 * **Why He Wants Physical Discs**: Germany and Europe have very strong consumer rights laws. His anger about digital pre-orders and wanting physical game discs matches the mindset of older European PC gamers who grew up with physical game boxes.
