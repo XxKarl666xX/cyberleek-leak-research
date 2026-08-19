@@ -85,11 +85,14 @@
 
 ## 4. German Identity & Infrastructure Proofs
 * German Scene & Security Forum: SzeneBox (https://szenebox.org/ — Founded 2007)
-* User Profile: `cyberleek` (https://szenebox.org/members/cyberleek/ — Registered pre-2018, Dark Flaming Skull Avatar)
-* Introduction Thread (Archive): https://szenebox.org/archive/index.php/t-18889.html ("💡 Vorstellung Cyberleek" — Posted Jan 3, 2018, 00:31 UTC+1)
-* Introduction Thread (Live Subforum): https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/
-* Secondary Account & Swiss Forum Discovery: `tech-forum` / https://tech-forum.ch (Dec 22, 2017 thread discovered by @nico_s29 on X / Issue #12)
-* 2023 Forum Activity Records: SzeneBox posts by `cyberleek` from April–July 2023 (BreachForums tracking, Perfect Privacy VPN, and vulnerability hunting group — Issue #12)
+* User Profile: `cyberleek` (https://szenebox.org/members/5490.html — Registered pre-2018, Dark Flaming Skull Avatar)
+* Introduction Thread (Live): https://www.szenebox.org/12-vorstellungen/7977-vorstellung_cyberleek/?highlight=CyberLeek#post45643 ("💡 Vorstellung Cyberleek" — Jan 3, 2018)
+* Introduction Thread (Archive): https://szenebox.org/archive/index.php/t-18889.html
+* JS Hackit Thread: https://www.szenebox.org/52-exploits_codes_tools/7978-js_hackit_-_hilfe/ (Jan 3, 2018)
+* Tech-Forum & XMPP Link Thread: https://www.szenebox.org/207-archiv/7928-tech-forum_stellt_sich_vor/index2.html#post70405 (`tech-forum.ch` / `cookie@im-tech-forum.ch`)
+* WebSec Exploit Hunting Thread: https://www.szenebox.org/50-suche_websec-interessierten_%C3%BC_austausch_%C3%BCber_sicherheitsl%C3%BCcke_-15752-post96416/ (April 9, 2023)
+* Cloudflare & VPN Bypass Thread: https://www.szenebox.org/72-_anti_bot_spam_cloudflare-16781-post98065/ (July 23–25, 2023)
+* Data Leaks & BreachForums Thread: https://www.szenebox.org/42-szene_daily_talk_offtopic/16718-wo_findet_data_leaks/#post98128 (July 28, 2023)
 * Google Search Crawler Index: SzeneBox posts from `cyberleek` (Jan 3, 2018 — JS Hackit & ToLink.to XSS Vulnerability Report)
 * Video 4 Leak Watermark Proof: "CYBERLEEK DOES NOT HAVE TWITTER" (Official Video 4 drop explicitly confirming @cyberleek_ar_io is fake)
 * Fake Twitter Accounts: https://x.com/cyberleek_ar_io (Suspended) & https://x.com/MrCyberLeek (Fake secondary promoter account)

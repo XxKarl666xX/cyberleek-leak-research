@@ -865,10 +865,10 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ##### 1. The 2018 Forum Posts & German Slang
 
-* **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
-  * **Direct Links**: [Szenebox Archive Link](https://szenebox.org/archive/index.php/t-18889.html) / [Live Forum Thread](https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/) / [Author Profile](https://szenebox.org/members/cyberleek/)
+* **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #7977 / Post #45643)](https://www.szenebox.org/12-vorstellungen/7977-vorstellung_cyberleek/?highlight=CyberLeek#post45643)**
+  * **Direct Links**: [Live Szenebox Thread](https://www.szenebox.org/12-vorstellungen/7977-vorstellung_cyberleek/?highlight=CyberLeek#post45643) / [Archive Thread](https://szenebox.org/archive/index.php/t-18889.html) / [User Profile (Member #5490)](https://www.szenebox.org/members/5490.html)
   * **Exact Date & Time**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`)
-  * **Forum Notice**: If you open the live link without logging in, the site says *"vBulletin System Notice: No information: topic"* because `szenebox.org` locks user intros (`118-user-vorstellungen`) and member pages to registered accounts only.
+  * **Forum Notice**: If you open the live link without logging in, the site says *"vBulletin System Notice: No information: topic"* because `szenebox.org` locks user intros and member pages to registered accounts only.
   * **Original German**:  
     > *"💡 Vorstellung Cyberleek*  
     > *Hallo zusammen..*  
@@ -876,6 +876,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
   * **English Translation**:  
     > *"Hello everyone.. I'm 'Cyberleek', between 25 and 30 years old. I'm interested in web security/penetration testing as well as Linux/server administration. When I have time, I also like to tinker with my 3D printer or build things with the Raspberry Pi. Unfortunately, I don't work in this field. Let's see what the future holds."*
 * **Thread 2: JS Hackit & Web Security Bugs (`03.01.2018`)**:
+  * **Direct Link**: [JS Hackit - Hilfe (Thread #7978)](https://www.szenebox.org/52-exploits_codes_tools/7978-js_hackit_-_hilfe/)
   * **Indexed Google Proof**: Google's search crawler indexed two other SzeneBox posts from `cyberleek` on the exact same day:
     1. **`JS Hackit - Hilfe` (`03.01.2018 11:18`)**: *"cyberleek: Moiin an alle.. Ich bin ein absoluter N00b was JS angeht..."* (Using the Northern German greeting *"Moiin"*).
     2. **`ToLink.to Linkcrypter` (`03.01.2018 01:13`)**: *"cyberleek: XSS Lücke im Username.. @cyberleek, danke für das aufspüren der Sicherheitslücke."* (Reporting an XSS security bug on a German website).
@@ -896,7 +897,7 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered archived posts on `szenebox.org` proving Cyberleek operated a second account under the username **`tech-forum`**. Here is the full line-by-line translation of all 4 posts:
 
-* **Post 1: Website Introduction (`22.12.2017 16:40`) — "Tech-Forum stellt sich vor"**:
+* **Post 1: Website Introduction (`22.12.2017 16:40`) — [Tech-Forum stellt sich vor (Thread #7928)](https://www.szenebox.org/207-archiv/7928-tech-forum_stellt_sich_vor/index2.html)**:
   * **Original German**:  
     > *"Guten Tag an alle.. Gerne würde ich euch mein kleines noch sehr junges Forum vorstellen. Es ist unter https://tech-forum.ch erreichbar, noch keine Woche alt, und in der Beta Phase. Das Ziel soll es sein neue Leute, neue Erfahrungen und Ideen zu finden. Da dass Forum noch in der Beta Phase ist, braucht es User die es konstruktiv beurteilen, neue Ideen kreieren und etwas Inhalt hinzufügen. In Zukunft werden je nach bedarf weitere 'Head Themen' folgen. Bisher haben wir folgende : -$Home, -$Computer, -$Gaming, -$3D Druck"*
   * **English Translation**:  
@@ -923,7 +924,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
     > *"Update: - Guest permissions were changed, - CS:GO Game Server added, - Session Manager for users, - Forum Bot / Auto Spam Filter activated https://tech-forum.ch"*
   * *Takeaway*: Proves he was hosting dedicated multiplayer **CS:GO Game Servers** and building automated anti-spam bots in early 2018.
 
-* **Post 5: The Direct Account Link & XMPP Contact (`21.01.2018 13:33`)**:
+* **Post 5: The Direct Account Link & XMPP Contact (`21.01.2018 13:33`) — [Thread Post #70405](https://www.szenebox.org/207-archiv/7928-tech-forum_stellt_sich_vor/index2.html#post70405)**:
   ![Cyberleek Szenebox Account Link](assets/cyberleek_szenebox_account_link_xmpp_jan2018.jpg)
   * **Author**: `cyberleek` *(using his Dark Flaming Skull avatar)*
   * **Original German**:  
@@ -947,17 +948,17 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
 
 Community records prove Cyberleek was **actively participating in data breach and exploit discussions in 2023**:
 
-1. **Hunting Website Exploits (`09.04.2023 08:52`)**:
+1. **Hunting Website Exploits (`09.04.2023 08:52`) — [Post #96416](https://www.szenebox.org/50-suche_websec-interessierten_%C3%BC_austausch_%C3%BCber_sicherheitsl%C3%BCcke_-15752-post96416/)**:
    * **Original German**: *"Moin. Da würde ich mich gerne anschliessen. Falls noch platz ist gerne melden :=)"*
    * **English**: *"Moin. I would like to join. If there's still room, feel free to let me know :=)"*
    * *Context*: Replying to a thread where users were forming a private group to find security vulnerabilities and exploits on major websites.
-2. **Cloudflare & VPN IP Bypasses (`23.07.2023 13:05`)**:
+2. **Cloudflare & VPN IP Bypasses (`23.07.2023 13:05`) — [Post #98065](https://www.szenebox.org/72-_anti_bot_spam_cloudflare-16781-post98065/)**:
    * **Original German**: *"Ist bei mir auch so. liegt wohl an dem Vpn Anbieter, ev. haben sie unsere geblockt. Versuchs mal über die ip adresse. kommt zwar auch ne Captcha, ging aber ohne Probleme durch bei mir : https://190.115.18.20/ oder Just a moment..."*
    * **English**: *"Same for me. Probably due to the VPN provider, maybe they blocked ours. Try it via the IP address. A captcha still appears, but went through without problems for me : https://190.115.18.20/ or Just a moment..."*
-3. **Perfect Privacy VPN Setup (`25.07.2023 07:54`)**:
+3. **Perfect Privacy VPN Setup (`25.07.2023 07:54`) — [Post #98065](https://www.szenebox.org/72-_anti_bot_spam_cloudflare-16781-post98065/)**:
    * **Original German**: *"Ich habe auch PP. Ob es an den Filtern liegt von PP (falls ihr diese auch aktiviert habt) ? Klappt das bei euch auch über ip ?"*
    * **English**: *"I also have PP (Perfect Privacy VPN). Maybe it's due to the PP filters (if you enabled them)? Does it work for you via IP too?"*
-4. **Tracking BreachForums & Data Leaks (`28.07.2023 07:44`)**:
+4. **Tracking BreachForums & Data Leaks (`28.07.2023 07:44`) — [Post #98128](https://www.szenebox.org/42-szene_daily_talk_offtopic/16718-wo_findet_data_leaks/#post98128)**:
    * **Original German**: *"Wie viele Clones gibt es den von diesem Board ? #https://rebreached.vc/"*
    * **English**: *"How many clones are there of this board? #https://rebreached.vc/"*
    * *Context*: Discussing **BreachForums** (`breachforums.is`) and tracking database leak clone mirrors (`rebreached.vc`).
