@@ -56,5 +56,6 @@
 * Community Twitter Checkers: garza & vaaatiel (Twitter account & blurred fake post checks credit)
 * Community Map Insight: martipk (Developer overview map verification credit)
 * Footage Age Insight: NateDrake (Internal build age verification credit)
+* HUD & Map Discoveries: GTA VI UNMODERATED Discord Server (HUD elements, Clone Key mechanics, Map Zoom & Legendary Animals credit)
 * Reddit Community Mapping Project: https://www.reddit.com/r/GTA6/
 * GTAForums Community Mapping Project: https://gtaforums.com/topic/985269-gta-vi-mapping-project/

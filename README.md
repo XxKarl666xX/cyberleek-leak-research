@@ -205,9 +205,29 @@ Here is what happens in all 3 leaked videos, broken down by timestamp:
 
 ---
 
+### New HUD & Gameplay Mechanics Discovered in the Footage
+
+The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mechanics from the footage:
+
+#### 1. Vehicle Theft Choices: `CLONE KEY` vs `SMASH WINDOW`
+![Clone Key vs Smash Window](assets/hud_clone_key_smash_window.png)
+*When approaching locked vehicles, GTA VI introduces two distinct ways to steal them:*
+* **`CLONE KEY` (Stealth Option)**: Uses a digital key-cloner device to silently unlock and start the car without triggering alarms or police attention.
+* **`SMASH WINDOW` (Loud Option)**: Smashes the side glass for quick entry, but risks triggering the car alarm and alerting nearby cops or NPCs.
+
+#### 2. Health & Focus / Stamina Meter
+![Health and Focus Bar](assets/hud_health_focus_bar.png)
+*A sleek pink player health bar with a segmented tick meter (`|||`) tracking character focus and energy levels.*
+
+#### 3. Modern Radar Minimap
+![Radar Minimap](assets/hud_minimap_radar.png)
+*The updated GTA VI rounded minimap showing player direction, compass positioning, and activity icons.*
+
+---
+
 ## 5. Map & County Breakdown
 
-The leaked map names 5 counties. We checked them against official Rockstar trailers, insider claims, and fan maps:
+The leaked map names 5 counties. We checked them against official Rockstar trailers, insider claims, and community findings:
 
 | County | On Leaked Map? | Seen in Official Trailers? | Proof Source |
 | :--- | :--- | :--- | :--- |
@@ -220,11 +240,21 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 ![Trailer 2 Mariana County Proof](assets/trailer2_mariana_county_proof.png)
 *Highway sign from Trailer 2 at 2:29 showing Route 404 East heading into Mariana County.*
 
-### Community Map Expert Breakdown (`martipk`):
+### Community Map Breakdown (`martipk` & Discord Research):
 ![Martipk Map Breakdown](assets/community_claim_martipk_map_real.png)
 *Community researcher `martipk` explaining why the leaked map is an authentic developer overview asset.*
 
-* **Why the map is real**: As community researcher `martipk` pointed out, the leaked map is a **low-render developer overview** that intentionally omits small streets, bridges, and tunnels for high-level planning. The coastal outlines, water inlets, and county borders match trailer landmarks with extreme accuracy that fan maps never had.
+* **Why the map is real**: The leaked map is a **low-render developer overview** that omits small streets, bridges, and tunnels for high-level planning. Its coastlines, counties, and inlets match trailer landmarks with extreme accuracy that fan maps never had.
+
+### 1. Map Zoom Reveals Detailed Road Networks
+![Map Zoom Details](assets/community_claim_map_zoom_details.png)
+*Demonstration showing how the overview map expands into detailed road layouts when zoomed in.*
+* When zoomed in, the overview map reveals complete local street networks, highway interchanges, and building layouts for areas like **Catalan Key**, **Gloriana Key**, and **Dalton Island**.
+
+### 2. Legendary Animals Confirmed (RDR2 Hunting System in GTA VI)
+![Legendary Gator Marker](assets/community_claim_legendary_animal_gator.png)
+*Crowned alligator icon inside a yellow badge pin in the Grassrivers swamp.*
+* **Legendary Animal Hunting**: The map features special icons like a **crowned alligator** in the Grassrivers wetlands. This confirms that the **Legendary Animal hunting system from Red Dead Redemption 2** is returning in GTA VI as a side activity.
 
 ### Other Real Locations on the Leaked Map:
 * **Ambrosia**: Confirmed location of the **Allied Crystal Sugar Refinery** shown in `taser.mp4`.
