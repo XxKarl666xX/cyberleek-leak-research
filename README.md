@@ -633,7 +633,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ![GamingSkew Tweet Proof](assets/cyberleek_2018_forum_tweet_gamingskew.png)
 *Community discovery report shared by `@gamingskew` and `@nico_s29` on X documenting the 2018 forum post.*
 
-On August 19, 2026, community researchers `@nico_s29` and `@gamingskew` uncovered archived forum records on **`szenebox.org`** (one of Germany's longest-running underground IT security, hacking, and scene boards, operating since 2007) matching the exact handle **`cyberleek`** and his dark flaming skull avatar.
+On August 19, 2026, community researchers [@nico_s29](https://x.com/nico_s29) and [@gamingskew](https://x.com/gamingskew) uncovered archived forum records on [**szenebox.org**](https://szenebox.org) (one of Germany's longest-running underground IT security, hacking, and scene boards, operating since 2007) matching the exact handle [**`cyberleek`**](https://szenebox.org/members/cyberleek/) and his dark flaming skull avatar.
 
 Here is the complete breakdown of evidence proving why Cyberleek is almost certainly an adult German native / resident:
 
@@ -641,7 +641,9 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ##### 1. The 2018 Szenebox Forum Posts & Linguistic Markers
 
-* **Thread 1: Introduction Post (`03.01.2018, 00:31 UTC+1`)**:
+* **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #18889)](https://szenebox.org/archive/index.php/t-18889.html)**
+  * **Direct Links**: [Szenebox Archive Link](https://szenebox.org/archive/index.php/t-18889.html) / [Live Subforum Thread](https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/) / [Author Profile](https://szenebox.org/members/cyberleek/)
+  * **Exact Date & Time**: **January 3, 2018 at 00:31 UTC+1** (`03.01.2018 00:31`)
   * **Original German**:  
     > *"💡 Vorstellung Cyberleek*  
     > *Hallo zusammen..*  
@@ -668,9 +670,9 @@ Here is the complete breakdown of evidence proving why Cyberleek is almost certa
 
 ##### 3. Infrastructure & Datacenter Evidence (Hetzner Germany)
 
-* **Primary Reverse Proxy IP**: `49.13.45.141`
-* **Datacenter Provider**: **Hetzner Online GmbH** (Germany's largest cloud & dedicated hosting provider).
-* **Server Location**: **Falkenstein, Saxony, Germany** (`AS24940`).
+* **Primary Reverse Proxy IP**: [`49.13.45.141`](https://ipinfo.io/49.13.45.141)
+* **Datacenter Provider**: [**Hetzner Online GmbH**](https://www.hetzner.com/) (Germany's largest cloud & dedicated hosting provider).
+* **Server Location**: **Falkenstein, Saxony, Germany** ([`AS24940`](https://ipinfo.io/AS24940)).
 * **Reverse DNS Hostname**: `static.49.13.45.141.clients.your-server.de` (`your-server.de` is Hetzner's proprietary German administration portal).
 * **Verification & Billing**: Hetzner enforces strict anti-fraud KYC policies, requiring European bank accounts (SEPA transfers), EU credit cards, or government ID verification to maintain active servers.
 

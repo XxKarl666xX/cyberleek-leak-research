@@ -73,9 +73,10 @@
 * GTAForums Community Mapping Project: https://gtaforums.com/topic/985269-gta-vi-mapping-project/
 
 ## 4. German Identity & Infrastructure Proofs
-* German Scene & Security Forum: SzeneBox (https://www.szenebox.org/ — Founded 2007)
-* User Profile: `cyberleek` (Registered pre-2018, Dark Flaming Skull Avatar)
-* Introduction Thread: "💡 Vorstellung Cyberleek" (Posted Jan 3, 2018, 00:31 UTC+1)
+* German Scene & Security Forum: SzeneBox (https://szenebox.org/ — Founded 2007)
+* User Profile: `cyberleek` (https://szenebox.org/members/cyberleek/ — Registered pre-2018, Dark Flaming Skull Avatar)
+* Introduction Thread (Archive): https://szenebox.org/archive/index.php/t-18889.html ("💡 Vorstellung Cyberleek" — Posted Jan 3, 2018, 00:31 UTC+1)
+* Introduction Thread (Live Subforum): https://szenebox.org/118-user-vorstellungen/18889-vorstellung-cyberleek/
 * JavaScript Challenge Thread: "Hackit" (Posted Jan 3, 2018, 11:18 UTC+1 — Northern German "Moiin")
-* Primary Gateway Server: Hetzner Online GmbH (AS24940, Falkenstein, Germany — IP `49.13.45.141`)
+* Primary Gateway Server: Hetzner Online GmbH (AS24940, Falkenstein, Germany — IP `49.13.45.141` / https://ipinfo.io/49.13.45.141)
 * Reverse DNS Record: `static.49.13.45.141.clients.your-server.de` (Hetzner German Portal)
