@@ -1,9 +1,9 @@
 # CYBERLEEK & MEDIA LEAK CHECKED SOURCES
 
 ## 1. Main Websites & Crypto Contracts
-* Main Website (Taken Down): https://leek.vilenarios.com/
-* Gateway Server 1 (Hetzner, Germany): 49.13.45.141 (cyberleek.ar.io)
-* Gateway Server 2 (Cablevision, USA): 69.124.94.88
+* Main Website 1 (Taken Down): https://leek.vilenarios.com/
+* Gateway Server 1 (Hetzner, Germany — Currently Down): 49.13.45.141 (cyberleek.ar.io / cyberleek.turbo-gateway.com)
+* Gateway Server 2 (Cablevision, USA — Currently Down): 69.124.94.88
 * Solana Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
 * Solana Token Mint ($CYBERLEEK): ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
 * Solscan Explorer: https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a

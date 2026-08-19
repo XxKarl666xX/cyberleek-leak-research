@@ -8,8 +8,9 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 > [!IMPORTANT]
 > <a id="key-alerts"></a>
-> ### 🚨 Critical Facts & Alerts (Must Read First)
+> ### 🚨 Critical Facts & Latest Status (Must Read First)
 > 
+> * 🔴 **LIVE STATUS UPDATE (August 19, 2026 — 23:55 UTC)**: At this moment, **all official Cyberleek websites, portals, and gateway endpoints are completely OFFLINE / DOWN** (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`, `leek.vilenarios.com`). We don't have further details yet on whether this is due to hosting/DMCA takedowns by Hetzner, DNS blocks, or if the leakers pulled the servers offline themselves. We are monitoring the situation.
 > * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside promoter.
 > * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
 > * ⚠️ **TOKEN & PROBABLE SCAM WARNING**: The **`$CYBERLEEK` token and donation polls are run directly by the official Cyberleek website**, NOT by the Twitter account. Gaming news outlets, Ross Scott (Stop Killing Games), and community researchers agree this is **almost certainly a cryptocurrency pump-and-dump scheme** using GTA 6 hype to cash out. **Do NOT buy their token or send crypto.**
@@ -497,6 +498,7 @@ Every date here has a source you can check yourself:
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
 | **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
 | **2026-08-19 ~22:30** | Official leaker website poll concludes; `▶ Plane (DAY)` wins 100% of votes (65,342 $CYBERLEEK) | [Poll Winner Snapshot](#poll-plane-winner) | Confirms upcoming **Video 5** is scheduled as a daytime airplane flight / cinematic drive-by clip. |
+| **2026-08-19 ~23:55** | **All official Cyberleek website portals & gateway endpoints go OFFLINE** | Network outage observation | All gateways (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) unreachable worldwide. Cause unconfirmed. |
 
 ---
 
@@ -594,15 +596,15 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 
 Let's clear up a common misconception about the hosting:
 
-| Component | What it is | Where it's actually hosted |
-|:---|:---|:---|
-| **Raw File Storage** | Arweave blockchain | Decentralized computer network |
-| **Web Address** | ArNS (`cyberleek.ar.io`) | AR.IO Gateway Network |
-| **Web Server 1** | IP `49.13.45.141` | **Hetzner Online GmbH** (Nuremberg, Germany — `static.141.45.13.49.clients.your-server.de`) |
-| **Web Server 2** | IP `69.124.94.88` | **Cablevision Systems / Optimum Online** (Morristown, New Jersey — `ool-457c5e58.dyn.optonline.net`) |
-| **Old Website** | `leek.vilenarios.com` | Taken down via copyright notices |
+| Component | What it is | Where it's actually hosted | Current Status |
+|:---|:---|:---|:---|
+| **Raw File Storage** | Arweave blockchain | Decentralized computer network | Stored on ledger |
+| **Web Address** | ArNS (`cyberleek.ar.io`) | AR.IO Gateway Network | 🔴 **Offline / Unreachable** |
+| **Web Server 1** | IP `49.13.45.141` | **Hetzner Online GmbH** (Nuremberg, Germany — `static.141.45.13.49.clients.your-server.de`) | 🔴 **Down / Unresponsive** |
+| **Web Server 2** | IP `69.124.94.88` | **Cablevision Systems / Optimum Online** (Morristown, New Jersey — `ool-457c5e58.dyn.optonline.net`) | 🔴 **Down / Unresponsive** |
+| **Old Website** | `leek.vilenarios.com` | Taken down via copyright notices | 🔴 **Taken Down** |
 
-> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular browsers need standard web servers (gateways) to show the site. Those gateway servers run on normal commercial hosting companies like **Hetzner** in Germany and **Cablevision/Optimum** in the US. This means Take-Two / Rockstar **can and do shut down the web portals** by sending takedown notices to Hetzner and domain registrars.
+> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular browsers need standard web servers (gateways) to show the site. Those gateway servers run on normal commercial hosting companies like **Hetzner** in Germany and **Cablevision/Optimum** in the US. This means Take-Two / Rockstar **can and do shut down the web portals** by sending takedown notices to Hetzner and domain registrars. As of **August 19, 2026 (23:55 UTC)**, all web gateway endpoints are completely down.
 
 ---
 
