@@ -272,6 +272,10 @@ Nobody knows who's actually behind this. Here's everything we could find:
 * The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account.
 * Both confirmed linked by [The Gamer](https://www.thegamer.com/).
 
+**NOT official: [@Miosz179322](https://x.com/Miosz179322)**
+* This account is **not affiliated** with Cyberleek. It just reposts old leaked content.
+* Don't confuse it with the real accounts above.
+
 ### Their Website Setup
 
 | Part | Details |
