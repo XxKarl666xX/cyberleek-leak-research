@@ -55,6 +55,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
 * 💬 **[7. What Cyberleek Claimed in Discord (Archived Q&A)](#discord-qa)**
+  * 💰 [Creator Currency Traded for Real Money (Robux Theory)](#creator-currency-claim)
   * 🚫 [7.5. Discord Server Bans, Imposter Servers & Disavowal](#discord-bans)
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
@@ -522,6 +523,7 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 ![Discord Claim 4](assets/discord_claim_4_not_the_player.png)
 * **What they said**: When asked why the gameplay had no shooting, Cyberleek said: *"the person playing was chilling."* They confirmed they are **not the person holding the controller**. They got the recordings from someone else.
 
+<a id="creator-currency-claim"></a>
 ### 5. In-Game Creator Currency Traded for Real Money (Robux Theory)
 ![Discord Claim 5](assets/discord_claim_5_creator_currency_robux.png)
 *Cyberleek claiming in Discord that GTA VI features a currency that can be traded for real money like Robux.*
