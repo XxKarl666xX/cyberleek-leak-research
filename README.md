@@ -47,6 +47,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 * ❓ **[10. What We Still Don't Know](#unknowns)**
 * ⚖️ **[11. Final Verdict](#verdict)**
 * 📜 **[12. Legal Disclaimer & Fair Use Notice](#legal-disclaimer)**
+* 🤝 **[13. Contributing & Submitting Evidence](#contributing)**
 
 ---
 
@@ -585,6 +586,16 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ### No-Hosting Policy
 * **No Copyrighted Videos Hosted**: This repository **does not host, mirror, or share any raw game files, leaked video files (`.mp4`), or confidential company assets.**
 * All hashes (SHA-256, MD5) and blockchain block numbers are published only as digital records for research and fact-checking.
+
+---
+
+<a id="contributing"></a>
+## 13. Contributing & Submitting Evidence
+
+Have you spotted an error, found new verifiable evidence, or want to contribute additional research?
+* **Open an Issue**: [Submit an Issue](https://github.com/zyrexdz/cyberleek-leak-research/issues) to suggest corrections, share mirrors, or submit newly discovered community findings.
+* **Submit a Pull Request**: [Open a Pull Request](https://github.com/zyrexdz/cyberleek-leak-research/pulls) with documented sources and proof.
+* *Note: All contributions must adhere to our Fair Use & No-Hosting policy (do not submit raw copyrighted `.mp4` video files or torrent links).*
 
 ---
 
