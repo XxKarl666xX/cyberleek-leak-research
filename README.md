@@ -395,7 +395,7 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 
 ---
 
-### 7.5. Discord Server Bans & Restrictions
+### 7.5. Discord Server Bans, Imposter Servers & Official Disavowal
 
 ![Discord Ban Proof](assets/discord_old_server_banned_proof.png)
 *Cyberleek operating under the alt handle `cyberleek_west` (and `surwest`) on their replacement server, confirming Discord banned the old one.*
@@ -403,10 +403,15 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 ![New Server Restricted Proof](assets/discord_new_server_restricted_proof.png)
 *Cyberleek (`cyberleek_west`) posting on the newest server: "the server was restricted again... rip".*
 
-* **Original Server**: Got banned by Discord following copyright and Terms of Service enforcement.
-* **New Replacement Server**: `discord.gg/ZWjnQSSJ2P`
-* **Alt Handle on New Server**: Cyberleek operates under **`cyberleek_west`** (and `surwest`), confirming *"old discord server was banned so"*.
-* **New Server Restricted Again**: On the newest server, Cyberleek confirmed: *"the server was restricted again... rip"*, demonstrating continuous Discord moderation and restriction against their leak servers.
+![Official Disavowal Tweet](assets/debunking_fake_discord_cyberleek_tweet.png)
+*Official tweets by @cyberleek_ar_io confirming the new Discord server and 8 PM drop claims were from a fake imposter account.*
+
+* **Original Server Banned**: Discord banned the original official leak server following copyright and TOS strikes.
+* **New Replacement Server (`ZWjnQSSJ2P`)**: Created as a temporary backup, but was quickly restricted by Discord moderation.
+* **Fake Imposter Discord Accounts & Disavowal**: Following the bans, multiple copycat accounts appeared claiming upcoming drops (such as an "8 PM EST" leak drop). Official Cyberleek on X publicly called them out and confirmed:
+  > *"The 8PM est wasn't me, that was a fake dude on discord"*  
+  > *"The 8PM est wasn't me. That was not me and it was a fake discord account"*  
+* **Takeaway**: Any new Discord servers or accounts claiming scheduled leak drops are **100% fake imposters** capitalizing on the confusion.
 
 ---
 
@@ -424,8 +429,9 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
    * The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account. Confirmed linked by [The Gamer](https://www.thegamer.com/).
 
 **Fake / Unofficial Accounts (Beware):**
-* ❌ **[@cyberleekario](https://x.com/cyberleekario)** — Fake copycat account mimicking the name (missing underscores). Not official.
+* ❌ **[@cyberleekario](https://x.com/cyberleekario)** — Fake copycat account on X mimicking the name (missing underscores). Not official.
 * ❌ **[@Miosz179322](https://x.com/Miosz179322)** — Unaffiliated account reposting old leaked clips. Not official.
+* ❌ **Fake Discord Accounts / Imposter Servers** — Accounts claiming "8 PM EST drops" or new official channels, officially disavowed by Cyberleek on X.
 
 ---
 
