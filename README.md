@@ -4,8 +4,19 @@
 
 Everything we know about the August 2026 GTA VI gameplay leaks. Every claim backed with links, hashes, technical video checks, and on-chain proof.
 
-> [!WARNING]
-> **HEADS UP / SCAM ALERT**: Reddit, IGN, GamesRadar, and pretty much everyone agrees — Cyberleek is running a **crypto pump-and-dump scam**. The gameplay they leaked is 100% real (Rockstar is hitting everything with DMCA takedowns, which basically confirms it), but they're using the hype to push their `$CYBERLEEK` memecoin on Solana. **Don't click their crypto links. Don't buy their token.** This page is just about the files, the technical facts, and the real truth.
+> [!IMPORTANT]
+> <a id="key-alerts"></a>
+> ### 🚨 Critical Facts & Alerts (Must Read First)
+> 
+> 1. **❌ CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**:
+>    ![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
+>    *In the newest 4th video drop (`junkies.mp4`), the official watermark explicitly states: **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**. The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside crypto promoter.*
+> 2. **🎮 The 4 Gameplay Videos & Maps Are 100% Real**:
+>    * All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
+> 3. **⚠️ Token & Scam Warning**:
+>    * **Do not buy any `$CYBERLEEK` crypto tokens or send money.** The leaker and fake social media promoters are using the leak hype to pump memecoins.
+> 4. **🇩🇪 Leaker Identity**:
+>    * 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Falkenstein, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
 
 > [!NOTE]
 > **TIMING**: These leaks dropped on August 17–19, 2026 — exactly **9 days before** the official "GTA VI: An Extended Look" Netflix premiere on **August 27, 2026 at 3:00 PM ET**. The game launches **November 19, 2026** on PS5 and Xbox Series X|S.
@@ -13,6 +24,8 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 ---
 
 ## 📑 Clickable Table of Contents / Jump to Section
+
+* 🚨 **[Critical Facts & Alerts (Fake Twitter Proof)](#key-alerts)**
 
 * 📁 **[1. What Got Leaked (All 7 Files)](#what-got-leaked)**
   * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
