@@ -59,7 +59,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
 * 💬 **[7. What Cyberleek Claimed in Discord (Archived Q&A)](#discord-qa)**
   * 💰 [Creator Currency Traded for Real Money (Robux Theory)](#creator-currency-claim)
-  * 🚫 [7.5. Discord Server Bans, Imposter Servers & Disavowal](#discord-bans)
+  * 🚫 [7.5. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
   * 🌐 [1. Official Endpoints & Live Status Tracker](#official-endpoints)
@@ -552,7 +552,7 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 ---
 
 <a id="discord-bans"></a>
-### 7.5. Discord Server Bans, Imposter Servers & Official Disavowal
+### 7.5. Discord Server Bans, Imposter Servers & The Fake Twitter Feud
 
 ![Discord Ban Proof](assets/discord_old_server_banned_proof.png)
 *Cyberleek operating under the alt handle `cyberleek_west` (and `surwest`) on their replacement server, confirming Discord banned the old one.*
@@ -560,15 +560,17 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 ![New Server Restricted Proof](assets/discord_new_server_restricted_proof.png)
 *Cyberleek (`cyberleek_west`) posting on the newest server: "the server was restricted again... rip".*
 
-![Official Disavowal Tweet](assets/debunking_fake_discord_cyberleek_tweet.png)
-*Official tweets by @cyberleek_ar_io confirming the new Discord server and 8 PM drop claims were from a fake imposter account.*
+![Fake Twitter Disavowal Tweet](assets/debunking_fake_discord_cyberleek_tweet.png)
+*~~Official tweets~~ ❌ **DEBUNKED FAKE TWEETS**: Posts by the fake promoter account `@cyberleek_ar_io` claiming "8 PM EST drops were from a fake Discord account."*
 
 * **Original Server Banned**: Discord banned the original official leak server following copyright and TOS strikes.
 * **New Replacement Server (`ZWjnQSSJ2P`)**: Created as a temporary backup, but was quickly restricted by Discord moderation.
-* **Fake Imposter Discord Accounts & Disavowal**: Following the bans, multiple copycat accounts appeared claiming upcoming drops (such as an "8 PM EST" leak drop). Official Cyberleek on X publicly called them out and confirmed:
-  > *"The 8PM est wasn't me, that was a fake dude on discord"*  
-  > *"The 8PM est wasn't me. That was not me and it was a fake discord account"*  
-* **Takeaway**: Any new Discord servers or accounts claiming scheduled leak drops are **100% fake imposters** capitalizing on the confusion.
+* **❌ Fake Twitter Promoter Drama (Debunked)**:
+  * Following the bans, the fake Twitter account `@cyberleek_ar_io` posted:
+    > ~~*"The 8PM est wasn't me, that was a fake dude on discord"*~~  
+    > ~~*"The 8PM est wasn't me. That was not me and it was a fake discord account"*~~  
+  * **The Reality**: These tweets were **100% fake theater**. As proven by Video 4's official watermark (**`"CYBERLEEK DOES NOT HAVE TWITTER"`**), the Twitter account was an outside imposter pretending to be the leaker while calling out *other* imposters for clout.
+* **Takeaway**: Any new Discord servers or Twitter accounts claiming scheduled leak drops are **100% fake imposters** capitalizing on the confusion.
 
 ---
 
