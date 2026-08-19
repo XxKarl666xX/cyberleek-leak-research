@@ -388,6 +388,33 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 
 > **What this tells us**: The leaker originally tried quietly dumping the basketball video on dark web leak boards in the morning. When it barely got any traction there, they shifted strategy — deploying the Arweave decentralized storage, launching the Solana memecoin, and going all-out on X (Twitter) with their "No Disc, No Peace" manifesto to generate maximum viral hype.
 
+### Community Debunking: Is the Twitter Account Even the Real Leaker?
+
+*(Investigation & evidence credits: Discord users **`garza`** and **`vaaatiel`**)*
+
+![Garza Debunking Breakdown](assets/debunking_garza_analysis.png)
+*Discord analysis by user `garza` breaking down anomalies with the @cyberleek_ar_io Twitter persona.*
+
+Community researchers looking closely at the `@cyberleek_ar_io` X account noticed several major red flags suggesting the person tweeting might **not even be the original leaker**, but rather a crypto promoter milking the real leaks for token hype:
+
+#### 1. Username History Can Be Deceptive
+![Vaaatiel Username Change Proof](assets/debunking_vaaatiel_username_proof.png)
+*Demonstration by `vaaatiel` showing how Twitter's "About" page displays delayed or cached historical rename dates.*
+* Twitter's "About this account" date can be delayed or reflect an older renamed account. The March 2026 creation date doesn't prove the account was created specifically for this leak from day one — it could have been an existing account renamed right before the dump.
+
+#### 2. AI-Generated Banners & Fake Teaser Images
+* The account's promotional banners and teasers were found to be AI-upscaled composites blended from old 2022 leak screenshots, trying to give the impression of having endless unseen material.
+
+#### 3. Posting Blurred 2022 Leaks as "New Threats"
+![Blurred 2022 Leak Tweet](assets/debunking_blurred_2022_leak_tweet.png)
+*Tweet by @cyberleek_ar_io threatening Rockstar with an intentionally blurred image that turned out to be from the 2022 Lapsus$ leak.*
+* In a now-deleted post, the account threatened Rockstar: *"I will continue leaking GTA 6 clips if u do not come out and apologize..."* with a heavily blurred screenshot. Community members quickly identified that the blurred image was just a recycled frame from the **September 2022 nightclub leak** (Port Gellhorn), not a new clip.
+
+#### 4. The "Promoter / Middleman" Theory
+![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
+*Tweets sent via "Twitter for iPhone" during irregular timezones.*
+* **The Takeaway**: The real video files (`output.mp4`, `video2.mp4`, `taser.mp4`) are undeniably authentic Rockstar footage. However, the Twitter persona and Discord server may simply be run by a **crypto investor/promoter** who got access to the files early, attached their `$CYBERLEEK` Solana token branding, and created the "No Disc, No Peace" drama to pump their coin. Meanwhile, the actual source who originally possessed the footage remains silent.
+
 ### Are They Connected to the 2022 Lapsus$ Leak?
 
 **No.** The 2022 leak was Arion Kurtaj (Lapsus$ group). He was caught, tried, and got an indefinite hospital order. Cyberleek is totally separate. Confirmed by [GTA Intel](https://gtaintel.com/), Reddit, and industry reporters.
