@@ -276,26 +276,27 @@ The screenshots and Q&A below were captured from Cyberleek's **original Discord 
 
 Nobody knows who's actually behind this. Here's everything we could find:
 
-### Their X (Twitter) Accounts
+### Their Online Accounts & Known Handles
 
-**Main: [@cyberleek_ar_io](https://x.com/cyberleek_ar_io)**
-* **Bio**: "Fighting For Gamer's Rights. @MrCyberLeek V2 $CYBERLEEK"
-* **Created**: March 2026 — that's **5 months before** any leak. This was planned ahead of time.
-* **Followers**: ~88,900 (as of Aug 19, 2026)
-* **Profile pic**: Cartoon leek character with blue sunglasses
-* **Banner**: *"We do not own the games, if they do not give us physical editions."*
-* **Biggest post**: "2-4 More Leaks incoming." — **9.5 million views**
+**Only Official Accounts on X (Twitter):**
+1. **Main: [@cyberleek_ar_io](https://x.com/cyberleek_ar_io)**
+   * **Bio**: "Fighting For Gamer's Rights. @MrCyberLeek V2 $CYBERLEEK"
+   * **Created**: March 2026 — that's **5 months before** any leak. This was planned ahead of time.
+   * **Followers**: ~88,900 (as of Aug 19, 2026)
+   * **Profile pic**: Cartoon leek character with blue sunglasses
+   * **Banner**: *"We do not own the games, if they do not give us physical editions."*
+   * **Biggest post**: "2-4 More Leaks incoming." — **9.5 million views**
 
-**Backup: [@MrCyberLeek](https://x.com/MrCyberLeek)**
-* The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account.
-* Both confirmed linked by [The Gamer](https://www.thegamer.com/).
+2. **Backup: [@MrCyberLeek](https://x.com/MrCyberLeek)**
+   * The main bio calls itself "V2" — so `@cyberleek_ar_io` replaced this older account.
+   * Both confirmed linked by [The Gamer](https://www.thegamer.com/).
 
-**Discord Alt: `surwest`**
-* Account used by Cyberleek on their new replacement Discord server to announce that their original server was banned.
+**Discord Alt:**
+* **`surwest`** — Handle used by Cyberleek on the new replacement server to announce the old server ban.
 
-**NOT official: [@Miosz179322](https://x.com/Miosz179322)**
-* This account is **not affiliated** with Cyberleek. It just reposts old leaked content.
-* Don't confuse it with the real accounts above.
+**Fake / Unofficial Accounts (Beware):**
+* ❌ **[@cyberleekario](https://x.com/cyberleekario)** — Fake impersonator account mimicking the name (missing underscores). Not official.
+* ❌ **[@Miosz179322](https://x.com/Miosz179322)** — Unaffiliated account reposting old leaked clips. Not official.
 
 ### Their Website Setup & Real Server Hosting
 
