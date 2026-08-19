@@ -12,46 +12,48 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 ## 📑 Clickable Table of Contents / Jump to Section
 
-* 📁 **[1. What Got Leaked (All 6 Files)](#1-what-got-leaked-all-6-files)**
-  * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#file-1-basketball-gameplay-clip)
-  * 🚗 [File 2: Highway Driving & Delivery Van (`video2.mp4`)](#file-2-highway-driving-delivery-van-clip)
-  * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#file-3-full-state-of-leonida-map)
-  * 🏝️ [File 4: Map Sneak Peek 1 (Dalton Island)](#file-4-map-sneak-peek-1-dalton-island)
-  * 🏝️ [File 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)](#file-5-map-sneak-peek-2-catalan-key-gloriana-key)
-  * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`)](#file-6-taser-truck-hijacking-boat-cutscene-clip)
-* 🔗 **[2. Direct Links & Mirror Table](#2-direct-links-mirror-table)**
-* 📊 **[3. Video Comparison & Technical Details](#3-video-comparison-technical-details)**
-* ⏱️ **[4. Second-by-Second Video Breakdown](#4-second-by-second-video-breakdown)**
-  * 🏀 [Video 1: Basketball Gameplay](#video-1-basketball-gameplay-outputmp4-69-seconds)
-  * 🚗 [Video 2: Highway Driving](#video-2-highway-driving-delivery-van-video2mp4-68-seconds)
-  * ⚡ [Video 3: Taser, Truck & Boat Cutscene](#video-3-taser-truck-hijacking-boat-cutscene-tasermp4-1245-seconds)
-  * 🎮 [New HUD & Gameplay Mechanics (Clone Key, Stamina, Minimap, RDR2 Defuse, Fuel, CarPlay)](#new-hud-gameplay-mechanics-discovered-in-the-footage)
-  * 🐦 [Community Breakdown on X (@NikTek)](#community-breakdown-on-x-full-gameplay-observations-niktek)
-* 🗺️ **[5. Map & County Breakdown](#5-map-county-breakdown)**
-  * 🔍 [1. Map Zoom Road Details](#1-map-zoom-reveals-detailed-road-networks)
-  * 📐 [2. Map Size Comparison (1.656x Bigger than GTA 5)](#2-map-size-comparison-gta-6-is-1656x-bigger-than-gta-5)
-  * 🐊 [3. Legendary Animals Confirmed (RDR2 Hunting System)](#3-legendary-animals-confirmed-rdr2-hunting-system-in-gta-vi)
-  * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#4-deep-dive-what-is-lummox-county-is-it-official)
-* 📅 **[6. Complete Timeline & Date Proof](#6-complete-timeline-date-proof)**
-* 💬 **[7. What Cyberleek Claimed in Discord (Archived Q&A)](#7-what-cyberleek-claimed-in-discord-archived-qa)**
-  * 🚫 [7.5. Discord Server Bans, Imposter Servers & Disavowal](#75-discord-server-bans-imposter-servers-official-disavowal)
-* 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#8-web-research-online-setup-dark-web-debunking)**
-  * 👤 [Official Accounts vs Fake Copycats](#their-online-accounts-known-handles)
-  * 🖥️ [Real Server Hosting (Hetzner & Cablevision)](#their-website-setup-real-server-hosting)
-  * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#hack-forums-the-dark-web-trail-dread)
-  * 🔍 [Community Debunking by Garza & Vaaatiel](#community-debunking-is-the-twitter-account-even-the-real-leaker)
-  * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#5-insider-confirmation-on-footage-age-natedrake)
-* 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#9-how-everyone-reacted)**
-* ❓ **[10. What We Still Don't Know](#10-what-we-still-dont-know)**
-* ⚖️ **[11. Final Verdict](#11-final-verdict)**
-* 📜 **[12. Legal Disclaimer & Fair Use Notice](#12-legal-disclaimer-fair-use-notice)**
+* 📁 **[1. What Got Leaked (All 6 Files)](#what-got-leaked)**
+  * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
+  * 🚗 [File 2: Highway Driving & Delivery Van (`video2.mp4`)](#driving-clip)
+  * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#full-map)
+  * 🏝️ [File 4: Map Sneak Peek 1 (Dalton Island)](#dalton-island)
+  * 🏝️ [File 5: Map Sneak Peek 2 (Catalan & Gloriana Key)](#catalan-key)
+  * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`)](#taser-clip)
+* 🔗 **[2. Direct Links & Mirror Table](#direct-links)**
+* 📊 **[3. Video Comparison & Technical Details](#video-comparison)**
+* ⏱️ **[4. Second-by-Second Video Breakdown](#video-breakdown)**
+  * 🏀 [Video 1: Basketball Gameplay](#bball-breakdown)
+  * 🚗 [Video 2: Highway Driving](#driving-breakdown)
+  * ⚡ [Video 3: Taser, Truck & Boat Cutscene](#taser-breakdown)
+  * 🎮 [New HUD & Gameplay Mechanics (Clone Key, Stamina, Minimap, RDR2 Defuse, Fuel, CarPlay)](#new-hud-mechanics)
+  * 🐦 [Community Breakdown on X (@NikTek)](#niktek-breakdown)
+* 🗺️ **[5. Map & County Breakdown](#map-breakdown)**
+  * 🔍 [1. Map Zoom Road Details](#map-zoom)
+  * 📐 [2. Map Size Comparison (1.656x Bigger than GTA 5)](#landmass-size)
+  * 🐊 [3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
+  * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
+* 📅 **[6. Complete Timeline & Date Proof](#timeline)**
+* 💬 **[7. What Cyberleek Claimed in Discord (Archived Q&A)](#discord-qa)**
+  * 🚫 [7.5. Discord Server Bans, Imposter Servers & Disavowal](#discord-bans)
+* 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
+  * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
+  * 🖥️ [Real Server Hosting (Hetzner & Cablevision)](#server-hosting)
+  * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
+  * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
+  * ⏳ [Insider Confirmation on Footage Age (`NateDrake`)](#natedrake-age)
+* 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
+* ❓ **[10. What We Still Don't Know](#unknowns)**
+* ⚖️ **[11. Final Verdict](#verdict)**
+* 📜 **[12. Legal Disclaimer & Fair Use Notice](#legal-disclaimer)**
 
 ---
 
+<a id="what-got-leaked"></a>
 ## 1. What Got Leaked (All 6 Files)
 
 Here's every file that came out of this leak cluster. All of them were pulled from Cyberleek's smart contract data, decentralized Arweave storage, and online download mirrors.
 
+<a id="bball-clip"></a>
 ### File 1: Basketball Gameplay Clip
 ![Basketball Clip](assets/video1_bball_focus_meter.jpg)
 *Jason shooting hoops at a waterfront house in Leonida, showing the "Focus" bar.*
@@ -74,6 +76,7 @@ Here's every file that came out of this leak cluster. All of them were pulled fr
 
 ---
 
+<a id="driving-clip"></a>
 ### File 2: Highway Driving & Delivery Van Clip
 ![Driving Clip](assets/video2_driving_picador_highway.jpg)
 *Jason driving a Declasse Picador along coastal highways passing overhead signs for Goose Key and Vice City.*
@@ -96,6 +99,7 @@ Here's every file that came out of this leak cluster. All of them were pulled fr
 
 ---
 
+<a id="full-map"></a>
 ### File 3: Full State of Leonida Map
 * **ID**: `MEDIA-03-MAPFULL`
 * **What you see**: The entire state of Leonida with 5 counties labeled — Lummox, Kelly, Leonard, Vice-Dale, and Mariana. Vice City is in the southeast corner.
@@ -112,6 +116,7 @@ Here's every file that came out of this leak cluster. All of them were pulled fr
 
 ---
 
+<a id="dalton-island"></a>
 ### File 4: Map Sneak Peek 1 (Dalton Island)
 * **ID**: `MEDIA-04-MAPPEEK1`
 * **What you see**: A zoomed-in crop of Dalton Island (GTA's version of Fisher Island, Miami).
@@ -123,6 +128,7 @@ Here's every file that came out of this leak cluster. All of them were pulled fr
 
 ---
 
+<a id="catalan-key"></a>
 ### File 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)
 * **ID**: `MEDIA-05-MAPPEEK2`
 * **What you see**: Zoomed-in crop showing Catalan Key, Gloriana Key, Tequesta Retreat, and Catalan Bay.
@@ -135,6 +141,7 @@ Here's every file that came out of this leak cluster. All of them were pulled fr
 
 ---
 
+<a id="taser-clip"></a>
 ### File 6: Taser, Truck Hijacking & Boat Cutscene Clip
 ![Taser Aim](assets/video3_taser_weapon_aim.jpg)
 *Jason aiming the Stun Gun / Taser (`9 1` ammo) inside the Allied Crystal Co. warehouse yard.*
@@ -162,6 +169,7 @@ Here's every file that came out of this leak cluster. All of them were pulled fr
 
 ---
 
+<a id="direct-links"></a>
 ## 2. Direct Links & Mirror Table
 
 All external links and mirrors saved for checking:
@@ -177,6 +185,7 @@ All external links and mirrors saved for checking:
 
 ---
 
+<a id="video-comparison"></a>
 ## 3. Video Comparison & Technical Details
 
 ### Comparing All 3 Videos:
@@ -202,10 +211,12 @@ All external links and mirrors saved for checking:
 
 ---
 
+<a id="video-breakdown"></a>
 ## 4. Second-by-Second Video Breakdown
 
 Here is what happens in all 3 leaked videos, broken down by timestamp:
 
+<a id="bball-breakdown"></a>
 ### Video 1: Basketball Gameplay (`output.mp4`, 69 Seconds)
 ![Basketball Frame](assets/video1_bball_focus_meter.jpg)
 
@@ -217,6 +228,7 @@ Here is what happens in all 3 leaked videos, broken down by timestamp:
 
 ---
 
+<a id="driving-breakdown"></a>
 ### Video 2: Highway Driving & Delivery Van (`video2.mp4`, 68 Seconds)
 ![Driving Frame](assets/video2_driving_picador_highway.jpg)
 
@@ -228,6 +240,7 @@ Here is what happens in all 3 leaked videos, broken down by timestamp:
 
 ---
 
+<a id="taser-breakdown"></a>
 ### Video 3: Taser, Truck Hijacking & Boat Cutscene (`taser.mp4`, 124.5 Seconds)
 ![Taser Aim](assets/video3_taser_weapon_aim.jpg)
 
@@ -243,6 +256,7 @@ Here is what happens in all 3 leaked videos, broken down by timestamp:
 
 ---
 
+<a id="new-hud-mechanics"></a>
 ### New HUD & Gameplay Mechanics Discovered in the Footage
 
 The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mechanics from the footage:
@@ -285,6 +299,7 @@ The GTA VI UNMODERATED community spotted several brand-new UI and gameplay mecha
 
 ---
 
+<a id="niktek-breakdown"></a>
 ### Community Breakdown on X: Full Gameplay Observations (`@NikTek`)
 
 ![NikTek Breakdown Part 1](assets/community_niktek_breakdown_part1.png)
@@ -300,6 +315,7 @@ Key gameplay observations documented by `@NikTek`:
 
 ---
 
+<a id="map-breakdown"></a>
 ## 5. Map & County Breakdown
 
 The leaked map names 5 counties. We checked them against official Rockstar trailers, insider claims, and community findings:
@@ -321,21 +337,25 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 
 * **Why the map is real**: The leaked map is a **low-render developer overview** that omits small streets, bridges, and tunnels for high-level planning. Its coastlines, counties, and inlets match trailer landmarks with extreme accuracy that fan maps never had.
 
+<a id="map-zoom"></a>
 ### 1. Map Zoom Reveals Detailed Road Networks
 ![Map Zoom Details](assets/community_claim_map_zoom_details.png)
 *Demonstration showing how the overview map expands into detailed road layouts when zoomed in.*
 * When zoomed in, the overview map reveals complete local street networks, highway interchanges, and building layouts for areas like **Catalan Key**, **Gloriana Key**, and **Dalton Island**.
 
+<a id="landmass-size"></a>
 ### 2. Map Size Comparison: GTA 6 is ~1.656x Bigger than GTA 5
 ![Landmass Comparison](assets/community_claim_landmass_size_gta5_comparison.png)
 *Python pixel-counting script by Reddit user `u/UUT-` (`r/GTA6unmoderated`) comparing landmass area.*
 * **Landmass Measurement**: By counting usable land pixels, GTA VI's Leonida comes out to **778,026 pixels** versus GTA V's San Andreas at **469,834 pixels** — making GTA VI **1.656 times larger in pure landmass** than GTA V. This matches Jason Schreier's earlier reporting that Rockstar scaled the launch map to ~1.5x–2x with plans to add more land post-release.
 
+<a id="legendary-animals"></a>
 ### 3. Legendary Animals Confirmed (RDR2 Hunting System in GTA VI)
 ![Legendary Gator Marker](assets/community_claim_legendary_animal_gator.png)
 *Crowned alligator icon inside a yellow badge pin in the Grassrivers swamp.*
 * **Legendary Animal Hunting**: The map features special icons like a **crowned alligator** in the Grassrivers wetlands. This confirms that the **Legendary Animal hunting system from Red Dead Redemption 2** is returning in GTA VI as a side activity.
 
+<a id="lummox-county"></a>
 ### 4. Deep Dive: What is Lummox County & Is It Official?
 * **Seen in Official Trailers?**: ❌ **Not directly yet**. While *Vice-Dale County* (police cruiser door at `0:28` in Trailer 1), *Mariana County* (Route 404 East sign at `2:29` in Trailer 2), and *Kelly / Leonard Counties* (police cruisers in Port Gellhorn) are 100% verified in official trailers, the specific printed name *"Lummox County"* has not appeared on an official road sign or police badge in trailers so far.
 * **Where It Is Located**: Lummox County makes up the **northernmost wilderness region** of the State of Leonida on the leaked map, representing thick forests, hills, and river canyons inspired by northern Florida and southern Georgia (like Providence Canyon State Park, GA).
@@ -350,6 +370,7 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 
 ---
 
+<a id="timeline"></a>
 ## 6. Complete Timeline & Date Proof
 
 Every date here has a source you can check yourself:
@@ -372,6 +393,7 @@ Every date here has a source you can check yourself:
 
 ---
 
+<a id="discord-qa"></a>
 ## 7. What Cyberleek Claimed in Discord (Archived Q&A)
 
 *(Screenshots courtesy of [@gamingskew](https://x.com/gamingskew) on X)*
@@ -398,6 +420,7 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 
 ---
 
+<a id="discord-bans"></a>
 ### 7.5. Discord Server Bans, Imposter Servers & Official Disavowal
 
 ![Discord Ban Proof](assets/discord_old_server_banned_proof.png)
@@ -418,8 +441,10 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 
 ---
 
+<a id="web-research"></a>
 ## 8. Web Research: Online Setup, Dark Web & Debunking
 
+<a id="official-accounts"></a>
 ### Their Online Accounts & Known Handles
 
 **Only Official Accounts on X (Twitter):**
@@ -438,6 +463,7 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 
 ---
 
+<a id="server-hosting"></a>
 ### Their Website Setup & Real Server Hosting
 
 Let's clear up a common misconception about the hosting:
@@ -454,6 +480,7 @@ Let's clear up a common misconception about the hosting:
 
 ---
 
+<a id="dread-trail"></a>
 ### Hack Forums & The Dark Web Trail (Dread)
 
 *(Dread post discovery credit: [@bnwkr](https://x.com/bnwkr) on X)*
@@ -469,6 +496,7 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 
 ---
 
+<a id="debunking-twitter"></a>
 ### Community Debunking: Is the Twitter Account Even the Real Leaker?
 
 *(Investigation & evidence credits: Discord users **`garza`** and **`vaaatiel`**)*
@@ -496,6 +524,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 *Tweets sent via "Twitter for iPhone" at strange hours.*
 * **The Takeaway**: The real video files (`output.mp4`, `video2.mp4`, `taser.mp4`) are definitely real Rockstar footage. However, the Twitter account and Discord server may simply be run by a **crypto promoter** who got access to the files early, slapped their `$CYBERLEEK` Solana token branding on them, and created the "No Disc, No Peace" drama to pump their coin. Meanwhile, the actual source who originally had the clips remains quiet.
 
+<a id="natedrake-age"></a>
 #### 5. Insider Confirmation on Footage Age (`NateDrake`)
 ![NateDrake Age Proof](assets/community_claim_natedrake_age.png)
 *Gaming insider `NateDrake` commenting on the leaks: "Um.... unless a new round of previews are underway, this claim isn't accurate. Also, the leaked footage is over a year old."*
@@ -503,6 +532,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 ---
 
+<a id="reactions"></a>
 ## 9. How Everyone Reacted
 
 * **Stop Killing Games (Ross Scott)**: Officially distanced themselves. Called it "unacceptable" and warned people "do not send any money to CyberLeek." ([IGN](https://ign.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com/))
@@ -512,6 +542,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 ---
 
+<a id="unknowns"></a>
 ## 10. What We Still Don't Know
 
 * **The original raw files** — the clean videos before Cyberleek added their watermarks with FFmpeg haven't surfaced.
@@ -523,6 +554,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 ---
 
+<a id="verdict"></a>
 ## 11. Final Verdict
 
 **VERDICT: REAL (Genuine Rockstar Games Gameplay & Cutscene — Watermarked & Spliced by the Leaker)**  
@@ -537,6 +569,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 ---
 
+<a id="legal-disclaimer"></a>
 ## 12. Legal Disclaimer & Fair Use Notice
 
 ### Non-Affiliation & Trademark Notice
