@@ -520,6 +520,24 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 ![Discord Claim 4](assets/discord_claim_4_not_the_player.png)
 * **What they said**: When asked why the gameplay had no shooting, Cyberleek said: *"the person playing was chilling."* They confirmed they are **not the person holding the controller**. They got the recordings from someone else.
 
+### 5. In-Game Creator Currency Traded for Real Money (Robux Theory)
+![Discord Claim 5](assets/discord_claim_5_creator_currency_robux.png)
+*Cyberleek claiming in Discord that GTA VI features a currency that can be traded for real money like Robux.*
+
+![Gaming Culture Tweet](assets/discord_claim_5_creator_currency_tweet.png)
+*Viral breakdown by `@GamingCulture` on X reporting the leaker's creator currency claim.*
+
+* **What they said**:
+  > *"There Is A Currency in GTA 6*  
+  > *That Can Be Traded to Real Life Money (Like Robux)*  
+  > *More Details Soon."*
+* **The Theory & Context**:
+  1. **In-Game Social Media**: GTA VI heavily features an in-game parody of TikTok and Instagram Reels (as shown throughout Trailer 1). The theory is that players or content creators who produce viral in-game content could earn creator rewards.
+  2. **Rockstar's FiveM Acquisition**: In August 2023, Rockstar officially acquired **Cfx.re** (the team behind *FiveM* and *RedM* roleplay servers). FiveM already had creator subscription and payout systems, so Rockstar could be integrating official creator monetization into GTA VI's online ecosystem.
+* **Fact Check & Scam Warning**:
+  * **Status: UNVERIFIED / SPECULATION**. Cyberleek provided **zero code proof, HUD pictures, or leaked database strings** to back this up.
+  * **Why to be skeptical**: Since Cyberleek is actively promoting their own `$CYBERLEEK` cryptocurrency memecoin, making unproven claims about "earning real money in GTA 6" is an easy way to bait crypto investors and generate hype. Treat this claim strictly as unconfirmed speculation.
+
 ---
 
 <a id="discord-bans"></a>
