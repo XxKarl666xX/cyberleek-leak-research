@@ -695,7 +695,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   <img src="assets/fake_twitter_secondary_mrcyberleek_fbi_gif.png" alt="Fake Secondary FBI Raid GIF" width="300" />
 </div>
 
-*Left: `@cyberleek_ar_io` suspended on X. Right: Backup account `@MrCyberLeek` posting a SWAT/FBI door-breach GIF pretending to be raided.*
+*Left: `@cyberleek_ar_io` suspended on X. Right: Backup account `@MrCyberLeek` posting a SWAT/FBI door-breach GIF pretending to be raided. (Discovery credit: `jorin77` on Discord)*
 
 * **What Happened**:
   1. On August 19, 2026 (~23:48 UTC), X officially **suspended the main fake promoter account (`@cyberleek_ar_io`)** for impersonation and DMCA copyright violations.
