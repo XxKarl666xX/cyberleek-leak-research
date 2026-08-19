@@ -62,7 +62,8 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🚫 [7.5. Discord Server Bans, Imposter Servers & Disavowal](#discord-bans)
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * 👤 [Official Accounts vs Fake Copycats](#official-accounts)
-  * 🌐 [Live Endpoints Tracker & Real Server Hosting](#server-hosting)
+  * 🌐 [1. Official Endpoints & Live Status Tracker](#official-endpoints)
+  * 🖥️ [2. Server Infrastructure & IP Resolution](#server-hosting)
   * 🧅 [Dread Dark Web Trail (`CyberLeeker`)](#dread-trail)
   * 🔍 [Community Debunking by Garza & Vaaatiel](#debunking-twitter)
   * ✈️ [Next Video Drop Confirmed: Plane (DAY)](#poll-plane-winner)
@@ -591,34 +592,37 @@ Before their original Discord server got taken down, Cyberleek did a Q&A answeri
 
 ---
 
-<a id="server-hosting"></a>
-### Their Website Setup, Endpoints & Gateway Status Tracker
+<a id="official-endpoints"></a>
+### 1. Official Cyberleek Endpoints & Live Status Tracker
 
-#### 🌐 All Cyberleek Endpoints & Live Working Status:
+Here is the complete list of all known Cyberleek website portals, Web3 gateways, and mirror links with their current live accessibility:
 
-| Endpoint URL | Type / Provider | Current Status | Notes |
+| Endpoint URL | Type & Description | Current Live Status | Notes |
 |:---|:---|:---:|:---|
-| [`https://cyberleek.ario.koltigin.xyz`](https://cyberleek.ario.koltigin.xyz) | ArNS Community Gateway (Koltigin) | 🟢 **WORKS (UP)** | Fully working Web3 gateway mirror |
-| [`https://leek.vilenarios.com`](https://leek.vilenarios.com) | Main Web Application Portal | 🟢 **WORKS (UP)** | Main direct web portal with all leaked clips |
-| [`https://cyberleek.turbo-gateway.com`](https://cyberleek.turbo-gateway.com) | Turbo Gateway Web3 Mirror | 🔴 **DOES NOT WORK (DOWN)** | Gateway DNS / server unreachable |
-| [`https://cyberleek.ar.io`](https://cyberleek.ar.io) | Default AR.IO Gateway | 🔴 **DOES NOT WORK (DOWN)** | Main ArNS node offline / unresponsive |
-| [`https://leek.turbo-gateway.com`](https://leek.turbo-gateway.com) | Turbo Gateway Secondary Node | 🔴 **DOES NOT WORK (DOWN)** | Connection refused / DNS error |
+| [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) | ArNS Community Gateway (Koltigin) | 🟢 **WORKS (UP)** | Fully active Web3 mirror gateway |
+| [**`https://leek.vilenarios.com`**](https://leek.vilenarios.com) | Main Web Application Portal | 🟢 **WORKS (UP)** | Direct web portal with all leaked clips |
+| [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | Turbo Gateway Web3 Mirror | 🔴 **DOES NOT WORK (DOWN)** | Gateway DNS / server unreachable |
+| [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io) | Default AR.IO Gateway | 🔴 **DOES NOT WORK (DOWN)** | Main ArNS node offline / unresponsive |
+| [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | Turbo Gateway Secondary Node | 🔴 **DOES NOT WORK (DOWN)** | Connection refused / DNS error |
 
-#### 🖥️ Server Infrastructure & Hosting Providers (All Websites):
+---
 
-| Website / Service | Role & Function | Hosting Provider & Location | IP / Network Routing | Live Status |
-|:---|:---|:---|:---|:---:|
-| [**`https://leek.vilenarios.com`**](https://leek.vilenarios.com) | Main Web Application Portal | Web Server / Cloud Hosting Provider | Direct DNS Web Gateway | 🟢 **ONLINE (UP)** |
-| [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) | ArNS Community Mirror Gateway | Koltigin AR.IO Community Node | Decentralized ArNS Routing | 🟢 **ONLINE (UP)** |
-| [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io) | Official ArNS Gateway | AR.IO Decentralized Gateway Network | Main AR.IO Gateway Node | 🔴 **DOWN** |
-| [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | Turbo Gateway Web3 Mirror | Turbo Arweave Gateway Network | Turbo Arweave Cache Proxy | 🔴 **DOWN** |
-| [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | Secondary Gateway Node | Turbo Arweave Gateway Network | Turbo Arweave Cache Proxy | 🔴 **DOWN** |
-| **Backend Web Server 1** | Reverse Proxy / Web Gateway | **Hetzner Online GmbH** (Nuremberg, Bavaria, Germany) | IP [`49.13.45.141`](https://ipinfo.io/49.13.45.141) (`static.141.45.13.49...`) | 🔴 **DOWN** |
-| **Backend Web Server 2** | Reverse Proxy / Web Gateway | **Cablevision Systems / Optimum Online** (Morristown, NJ, USA) | IP [`69.124.94.88`](https://ipinfo.io/69.124.94.88) (`ool-457c5e58.dyn...`) | 🔴 **DOWN** |
-| **Arweave Permanent Ledger** | Raw Media & Map File Storage | Global Decentralized Storage Network | Arweave Ledger Block Miners | 🟢 **PERMANENT** |
-| **Solana Blockchain** | Smart Contracts, Voting & Video 4 Post | Solana Validator Network (Mainnet-Beta) | Program ID `7rAgHPLDc9...` | 🟢 **ACTIVE** |
+<a id="server-hosting"></a>
+### 2. Server Infrastructure, IP Resolution & Hosting Providers
 
-> **How this actually works**: While the *raw data hashes* live permanently on the Arweave and Solana blockchains, regular web browsers need standard HTTP web servers (gateways) to display the site. Both the direct portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) and the community gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) are **100% working and online**, while default gateway endpoints (`turbo-gateway.com`, `cyberleek.ar.io`, and the Hetzner/Cablevision backend servers) are currently unreachable.
+Every domain and gateway was tested via live DNS resolution and IP geolocation to identify its physical server, network provider, and datacenter location:
+
+| Website / Domain | Resolved IP Address | Hosting Provider & ASN | Datacenter Location | Hostname / rDNS | Current Status |
+|:---|:---|:---|:---|:---|:---:|
+| [**`leek.vilenarios.com`**](https://leek.vilenarios.com) | [`69.124.94.88`](https://ipinfo.io/69.124.94.88) | **Cablevision Systems Corp.** (`AS6128`) | Mahwah, New Jersey, USA 🇺🇸 | `ool-457c5e58.dyn.optonline.net` | 🟢 **UP** |
+| [**`cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) | [`176.57.189.36`](https://ipinfo.io/176.57.189.36) | **Contabo GmbH** (`AS51167`) | Lauterbourg, Grand Est, France / EU 🇪🇺 | `vmi884299.contaboserver.net` | 🟢 **UP** |
+| [**`cyberleek.ar.io`**](https://cyberleek.ar.io) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🔴 **DOWN** |
+| [**`cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🔴 **DOWN** |
+| [**`leek.turbo-gateway.com`**](https://leek.turbo-gateway.com) | [`49.13.45.141`](https://ipinfo.io/49.13.45.141) | **Hetzner Online GmbH** (`AS24940`) | Nuremberg, Bavaria, Germany 🇩🇪 | `static.141.45.13.49.clients.your-server.de` | 🔴 **DOWN** |
+| **Arweave Permanent Ledger** | *Decentralized Storage* | **Arweave Mining & Validator Nodes** | Global Decentralized Storage Network 🌐 | `arweave.net` | 🟢 **PERMANENT** |
+| **Solana Blockchain Ledger** | *Decentralized Blockchain* | **Solana Validator Network** | Global Decentralized Validator Network 🌐 | Program ID `7rAgHPLDc9...` | 🟢 **ACTIVE** |
+
+> **How this actually works**: While the *raw data hashes* live permanently on the Arweave and Solana blockchains, regular web browsers need standard HTTP web servers (gateways) to display the site. Both the direct portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) (hosted via Cablevision) and the community gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) (hosted via Contabo in Europe) are **100% working and online**, while default gateway endpoints hosted on Hetzner (`49.13.45.141`) are currently down.
 
 ---
 
