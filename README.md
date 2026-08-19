@@ -33,20 +33,22 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 ## 📑 Clickable Table of Contents / Jump to Section
 
-* 🚨 **[Critical Facts & Alerts (Fake Twitter Proof)](#key-alerts)**
+* 🚨 **[Critical Facts & Latest Status (Must Read First)](#key-alerts)**
 
 * 📁 **[1. What Got Leaked (All 7 Files)](#what-got-leaked)**
   * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
   * 🚗 [File 2: Highway Driving & Delivery Van Clip (`video2.mp4`)](#driving-clip)
   * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#full-map)
   * 🏝️ [File 4: Map Sneak Peek 1 (Dalton Island)](#dalton-island)
-  * 🏝️ [File 5: Map Sneak Peek 2 (Catalan & Gloriana Key)](#catalan-key)
+  * 🏝️ [File 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)](#catalan-key)
   * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene Clip (`taser.mp4`)](#taser-clip)
   * 💉 [File 7: Junkies Encounter, Police Motorcycle & Zombix Clip (`junkies.mp4`)](#junkies-clip)
 
 * 🔗 **[2. Direct Links & Mirror Table](#direct-links)**
 
 * 📊 **[3. Video Comparison & Technical Details](#video-comparison)**
+  * 📋 [1. Comprehensive Video Specs & Quality Table](#video-specs-table)
+  * 🔬 [2. Technical Metadata & Audio Forensic Checks](#video-tech-forensics)
 
 * ⏱️ **[4. Second-by-Second Video Breakdown](#video-breakdown)**
   * 🏀 [Video 1: Basketball Gameplay Breakdown (69s)](#bball-breakdown)
@@ -65,8 +67,12 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
 
 * 💬 **[7. What Was Claimed in Discord (Archived Q&A — Fake Promoter Claims)](#discord-qa)**
+  * ❌ [1. Lucia's Intro Mission (Debunked Speculation)](#qa-lucia-intro)
+  * ❌ [2. Prison Pickup & Campaign Progression (Debunked Speculation)](#qa-prison-pickup)
+  * 🟡 [3. Leaked Map from 2023 & PS5 Pro Performance](#qa-map-ps5pro)
+  * ❌ [4. "Cyberleek Did Not Record Footage" (Promoter Deflection)](#qa-leaker-recorded)
   * ❌ [5. Real-Money Creator Currency / Robux (Debunked Crypto Bait)](#creator-currency-claim)
-  * 🚫 [7.5. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
+  * 🚫 [6. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
 
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * 👤 [Their Online Accounts & Known Handles](#official-accounts)
@@ -80,6 +86,10 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * ❌ [8. Debunked Misconception: Full Game Build Theory](#full-build-theory)
   * ❌ [9. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
   * 🔍 [10. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)](#szenebox-profile)
+    * 🇩🇪 [10.1. The 2018 Forum Posts & German Slang](#szenebox-2018-posts)
+    * 🇨🇭 [10.2. The Second Account (`tech-forum`), Swiss Site (`tech-forum.ch`), Wayback & WHOIS](#szenebox-techforum-account)
+    * 🕵️ [10.3. 2023 Forum Activity (Data Leaks, BreachForums & VPNs)](#szenebox-2023-activity)
+    * 🎯 [10.4. Age, Server Infrastructure & Summary Profile](#szenebox-identity-summary)
 
 * 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
 
@@ -88,6 +98,9 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 * ⚖️ **[11. Final Verdict](#verdict)**
 
 * 📜 **[12. Legal Disclaimer & Fair Use Notice](#legal-disclaimer)**
+  * ⚖️ [12.1. Fair Use Statement (17 U.S.C. § 107)](#fair-use-statement)
+  * 🚫 [12.2. No-Hosting Policy & Zero Binary Rule](#no-hosting-policy)
+  * 📩 [12.3. DMCA Takedown & Copyright Notice Protocol](#dmca-protocol)
 
 * 🤝 **[13. Contributing & Submitting Evidence](#contributing)**
 
@@ -271,6 +284,7 @@ All external links and mirrors saved for checking:
 <a id="video-comparison"></a>
 ## 3. Video Comparison & Technical Details
 
+<a id="video-specs-table"></a>
 ### Comparing All 4 Videos:
 
 | Video | Shared Footage | New Footage | Reused Footage | Main Highlights |
@@ -280,6 +294,7 @@ All external links and mirrors saved for checking:
 | **`taser.mp4` (Taser / Truck / Boat)** | None | **100% (124.5s)** | None | 1080p resolution; **2 clips joined together** showing night sugar refinery yard and day boat cutscene. |
 | **`junkies.mp4` (Junkies / Canal / Boat)**| Boat cutscene (11s) | **92.4% (133.5s)**| Boat scene shared with `taser.mp4` | 1080p resolution; **2 clips joined together** showing police motorcycle combat, Fuzzard Drain Canal, homeless camp, Zombix health tip, and knife fight. |
 
+<a id="video-tech-forensics"></a>
 ### Technical Details Check:
 
 | Check | `output.mp4` (Basketball) | `video2.mp4` (Highway) | `taser.mp4` (Taser / Boat) | `junkies.mp4` (Junkies / Canal) | What This Means |
@@ -533,6 +548,7 @@ Every date here has a source you can check yourself:
 > 
 > *These claims are archived below strictly for historical documentation and community research:*
 
+<a id="qa-lucia-intro"></a>
 ### 1. ❌ Lucia's Intro Mission (DEBUNKED / FAKE PROMOTER SPECULATION)
 ![Discord Claim 1](assets/discord_claim_1_lucia_intro.png)
 *❌ **DEBUNKED PROMOTER CLAIM**: A screenshot from the fake promoter's Discord claiming Lucia has an intro mission before prison.*
@@ -542,6 +558,7 @@ Every date here has a source you can check yourself:
 
 ---
 
+<a id="qa-prison-pickup"></a>
 ### 2. ❌ Prison Pickup & Campaign Progression (DEBUNKED / FAKE PROMOTER SPECULATION)
 ![Discord Claim 2](assets/discord_claim_2_prison_pickup.png)
 *❌ **DEBUNKED PROMOTER CLAIM**: Screenshot claiming Jason picks Lucia up in a truck at 2% game completion.*
@@ -551,6 +568,7 @@ Every date here has a source you can check yourself:
 
 ---
 
+<a id="qa-map-ps5pro"></a>
 ### 3. 🟡 The Leaked Map is From 2023 & PS5 Pro (PARTIALLY PLAUSIBLE, BUT FROM FAKE DISCORD)
 ![Discord Claim 3](assets/discord_claim_3_map2023_ps5pro.png)
 *🟡 **UNVERIFIED DISCORD SOURCE**: Screenshot discussing 2023 map date and PS5 Pro 30 FPS.*
@@ -560,6 +578,7 @@ Every date here has a source you can check yourself:
 
 ---
 
+<a id="qa-leaker-recorded"></a>
 ### 4. ❌ "Cyberleek Did Not Record The Footage" (PROMOTER DEFLECTION)
 ![Discord Claim 4](assets/discord_claim_4_not_the_player.png)
 *❌ **PROMOTER DEFLECTION**: Discord screenshot claiming the leaker wasn't holding the controller.*
@@ -883,6 +902,7 @@ Here is the complete breakdown of forum evidence:
 
 ---
 
+<a id="szenebox-2018-posts"></a>
 ##### 1. The 2018 Forum Posts & German Slang
 
 * **Thread 1: Introduction Post — [💡 Vorstellung Cyberleek (Thread #7977 / Post #45643)](https://www.szenebox.org/12-vorstellungen/7977-vorstellung_cyberleek/?highlight=CyberLeek#post45643)**
@@ -904,6 +924,7 @@ Here is the complete breakdown of forum evidence:
 
 ---
 
+<a id="szenebox-techforum-account"></a>
 ##### 2. The Second Account (`tech-forum`) & Swiss Website (`tech-forum.ch`)
 
 <div align="center">
@@ -970,6 +991,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
 
 ---
 
+<a id="szenebox-2023-activity"></a>
 ##### 3. 2023 Forum Activity: Tracking Data Leaks, BreachForums & VPN Routing
 
 <div align="center">
@@ -1001,6 +1023,7 @@ Community records prove Cyberleek was **actively participating in data breach an
 
 ---
 
+<a id="szenebox-identity-summary"></a>
 ##### 4. Age & Background Check
 
 | Detail | 2018–2023 Forum Posts | What It Means Today |
@@ -1076,15 +1099,18 @@ Community records prove Cyberleek was **actively participating in data breach an
 * *Grand Theft Auto*, *GTA VI*, *Rockstar Games*, *Take-Two Interactive*, and all associated logos, character names, imagery, and trademarks are property of **Take-Two Interactive Software, Inc.** and **Rockstar Games**.
 * This repository is an independent research project. It is **not affiliated with, authorized, maintained, sponsored, or endorsed by Rockstar Games or Take-Two Interactive.**
 
+<a id="fair-use-statement"></a>
 ### Fair Use Statement (17 U.S.C. § 107)
 * This project is made strictly for **educational analysis, cybersecurity awareness, and news commentary** under the Fair Use provisions of Title 17, United States Code, Section 107.
 * **Public Warning & Scam Prevention**: A main focus of this research is exposing and analyzing the **`$CYBERLEEK` cryptocurrency pump-and-dump scheme** to warn gamers and the public against online money scams.
 
+<a id="no-hosting-policy"></a>
 ### No-Hosting Policy & Zero Binary Rule
 * **No Copyrighted Files Hosted**: This repository **does NOT host, store, mirror, or distribute any proprietary game binaries, leaked video files (`.mp4`), audio stems, or confidential developer builds.**
 * All hashes (SHA-256, MD5, SHA-1) and blockchain block numbers are published strictly as cryptographic digital records for academic fact-checking and public scam verification.
 * All visual assets in `assets/` consist exclusively of low-resolution analytical screenshot crops, user interface diagrams, and public social media posts used under transformative fair use.
 
+<a id="dmca-protocol"></a>
 ### DMCA Takedown & Copyright Notice Protocol
 * We respect the intellectual property rights of **Take-Two Interactive Software, Inc.** and **Rockstar Games**.
 * If you are a copyright owner or authorized representative and believe any transformative commentary or educational crop in this repository exceeds the boundaries of Fair Use (17 U.S.C. § 107), please [**Open a GitHub Issue**](https://github.com/zyrexdz/cyberleek-leak-research/issues) or contact the maintainer directly. Any legitimately disputed asset will be reviewed and addressed immediately without the need for formal legal notices.
