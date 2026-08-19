@@ -10,7 +10,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > <a id="key-alerts"></a>
 > ### 🚨 Critical Facts & Latest Status (Must Read First)
 > 
-> * 🟢 **LIVE STATUS UPDATE (August 19, 2026)**: The original website portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) is **ONLINE & ACTIVE (UP)**! However, the newer Web3 gateway mirrors (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are currently **DOWN / OFFLINE**. We are monitoring gateway status.
+> * 🟢 **LIVE STATUS UPDATE (August 19, 2026)**: The main website portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) and the active ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) are **ONLINE & ACTIVE (UP)**! However, the default Web3 gateway mirrors (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are currently **DOWN / OFFLINE**.
 > * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: The `@cyberleek_ar_io` account on X is **100% fake / an imposter** run by an outside promoter.
 > * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
 > * ⚠️ **TOKEN & PROBABLE SCAM WARNING**: The **`$CYBERLEEK` token and donation polls are run directly by the official Cyberleek website**, NOT by the Twitter account. Gaming news outlets, Ross Scott (Stop Killing Games), and community researchers agree this is **almost certainly a cryptocurrency pump-and-dump scheme** using GTA 6 hype to cash out. **Do NOT buy their token or send crypto.**
@@ -600,11 +600,12 @@ Let's clear up a common misconception about the hosting:
 |:---|:---|:---|:---|
 | **Raw File Storage** | Arweave blockchain | Decentralized computer network | Stored on ledger |
 | **Main Web Portal** | [`https://leek.vilenarios.com/`](https://leek.vilenarios.com/) | Web Application Portal | 🟢 **ONLINE / ACTIVE (UP)** |
-| **Web Address (ArNS)** | ArNS (`cyberleek.ar.io`) | AR.IO Gateway Network | 🔴 **Offline / Unreachable** |
+| **ArNS Mirror Gateway** | [`https://cyberleek.ario.koltigin.xyz`](https://cyberleek.ario.koltigin.xyz) | Koltigin AR.IO Community Gateway | 🟢 **ONLINE / ACTIVE (UP)** |
+| **Default ArNS Gateway** | ArNS (`cyberleek.ar.io`) | AR.IO Gateway Network | 🔴 **Offline / Unreachable** |
 | **Web Server 1** | IP `49.13.45.141` | **Hetzner Online GmbH** (Nuremberg, Germany — `static.141.45.13.49.clients.your-server.de`) | 🔴 **Down / Unresponsive** |
 | **Web Server 2** | IP `69.124.94.88` | **Cablevision Systems / Optimum Online** (Morristown, New Jersey — `ool-457c5e58.dyn.optonline.net`) | 🔴 **Down / Unresponsive** |
 
-> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular browsers need standard web servers (gateways) to show the site. The original portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) remains **100% UP and online**, while the newer Web3 gateway mirrors (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are currently unreachable.
+> **How this actually works**: While the *raw data hashes* live on the Arweave blockchain, regular browsers need standard web servers (gateways) to show the site. Both the main portal [**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/) and the community ArNS gateway mirror [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz) remain **100% UP and online**, while default ArNS endpoints (`cyberleek.turbo-gateway.com`, `cyberleek.ar.io`) are currently unreachable.
 
 ---
 
