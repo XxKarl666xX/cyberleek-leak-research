@@ -348,16 +348,98 @@ All verified links used in this report:
 
 ---
 
-## 9. Things We Still Don't Know
+## 9. Who is Cyberleek? (OSINT Profile)
+
+Nobody knows who's actually behind this. Here's everything publicly available:
+
+### Social Media Accounts
+
+**Main Account: [@cyberleek_ar_io](https://x.com/cyberleek_ar_io) on X (Twitter)**
+* **Bio**: "Fighting For Gamer's Rights. @MrCyberLeek V2 $CYBERLEEK"
+* **Account Created**: March 2026 — that's **~5 months before** any leak dropped. This was planned ahead of time.
+* **Followers**: ~88,900 (as of Aug 19, 2026)
+* **Profile Picture**: Cartoon leek character with blue sunglasses
+* **Banner**: Black background with white text: *"We do not own the games, if they do not give us physical editions."*
+* **Biggest Post**: "2-4 More Leaks incoming." — **9.5 million views**, 80K likes, 3.8K reposts.
+
+**Second Account: [@MrCyberLeek](https://x.com/MrCyberLeek)**
+* Referenced in the main bio as "V2" — meaning `@cyberleek_ar_io` is likely a replacement for this earlier account.
+* Both confirmed linked by The Gamer.
+
+### Website & Infrastructure
+
+| Part | Details |
+|:---|:---|
+| **Main Site** | `cyberleek.ar.io` (decentralized domain on ArNS) |
+| **Original URL** | `leek.vilenarios.com` (now taken down) |
+| **Hosting** | Arweave — permanent, can't be deleted |
+| **Domain System** | ArNS (Arweave Name System) — no WHOIS, no registrar, no way to look up the real owner through normal domain tools |
+| **Gateway Owner** | `vilenarios.com` belongs to Phil Mataras, an AR.IO developer — **he is NOT Cyberleek**, they just used his gateway infrastructure |
+
+> **Why this matters**: By using Arweave (permanent storage) and ArNS (decentralized naming), Cyberleek made it so their files **can never be fully taken down**. Even if the website gets blocked, the raw files live forever on the Arweave blockchain. This is a technically sophisticated setup — not something an average troll would build.
+
+### Crypto / Token Trail
+
+| Detail | Value |
+|:---|:---|
+| **Token Name** | $CYBERLEEK |
+| **Contract Address** | `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg` |
+| **Blockchain** | Solana |
+| **DexScreener** | [`Link`](https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg) |
+| **Status** | Flagged as **pump-and-dump scam** by Reddit, GamesRadar, IGN, and security researchers |
+
+### The "CYBERLEEK Edict" (Manifesto)
+
+Their manifesto demands three things from game publishers:
+
+1. **End digital-only pre-orders** — ship physical discs
+2. **Stop selling "fake" single-player DLC** — no paywalling content already in the game files
+3. **Offline/preservation safeguards** — games must work even if servers shut down
+
+**Slogan**: *"No Disc, No Peace"*
+
+### Hack Forum Presence: **None Found**
+
+| Forum | Found? | Notes |
+|:---|:---|:---|
+| BreachForums | ❌ | Only other users discussing the leak |
+| RaidForums | ❌ | Same — discussion threads only |
+| PwnForums | ❌ | Discussion threads only |
+| Cracked.io | ❌ | No match |
+| Nulled.to | ❌ | No match |
+
+> **What this means**: Real hacktivists and leak groups usually have established forum accounts. Cyberleek has zero forum presence — they operate only through X (Twitter) and blockchain. This supports the idea that it's a **crypto play disguised as activism**, not a traditional hacking collective.
+
+### Is Cyberleek Connected to the 2022 Leak?
+
+**No.** The 2022 GTA VI leak was done by Arion Kurtaj, a member of the **Lapsus$** hacking group. He was caught, tried, and sentenced to an indefinite hospital order. Cyberleek is a completely separate and unrelated entity. Confirmed by GTA Intel, multiple Reddit threads, and industry reporters.
+
+### How the Gaming Community Reacted
+
+* **Stop Killing Games (Ross Scott's movement)**: Officially distanced themselves. Said using illegal means "is unacceptable" and warned followers "do not send any money to CyberLeek." ([IGN](https://ign.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com/))
+* **Reddit (r/GTA6)**: Strong consensus — the footage is real, but Cyberleek is a crypto scam.
+* **Gaming Press**: IGN, Eurogamer, Kotaku, PC Gamer, GamesRadar, Rock Paper Shotgun, GameSpot, The Gamer, and GTA Intel all covered the leak and flagged the memecoin scheme.
+
+### Bottom Line on Cyberleek
+
+The whole operation looks like a **calculated crypto/clout play**, not genuine activism. The X account was made 5 months early, the memecoin launched at the same time as the leak, every piece of content pushes `$CYBERLEEK`, and they have zero presence on actual hacking forums. Someone had access to real Rockstar footage and chose to monetize it through a crypto pump-and-dump wrapped in a "No Disc, No Peace" manifesto.
+
+---
+
+## 10. Things We Still Don't Know
 
 * **Original Raw Videos**: The clean, non-watermarked original MP4 files from before Cyberleek re-encoded them with FFmpeg have not been found publicly.
 * **Exact Recording Minute Inside Rockstar**: While the graphics and HUD show it was recorded from a post-2024 PS5 build, the exact recording day/time inside Rockstar's studio cannot be confirmed without unedited camera/capture card files.
 * **Map Sneak Peek 1 Block Info**: The transaction for `map_sneak_peek_1.png` wasn't found in the main wallet's transaction history on GraphQL, even though the file is live on the gateway.
 * **The "Manifesto"**: Cyberleek published 3 "commandments" demanding no digital pre-orders and mandatory offline support. While framed as consumer activism, the community widely sees this as an excuse to promote their crypto scheme.
+* **How They Got the Footage**: No confirmed source. Could be leftover access from 2022 Lapsus$ breach, a new separate insider, or purchased from a third party.
+* **One Person or a Group?**: The X bio references two accounts, the infrastructure is sophisticated, but communication style is inconsistent across posts.
+* **Will More Leaks Drop?**: They threatened "2-4 more leaks" but as of Aug 19 no new content has appeared beyond the original 5 files.
+* **Will They Be Caught?**: Using decentralized infrastructure (Arweave, Solana, ArNS) makes tracing significantly harder than traditional hosting. Would require blockchain forensics on the Solana wallet and exchange cooperation if the token creator cashed out.
 
 ---
 
-## 10. How Everything Was Verified
+## 11. How Everything Was Verified
 
 Here is how each piece of information was checked:
 
@@ -377,6 +459,13 @@ Here is how each piece of information was checked:
 | Reddit community consensus | r/GTA6 search & analysis | Confirmed (labeled as crypto scam) |
 | DMCA takedowns | Gaming news outlets (PC Gamer, Kotaku) | Confirmed (active Take-Two enforcement) |
 | GTA VI release date | Official Rockstar Games announcement | Confirmed (Nov 19, 2026) |
+| Cyberleek X profile (@cyberleek_ar_io) | Manual X/Twitter profile inspection | Confirmed: Bio, followers (~88.9K), created March 2026 |
+| Second X account (@MrCyberLeek) | Cross-referenced via bio + The Gamer reporting | Confirmed linked to same operator |
+| Hack forum presence | Searched BreachForums, RaidForums, PwnForums, Cracked.io, Nulled.to | No accounts found — only discussion threads by others |
+| $CYBERLEEK token | DexScreener, Reddit, IGN, GamesRadar reporting | Confirmed pump-and-dump scam (contract: `ApZuxd...bKg`) |
+| Lapsus$ connection | GTA Intel, Reddit, news cross-reference | Confirmed: **No connection** to Arion Kurtaj / Lapsus$ |
+| Stop Killing Games reaction | IGN, Rock Paper Shotgun, Eurogamer | Confirmed: SKG officially distanced from Cyberleek |
+| ArNS domain ownership | AR.IO documentation, Phil Mataras public profile | `vilenarios.com` is AR.IO infra, not Cyberleek's property |
 
 ---
 
