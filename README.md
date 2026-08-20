@@ -1435,10 +1435,17 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
   * *Takeaway*: 100% proves `cyberleek` and `tech-forum` are the exact same person, and reveals his personal XMPP / Jabber contact address: **`cookie@im-tech-forum.ch`** and site admin address **`admin@tech-forum.ch`**.
 
 * **Official Forum Twitter Account (@T3chF0rum)**:
-  *(Account discovery credit: Community researcher `texploit`)*
+  *(Account discovery credit: Community researcher `texploit` · Password reset email verification credit: Community researcher `pwn4life`)*
+
+<div align="center">
+  <img src="assets/twitter_t3chforum_password_reset_email_proof.png" alt="Twitter Password Reset Email Proof admin@tech-forum.ch" width="280" />
+  <p><em>X login verification screen for @T3chF0rum confirming the recovery code is sent directly to admin@tech-forum.ch. (Credit: pwn4life)</em></p>
+</div>
+
   * **Handle**: [**@T3chF0rum** (https://x.com/T3chF0rum)](https://x.com/T3chF0rum)
   * **Creation Date**: **January 3, 2018 at 19:21 UTC** (Matching the exact same day Cyberleek posted his introduction on SzeneBox!).
   * **Identical Profile Picture Match**: The Twitter account `@T3chF0rum` uses the **exact same dark flaming skull avatar (pfp)** that user `cyberleek` used on `szenebox.org`, visually confirming they are the exact same operator.
+  * **Direct Email Verification on X**: When triggering a login verification on X for `@T3chF0rum`, X states *"The code has been sent to admin@tech-forum.ch"*. This confirms with 99% confidence that the Twitter account was registered using the exact same `admin@tech-forum.ch` email address found on SzeneBox.
   * **Bio**:  
     > *"Willkommen Bei Tech-Forum.ch. Dies ist der Originale Twitter Account zum Forum. News werden hier veröffentlicht. Kommt vorbei, schaut rein, und sagt uns was Ihr noch so braucht!"*  
     > **English Translation**: *"Welcome to Tech-Forum.ch. This is the original Twitter account for the forum. News will be published here. Come by, check it out, and tell us what else you need!"*
