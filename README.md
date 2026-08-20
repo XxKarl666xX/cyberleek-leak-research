@@ -713,9 +713,15 @@ Every date here has a source you can check yourself:
 > [!WARNING]
 > ⚠️ **WARNING: Discord Claims and Server History Clarification**
 > 
-> * **The Two Discord Waves**:
->   * **Wave 1 (Early Mirror Server, Aug 17–18)**: An early Discord server was created to share download links and mirror the website. Discord Trust and Safety banned this server within 24 hours for copyright strikes.
->   * **Wave 2 (Replacement & Twitter Imposter Servers, Aug 18–19)**: After the ban, copycat servers popped up (like `ZWjnQSSJ2P` run by `cyberleek_west` and `surwest`) and were promoted by the fake `@cyberleek_ar_io` Twitter account. In these replacement servers, users made up fake lore to hype crypto tokens.
+> * **The Two Discord Waves (Head to Head Comparison)**:
+>
+> | Comparison Factor | Wave 1: Early Pre-Ban Discord (Aug 17–18) | Wave 2: Post-Ban Twitter Imposter Discords (Aug 18–19) |
+> | :--- | :--- | :--- |
+> | **Server Operator** | Real site manager / insider (`CyberLeek` handle with blue leek avatar) | Outside clout seekers (`cyberleek_west`, `surwest`, `ZWjnQSSJ2P`) |
+> | **Content Posted** | Real mirror links (`cyberleek.ar.io`, `bedrive.ru`, `gofile.io`, upcoming poll UI preview `upcoming 1.png`) | Fake unverified text lore ("Lucia 2% pickup intro", "Robux currency", fake 8 PM drop promises) |
+> | **Video / File Proof** | Provided real working download mirrors for leaked footage | Zero video files, zero code, excuses ("I was not holding controller") |
+> | **Official Watermark Status** | Pre-dated the watermark; watermark said `"CYBERLEEK DOES NOT HAVE TWITTER"` | Disowned by leaker; Twitter account banned by X for impersonation |
+> | **Server Fate** | Banned by Discord Trust & Safety for DMCA within 24 hours | Restricted / banned; devolved into fake FBI raid memes |
 > * **Separating Real Proof From Fake Claims**:
 >   * 🟢 **GENUINE EVIDENCE**: Only the **5 leaked video files**, the **map images**, the **Solana transactions signed by `6Nq6...`**, and the **official website portals** are genuine developer material.
 >   * 🔴 **UNVERIFIED / FAKE DISCORD CLAIMS**: The text claims below have zero proof in game files, zero proof on-chain, and zero video leaks backing them up.

@@ -171,3 +171,5 @@ Research Credit: whitemustache0004 & Blockchain Verification
 * Archived Proofs: assets/dexscreener_cyberleek_twitter_profile_proof.png & assets/dexscreener_twitter_suspended_proof.png
 * DexScreener research credit: martimdjere
 * Lucia Ending Discord teaser timing: Aug 18, 2026 at 16:08 UTC in pre-ban server (Credit: davit_36049)
+
+* Main Portal Alternate Subdomain (🟢 UP): https://cyberleek.vilenarios.com/ -> IP 69.124.94.88 (Cablevision Systems Corp., Mahwah, NJ)
