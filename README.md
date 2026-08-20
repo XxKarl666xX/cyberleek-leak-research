@@ -21,7 +21,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 >   * 🔴 **FAKE / UNVERIFIED PRETENDER CLAIMS**: Story spoilers, fake threats, blurred recycled photos, and staged SWAT raids coming from Twitter/X and Discord pretenders are unverified or proven fake.
 >   * 🎮 **THE 4 GAMEPLAY VIDEOS & MAP ARE GENUINE (97% Confidence)**: All 4 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`) and map files are genuine early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA notices).
 >   * ⚠️ **OFFICIAL WEBSITE MEMECOIN WARNING**: The `$CYBERLEEK` Solana token and voting polls run directly on the leaker's website are high-risk memecoin mechanics / probable pump-and-dump scheme. **Do NOT buy their token or send crypto.**
->   * ✈️ **ALLEGED NEXT LEAK DROP (Video 5: Plane DAY — High Confidence)**: The official website poll concluded on **August 20, 2026 at 11:26 UTC**. While leakers can always face delays or change plans, the site states the winning video — **`Plane (DAY) — Cinematic Drive-By`** — is scheduled to drop in the Content section within **24 hours after the poll ends**.
+>   * ✈️ **VIDEO 5 DROPPED (Plane DAY & Alley Shooting — VERIFIED)**: Released on **August 20, 2026 at 09:43:02 UTC** via Solana/Arweave transaction `2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH` (`plane.mp4`, 141.5s / 33.8 MB). Video 5 fulfills the website poll with pristine 1080p HDR footage showing a cinematic flyover of the Leonida State Penitentiary and Vice City skyline, plus a Jason alley rifle ballistics and wanted level test.
 >   * 🟢 **LIVE STATUS UPDATE**: ALL official websites, portals, and Web3 gateway mirrors ([**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/), [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz), [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com), [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com), [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io)) are **100% ONLINE & ACTIVE (UP)**.
 >   * 🇩🇪 **LEAKER IDENTITY**: 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Nuremberg, Bavaria, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
 
@@ -114,7 +114,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * ❌ [8.6.5. Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"](#debunking-watermark-proof)
     * ❌ [8.6.6. Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF](#debunking-fbi-raid-larp)
     * ❌ [8.6.7. Deep Investigation: @cyberleek_of Imposter Account & Recycled Media Breakdown](#debunking-cyberleek-of)
-  * ✈️ [8.7. Next Video Drop Confirmed: "Plane (DAY)" (Official Poll & $80 Vote)](#poll-plane-winner)
+  * ✈️ [8.7. Video 5 Release & Website Poll: "Plane (DAY)" (Delivered via On-Chain Drop)](#poll-plane-winner)
     * ⏱️ [8.7.1. Poll Countdown & Release Window (Aug 20, 11:26 UTC)](#poll-countdown-timer)
     * 💸 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
     * 🗄️ [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
@@ -303,7 +303,35 @@ Here are the 7 files leaked by Cyberleek between August 16 and August 19, 2026:
 * **SHA-256**: `44927e1820ee191df93666fb4d8add3fad7990d39ed3c4cabee60027ed0fc6d2`
 * **SHA-1**: `c7124956ea8e474f92b31188ec0c311a9a341bcb`
 * **MD5**: `6abf17ae32673056c8d34d7b3e15baa1`
-* **Software used to edit**: FFmpeg 6.1 (`Lavf60.16.100` / `Lavc60.31.102 libx265`) — **exact same toolchain used across all 4 leaked gameplay videos**.
+* **Software used to edit**: FFmpeg 6.1 (`Lavf60.16.100` / `Lavc60.31.102 libx265`) — **exact same toolchain used across all leaked gameplay videos**.
+
+---
+
+<a id="plane-clip"></a>
+### ✈️ File 8: Plane Flyover & Alley Shooting Clip (`plane.mp4`)
+![Plane Aerial Over Leonida Penitentiary](assets/video5_plane_00_15_prison_aerial.jpg)
+*High-altitude cinematic flyover passing directly above the Leonida State Penitentiary in Video 5.*
+
+* **Official Poll Title**: *"Next GTA 6 Video... Cinematic drive by?"* / `Plane (DAY)`
+* **File Name**: `plane.mp4`
+* **File Size**: `35,446,922 bytes` (33.80 MB)
+* **Duration**: **141.53 Seconds** (02:21.53 / 4,246 Frames at 30.00 FPS)
+* **Resolution & Format**: `1920x1080` (1080p Full HD, 16:9), HEVC/H.265 (Main 10 Profile, BT.2020 HDR10), AAC Stereo (48,000 Hz)
+* **Hashes**:
+  * MD5: `9b4bcfec48f2de62cd4ff8989af65662`
+  * SHA-1: `8dff04fe2e2c9987f343b821f4f50d576f931274`
+  * SHA-256: `583226eb1635c611634e453146828caeaf9fa4c5abb25b21336ad5cfaa613037`
+* **On-Chain Release Details**:
+  * Transaction: `2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH`
+  * Account: `2q3rEUUZ7ChHTLMx4QBAnew4q7UqaXXcqZ6NVgb7LZ6T`
+  * Authority: `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`
+  * Release Timestamp: `2026-08-20 09:43:02 UTC` (`1787218982`)
+  * Direct Mirror: [upload.ee Mirror](https://www.upload.ee/files/19668811/plane.mp4.html)
+* **Gameplay Highlights**:
+  * Aerial flyover of the **Leonida State Penitentiary** (Lucia's prison from Trailer 1)
+  * Panoramic flyover of Vice City skyline, yacht marinas, and domed sports arena
+  * Dual-sequence structure: Flight test (0:00–1:09.5) followed by Jason alley wall shooting & wanted system test (1:11.5–1:41.5)
+  * Full weapon ballistics, wall penetration chipping, and dynamic muzzle flash lighting
 
 ---
 
@@ -423,6 +451,34 @@ Here is what happens in all 4 leaked videos, broken down by timestamp:
 * **`00:01:50` — Canal Bank Knife Combat** — Jason knife-fights a hostile NPC on the grass embankment beside the water. Real-time water ripples and bridge reflections react dynamically behind them. *Why it matters*: Shows smooth melee weapon animations, dynamic blood effects, and advanced water rendering.
 * **`00:02:11.5` — 2.04-Second Black Screen Cut** — The screen cuts to black with complete audio silence for 2.04 seconds before resuming. *Why it matters*: Identical editing pattern to `taser.mp4`, proving the leaker spliced two separate clips together into one file using FFmpeg.
 * **`00:02:13.5` — Daylight Boat Story Scene** — Spliced boat cutscene where Jason and Raul drink beer while cruising across the bay: *"Enjoy your life till the moment I decide to finally shut you the fuck up."* *Why it matters*: High-definition facial animation, authentic voice acting, and boat wake physics.
+
+---
+
+<a id="plane-breakdown"></a>
+### 4.5. Video 5: Plane Flyover & Alley Shooting Breakdown (`plane.mp4`, 141.5 Seconds)
+
+<div align="center">
+  <img src="assets/video5_plane_00_35_downtown_marina.jpg" alt="Plane Flyover Marina" width="48%" />
+  <img src="assets/video5_plane_01_35_wall_penetration_wanted.jpg" alt="Jason Wall Shooting" width="48%" />
+</div>
+
+*Left: Stunt biplane cinematic flyover across Vice City skyline and yacht marina (0:35). Right: Jason shooting rifle at alley wall testing bullet impact physics and wanted detection (1:35).*
+
+* **Total Clip Duration**: **141.53 Seconds** (02:21.53 / 4,246 video frames)
+* **Clip Structure**: Two distinct developer gameplay sequences separated by a 2.0-second black transition:
+  * **Sequence A (00:00 - 01:09.5)**: High-altitude cinematic flyover in a vintage stunt biplane over Leonida.
+  * **Sequence B (01:11.5 - 01:41.5)**: Jason alley wall ballistics test, bullet impact physics, and crime detection test.
+
+#### Second-by-Second Timeline:
+
+* **00:00:00 — High-Altitude Biplane Launch** — The camera begins following a yellow-and-blue vintage stunt biplane flying eastward at high altitude above the State of Leonida.
+* **00:00:15 — Leonida State Penitentiary Flyover** — The plane flies directly above the complete **Leonida State Penitentiary** complex, revealing its central guard tower, 8 perimeter watchtowers, razor wire fences, cellblock wings, exercise yards, and water tower. *Why it matters*: Confirms the full exterior layout of Lucia's prison from Trailer 1.
+* **00:00:35 — Vice City Yacht Marina & Coastal Bays** — The biplane banks towards the coastline over sprawling multi-lane highway networks and the expansive Vice City marina, featuring hundreds of individual luxury yachts, speedboats, and docks with real-time water wave reflections.
+* **00:00:55 — Downtown Skyscraper Corridor & Domed Stadium** — The plane enters the downtown skyscraper corridor, showing modern curved high-rises, rooftop helipads, construction cranes, and a massive domed sports stadium to the west with moving AI freeway traffic.
+* **00:01:09.5 — 2-Second Black Screen Cut** — The screen cuts to black with complete audio silence (`silence_duration: 2.00s`) before switching to an on-foot combat sequence.
+* **00:01:11.5 — Jason Duval in Back Alley** — Jason Duval (wearing a salmon t-shirt and neck bandana) aims an optic-equipped assault rifle at an exterior stucco wall in a back alley.
+* **00:01:25 — Ballistics & Material Destruction** — When Jason fires, individual bullet holes chip off stucco plaster and expose concrete brick underneath, with realistic dust particles, sparks, and dynamic muzzle flashes lighting up the wall.
+* **00:01:35 — Crime Detection & Wanted System** — Firing the weapon triggers the pedestrian/crime eye icon, which immediately escalates to a **1-Star Wanted Level** (flashing star) and a red police search cone on the bottom-left radar minimap as the ammo count drops from `18 54` down to `9 21`.
 
 ---
 
@@ -971,18 +1027,17 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="poll-plane-winner"></a>
-### 8.7. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Countdown)
+### 8.7. Video 5 Release & Website Poll: "Plane (DAY) — Cinematic Drive-By" (Delivered via On-Chain Drop)
 ![Cyberleek Live Poll Countdown](assets/cyberleek_poll_live_plane_timer.jpg)
 
 *Live poll on the official website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) showing the exact countdown ending August 20, 2026 at 11:26 UTC.*
 
 <a id="poll-countdown-timer"></a>
-* **The Poll Timing & Release Countdown**:
+* **The Poll Timing & Release Details**:
   * **Title**: *"Next GTA 6 Video... Cinematic drive by?"*
-  * **Exact Poll End Time**: **August 20, 2026 at 11:26 UTC** (`ends 20. 8. 2026, 11:26`).
-  * **Official Website Release Rule**: *"The winning choice will be featured in the 'Content' section within 24h after the poll ends."*
-  * **Expected Video 5 Drop Window**: Scheduled to appear between **August 20, 11:26 UTC and August 21, 11:26 UTC**!
-  * ⚠️ *Confidence Level*: **High Confidence / Alleged Schedule**. While the official website promises this drop within 24h, leakers can face technical delays or change release timing at any moment.
+  * **Poll Concluded**: **August 20, 2026 at 11:26 UTC** (`ends 20. 8. 2026, 11:26`).
+  * **Video 5 Released (CONFIRMED)**: Delivered on **August 20, 2026 at 09:43:02 UTC** via Solana transaction `2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH` (`plane.mp4`, 141.5s / 33.8 MB).
+  * 🟢 *Status*: **DELIVERED & VERIFIED**. The poll was fulfilled by the website leakers with genuine 1080p HDR footage.
 <a id="poll-whale-tx"></a>
 * **The Voting Results & The $80 Vote**:
   ![Poll $80 Vote Transaction](assets/cyberleek_poll_vote_80_dollar_tx.jpg)
@@ -1278,7 +1333,7 @@ Community records prove Cyberleek was **actively participating in data breach an
 * **Map Sneak Peek 1's block data** — the file works fine on Arweave's gateway but doesn't show up in the wallet's transaction history on GraphQL.
 * **How they got the footage** — could be leftover access from the 2022 breach, an insider, or they bought it from someone. Cyberleek dodged this question in Discord.
 * **One person or a team?** — the tech setup is solid but the social media posting style is messy (promoter vs real uploader).
-* **Will more leaks drop?** — Yes, the official website poll just closed confirming **Video 5: "Plane (DAY) — Cinematic Drive-By"** won 100% of the community votes and is scheduled as the next upcoming drop within 24 hours.
+* **Did Video 5 drop?** — Yes, **Video 5: "Plane (DAY) — Cinematic Drive-By" (`plane.mp4`, 141.5s)** dropped on August 20, 2026 at 09:43:02 UTC on-chain and is fully documented in this repository.
 
 ---
 
