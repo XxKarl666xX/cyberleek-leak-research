@@ -120,6 +120,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * ❌ [7.4. "Cyberleek Did Not Record Footage" (Pretender Deflection)](#qa-leaker-recorded)
   * ❌ [7.5. Real-Money Creator Currency / Robux Theory (Proved Fake Crypto Bait)](#creator-currency-claim)
   * ❌ [7.6. Discord Server Bans, Replacement Servers & Fake Twitter Drama](#discord-bans)
+  * ❌ [7.7. "GTA 6: Lucia Ending Video" Discord Teaser & Reddit Post (Unverified Mockup)](#qa-lucia-ending-mockup)
 
 * 🔵 **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * ❌ [8.1. Online Accounts & Imposter Handles Breakdown](#official-accounts)
@@ -694,7 +695,7 @@ Every date here has a source you can check yourself:
 | **2026-08-18 19:05** | `video2.mp4` (Driving clip) uploaded | [Block #1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | Cryptographically proves driving clip was uploaded to Arweave. |
 | **2026-08-18 ~20:00+** | Leaks go viral on X and Reddit; `$CYBERLEEK` Solana coin launched | Social media explosion | Mainstream leak explosion. |
 | **2026-08-18 ~20:00+** | Take-Two Interactive starts taking down clips everywhere | Outlets report DMCAs | Confirms Rockstar owns the material. |
-| **2026-08-18 / 19** | Cyberleek's original Discord server gets banned; replacement created (`ZWjnQSSJ2P`) | Confirmed via `cyberleek_west` | Proves Discord ban action. |
+| **2026-08-18** | Original leak mirror Discord server gets banned by Discord; copycat replacement servers created (`ZWjnQSSJ2P`) | Server ban logs & Reddit reports | Proves early mirror server was banned by Discord Trust & Safety. |
 | **2026-08-19 ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat scene) surfaces on mirrors | [Gofile Mirror](https://gofile.io/d/qW134pdk) | Proves third video surfaced. |
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
 | **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
@@ -708,10 +709,14 @@ Every date here has a source you can check yourself:
 ## 7. Claims Made on Discord (Archived Evidence — ⚠️ UNVERIFIED & FAKE PRETENDER CLAIMS)
 
 > [!WARNING]
-> ⚠️ **WARNING: These Discord Claims Come From Pretender Accounts!**  
+> ⚠️ **WARNING: Discord Claims and Server History Clarification**
 > 
-> * **How This Discord Was Created**: This Discord server was created and shared **exclusively through the fake `@cyberleek_ar_io` Twitter account**.
-> * **The Chain of Impersonation**: In the official Video 4 drop (`junkies.mp4`), the original website creator added a permanent watermark stating **`"CYBERLEEK DOES NOT HAVE TWITTER"`**. This confirms the Twitter account was an outside imposter, and the Discord accounts (`cyberleek`, `cyberleek_west`, `surwest`) were **pretender accounts looking for clout**.
+> * **The Two Discord Waves**:
+>   * **Wave 1 (Early Mirror Server, Aug 17–18)**: An early Discord server was created to share download links and mirror the website. Discord Trust and Safety banned this server within 24 hours for copyright strikes.
+>   * **Wave 2 (Replacement & Twitter Imposter Servers, Aug 18–19)**: After the ban, copycat servers popped up (like `ZWjnQSSJ2P` run by `cyberleek_west` and `surwest`) and were promoted by the fake `@cyberleek_ar_io` Twitter account. In these replacement servers, users made up fake lore to hype crypto tokens.
+> * **Separating Real Proof From Fake Claims**:
+>   * 🟢 **GENUINE EVIDENCE**: Only the **5 leaked video files**, the **map images**, the **Solana transactions signed by `6Nq6...`**, and the **official website portals** are genuine developer material.
+>   * 🔴 **UNVERIFIED / FAKE DISCORD CLAIMS**: The text claims below have zero proof in game files, zero proof on-chain, and zero video leaks backing them up.
 > * **Clear Separation**:
 >   * 🟢 **GENUINE EVIDENCE**: Only the **4 video files** (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`), the **map images**, the **on-chain Solana transaction**, and the **official website portals** (`leek.vilenarios.com` / `cyberleek.ario.koltigin.xyz`) are genuine developer material.
 >   * 🔴 **UNVERIFIED / FAKE PRETENDER CLAIMS**: The text claims below have **zero proof in the leaked video files, zero proof in internal game code, and zero proof on the official website**. They were posted by pretenders seeking attention.
@@ -807,6 +812,33 @@ Every date here has a source you can check yourself:
     > *"The 8PM est wasn't me, that was a fake dude on discord"*  
     > *"The 8PM est wasn't me. That was not me and it was a fake discord account"*
 * **The Reality**: This was staged drama between imposters fighting for social media attention. As proven by Video 4's official watermark (**`"CYBERLEEK DOES NOT HAVE TWITTER"`**), the Twitter account and Discord servers were unverified pretenders with no official connection to the real video releases.
+
+---
+
+<a id="qa-lucia-ending-mockup"></a>
+### 7.7. ❌ "GTA 6: Lucia Ending Video" Discord Teaser & Reddit Post (UNVERIFIED / PROBABLE FAKE MOCKUP)
+
+![Discord Lucia Ending Mockup](assets/discord_claim_6_lucia_ending_fake_mockup.png)
+*Archived screenshot showing a Discord post by user CyberLeek teasing an upcoming card titled GTA 6: LUCIA ENDING VIDEO with file.io and bedrive.ru buttons.*
+
+* **Status**: 🔴 **UNVERIFIED / PROBABLE FAKE MOCKUP**
+* **Where It Surfaced**: Shared on Reddit in `r/GTA6unmoderated` (`/comments/1vsny4e/lucia_ending_leak/` and `/comments/1vsod39/cyberleek_is_trying_to_post_the_lucia_ending_video/`).
+* **The Discord Message**:
+  > User `CyberLeek` posted at 16:08:
+  > *"poll coming soon, check the site https://gofile.io/d/a0OiqRwL https://cyberleek.ar.io/"*
+  > Attached file: `upcoming 1.png` (11.5 KB) showing the web card for `GTA 6: LUCIA ENDING VIDEO`.
+* **Technical Red Flags and Why It Is Unverified**:
+  1. **File.io Mirror Button**: The mockup shows a download button for `FILE.IO MIRROR 1`. The real leaker never used `file.io` on the website or on the blockchain. `File.io` is a temporary one-time download tool that deletes files after a single download. The real leaker used `gofile.io`, `upload.ee`, `bedrive.ru`, and `arweave`.
+  2. **Non-Developer Naming**: Real developer test clips from this leaker use simple gameplay test names like `output.mp4` (basketball), `video2.mp4` (driving), `taser.mp4`, `junkies.mp4`, and `plane.mp4`. "Lucia Ending Video" sounds like community hype bait.
+  3. **Zero On-Chain Proof**: On the Solana blockchain and Arweave records, master authority `6Nq6...` never signed any transaction, account, or ballot for "Lucia Ending".
+  4. **The Real Website Poll Was Completely Different**: When the official website poll launched on August 19, the 4 choices were:
+     * `▶ Plane (DAY) — Cinematic Drive-By` (Winner, released as Video 5)
+     * `▶ Lucia Strip Club — Night Exterior`
+     * `▶ Boat Chase — Everglades Swamp`
+     * `▶ Police Station Raid — Jason Combat`
+     No "Lucia Ending Video" was ever part of the official voting ballot.
+  5. **Easy Discord Impersonation**: Anyone on Discord can set their nickname to `CyberLeek`, upload the public leek picture, and paste the public link `https://cyberleek.ar.io/`.
+* **Verdict**: This screenshot is **unverified and most likely a fake HTML mockup** created by a Discord user to gain attention on Reddit.
 
 ---
 

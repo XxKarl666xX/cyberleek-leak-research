@@ -149,3 +149,9 @@ Research Credit: whitemustache0004 & Blockchain Verification
 * Aug 15, 2026 12:23 UTC: 3YLNDX... funds 667Gfn... (Turbo uploader with matching Arweave key bytes + turbo-sdk tags)
 * Aug 17-19, 2026 16:54 UTC: 6Nq6... launches Solana program 7rAgH... and publishes Video 4 (Tx 3iKf...)
 * Aug 20, 2026 09:30-09:43 UTC: 6Nq6... executes ProcessResults settling poll and publishes Video 5 (Tx 2qfZLm...)
+
+
+--- DISCORD INVESTIGATION & LUCIA ENDING MOCKUP ARCHIVE ---
+* Reddit Sources: r/GTA6unmoderated/comments/1vsny4e/lucia_ending_leak/ & /comments/1vsod39/
+* Archived Teaser Image: assets/discord_claim_6_lucia_ending_fake_mockup.png
+* Status: UNVERIFIED / PROBABLE FAKE MOCKUP (No on-chain transaction, file.io button unused by leaker)
