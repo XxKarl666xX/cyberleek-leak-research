@@ -855,13 +855,13 @@ Every date here has a source you can check yourself:
 <a id="clumsylulz-telegram-fake"></a>
 ### 7.8. The "808 Mafia / Clumsylulz" Telegram Fake (Correction credit: ralfszeltins1)
 
-* **The Claim**: In late August 2026, a Telegram channel named `808 mafia` (`@clumsylulz`) claimed to possess a "July 2026 devkit leak" and leaked "GTA 6 shader code".
-* **The Reality**: This is a blatant copycat channel attempting to ride the hype of the Cyberleek incident. While they heavily watermarked images with meme coin tickers (`$808MAFIA` and `$CYBERLEEK`), they later explicitly stated the coins were fake. It appears to be an elaborate trolling and clout-chasing operation.
+* **The Claim**: In late August 2026, a Telegram channel named `808 mafia` (`@clumsylulz`) claimed to have a "July 2026 devkit leak" and leaked "GTA 6 shader code".
+* **The Reality**: This is a fake copycat channel trying to ride the hype of the Cyberleek incident. While they heavily watermarked images with crypto token names (`$808MAFIA` and `$CYBERLEEK`), they later stated the coins were fake. It looks like a big troll and clout chase operation.
 * **The Evidence**:
-  1. **Recycled 2022 Leaks**: The C++ shader code (`X:\americas\src\dev\game\shader_source\Lighting...`), the `textures.com` Rockstar India invoice, and the graphics debugging screenshots (Vice City skyline at night) are **100% verified authentic files from the original September 2022 Arion Kurtaj (Lapsus$) mega-leak**. They are completely unrelated to 2026.
-     * *Proof*: 🔗 [GTA Fandom Wiki: September 2022 Leaks](https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Leaks#September_2022) — Confirms the 2022 mega-leak featured the 90 videos with graphics debugging overlays, the source code dump, and the "Americas" internal codename.
-  2. **Amateur Watermarks**: The operators simply opened 4-year-old leaked screenshots in an image editor and typed massive red text over them saying `https://t.me/clumsylulz for more` and `buy $CYBERLEEK`.
-  3. **No Affiliation**: The channel operators explicitly admitted on Telegram: *"fyi we are not associated with cyberleek, thats a whole different person"*.
+  1. **Recycled 2022 Leaks**: The C++ shader code (`X:\americas\src\dev\game\shader_source\Lighting...`), the `textures.com` Rockstar India invoice, and the graphics debugging screenshots (Vice City skyline at night) are **100% verified authentic files from the original September 2022 Arion Kurtaj Lapsus$ mega leak**. They have nothing to do with 2026.
+     * *Proof*: 🔗 [GTA Fandom Wiki: September 2022 Leaks](https://gta.fandom.com/wiki/Grand_Theft_Auto_VI/Leaks#September_2022) Confirms the 2022 mega leak featured the 90 videos with graphics debugging overlays, the source code dump, and the "Americas" internal codename.
+  2. **Amateur Watermarks**: The operators simply opened 4 year old leaked screenshots in Photoshop and typed massive red text over them saying `https://t.me/clumsylulz for more` and `buy $CYBERLEEK`.
+  3. **No Connection**: The channel operators explicitly admitted on Telegram: *"fyi we are not associated with cyberleek, thats a whole different person"*.
 * **Verdict**: 🔴 **100% FAKE CLOUT CHASE**. Zero new footage. Just recycled 2022 leaks heavily watermarked for trolling.
 
 ---
