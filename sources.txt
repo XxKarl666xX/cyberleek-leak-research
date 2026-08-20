@@ -155,3 +155,10 @@ Research Credit: whitemustache0004 & Blockchain Verification
 * Reddit Sources: r/GTA6unmoderated/comments/1vsny4e/lucia_ending_leak/ & /comments/1vsod39/
 * Archived Teaser Image: assets/discord_claim_6_lucia_ending_fake_mockup.png
 * Status: UNVERIFIED / PROBABLE FAKE MOCKUP (No on-chain transaction, file.io button unused by leaker)
+
+
+--- EXTERNAL DOMAIN SQUATS & USERNAME INVESTIGATION (ISSUE #15) ---
+* cyberleek.com: Registered 2026-08-18 19:25:17 UTC via Cloudflare (IP 188.114.97.8) - Opportunistic domain squat
+* github.com/cyberleek: Created 2022-03-01 (Unrelated developer coincidence, QuickQR Pro privacy gist)
+* vk.com/cyberleek: Registered 2026-08-19 (Russian VK copycat handle)
+* Credit: ShadowNineX & Nico-Strecker (GitHub Issue #15), davit_36049 (Discord Lucia investigation)

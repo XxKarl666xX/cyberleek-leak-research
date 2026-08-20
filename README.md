@@ -818,6 +818,8 @@ Every date here has a source you can check yourself:
 <a id="qa-lucia-ending-mockup"></a>
 ### 7.7. ❌ "GTA 6: Lucia Ending Video" Discord Teaser & Reddit Post (UNVERIFIED / PROBABLE FAKE MOCKUP)
 
+*(Discord investigation and screenshot archive credit: Community researcher `davit_36049` on Discord)*
+
 ![Discord Lucia Ending Mockup](assets/discord_claim_6_lucia_ending_fake_mockup.png)
 *Archived screenshot showing a Discord post by user CyberLeek teasing an upcoming card titled GTA 6: LUCIA ENDING VIDEO with file.io and bedrive.ru buttons.*
 
@@ -846,9 +848,24 @@ Every date here has a source you can check yourself:
 ## 8. Web Research: Online Setup, Dark Web & Debunking
 
 <a id="official-accounts"></a>
-### 8.1. Online Accounts & Imposter Handles Breakdown
+### 8.1. Online Accounts, Domain Squats & Imposter Handles Breakdown
 
-**Twitter (X) Accounts Breakdown (All Confirmed Fake by Video 4 Watermark):**
+*(Investigation into copycat domains and external platforms credit: Community researchers `ShadowNineX` and `Nico-Strecker` on GitHub Issue #15)*
+
+**1. Copycat Domains & External Platform Handles:**
+* ❌ **`cyberleek.com` (Opportunistic Domain Squat / Scam Risk)**
+  * **Registration Date**: August 18, 2026 at 19:25:17 UTC (RDAP verified).
+  * **Hosting / IP**: Cloudflare (`ERIN.NS.CLOUDFLARE.COM`), IP `188.114.97.8`.
+  * **The Reality**: This `.com` domain was bought by an outside domain squatter right as the leaks blew up on social media. It was not registered by the real leakers, whose genuine decentralized portals (`.ar.io` and `leek.vilenarios.com`) were set up days earlier on August 14 and 15.
+* ❌ **`gist.github.com/cyberleek` and GitHub user `@cyberleek` (Unrelated 2022 Account)**
+  * **Account Created**: March 1, 2022 (over 4 years old).
+  * **Only Public Gist**: A privacy policy for an unrelated mobile app called QuickQR Pro from December 2025.
+  * **The Reality**: Harmless developer username coincidence from 2022 with zero connection to GTA 6.
+* ❌ **`vk.com/cyberleek` / `vk.ru/cyberleek` (Russian VK Copycat Handle)**
+  * **Created**: August 19, 2026.
+  * **The Reality**: An outside user registered the empty handle on Russian social network VKontakte after the leak went viral.
+
+**2. Twitter (X) Accounts Breakdown (All Confirmed Fake by Video 4 Watermark):**
 1. ❌ **[@cyberleek_ar_io](https://x.com/cyberleek_ar_io)** — 🔴 **SUSPENDED BY X (August 19, 2026)**
    * **Role**: Primary fake promoter / imposter account (~88.9k followers before ban).
    * **Status**: Permanently suspended by X for impersonation, DMCA violations, and token promotion.
