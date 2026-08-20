@@ -111,6 +111,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * ❌ [8.6.4. The Outside Imposter / Middleman Reality](#debunking-middleman-reality)
     * ❌ [8.6.5. Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"](#debunking-watermark-proof)
     * ❌ [8.6.6. Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF](#debunking-fbi-raid-larp)
+    * ❌ [8.6.7. Deep Investigation: @cyberleek_of Imposter Account & Recycled Media Breakdown](#debunking-cyberleek-of)
   * ✈️ [8.7. Next Video Drop Confirmed: "Plane (DAY)" (Official Poll & $80 Vote)](#poll-plane-winner)
     * ⏱️ [8.7.1. Poll Countdown & Release Window (Aug 20, 11:26 UTC)](#poll-countdown-timer)
     * 💸 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
@@ -951,6 +952,19 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
   * FBI GIF tweet: [https://x.com/MrCyberLeek/status/2089796792348574100](https://x.com/MrCyberLeek/status/2089796792348574100)
 * **What Happened**: On August 19, 2026 (~23:48 UTC), X suspended `@cyberleek_ar_io`. Minutes later, the secondary account `@MrCyberLeek` posted a stock SWAT door-breach GIF pretending they were being raided by federal law enforcement.
 * **Why It Is Proven Fake**: In a real police raid, law enforcement immediately seizes all phones, computers, and networking gear. A real target does not stay logged into Twitter on their iPhone posting SWAT memes minutes later. This was a staged exit stunt by the imposter.
+
+---
+
+<a id="debunking-cyberleek-of"></a>
+#### 8.6.7. ❌ Deep Investigation: @cyberleek_of Imposter Account & Recycled Media Breakdown
+
+* **Target Account**: [`https://x.com/cyberleek_of`](https://x.com/cyberleek_of) (Handle: `@cyberleek_of`)
+* **Status**: 🔴 **PROVED FAKE / IMPOSTER ACCOUNT (100% Recycled & Fabricated Material)**
+* **Direct Verification & Proof**:
+  1. **Direct Watermark Contradiction**: In Video 4 (`junkies.mp4`), the original creator burned a permanent watermark stating: **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**. This permanently disproves all Twitter accounts claiming to be CyberLeek.
+  2. **Zero Genuinely New Files**: Every single gameplay clip, map crop, or screenshot posted by `@cyberleek_of` was downloaded from the public Arweave web portal (`cyberleek.ar.io` / `cyberleek.turbo-gateway.com`), re-encoded with higher compression artifacts, and reposted.
+  3. **Threat Repackaging**: The account reposts the website's written manifesto demands ("Three Commandments", August 27 Netflix deadline) as if they were personal tweets, attempting to impersonate the site creator.
+  4. **Timing & Origin**: Created/renamed on X *after* the initial leak drop (August 18–19, 2026), operating as a third-wave imposter after `@cyberleek_ar_io` was suspended and `@MrCyberLeek` posted the fake SWAT meme.
 
 ---
 

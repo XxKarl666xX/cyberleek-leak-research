@@ -110,3 +110,8 @@
 * Protagonist Developer Internal Name: Jason Duval (Documented in IGN / God is a Geek / Rockstar internal test logs)
 * Manifesto Structure: Cyberleek 'Three Commandments' (Pre-orders, DLC, Physical Discs) cited in Eurogamer / Forbes / Mashable
 * Stop Killing Games Official Disassociation Statement: Documented in IGN / Forbes / Rock Paper Shotgun
+
+--- TWITTER IMPOSTER ACCOUNT INVESTIGATION (@cyberleek_of) ---
+Handle: @cyberleek_of (https://x.com/cyberleek_of)
+Status: Proved Fake / Imposter Account
+Evidence: Video 4 in-frame watermark disowns all Twitter accounts. Zero new clips; all media re-uploaded from public Arweave gateways.
