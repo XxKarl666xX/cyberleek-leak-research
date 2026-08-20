@@ -20,7 +20,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 >   * 🟢 **GENUINE INDEPENDENT COMMUNITY RESEARCH**: Independent analysis done by community members (such as NateDrake confirming build age, NikTek analyzing physics/mechanics, Phantomymous finding the Tate McRae song, 7Kkurd identifying the in-car CarPlay logo, martipk and the mapping project, theicybee mapping routes, and koffiekasper checking smart contract bytecode) is **real third-party research**. These community contributors are NOT scammers and their legitimate findings remain credited and untouched.
 >   * 🔴 **FAKE / UNVERIFIED PRETENDER CLAIMS**: Story spoilers, fake threats, blurred recycled photos, and staged SWAT raids coming from Twitter/X and Discord pretenders are unverified or proven fake.
 >   * 🎮 **ALL 5 GAMEPLAY VIDEOS & MAP ARE 100% GENUINE**: All 5 video files (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`, and `plane.mp4`) and map files are real early Rockstar developer footage (actively taken down worldwide by Take-Two DMCA copyright notices).
->   * 🧱 **THE LEAKER MIGHT HAVE A PLAYABLE GAME BUILD**: In the newest 5th video (`plane.mp4`), Jason [literally shoots the word "LEEK" onto an alley wall with bullet holes](#full-build-theory). This proves the person recording was actively playing with live controller/mouse inputs in real time, not just watching old pre-recorded clips. They might have access to a playable developer test build, though whether they have the entire finished game is unverified.
+>   * 🧱 **THE LEAKER MIGHT HAVE A PLAYABLE GAME BUILD (NOT 100% CONFIRMED)**: In the newest 5th video (`plane.mp4`), Jason [literally shoots the word "LEEK" onto an alley wall with bullet holes](#full-build-theory). This proves the person recording was actively playing with live controller/mouse inputs in real time. However, **it is NOT 100% confirmed that they have the full game** — they might only have access to an internal test build or an insider recording for them.
 >   * ✈️ **VIDEO 5 DROPPED (Plane DAY & Alley Shooting — VERIFIED)**: Released on **August 20, 2026 at 09:43:02 UTC** via Solana/Arweave transaction `2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH` (`plane.mp4`, 141.5s / 33.8 MB). Video 5 fulfills the website poll with clean 1080p HDR footage showing a flight over the Leonida Penitentiary, the Vice City marina and skyline, and Jason testing gun recoil by shooting "LEEK" on a wall.
 >   * ⚠️ **OFFICIAL WEBSITE MEMECOIN WARNING**: The `$CYBERLEEK` Solana token and voting polls run on the leaker's website are high-risk memecoin mechanics / probable pump-and-dump scheme. **Do NOT buy their token or send crypto.**
 >   * 🟢 **LIVE STATUS UPDATE**: ALL official websites, portals, and Web3 gateway mirrors ([**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/), [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz), [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com), [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com), [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io)) are **100% ONLINE & ACTIVE (UP)**.
@@ -36,9 +36,9 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 </div>
 
 > [!IMPORTANT]
-> **🎮 DOES THE LEAKER HAVE A PLAYABLE GAME BUILD?**
-> * **Live Player Input Confirmed**: In Video 5 (`plane.mp4`), the player actively controls Jason to spell out **`L E E K`** on the wall using bullet holes. This proves the footage is **not an old pre-rendered trailer or static recording** — someone was actively playing the game with live controller/mouse inputs.
-> * **What This Means**: The leaker (or the person recording for them) **likely has interactive access to a playable GTA VI developer build / test client**. However, whether they hold the entire finalized hundred-gigabyte game repository or a modular internal playtest slice remains unverified.
+> **🎮 DOES THE LEAKER HAVE A PLAYABLE GAME BUILD? (⚠️ NOT 100% CONFIRMED — UNVERIFIED)**
+> * **Live Player Input Confirmed**: In Video 5 (`plane.mp4`), the player actively controls Jason to spell out **`L E E K`** on the wall with bullet holes. This proves the footage is **not an old pre-rendered trailer or static video** — someone was actively playing the game with live controller/mouse inputs.
+> * **⚠️ NOT 100% CONFIRMED**: While live gameplay was recorded, **it is NOT 100% confirmed that the leaker possesses the full playable game build**. They might only have access to a small internal test slice, remote debug access, or an insider who recorded it for them.
 > * 🔗 [Read the full Game Build Access Analysis in Section 8.9](#full-build-theory) | [View the Video 5 breakdown in Section 4.5](#plane-breakdown)
 
 <div align="center">
@@ -1113,15 +1113,19 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ![Jason Shooting LEEK on Wall](assets/video5_plane_01_40_leek_bullet_wall_proof.jpg)
 *Groundbreaking interactive gameplay proof in Video 5: Jason Duval shoots the word "LEEK" into the alley wall with live bullet holes (01:37).*
 
-* 🟡 **Status / Verdict**: **ACTIVE PLAYABLE BUILD ACCESS CONFIRMED (Full Build Scope Unverified)**
+* 🟡 **Status / Verdict**: **POSSIBLE TEST BUILD ACCESS (⚠️ NOT 100% CONFIRMED — FULL GAME ACCESS UNPROVEN)**
 * **The Groundbreaking Discovery in Video 5 (`plane.mp4`)**:
   * In Video 5 (`01:15 - 01:38`), Jason Duval aims at an exterior alley wall and methodically shoots bullet holes into the concrete to spell out the word **`L E E K`**!
   * **Why This Changes Everything**:
-    1. **Direct Interactive Control**: This provides 100% indisputable visual proof that the person capturing this footage was **actively playing the live game with controller/mouse inputs**. This was not a stolen marketing reel, cutscene capture, or pre-rendered B-roll.
-    2. **Diverse Outfits, Vehicles & Locations**: The 5 leaked videos feature multiple distinct outfits for Jason (white tank top in Video 1, red/brown t-shirt in Video 4, salmon shirt with neck bandana in Video 5), multiple vehicles (Picador truck, MTL Packer semi, VCPD police motorcycle, stunt biplane), and diverse locations across Leonida (Ambrosia sugar factory, Route 97, Fuzzard Drain Canal, Leonida Penitentiary, Vice City marina, downtown skyscraper corridor).
-* **What We Know vs. What Remains Unproven**:
-  * 🟢 **CONFIRMED**: The leaker / recording party has direct, live interactive access to a playable GTA VI developer build.
-  * 🟡 **POSSIBLE / UNVERIFIED**: They might possess a playable test client, PC developer build, or devkit executable. However, it is not 100% confirmed whether they hold the entire finalized hundred-gigabyte game repository or a modular internal playtest build.
+    1. **Direct Interactive Control**: This proves that whoever captured this footage was **actively playing the game with live controller/mouse inputs**. This was not an old pre-rendered trailer, cutscene reel, or marketing B-roll.
+    2. **Diverse Outfits, Vehicles & Locations**: The 5 leaked videos feature different outfits for Jason (white tank top in Video 1, red/brown t-shirt in Video 4, salmon shirt with neck bandana in Video 5), varied vehicles (Picador truck, MTL Packer semi, VCPD motorcycle, stunt biplane), and multiple locations across Leonida.
+* **Important Caution — What Is NOT 100% Confirmed**:
+  * ⚠️ **NOT 100% CONFIRMED**: It is **NOT confirmed that the leaker has the full playable game build**.
+  * 🟡 **Possibilities**:
+    1. They might have access to a small internal test slice or modular debug environment.
+    2. They might have remote access or an insider inside Rockstar/QA recording clips on demand.
+    3. They might hold a playable devkit executable, but NOT the full finalized hundred-gigabyte game.
+  * **Community Reminder**: Do not believe claims that the full game is about to leak or be released publicly unless definitive proof is provided.
 
 ---
 
@@ -1366,6 +1370,7 @@ Community records prove Cyberleek was **actively participating in data breach an
 * **How they got the footage** — could be leftover access from the 2022 breach, an insider, or they bought it from someone. Cyberleek dodged this question in Discord.
 * **One person or a team?** — the tech setup is solid but the social media posting style is messy (promoter vs real uploader).
 * **Did Video 5 drop?** — Yes, **Video 5: "Plane (DAY) — Cinematic Drive-By" (`plane.mp4`, 141.5s)** dropped on August 20, 2026 at 09:43:02 UTC on-chain and is fully documented in this repository.
+* **Does the leaker have the full game build?** — **⚠️ NOT 100% CONFIRMED**. While shooting "LEEK" on the wall proves someone was actively playing the game, it is not confirmed whether the leaker has the full game build or just access to an internal test slice.
 
 ---
 
