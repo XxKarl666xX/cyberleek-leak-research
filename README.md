@@ -1461,7 +1461,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
     * 🔗 [**Snapshot 1: March 28, 2019 (200 OK)**](http://web.archive.org/web/20190328090751/http://tech-forum.ch/): Shows `Apache/2.4.25 (Debian) Server at tech-forum.ch Port 80` hosting `bild.php`, matching his Debian Linux server setup.
     * 🔗 [**Snapshot 2: August 11, 2018**](https://web.archive.org/web/20180811201124/https://tech-forum.ch/): Shows the site during its active HTTPS configuration.
     * 🔗 [**Snapshot 3: August 4, 2018**](http://web.archive.org/web/20180804025115/http://tech-forum.ch/): Shows the early HTTP to HTTPS redirection setup.
-  * **Swiss WHOIS Data Point (Discovery credit: [@Nico-Strecker](https://github.com/Nico-Strecker) on GitHub — [Issue #12](https://github.com/zyrexdz/cyberleek-leak-research/issues/12))**:
+  * **Swiss WHOIS Data Point**:
     * **Pre-2021 Swiss Transparency**: Prior to January 1, 2021, the official Swiss `.ch` registry (**SWITCH** / `nic.ch`) published the full real names, postal addresses, and contact info of all domain owners by default.
     * **Domain Lifecycle**: `tech-forum.ch` was registered in December 2017 and later let expire after 2019.
     * **Historical Records Uncovered**: Historical WHOIS archives from 2017 successfully recovered the original unredacted owner registration records. The domain was officially registered on December 11, 2017, by a Swiss individual named **Manuel H.**, located in **Lenzburg, Switzerland** *(Exact street address and last name redacted for GitHub/Discord privacy compliance)*.
