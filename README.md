@@ -85,37 +85,37 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
 
-* 💬 **[7. Claims Made on Discord (Archived Evidence — Unverified & Pretender Claims)](#discord-qa)**
+* ❌ **[7. Claims Made on Discord (Archived Evidence — Unverified & Pretender Claims)](#discord-qa)**
   * ❌ [7.1. Lucia's Intro Mission (Unverified Speculation)](#qa-lucia-intro)
   * ❌ [7.2. Prison Pickup & 2% Campaign Progression (Unverified Speculation)](#qa-prison-pickup)
-  * 🟡 [7.3. Leaked Map from 2023 & PS5 Pro Performance (Unverified Claim)](#qa-map-ps5pro)
+  * ❌ [7.3. Leaked Map from 2023 & PS5 Pro Performance (Unverified Claim)](#qa-map-ps5pro)
   * ❌ [7.4. "Cyberleek Did Not Record Footage" (Pretender Deflection)](#qa-leaker-recorded)
   * ❌ [7.5. Real-Money Creator Currency / Robux Theory (Proved Fake Crypto Bait)](#creator-currency-claim)
-  * 🚫 [7.6. Discord Server Bans, Replacement Servers & Fake Twitter Drama](#discord-bans)
+  * ❌ [7.6. Discord Server Bans, Replacement Servers & Fake Twitter Drama](#discord-bans)
 
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
-  * 👤 [8.1. Their Online Accounts & Known Handles](#official-accounts)
+  * ❌ [8.1. Online Accounts & Imposter Handles Breakdown](#official-accounts)
   * 🌐 [8.2. Official Endpoints & Live Status Tracker](#official-endpoints)
   * 🖥️ [8.3. Server Infrastructure, IP Resolution & Hosting Providers](#server-hosting)
   * 💰 [8.4. Blockchain & Money Trail (Token & Website Set Up 3 Days Early)](#token-money-trail)
     * 🔍 [8.4.1. What Public Blockchain Data Confirms](#blockchain-facts)
     * 📈 [8.4.2. Was the Leak a Pre-Planned Marketing Stunt?](#marketing-stunt-theory)
     * 🤔 [8.4.3. What We Still Don't Know & Counter-Points](#blockchain-counterpoints)
-    * 🔬 [8.4.4. Smart Contract Bytecode Analysis & Debunking "GTA Audio SDT" (@koffiekasper)](#solana-bytecode-analysis)
+    * ❌ [8.4.4. Smart Contract Bytecode: Debunking "GTA Audio SDT" False Positives (@koffiekasper)](#solana-bytecode-analysis)
   * 🧅 [8.5. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
     * 📜 [8.5.1. The 'Three Commandments' Manifesto & Demands](#manifesto-three-commandments)
-  * 🔍 [8.6. Twitter/X Pretender Accounts & Fake Staged Drama (Full Breakdown)](#debunking-twitter)
-    * 🕵️ [8.6.1. Username History Can Be Deceptive](#debunking-username-history)
-    * 🖼️ [8.6.2. AI-Generated Banners & Fake Teasers](#debunking-ai-banners)
+  * ❌ [8.6. Twitter/X Pretender Accounts & Fake Staged Drama (Full Breakdown)](#debunking-twitter)
+    * ❌ [8.6.1. Deceptive Username History & Renamed Accounts](#debunking-username-history)
+    * ❌ [8.6.2. Fake AI-Generated Banners & Recycled Teasers](#debunking-ai-banners)
     * ❌ [8.6.3. Proved Fake Threat: Blurred 2022 Leaks as "New Footage"](#debunking-blurred-threats)
-    * 🎭 [8.6.4. The Imposter / Middleman Reality](#debunking-middleman-reality)
+    * ❌ [8.6.4. The Outside Imposter / Middleman Reality](#debunking-middleman-reality)
     * ❌ [8.6.5. Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"](#debunking-watermark-proof)
-    * 🚪 [8.6.6. Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF](#debunking-fbi-raid-larp)
+    * ❌ [8.6.6. Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF](#debunking-fbi-raid-larp)
   * ✈️ [8.7. Next Video Drop Confirmed: "Plane (DAY)" (Official Poll & $80 Vote)](#poll-plane-winner)
     * ⏱️ [8.7.1. Poll Countdown & Release Window (Aug 20, 11:26 UTC)](#poll-countdown-timer)
     * 💸 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
     * 🗄️ [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
-    * ⚠️ [8.7.4. Scam Warning on Voting Token Sinks](#poll-token-sink)
+    * ❌ [8.7.4. Scam Warning on Voting Token Sinks](#poll-token-sink)
   * ⏳ [8.8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
   * ❌ [8.9. Debunked Misconception: Full Game Build Theory](#full-build-theory)
   * ❌ [8.10. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
@@ -646,7 +646,7 @@ Every date here has a source you can check yourself:
 ---
 
 <a id="qa-map-ps5pro"></a>
-### 7.3. 🟡 Leaked Map from 2023 & PS5 Pro Performance (UNVERIFIED CLAIM)
+### 7.3. ❌ Leaked Map from 2023 & PS5 Pro Performance (UNVERIFIED CLAIM)
 ![Discord Claim 3](assets/discord_claim_3_map2023_ps5pro.png)
 *Original Discord message discussing 2023 map date and PS5 Pro frame rate.*
 
@@ -715,7 +715,7 @@ Every date here has a source you can check yourself:
 ## 8. Web Research: Online Setup, Dark Web & Debunking
 
 <a id="official-accounts"></a>
-### Their Online Accounts & Known Handles
+### 8.1. Online Accounts & Imposter Handles Breakdown
 
 **Twitter (X) Accounts Breakdown (All Confirmed Fake by Video 4 Watermark):**
 1. ❌ **[@cyberleek_ar_io](https://x.com/cyberleek_ar_io)** — 🔴 **SUSPENDED BY X (August 19, 2026)**
@@ -729,7 +729,7 @@ Every date here has a source you can check yourself:
 ---
 
 <a id="official-endpoints"></a>
-### 1. Official Cyberleek Endpoints & Live Status Tracker
+### 8.2. Official Cyberleek Endpoints & Live Status Tracker
 
 Here is the complete list of all known Cyberleek website portals, Web3 gateways, and mirror links with their current live accessibility:
 
@@ -744,7 +744,7 @@ Here is the complete list of all known Cyberleek website portals, Web3 gateways,
 ---
 
 <a id="server-hosting"></a>
-### 2. Server Infrastructure, IP Resolution & Hosting Providers
+### 8.3. Server Infrastructure, IP Resolution & Hosting Providers
 
 Every domain and gateway was tested via live DNS resolution and IP geolocation to identify its physical server, network provider, and datacenter location:
 
@@ -768,7 +768,7 @@ Every domain and gateway was tested via live DNS resolution and IP geolocation t
 ---
 
 <a id="token-money-trail"></a>
-### 3. Blockchain & Money Trail: Token & Website Were Set Up 3 Days Before the Leaks
+### 8.4. Blockchain & Money Trail: Token & Website Were Set Up 3 Days Before the Leaks
 
 *(Blockchain wallet trail discovery courtesy of GitHub contributor [@TheRealJoeSchro](https://github.com/TheRealJoeSchro) — [Issue #3](https://github.com/zyrexdz/cyberleek-leak-research/issues/3))*
 
@@ -815,7 +815,7 @@ While the wallet trail is real, we still have to be careful before jumping to fi
 ---
 
 <a id="solana-bytecode-analysis"></a>
-#### 4. Smart Contract Bytecode Analysis & Debunking "GTA Audio SDT" (Discovered by @koffiekasper)
+#### 8.4.4. ❌ Smart Contract Bytecode: Debunking "GTA Audio SDT" False Positives (@koffiekasper)
 
 ![Solana Smart Contract Bytecode Magic Number Chart](assets/solana_bytecode_magic_numbers_chart.png)
 *Sequential magic byte analysis of the Cyberleek Solana smart contract upload payloads. (Analysis and chart courtesy of community researcher @koffiekasper).*
@@ -833,7 +833,7 @@ Community researcher **[@koffiekasper](https://github.com/zyrexdz/cyberleek-leak
 ---
 
 <a id="dread-trail"></a>
-### 4. Hack Forums & The Dark Web Trail (Dread)
+### 8.5. Hack Forums & The Dark Web Trail (Dread)
 
 *(Dread post discovery credit: [@bnwkr](https://x.com/bnwkr) on X)*
 
@@ -879,7 +879,7 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 ---
 
 <a id="debunking-twitter"></a>
-### 5. Twitter/X Pretender Accounts & Fake Staged Drama (Full Breakdown)
+### 8.6. Twitter/X Pretender Accounts & Fake Staged Drama (Full Breakdown)
 
 *(Investigation & evidence credits: Discord community researchers **`garza`** and **`vaaatiel`**)*
 
@@ -889,19 +889,19 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X account found clear proof that the person tweeting was **an imposter/promoter**, NOT the creator of the leak website:
 
 <a id="debunking-username-history"></a>
-#### 1. Username History Can Be Deceptive
+#### 8.6.1. ❌ Deceptive Username History & Renamed Accounts
 ![Vaaatiel Username Change Proof](assets/debunking_vaaatiel_username_proof.png)
 *Research by community member `vaaatiel` showing how Twitter's "About" page displays previous name change dates.*
 * **Status**: 🟢 **VERIFIED COMMUNITY RESEARCH**
 * **Finding**: Twitter's "About this account" date can reflect old data from a renamed profile. A creation date from earlier in 2026 does not prove the account was originally set up by the leaker — it was likely an existing profile renamed right before the leaks to capitalize on hype.
 
 <a id="debunking-ai-banners"></a>
-#### 2. AI-Generated Banners & Fake Teaser Images
+#### 8.6.2. ❌ Fake AI-Generated Banners & Recycled Teasers
 * **Status**: 🔴 **PROVED FAKE ASSETS**
 * **Finding**: The Twitter account's header banners and teaser pictures were AI-upscaled crops made from old 2022 leaks, designed to trick followers into thinking they had access to brand-new unreleased clips.
 
 <a id="debunking-blurred-threats"></a>
-#### 3. ❌ PROVED FAKE THREAT: Posting Blurred 2022 Leaks as "New Footage"
+#### 8.6.3. ❌ Proved Fake Threat: Blurred 2022 Leaks as "New Footage"
 ![Blurred 2022 Leak Tweet](assets/debunking_blurred_2022_leak_tweet.png)
 *Tweet by @cyberleek_ar_io threatening Rockstar with a blurred image taken from the 2022 nightclub leak.*
 
@@ -913,7 +913,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="debunking-middleman-reality"></a>
-#### 4. The Imposter / Middleman Reality
+#### 8.6.4. ❌ The Outside Imposter / Middleman Reality
 ![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
 *Tweets sent via "Twitter for iPhone" from the imposter account.*
 
@@ -924,7 +924,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="debunking-watermark-proof"></a>
-#### 5. ❌ OFFICIAL PROOF: "CYBERLEEK DOES NOT HAVE TWITTER"
+#### 8.6.5. ❌ Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"
 ![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
 *Official watermark from the 4th video drop (`junkies.mp4`) explicitly proving Cyberleek never had Twitter.*
 
@@ -936,7 +936,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="debunking-fbi-raid-larp"></a>
-#### 6. ❌ PROVED FAKE DRAMA: Account Suspension & Staged "FBI Raid" Meme GIF
+#### 8.6.6. ❌ Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF
 <div align="center">
   <img src="assets/fake_twitter_cyberleek_suspended.png" alt="Fake Twitter Suspended" width="300" />
   <img src="assets/fake_twitter_secondary_mrcyberleek_fbi_gif.png" alt="Fake Secondary FBI Raid GIF" width="300" />
@@ -955,7 +955,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="poll-plane-winner"></a>
-### 6. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Countdown)
+### 8.7. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Countdown)
 ![Cyberleek Live Poll Countdown](assets/cyberleek_poll_live_plane_timer.jpg)
 
 *Live poll on the official website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) showing the exact countdown ending August 20, 2026 at 11:26 UTC.*
@@ -990,7 +990,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="natedrake-age"></a>
-### 7. Hard Proof on Footage Age: Radio Song Proves Build is January 2025 or Newer
+### 8.8. Hard Proof on Footage Age: Radio Song Proves Build is January 2025 or Newer
 
 *(Radio song discovery credit: GitHub contributor [@Phantomymous](https://github.com/Phantomymous) — [Issue #2](https://github.com/zyrexdz/cyberleek-leak-research/issues/2) & industry confirmation by `NateDrake`)*
 
@@ -1011,7 +1011,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="full-build-theory"></a>
-### 8. ❌ DEBUNKED MISCONCEPTION: Does the Leaker Have the Full Game Build?
+### 8.9. ❌ DEBUNKED MISCONCEPTION: Does the Leaker Have the Full Game Build?
 ![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
 *❌ **DEBUNKED THEORY**: The theory that the leaker has the full playable game build.*
 
@@ -1023,7 +1023,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="debunking-rdr2-mod"></a>
-### 9. ❌ 100% DEBUNKED FAKE THEORY: "It's Just an RDR2 Mod with a Cities: Skylines Map"
+### 8.10. ❌ 100% DEBUNKED FAKE THEORY: "It's Just an RDR2 Mod with a Cities: Skylines Map"
 ![Debunking RDR2 Mod Theory](assets/debunking_fake_rdr2_mod_theory.png)
 *❌ **100% DEBUNKED VIRAL CLAIM**: Tweet by `@DailyInterw6ac` falsely claiming the leaks are just a Cities: Skylines map imported into Red Dead Redemption 2.*
 
@@ -1045,7 +1045,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="szenebox-profile"></a>
-### 10. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)
+### 8.11. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)
 ![Cyberleek 2018 Forum Post](assets/cyberleek_2018_forum_introduction_post.png)
 *Archived introduction post by user `cyberleek` on German IT security forum `szenebox.org` from January 3, 2018.*
 
