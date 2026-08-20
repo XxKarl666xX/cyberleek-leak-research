@@ -717,11 +717,11 @@ Every date here has a source you can check yourself:
 >
 > | Comparison Factor | Wave 1: Early Pre-Ban Discord (Aug 17–18) | Wave 2: Post-Ban Twitter Imposter Discords (Aug 18–19) |
 > | :--- | :--- | :--- |
-> | **Server Operator** | Real site manager / insider (`CyberLeek` handle with blue leek avatar) | Outside clout seekers (`cyberleek_west`, `surwest`, `ZWjnQSSJ2P`) |
-> | **Content Posted** | Real mirror links (`cyberleek.ar.io`, `bedrive.ru`, `gofile.io`, upcoming poll UI preview `upcoming 1.png`) | Fake unverified text lore ("Lucia 2% pickup intro", "Robux currency", fake 8 PM drop promises) |
-> | **Video / File Proof** | Provided real working download mirrors for leaked footage | Zero video files, zero code, excuses ("I was not holding controller") |
-> | **Official Watermark Status** | Pre-dated the watermark; watermark said `"CYBERLEEK DOES NOT HAVE TWITTER"` | Disowned by leaker; Twitter account banned by X for impersonation |
-> | **Server Fate** | Banned by Discord Trust & Safety for DMCA within 24 hours | Restricted / banned; devolved into fake FBI raid memes |
+> | **Authenticity Status** | 🟡 **Potentially Real / Alleged Early Server (Unconfirmed Fully)** | 🔴 **Confirmed Fake / Outside Copycats** |
+> | **Server Operator** | Alleged site manager / insider posting under `CyberLeek` | Outside clout seekers (`cyberleek_west`, `surwest`, `ZWjnQSSJ2P`) |
+> | **Evidence of Early Links** | Shared direct working links to `https://cyberleek.ar.io/`, `bedrive.ru`, `gofile.io`, and `upcoming 1.png` UI teaser | Shared zero video files, fabricated story text ("Lucia 2% intro", "Robux currency"), and fake 8 PM drop promises |
+> | **Official Watermark Distinction** | The Video 4 watermark explicitly said `"CYBERLEEK DOES NOT HAVE TWITTER"`, leaving Discord unmentioned | Promoted exclusively by the fake Twitter account before X banned it |
+> | **Server Fate** | Banned by Discord Trust & Safety for DMCA within 24 hours | Restricted / banned; devolved into staged fake FBI raid memes |
 > * **Separating Real Proof From Fake Claims**:
 >   * 🟢 **GENUINE EVIDENCE**: Only the **5 leaked video files**, the **map images**, the **Solana transactions signed by `6Nq6...`**, and the **official website portals** are genuine developer material.
 >   * 🔴 **UNVERIFIED / FAKE DISCORD CLAIMS**: The text claims below have zero proof in game files, zero proof on-chain, and zero video leaks backing them up.
@@ -848,7 +848,10 @@ Every date here has a source you can check yourself:
      * `▶ Police Station Raid — Jason Combat`
      No "Lucia Ending Video" was ever part of the official voting ballot.
   5. **Easy Discord Impersonation**: Anyone on Discord can set their nickname to `CyberLeek`, upload the public leek picture, and paste the public link `https://cyberleek.ar.io/`.
-* **Verdict**: This screenshot is **unverified and most likely a fake HTML mockup** created by a Discord user to gain attention on Reddit.
+* **Verdict & Potential Authenticity**:
+  * **Possibility A (Real Early Teaser)**: The Discord user `CyberLeek` was sharing real AR.IO and Gofile links matching the exact CSS design of the site before the server was banned. This suggests it was potentially the actual site manager testing out a poll card before changing the 4 choices on August 19.
+  * **Possibility B (Inspect-Element Discord Mockup)**: Because anyone can change their Discord nickname to `CyberLeek` and `file.io` was never used on-chain, it is also possible an outside user created an HTML mockup to seek clout on Reddit.
+  * **Conclusion**: It remains **unconfirmed fully**, but serves as valuable archived evidence of early community interactions before the original Discord server ban.
 
 ---
 
