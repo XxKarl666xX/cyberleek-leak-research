@@ -104,6 +104,8 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 * 🤝 **[13. Contributing & Submitting Evidence](#contributing)**
 
+* ☕ **[14. Support the Research & Tip Addresses](#support-research)**
+
 ---
 
 <a id="what-got-leaked"></a>
@@ -1125,6 +1127,22 @@ Have you spotted an error, found new verifiable evidence, or want to contribute 
 * **Open an Issue**: [Submit an Issue](https://github.com/zyrexdz/cyberleek-leak-research/issues) to suggest corrections, share mirrors, or submit newly discovered community findings.
 * **Submit a Pull Request**: [Open a Pull Request](https://github.com/zyrexdz/cyberleek-leak-research/pulls) with documented sources and proof.
 * *Note: All contributions must strictly adhere to our Fair Use & No-Hosting policy (do not submit raw copyrighted `.mp4` video files, torrent links, or confidential company binaries).*
+
+---
+
+<a id="support-research"></a>
+## ☕ Support the Research & Infrastructure
+
+If this research project helped you stay informed, provided verified technical facts, or saved you from online crypto scams, you can support the maintainer and ongoing investigation directly via cryptocurrency tips:
+
+| Cryptocurrency | Network / Asset | Public Wallet Address |
+|:---|:---|:---|
+| **Bitcoin (BTC)** | Native BTC (SegWit) | `bc1qdqhnyjx0tcamk7mh0hwaf4xt48e59m2lerlm6c` |
+| **Ethereum (ETH)** | Ethereum (ERC-20 / ETH / USDT) | `0xF04A19799E514aa654b26a0f73427Ce1d6768904` |
+| **Solana (SOL)** | Solana Native | `3pBo2voLKHqyYPZu9pG5d52wY4cLTLWAKLqcWYvLyf7D` |
+| **Litecoin (LTC)** | Litecoin Native | `LfiRyFmSydWE1qU4zDK4TzApLZJ8K959C9` |
+
+> 💖 *Every tip directly supports server hosting, archive tools, and continued independent OSINT documentation. Thank you for your support!*
 
 ---
 
