@@ -1439,10 +1439,12 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
   * **Creation Date**: **January 3, 2018 at 19:21 UTC** (Matching the exact same day Cyberleek posted his introduction on SzeneBox!).
   * **Identical Profile Picture Match**: The Twitter account `@T3chF0rum` uses the **exact same dark flaming skull avatar (pfp)** that user `cyberleek` used on `szenebox.org`, visually confirming they are the exact same operator.
   * **Bio**:  
-    > *"Willkommen Bei Tech-Forum.ch. Dies ist der Originale Twitter Account zum Forum. News werden hier veröffentlicht. Kommt vorbei, schaut rein, und sagt uns was Ihr noch so braucht!"*
+    > *"Willkommen Bei Tech-Forum.ch. Dies ist der Originale Twitter Account zum Forum. News werden hier veröffentlicht. Kommt vorbei, schaut rein, und sagt uns was Ihr noch so braucht!"*  
+    > **English Translation**: *"Welcome to Tech-Forum.ch. This is the original Twitter account for the forum. News will be published here. Come by, check it out, and tell us what else you need!"*
   * **Original Tweet (`03.01.2018 19:34 UTC`)**:  
-    > *"Willkommen Bei Tech-Forum.ch Dies ist der Originale Twitter Account zum Forum. News werden hier veröffentlicht. Kommt vorbei, schaut rein, und sagt uns was Ihr noch so braucht! tech-forum.ch"*
-  * **Attached Media**: Graphic banner displaying a custom computer rig titled *"TECH-FORUM.CH - DEIN FORUM FÜR TECHNOLOGIE"*.
+    > *"Willkommen Bei Tech-Forum.ch Dies ist der Originale Twitter Account zum Forum. News werden hier veröffentlicht. Kommt vorbei, schaut rein, und sagt uns was Ihr noch so braucht! tech-forum.ch"*  
+    > **English Translation**: *"Welcome to Tech-Forum.ch. This is the original Twitter account for the forum. News will be published here. Come by, check it out, and tell us what else you need! tech-forum.ch"*
+  * **Attached Media**: Graphic banner displaying a custom computer rig titled *"TECH-FORUM.CH - DEIN FORUM FÜR TECHNOLOGIE"* (English: *"Tech-Forum.ch: Your Forum for Technology"*).
   * **Significance**: Conclusively links the Swiss forum domain `tech-forum.ch` to its official social media presence from January 2018, reinforcing the 2018 German/Swiss timeline.
 
 * **Wayback Machine Snapshots & Swiss WHOIS Trail**:
