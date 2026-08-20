@@ -829,13 +829,20 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 <a id="manifesto-three-commandments"></a>
 #### 2. The Official "Three Commandments" Manifesto & Extortion Demands
 
-* **Source**: *Eurogamer, Forbes, Mashable, and Live Cyberleek Website Archive*
-* **The Claimed Motivation**: The leaker published a formal manifesto on their website and dark web channels framing the leaks as a moral protest against modern anti-consumer video game industry practices:
+<div align="center">
+  <img src="assets/cyberleek_live_manifesto_proof_header.png" alt="Live Cyberleek Edict Header" width="460" />
+  <img src="assets/cyberleek_live_manifesto_proof_commandments.png" alt="Live Cyberleek Three Commandments" width="460" />
+</div>
 
-> 📜 **The "Three Commandments" Manifesto**:
-> 1. **Commandment 1 (Digital Pre-Orders)**: *"No consumer shall pay for a game through digital storefronts before release and independent review."*
-> 2. **Commandment 2 (Cut Content & DLC)**: *"Thou shalt not strip story content from the base game to sell later as paid single-player DLC."*
-> 3. **Commandment 3 (Physical Discs & Preservation)**: *"Thou shalt preserve physical disc media and guarantee offline single-player longevity."*
+*Live portal screenshots from `https://leek.vilenarios.com/` displaying "The CYBERLEEK Edict" and the complete "Three Commandments" text.*
+
+* **Source**: *Direct Live Website Portal (`leek.vilenarios.com`), Eurogamer, Forbes, and Mashable*
+* **The Claimed Motivation**: The leaker published a formal manifesto titled *"The CYBERLEEK Edict"* on their Web3 portal, framing their unauthorized leaks as an ideological protest against corporate video game monetization:
+
+> 📜 **The "Three Commandments" Manifesto (Exact Text)**:
+> 1. **Commandment I: Thou Shalt Not Sell Digital Preorders**: *"No consumer shall pay for a game through digital storefronts before release and independent review. Preorders were created because physical discs had manufacturing limits. In digital distribution, there is no inventory... If publishers want revenue before launch, they can press discs. Print boxes. Put them on shelves."*
+> 2. **Commandment II: Thou Shalt Not Sell Fake Single-Player DLC**: *"No publisher shall sell access to single-player content already present in the base game files the consumer purchased. This means no unlock keys, no 1MB placeholder files, no toggling a variable from locked to unlocked for content already on the disc."*
+> 3. **Commandment III: Thou Shalt Preserve Single-Player Content**: *"Any game featuring single-player content must include an offline fallback state. When server support ends, the publisher must release a final patch that unlocks all single-player content for local, indefinite play (citing Ubisoft's shutdown of The Crew as theft)."*
 
 * **The Extortion Threat**: Cyberleek demanded that Rockstar Games and Take-Two Interactive publicly apologize and issue a formal commitment to physical discs and single-player preservation, threatening ongoing releases and demanding "financial compensation for damages".
 * **The Reality & Scam Disguise**: Industry observers, cybersecurity analysts, and gaming press (*Forbes*, *Eurogamer*) unanimously noted that this "consumer manifesto" was used as a **publicity shield to market their `$CYBERLEEK` Solana cryptocurrency token**.
