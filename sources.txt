@@ -46,18 +46,27 @@
 * SHA-1: c7124956ea8e474f92b31188ec0c311a9a341bcb
 * MD5: 6abf17ae32673056c8d34d7b3e15baa1
 
-### File 5: Full State of Leonida Map (full_map.png) — 2590x3240 PNG (3.54 MB)
+### Video 5: Plane Flyover & Alley Wall Shooting (plane.mp4) — 1080p HEVC HDR (141.5s)
+* Main Mirror: https://www.upload.ee/files/19668811/plane.mp4.html
+* Solana On-Chain Post: Account 2q3rEUUZ7ChHTLMx4QBAnew4q7UqaXXcqZ6NVgb7LZ6T
+* Solana Transaction (BlockTime 1787218982 / 2026-08-20 09:43:02 UTC): 2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH
+* Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3
+* SHA-256: 583226eb1635c611634e453146828caeaf9fa4c5abb25b21336ad5cfaa613037
+* SHA-1: 8dff04fe2e2c9987f343b821f4f50d576f931274
+* MD5: 9b4bcfec48f2de62cd4ff8989af65662
+
+### File 6: Full State of Leonida Map (full_map.png) — 2590x3240 PNG (3.54 MB)
 * Arweave Permanent Ledger (Block #1982664): https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
 * Backup Mirror: https://www.upload.ee/files/19662855/full_map.png.html
 * SHA-256: c5a07256f62f3ae37904540621f2b07d2f647fd10867b620622b3471910563f6
 * MD5: 23a7aee2466b437d3de34a6fc0f44657
 
-### File 6: Map Sneak Peek 1 (Dalton Island) — 1110x880 PNG
+### File 7: Map Sneak Peek 1 (Dalton Island) — 1110x880 PNG
 * Arweave Link: https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
 * SHA-256: 0d1f9f522b7cd5ac4e4b9702a73e1b7aaac86b3cbd4befb725c488fa4ff9bb12
 
-### File 7: Map Sneak Peek 2 (Catalan Key) — 1140x907 PNG
+### File 8: Map Sneak Peek 2 (Catalan Key) — 1140x907 PNG
 * Arweave Permanent Ledger (Block #1981170): https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 * Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
 * SHA-256: b223c52138bc03a6fc4f27ab0dd58f95cf7ae173efb948a452ea7bf5b552cbac

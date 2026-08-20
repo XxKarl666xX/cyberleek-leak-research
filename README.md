@@ -24,7 +24,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 >   * ✈️ **VIDEO 5 DROPPED (Plane DAY & Alley Shooting — VERIFIED)**: Released on **August 20, 2026 at 09:43:02 UTC** via Solana/Arweave transaction `2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH` (`plane.mp4`, 141.5s / 33.8 MB). Video 5 fulfills the website poll with clean 1080p HDR footage showing a flight over the Leonida Penitentiary, the Vice City marina and skyline, and Jason testing gun recoil by shooting "LEEK" on a wall.
 >   * ⚠️ **OFFICIAL WEBSITE MEMECOIN WARNING**: The `$CYBERLEEK` Solana token and voting polls run on the leaker's website are high-risk memecoin mechanics / probable pump-and-dump scheme. **Do NOT buy their token or send crypto.**
 >   * 🟢 **LIVE STATUS UPDATE**: ALL official websites, portals, and Web3 gateway mirrors ([**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/), [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz), [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com), [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com), [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io)) are **100% ONLINE & ACTIVE (UP)**.
->   * 🇩🇪 **LEAKER IDENTITY**: 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Nuremberg, Bavaria, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) confirm the leaker is an adult German sysadmin/hobbyist (33–38 years old).
+>   * 🇩🇪 **LEAKER IDENTITY**: 2018 German forum records on `szenebox.org` and German server hosting ([Hetzner Online in Nuremberg, Bavaria, Germany `49.13.45.141`](https://ipinfo.io/49.13.45.141)) point to the leaker likely being an adult German or Swiss speaker (around 33 to 38 years old), though their real world identity is unconfirmed.
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 </div>
 
 > [!NOTE]
-> **TIMING**: These leaks dropped on August 17–19, 2026 — exactly **9 days before** the official "GTA VI: An Extended Look" Netflix premiere on **August 27, 2026 at 3:00 PM ET**. The game launches **November 19, 2026** on PS5 and Xbox Series X|S.
+> **TIMING**: These leaks dropped between August 16 and August 20, 2026, leading up to the official "GTA VI: An Extended Look" Netflix premiere on **August 27, 2026 at 3:00 PM ET**. The game launches **November 19, 2026** on PS5 and Xbox Series X|S.
 
 ---
 
@@ -687,7 +687,7 @@ Every date here has a source you can check yourself:
 | Date / Time (UTC) | Event | Proof / Link | What It Proves |
 |:---|:---|:---|:---|
 | **2022-09-18** | Original 2022 Leak (teapotuberhacker) | [Wikipedia GTA VI Leaks](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#September_2022_leaks) | Proves 2022 leaks were early rough debug builds, totally different from 2026 footage. |
-| **2023-12-04** | Rockstar Games releases Trailer 1 | [YouTube Trailer 1](https://www.youtube.com/watch?v=QdBZY2fkU-0) | Confirms Vice-Dale County and Jason/Lucia looks. |
+| **2023-12-05** | Rockstar Games officially releases Trailer 1 (following low quality Dec 4 leak) | [YouTube Trailer 1](https://www.youtube.com/watch?v=QdBZY2fkU-0) | Confirms Vice-Dale County and Jason/Lucia looks. |
 | **2026-08-15 12:51** | First wallet activity — site setup & logo uploaded | [Block #1980496](https://viewblock.io/arweave/tx/7gFAEaO_vP6Ld4YgP9L2ZcQ5WwYvQ5Z4y8q7M9v6k8M) | Proves Cyberleek set up storage 2 days before leaking gameplay. |
 | **2026-08-16 13:04** | `map_sneak_peek_2.png` (Catalan/Gloriana Key) uploaded | [Block #1981170](https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0) | Proves map sneak peek 2 existed on-chain before video leaks. |
 | **2026-08-17 21:07** | `output.mp4` (Basketball clip) uploaded | [Block #1982091](https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs) | Cryptographically proves basketball clip existed before social media hype. |
@@ -723,11 +723,8 @@ Every date here has a source you can check yourself:
 > | **Official Watermark Distinction** | The Video 4 watermark explicitly said `"CYBERLEEK DOES NOT HAVE TWITTER"`, leaving Discord unmentioned | Promoted exclusively by the fake Twitter account before X banned it |
 > | **Server Fate** | Banned by Discord Trust & Safety for DMCA within 24 hours | Restricted / banned; devolved into staged fake FBI raid memes |
 > * **Separating Real Proof From Fake Claims**:
->   * 🟢 **GENUINE EVIDENCE**: Only the **5 leaked video files**, the **map images**, the **Solana transactions signed by `6Nq6...`**, and the **official website portals** are genuine developer material.
->   * 🔴 **UNVERIFIED / FAKE DISCORD CLAIMS**: The text claims below have zero proof in game files, zero proof on-chain, and zero video leaks backing them up.
-> * **Clear Separation**:
->   * 🟢 **GENUINE EVIDENCE**: Only the **4 video files** (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`), the **map images**, the **on-chain Solana transaction**, and the **official website portals** (`leek.vilenarios.com` / `cyberleek.ario.koltigin.xyz`) are genuine developer material.
->   * 🔴 **UNVERIFIED / FAKE PRETENDER CLAIMS**: The text claims below have **zero proof in the leaked video files, zero proof in internal game code, and zero proof on the official website**. They were posted by pretenders seeking attention.
+>   * 🟢 **GENUINE EVIDENCE**: Only the **5 leaked video files** (`output.mp4`, `video2.mp4`, `taser.mp4`, `junkies.mp4`, `plane.mp4`), the **map images**, the **Solana transactions signed by `6Nq6...`**, and the **official website portals** are genuine developer material.
+>   * 🔴 **UNVERIFIED / FAKE PRETENDER CLAIMS**: The text claims below have zero proof in game files, zero proof on-chain, and zero video leaks backing them up.
 > 
 > *We keep the original screenshots below for documentation and community research, with clear warning labels:*
 
@@ -963,7 +960,7 @@ A community member investigated public Solana blockchain data on Solscan and unc
 #### 3. Why We CANNOT Be 100% Sure (Counter-Points & What We Still Don't Know):
 While the wallet trail is real, we still have to be careful before jumping to final conclusions:
 1. **The Leaker Could Be an Opportunist, Not the Original Hacker**:
-   * Having old gameplay videos and setting up a website doesn't prove *who* originally took the footage from Rockstar or *when*. The footage itself is over a year old (from 2023–2024). The person setting up the website could have bought or received the files earlier and decided to make money off them.
+   * Having gameplay videos and setting up a website doesn't prove who originally took the footage from Rockstar or when. While the leaked map was stated to be from 2023, the in-game radio track proves the recorded video build is from early 2025 or newer. The person setting up the website could have obtained the files earlier and decided to launch a website around them.
 2. **Wallets Do Not Reveal Real-World Identity**:
    * All the wallets in the chain are fresh, anonymous accounts without personal verification tags. The blockchain shows *how* the money moved, but it cannot show who was sitting at the keyboard.
 3. **Multiple People Could Be Involved**:
@@ -1182,7 +1179,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
   * **How the Evidence Proves the Claim**: On-chain ledger signatures confirm that only a single transaction was ever sent to any of the 4 voting wallets, proving a single individual single-handedly decided the entire poll outcome.
 <a id="poll-vault-categories"></a>
 * **What This Reveals About the Leaker's Archive**:
-  1. **Video 5 Topic**: The upcoming 5th video drop will showcase **Daytime Airplane Flight / Aerial Gameplay / Cinematic Drive-By** action in Leonida.
+  1. **Video 5 Topic**: Video 5 showcases **Daytime Airplane Flight / Aerial Gameplay / Cinematic Drive-By** action in Leonida as voted in the poll.
   2. **Organized Playtest Vault**: The poll options prove the leaker possesses categorized playtest footage sorted by vehicle types and lighting conditions (`Car Day/Night`, `Motorcycle Night`, `Plane Day`).
 <a id="poll-token-sink"></a>
 * **Scam Warning on Voting Mechanics**:
@@ -1423,7 +1420,7 @@ Community records prove Cyberleek was **actively participating in data breach an
 ##### 5. Server & Datacenter Setup (Hetzner Germany)
 
 * **Main Server IP**: [`49.13.45.141`](https://ipinfo.io/49.13.45.141)
-* **Hosting Company**: [**Hetzner Online GmbH**](https://www.hetzner.com/) (Germany's biggest server provider).
+* **Hosting Company**: [**Hetzner Online GmbH**](https://www.hetzner.com/) (one of Germany's largest hosting and datacenter providers).
 * **Server Location**: **Nuremberg, Bavaria, Germany** ([`AS24940`](https://ipinfo.io/AS24940)).
 * **Server Address (rDNS)**: `static.141.45.13.49.clients.your-server.de` (`your-server.de` is Hetzner's German customer portal).
 * **Payment & Verification Nuance**: While Hetzner is based in Germany and frequently asks for EU bank/card details or ID for dedicated servers, cloud VPS instances can also be purchased via PayPal without strict identity checks, meaning false account info could potentially be used. *(Correction credit: [@XxKarl666xX](https://github.com/XxKarl666xX) — [Issue #7](https://github.com/zyrexdz/cyberleek-leak-research/issues/7))*
@@ -1543,7 +1540,7 @@ Checking all 50 transactions signed by authority **`6Nq6KAzFKFCKDXYg1kqs23EuBBEW
 * **Map Sneak Peek 1's block data** — the file works fine on Arweave's gateway but doesn't show up in the wallet's transaction history on GraphQL.
 * **How they got the footage** — could be leftover access from the 2022 breach, an insider, or they bought it from someone. Cyberleek dodged this question in Discord.
 * **One person or a team?** — the tech setup is solid but the social media posting style is messy (promoter vs real uploader).
-* **Did Video 5 drop?** — Yes, **Video 5: "Plane (DAY) — Cinematic Drive-By" (`plane.mp4`, 141.5s)** dropped on August 20, 2026 at 09:43:02 UTC on-chain and is fully documented in this repository.
+* **Are there more clips in their archive?** — The website voting ballot listed other categories like police station raids, boat chases, and night vehicle clips, but it is unknown if more videos will ever be released.
 * **Does the leaker have the full game build?** — **⚠️ NOT 100% CONFIRMED**. While shooting "LEEK" on the wall proves someone was actively playing the game, it is not confirmed whether the leaker has the full game build or just access to an internal test slice.
 
 ---
