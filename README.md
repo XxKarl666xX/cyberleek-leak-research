@@ -1437,6 +1437,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
 * **Official Forum Twitter Account (@T3chF0rum)**:
   * **Handle**: [**@T3chF0rum** (https://x.com/T3chF0rum)](https://x.com/T3chF0rum)
   * **Creation Date**: **January 3, 2018 at 19:21 UTC** (Matching the exact same day Cyberleek posted his introduction on SzeneBox!).
+  * **Identical Profile Picture Match**: The Twitter account `@T3chF0rum` uses the **exact same dark flaming skull avatar (pfp)** that user `cyberleek` used on `szenebox.org`, visually confirming they are the exact same operator.
   * **Bio**:  
     > *"Willkommen Bei Tech-Forum.ch. Dies ist der Originale Twitter Account zum Forum. News werden hier veröffentlicht. Kommt vorbei, schaut rein, und sagt uns was Ihr noch so braucht!"*
   * **Original Tweet (`03.01.2018 19:34 UTC`)**:  
