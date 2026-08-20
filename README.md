@@ -8,7 +8,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 > [!CAUTION]
 > <a id="key-alerts"></a>
-> ### ⚠️ CRITICAL WARNING: DO NOT TRUST TWITTER/X OR DISCORD PRETENDER ACCOUNTS
+> ### ⚠️ WARNING: DO NOT TRUST TWITTER/X OR DISCORD PRETENDER ACCOUNTS
 > 
 > **Please read this before reviewing any claims or evidence in this repository:**
 > 
@@ -41,7 +41,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 ## 📑 Clickable Table of Contents / Jump to Section
 
-* 🚨 **[Critical Facts & Latest Status (Must Read First)](#key-alerts)**
+* 🚨 **[Important Facts & Latest Status (Must Read First)](#key-alerts)**
 
 * 📁 **[1. What Got Leaked (All 7 Files)](#what-got-leaked)**
   * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
@@ -609,7 +609,7 @@ Every date here has a source you can check yourself:
 ## 7. Claims Made on Discord (Archived Evidence — ⚠️ UNVERIFIED & FAKE PRETENDER CLAIMS)
 
 > [!WARNING]
-> ⚠️ **CRITICAL WARNING: These Discord Claims Come From Pretender Accounts!**  
+> ⚠️ **WARNING: These Discord Claims Come From Pretender Accounts!**  
 > 
 > * **How This Discord Was Created**: This Discord server was created and shared **exclusively through the fake `@cyberleek_ar_io` Twitter account**.
 > * **The Chain of Impersonation**: In the official Video 4 drop (`junkies.mp4`), the original website creator added a permanent watermark stating **`"CYBERLEEK DOES NOT HAVE TWITTER"`**. This confirms the Twitter account was an outside imposter, and the Discord accounts (`cyberleek`, `cyberleek_west`, `surwest`) were **pretender accounts looking for clout**.
