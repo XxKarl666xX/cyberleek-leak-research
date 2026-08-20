@@ -860,7 +860,7 @@ Every date here has a source you can check yourself:
 * **The Evidence**:
   1. **Recycled 2022 Leaks**: The C++ shader code (`X:\americas\src\dev\game\shader_source\Lighting...`), the `textures.com` Rockstar India invoice, and the graphics debugging screenshots (Vice City skyline at night) are **100% verified authentic files from the original September 2022 Arion Kurtaj (Lapsus$) mega-leak**. They are completely unrelated to 2026.
      * *Proof Citation 1*: 🔗 [Bloomberg: Grand Theft Auto VI Leak Is Real (Sept 19, 2022)](https://www.bloomberg.com/news/articles/2022-09-18/rockstar-games-hacked-grand-theft-auto-vi-video-footage-leaks) — Confirms the 2022 mega-leak featured 90 videos with graphics debugging overlays and the "Americas" internal codename.
-     * *Proof Citation 2*: 🔗 [PC Gamer: The massive GTA 6 leak is real (Sept 18, 2022)](https://www.pcgamer.com/gta-6-leak-real-confirmed/) — Confirms the massive source code dump that included these exact shader files.
+     * *Proof Citation 2*: 🔗 [IGN: Grand Theft Auto 6 Leak is Real, Rockstar Confirms (Sept 19, 2022)](https://www.ign.com/articles/grand-theft-auto-6-leak-real-rockstar-confirms) — Confirms the massive source code dump that included these exact shader files.
   2. **Amateur Watermarks**: The scammers simply opened 4-year-old leaked screenshots in an image editor and typed massive red text over them saying `https://t.me/clumsylulz for more` and `buy $CYBERLEEK`.
   3. **No Affiliation**: The channel operators explicitly admitted on Telegram: *"fyi we are not associated with cyberleek, thats a whole different person"*.
 * **Verdict**: 🔴 **100% COPYCAT CRYPTO SCAM**. Zero new footage. Just recycled 2022 leaks heavily watermarked to pump fraudulent crypto tokens.
