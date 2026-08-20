@@ -28,10 +28,25 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 <div align="center">
 
-#### ❌ Official Proof from Video 4 Watermark: "CYBERLEEK DOES NOT HAVE TWITTER"
-<img src="assets/cyberleek_watermark_no_twitter_proof.png" alt="Cyberleek No Twitter Watermark" width="600" />
+### 🚨 MAJOR DISCOVERY: LEAKER SHOOTS "LEEK" ON WALL WITH BULLET HOLES (POSSIBLE PLAYABLE BUILD)
+<img src="assets/video5_plane_01_40_leek_bullet_wall_proof.jpg" alt="Jason Shoots LEEK with Bullet Holes" width="720" />
 
-*In the newest 4th video drop (`junkies.mp4`), the official watermark explicitly states: **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**.*
+*In the newest 5th video drop (`plane.mp4` at 01:37), Jason Duval aims an assault rifle and shoots the word **`L E E K`** directly into the alley wall with live bullet holes.*
+
+</div>
+
+> [!IMPORTANT]
+> **🎮 DOES THE LEAKER HAVE A PLAYABLE GAME BUILD?**
+> * **Live Player Input Confirmed**: In Video 5 (`plane.mp4`), the player actively controls Jason to spell out **`L E E K`** on the wall using bullet holes. This proves the footage is **not an old pre-rendered trailer or static recording** — someone was actively playing the game with live controller/mouse inputs.
+> * **What This Means**: The leaker (or the person recording for them) **likely has interactive access to a playable GTA VI developer build / test client**. However, whether they hold the entire finalized hundred-gigabyte game repository or a modular internal playtest slice remains unverified.
+> * 🔗 [Read the full Game Build Access Analysis in Section 8.9](#full-build-theory) | [View the Video 5 breakdown in Section 4.5](#plane-breakdown)
+
+<div align="center">
+
+#### ❌ Official Proof from Video 4 Watermark: "CYBERLEEK DOES NOT HAVE TWITTER"
+<img src="assets/cyberleek_watermark_no_twitter_proof.png" alt="Cyberleek No Twitter Watermark" width="550" />
+
+*In the 4th video drop (`junkies.mp4`), the official watermark explicitly states: **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**.*
 
 </div>
 
