@@ -829,12 +829,10 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 <a id="manifesto-three-commandments"></a>
 #### 2. The Official "Three Commandments" Manifesto & Extortion Demands
 
-<div align="center">
-  <img src="assets/cyberleek_live_manifesto_proof_header.png" alt="Live Cyberleek Edict Header" width="460" />
-  <img src="assets/cyberleek_live_manifesto_proof_commandments.png" alt="Live Cyberleek Three Commandments" width="460" />
-</div>
+![Cyberleek Commandments 1 and 2](assets/cyberleek_commandments_1_and_2_highres.png)
+![Cyberleek Commandment 3](assets/cyberleek_commandment_3_highres.png)
 
-*Live portal screenshots from `https://leek.vilenarios.com/` displaying "The CYBERLEEK Edict" and the complete "Three Commandments" text.*
+*High-resolution portal screenshots from `https://leek.vilenarios.com/` displaying the complete "Three Commandments" manifesto.*
 
 * **Status**: 🟢 **VERIFIED FACT (Direct Primary Source Evidence)**
 * **Direct Primary Source URL**: [https://leek.vilenarios.com/](https://leek.vilenarios.com/) *(Permanent Arweave hash: `x8L_...`)*
