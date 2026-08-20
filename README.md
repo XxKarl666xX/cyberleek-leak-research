@@ -10,7 +10,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > <a id="key-alerts"></a>
 > ### 🚨 Critical Facts & Latest Status (Must Read First)
 > 
-> * ✈️ **NEXT LEAK DROP INCOMING (Video 5: Plane DAY)**: The official website poll concludes today (**August 20, 2026 at 11:26 UTC**). The site confirms the winning video — **`Plane (DAY) — Cinematic Drive-By`** — is scheduled to drop in the Content section within **24 hours after the poll ends**!
+> * ✈️ **ALLEGED NEXT LEAK DROP (Video 5: Plane DAY — High Confidence)**: The official website poll concludes today (**August 20, 2026 at 11:26 UTC**). While not 100% guaranteed (leakers can always delay or change plans), the site states the winning video — **`Plane (DAY) — Cinematic Drive-By`** — is scheduled to drop in the Content section within **24 hours after the poll ends**!
 > * 🟢 **LIVE STATUS UPDATE**: ALL official websites, portals, and Web3 gateway mirrors ([**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/), [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz), [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com), [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com), [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io)) are **100% ONLINE & ACTIVE (UP)**!
 > * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: Both the suspended [@cyberleek_ar_io](https://x.com/cyberleek_ar_io) and its secondary backup account [**@MrCyberLeek**](https://x.com/MrCyberLeek) on X are **100% FAKE / IMPOSTERS** run by an outside promoter seeking clout.
 > * 💬 **DISCORD Q&A CLAIMS ARE UNVERIFIED / PROMOTER FICTION**: All text claims from the old "Cyberleek Discord" (Lucia intro mission, prison pickup, 2023 map claim, Robux currency) were posted on a server shared by the fake Twitter promoter. Only the 4 video files, map images, on-chain Solana tx, and official website portals are genuine.
@@ -862,15 +862,10 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   * **Exact Poll End Time**: **August 20, 2026 at 11:26 UTC** (`ends 20. 8. 2026, 11:26`).
   * **Official Website Release Rule**: *"The winning choice will be featured in the 'Content' section within 24h after the poll ends."*
   * **Expected Video 5 Drop Window**: Scheduled to appear between **August 20, 11:26 UTC and August 21, 11:26 UTC**!
+  * ⚠️ *Confidence Level*: **High Confidence / Alleged Schedule**. While the official website promises this drop within 24h, leakers can face technical delays or change release timing at any moment.
 * **The Voting Results**:
   * **Winning Option**: **`▶ Plane (DAY)`** won with **100.0% of the total vote** (`65,342.86 $CYBERLEEK` tokens donated to wallet `8MAye9xrLzeeapUMo2XM9r3TRsoTNnz9pywqoTpiiK1B`).
   * **Other Options on Ballot**: `Car (DAY)` (0 votes), `Car (NIGHT)` (0 votes), `Motorcycle (NIGHT)` (0 votes).
-
-* **The Poll Breakdown**:
-  * **Title**: *"Next GTA 6 Video... Cinematic drive by?"*
-  * **Winning Option**: **`▶ Plane (DAY)`** won with **100.0% of the total vote** (`65,342.86 $CYBERLEEK` tokens donated to wallet `8MAye9xrLzeeapUMo2XM9r3TRsoTNnz9pywqoTpiiK1B`).
-  * **Other Options on the Ballot**: `Car (DAY)` (0 votes), `Car (NIGHT)` (0 votes), `Motorcycle (NIGHT)` (0 votes).
-  * **Official Website Release Window**: *"The winning choice will be featured in the 'Content' section within 24h after the poll ends."*
 * **What This Reveals About the Leaker's Archive**:
   1. **Video 5 Topic**: The upcoming 5th video drop will showcase **Daytime Airplane Flight / Aerial Gameplay / Cinematic Drive-By** action in Leonida.
   2. **Organized Playtest Vault**: The poll options prove the leaker possesses categorized playtest footage sorted by vehicle types and lighting conditions (`Car Day/Night`, `Motorcycle Night`, `Plane Day`).
