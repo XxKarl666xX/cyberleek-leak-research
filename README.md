@@ -147,6 +147,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * 🔵 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
     * 🔵 [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
     * ❌ [8.7.4. Scam Warning on Voting Token Sinks](#poll-token-sink)
+    * ❌ [8.7.5. Code Proof: Reverse Engineering the Rigged Poll System (finalBalances Override)](#poll-rigged-code)
   * 🟢 [8.8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
   * ⚫ [8.9. Game Build Access Analysis: Active Playable Access Confirmed via "LEEK" Bullet Wall Test](#full-build-theory)
   * ❌ [8.10. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
@@ -159,6 +160,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * ⚫ [8.12.1. ArNS Name Network (`cyberleek`, `cyberleak`, `ciberleek`)](#arns-domain-network)
     * ⚫ [8.12.2. The 3-Tier Arweave Wallet Pipeline (`3YLNDX...` / `52yK...` / `667Gfn...`)](#arweave-wallet-pipeline)
     * ⚫ [8.12.3. Solana Master Operator Key (`6Nq6...`) & Program Control](#solana-master-operator)
+    * ⚫ [8.12.4. Complete Upstream Wallet Cluster & Funding Chain](#upstream-wallet-cluster)
 
 * 🟢 **[9. How Everyone Reacted (Industry, Communities & Legal Responses)](#reactions)**
   * 🛑 [9.1. Stop Killing Games (Ross Scott) Official Disassociation](#reaction-skg)
@@ -1185,6 +1187,98 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 * **Scam Warning on Voting Mechanics**:
   * The voting system required community members to send non-refundable `$CYBERLEEK` Solana tokens directly to separate wallet addresses to vote. This served as a classic **token sink** designed to pump on-chain volume and encourage memecoin purchases.
 
+<a id="poll-rigged-code"></a>
+#### 8.7.5. ❌ Code Proof: Reverse Engineering the Rigged Poll (`finalBalances` Override & Program Upgrade Authority)
+
+*(Reverse engineering and code extraction credit: Community researcher Goons / `justarandomnerd`)*
+
+<div align="center">
+  <img src="assets/onchain_poll_rigged_finalbalances_proof.jpg" alt="CyberLeek Rigged Poll System Architecture and Code Proof" width="100%" />
+  <p><em>Technical architecture showing how the website frontend discards real votes and replaces them with arbitrary operator numbers (finalBalances) upon finalization.</em></p>
+</div>
+
+* **Status**: 🔴 **100% PROVEN RIGGED / FAKE DECENTRALIZED VOTING**
+* **Primary Evidence**: Direct JavaScript inspection of the official frontend application bundle (`index-CE2GuztQ.js`) and Solana ProgramData account `FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9`.
+
+##### 1. Hardcoded Program & Token Addresses
+In the initialization block of `index-CE2GuztQ.js`, all core program addresses and token mints are hardcoded into the frontend:
+```javascript
+var e = ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg     // $CYBERLEEK token mint
+var t = 9                                                     // Decimals
+var n = new Z(`7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a`) // Poll Program ID
+var r = new Z(`TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA`)  // SPL Token Program
+var i = new Z(`ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL`) // Associated Token Account Program
+```
+
+##### 2. On-Chain Poll Account Data Decoder: The `finalBalances` Field
+The decoder function `k(e)` reads the raw binary account data for each poll:
+```javascript
+function k(e) {
+    let t = new te(e.slice(8));
+    return {
+        authority: t.pubkey(),       // Who controls this poll
+        timestamp: Number(t.i64()),
+        pollId: t.bytes(32),
+        title: t.str(),
+        choices: t.vecStr(),
+        endsAt: Number(t.i64()),
+        isFinalized: t.vecBool(),    // Has the operator locked results?
+        finalBalances: t.vecU64()    // Stored balances that OVERRIDE real votes
+    };
+}
+```
+
+##### 3. The Smoking Gun: Real Votes are Discarded Upon Finalization
+The core poll rendering function `N()` exposes exactly how the website calculates and displays vote totals:
+```javascript
+function N() {
+    let r = t[0]; // Most recent poll
+    let a = r.isFinalized.every(e => e);    // Check if operator marked poll finalized
+    let s = a && r.finalBalances.length > 0; // Check if operator provided stored balances
+
+    for (let e = 0; e < r.choices.length; e++) {
+        let t = se(r.pollId, e);  // Derive choice token account (PDA)
+        if (s) {
+            // FINALIZED: The website ignores live blockchain balances and uses stored numbers!
+            let t = e < r.finalBalances.length ? r.finalBalances[e] : 0n;
+            l.push(t);
+        } else {
+            // NOT FINALIZED: Reads real live token balances sent by users
+            let n = await re(() => f.getTokenAccountBalance(t), null);
+            let r = n ? BigInt(n.value.amount) : 0n;
+            l.push(r);
+        }
+    }
+}
+```
+
+* **How the Trick Works**:
+  1. While a poll is active, the site shows real token balances transferred to each choice wallet.
+  2. Once the poll closes, the operator triggers a `finalize` instruction.
+  3. Instead of locking the real counts, the program allows the operator to input arbitrary numbers into `finalBalances`.
+  4. The website immediately stops reading actual token balances and displays whatever numbers the operator entered. Real community votes are completely discarded.
+
+##### 4. Manual Operator Control: "Late Voting Accepted"
+When the poll countdown timer ends, the frontend displays a manual notice:
+```html
+<div class="poll-badge ended">▸ ENDED — LATE VOTING ACCEPTED</div>
+<strong>▸ LATE VOTING ACCEPTED — POLL NOT FINALIZED YET</strong>
+The poll timer has expired, but finalization has not been triggered.
+You can still donate to any choice address above.
+The final tally will be recorded when the finalizers act.
+```
+This confirms finalization is not an automated decentralized smart contract trigger. It is a manual action performed whenever the operator decides to step in.
+
+##### 5. Full Program Upgrade Authority
+Looking at the Solana ProgramData account on-chain:
+* **Program Account**: `7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a`
+* **ProgramData Account**: `FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9`
+* **Slot**: `439488370`
+* **Has Authority**: `1 (TRUE)`
+* **Upgrade Authority**: `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`
+
+This proves wallet `6Nq6...` (the same wallet that published the video leaks and Arweave content) holds full upgrade permissions. They have the power to rewrite the entire smart contract code at any time.
+
 ---
 
 <a id="natedrake-age"></a>
@@ -1353,7 +1447,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
     > *"Hei. 1. Sory für die späte antwort. Zur Zeit habe ich leider kein zugriff auf mein 'tech-forum' account hier. Wen ich den Admin erwische klappt es hoffentlich bald wieder. 2. Besten Dank für dein Positives Feedback! Schön zu hören! Ich werde mich stets weiter bemühen! Update: Anti-Fraud-System eingeführt. Neue Kontakt adresse XMPP: cookie@im-tech-forum.ch"*
   * **English Translation**:  
     > *"Hi. 1. Sorry for the late reply. Currently I unfortunately have no access to my 'tech-forum' account here. When I catch the admin hopefully it will work again soon. 2. Many thanks for your positive feedback! Great to hear! I will continue to do my best! Update: Anti-fraud system introduced. New contact address XMPP: cookie@im-tech-forum.ch"*
-  * *Takeaway*: 100% proves `cyberleek` and `tech-forum` are the exact same person, and reveals his personal XMPP / Jabber contact address: **`cookie@im-tech-forum.ch`**.
+  * *Takeaway*: 100% proves `cyberleek` and `tech-forum` are the exact same person, and reveals his personal XMPP / Jabber contact address: **`cookie@im-tech-forum.ch`** and site admin address **`admin@tech-forum.ch`**.
 
 * **Wayback Machine Snapshots & Swiss WHOIS Trail**:
   * **Wayback Machine Archive Links**:
@@ -1503,6 +1597,39 @@ Checking all 50 transactions signed by authority **`6Nq6KAzFKFCKDXYg1kqs23EuBBEW
 * **Publishing Leaks**: It signed the transactions for Video 3 (`taser.mp4`), Video 4 (`junkies.mp4`), and Video 5 (`plane.mp4`).
 * **Closing the Poll**: It signed the final settlement transactions on August 20, 2026 to finish the community poll.
 * **Managing Crypto Accounts**: It set up the deposit wallets and token pools for the voting system.
+
+<a id="upstream-wallet-cluster"></a>
+#### 8.12.4. ⚫ Complete Upstream Wallet Cluster & Funding Chain
+
+*(On-chain wallet tracing credit: Community researchers whitemustache0004 and Goons / `justarandomnerd`)*
+
+<div align="center">
+  <img src="assets/onchain_full_wallet_cluster_flowchart.jpg" alt="CyberLeek Complete On-Chain Funding Cluster Map" width="100%" />
+  <p><em>Complete chronological transaction graph tracing the operation back to its earliest seed funding on August 3, 2026.</em></p>
+</div>
+
+Comprehensive blockchain transaction analysis establishes the full chronological money flow:
+
+```mermaid
+flowchart TD
+    Seed["Earliest Upstream Seed<br><code>J4zoc1r...</code><br>(0.102 SOL · Aug 3, 18:09 UTC)"] --> Op["Operational Trading Wallet<br><code>26sZDub...</code><br>(897 txs · Accumulated 156 SOL)"]
+    Op -->|"156.03 SOL (Aug 13, 09:23 UTC)"| Relay1["Relay Wallet 1<br><code>EjsB4qhc...</code>"]
+    Relay1 -->|"156 SOL (Aug 13, 13:44 UTC)"| Relay2["Relay Wallet 2<br><code>2ZdUUvrr...</code>"]
+    Relay2 -->|"Fanned Out (Aug 13 onward)"| Funder["Common Campaign Funder<br><b>3YLNDXnV...</b><br>(94 txs · preBalance = 0)"]
+    
+    Funder -->|"1.0 SOL (Aug 14, 09:42 UTC)"| ANT["ArNS Domain Controller<br><b>52yKvg...</b><br>(Registers leek & cyberleek)"]
+    Funder -->|"Aug 15, 09:49 UTC"| TokenFunder["Token Funder<br><b>Ec2qmcp...</b>"]
+    TokenFunder -->|"10 SOL (Aug 15, 14:07 UTC)"| TokenCreator["Token Creator<br><b>Hok9nbV...</b><br>(Mints 1B $CYBERLEEK)"]
+    Funder -->|"4.61 SOL (Aug 15, 17:14 UTC)"| Deployer["Content & Poll Deployer<br><b>6Nq6KAz...</b><br>(Deploys program 7rAgH... & uploads media)"]
+```
+
+##### Key Verified Blockchain Facts:
+1. **Fact 1 (The Upstream Origin)**: The earliest tracked wallet in the chain is `J4zoc1rFgPP2Mrknb48BRRoQW9PSGIVIPyuemkKMpAnV`, which transferred 0.102 SOL to main operational wallet `26sZDubW854zGAasvrUaRAgY54MiC97CEHWZKPRMPMQ9` on August 3, 2026 at 18:09 UTC (`preBalance = 0`).
+2. **Fact 2 (The Relay Pipeline)**: The operational wallet moved 156.03 SOL through temporary relay wallets `EjsB4qhc...` and `2ZdUUvrr...` on August 13 before combining into common campaign funder `3YLNDXnV9fNysDWaD39uQxwxeSaMFeAswvoQPZNvuNA4`.
+3. **Fact 3 (Domain Setup Funding)**: On August 14 at 09:42:10 UTC, `3YLNDX...` sent 1.0 SOL directly to `52yKvgZKczDMUNBH4V8RSNG7tn9y8SxeyTavYBZmwDHZ` (`preBalance = 0`), which registered the ArNS domains `leek`, `cyberleek`, and backup typos.
+4. **Fact 4 (Token Launch Funding)**: On August 15 at 09:49 UTC, `3YLNDX...` funded `Ec2qmcpCCD9hjahAcquiQf5JkZWCK68BUahCje1izYC7` (`preBalance = 0`), which sent 10 SOL to `Hok9nbV89yBSKCttxe3goqajwbiqQa9mtHvQBsbJH3Np`. `Hok9nbV...` minted 1 Billion `$CYBERLEEK` tokens at 14:23 UTC and subsequently cashed out.
+5. **Fact 5 (Deployer & Authority Funding)**: On August 15 at 17:14:33 UTC, `3YLNDX...` funded master operator key `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3` with 4.61 SOL (`preBalance = 0`). Less than 90 minutes later (18:46 UTC), `6Nq6...` deployed the poll contract `7rAgHPLD...`.
+6. **Fact 6 (Ongoing Interaction)**: Wallet `3YLNDX...` appears in `Ec2qmcp...`'s transaction logs again on August 15 at 12:36 UTC, confirming active coordination across all three arms of the launch.
 
 ------
 
