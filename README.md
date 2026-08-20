@@ -121,6 +121,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * ❌ [7.5. Real-Money Creator Currency / Robux Theory (Proved Fake Crypto Bait)](#creator-currency-claim)
   * ❌ [7.6. Discord Server Bans, Replacement Servers & Fake Twitter Drama](#discord-bans)
   * ❌ [7.7. "GTA 6: Lucia Ending Video" Discord Teaser & Reddit Post (Unverified Mockup)](#qa-lucia-ending-mockup)
+  * ❌ [7.8. The "808 Mafia / Clumsylulz" Telegram Fake](#clumsylulz-telegram-fake)
 
 * 🔵 **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * ❌ [8.1. Online Accounts & Imposter Handles Breakdown](#official-accounts)
@@ -850,6 +851,17 @@ Every date here has a source you can check yourself:
      * `▶ Police Station Raid — Jason Combat`
      No "Lucia Ending Video" was ever part of the official voting ballot.
 * **Verdict**: 🔴 **DEBUNKED FAKE MOCKUP**. Proven inspect element HTML edit created on August 19 right before Video 4 dropped.
+
+<a id="clumsylulz-telegram-fake"></a>
+### 7.8. The "808 Mafia / Clumsylulz" Telegram Fake
+
+* **The Claim**: In late August 2026, a Telegram channel named `808 mafia` (`@clumsylulz`) claimed to possess a "July 2026 devkit leak" and leaked "GTA 6 shader code".
+* **The Reality**: This is a blatant copycat crypto scam attempting to ride the hype of the Cyberleek incident to launch their own meme coins (`$808MAFIA` and copycat `$CYBERLEEK` tokens).
+* **The Evidence**:
+  1. **Recycled 2022 Leaks**: The C++ shader code (`X:\americas\src\dev\game\shader_source\Lighting...`), the `textures.com` Rockstar India invoice, and the graphics debugging screenshots (Vice City skyline at night) are **100% verified authentic files from the original September 2022 Arion Kurtaj (Lapsus$) mega-leak**. They are completely unrelated to 2026.
+  2. **Amateur Watermarks**: The scammers simply opened 4-year-old leaked screenshots in an image editor and typed massive red text over them saying `https://t.me/clumsylulz for more` and `buy $CYBERLEEK`.
+  3. **No Affiliation**: The channel operators explicitly admitted on Telegram: *"fyi we are not associated with cyberleek, thats a whole different person"*.
+* **Verdict**: 🔴 **100% COPYCAT CRYPTO SCAM**. Zero new footage. Just recycled 2022 leaks heavily watermarked to pump fraudulent crypto tokens.
 
 ---
 
