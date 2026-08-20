@@ -863,8 +863,11 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
   * **Official Website Release Rule**: *"The winning choice will be featured in the 'Content' section within 24h after the poll ends."*
   * **Expected Video 5 Drop Window**: Scheduled to appear between **August 20, 11:26 UTC and August 21, 11:26 UTC**!
   * ⚠️ *Confidence Level*: **High Confidence / Alleged Schedule**. While the official website promises this drop within 24h, leakers can face technical delays or change release timing at any moment.
-* **The Voting Results**:
-  * **Winning Option**: **`▶ Plane (DAY)`** won with **100.0% of the total vote** (`65,342.86 $CYBERLEEK` tokens donated to wallet `8MAye9xrLzeeapUMo2XM9r3TRsoTNnz9pywqoTpiiK1B`).
+* **The Voting Results & The $80 Vote**:
+  ![Poll $80 Vote Transaction](assets/cyberleek_poll_vote_80_dollar_tx.jpg)
+  *Solana on-chain transfer showing a single payment of 65,342.86 $CYBERLEEK tokens (~$80.24 USD) that won the poll.*
+  * **Winning Option**: **`▶ Plane (DAY)`** won with **100.0% of the total vote**.
+  * **The $80.24 Transaction**: On-chain transfer logs reveal that a **single voter spent ~$80.24 USD** (`65,342.86 $CYBERLEEK`) to guarantee that `Plane (DAY)` won the poll.
   * **Other Options on Ballot**: `Car (DAY)` (0 votes), `Car (NIGHT)` (0 votes), `Motorcycle (NIGHT)` (0 votes).
 * **What This Reveals About the Leaker's Archive**:
   1. **Video 5 Topic**: The upcoming 5th video drop will showcase **Daytime Airplane Flight / Aerial Gameplay / Cinematic Drive-By** action in Leonida.
