@@ -128,3 +128,16 @@ Duration: 141.53s | Resolution: 1920x1080 (HEVC/H.265 Main 10 BT.2020 HDR) | Siz
 MD5: 9b4bcfec48f2de62cd4ff8989af65662
 SHA1: 8dff04fe2e2c9987f343b821f4f50d576f931274
 SHA256: 583226eb1635c611634e453146828caeaf9fa4c5abb25b21336ad5cfaa613037
+
+
+--- ON-CHAIN CONTROL ARCHITECTURE & WALLET RELATIONSHIPS ---
+Research Credit: whitemustache0004 & Blockchain Verification
+Master Arweave Funding Origin: 3YLNDX...
+ArNS Domain Manager Key: 52yK...
+Turbo Data Uploader Key: 667Gfn...
+Arweave Manifest TX: TTZwYqvCeMCRkDkesu336Pyff26WU-BOvqKmD7zoxrQ (Owner: 7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE, Block #1981818)
+Root HTML Data ID: Y_lswXhMED7uFgU-iabGqoYIGUCcSJKw68wwpQ9qGVw
+ArNS Name cyberleak ANT Contract: 84ZXH1E2QqDXes4idD9fty93qFh3NM3uamx4ZmCVyDiE
+ArNS Name ciberleek ANT Contract: 91aW9R2sHsjCPUdyu5TJUBFgKDdqedZGYAAkXqq9Qp8X
+Solana Master Operator Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3
+Solana Main Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a

@@ -57,51 +57,61 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 ## 📑 Clickable Table of Contents / Jump to Section
 
-* 🚨 **[Important Facts & Latest Status (Must Read First)](#key-alerts)**
+> [!NOTE]
+> ### 🧭 Table of Contents Color Guide:
+> * ⚫ **Black Circle**: **Most Critical / Top-Priority Findings** (Core Leaked Files, Video Breakdowns, Map, LEEK Bullet Proof, Master Operator Keys)
+> * 🔵 **Blue Circle**: **High-Importance Verified Facts & Technical Details** (Direct Links, Video Specs, Master Timeline, Official Endpoints, Poll Results)
+> * 🟢 **Green Circle**: **Verified Community Research & Real Analysis** (Community Mapping, Radio Song Age Proof, Media Coverage, Legal Notices)
+> * 🟡 **Yellow Circle**: **Unverified Theories & Ongoing Research** (Game Build Access Scope, Open Questions)
+> * ❌ **Red 'X' / Red Icon**: **Debunked Claims, Fake Theories & Imposter Accounts** (Twitter Pretenders, Staged SWAT Memes, RDR2 Mod Hoax)
 
-* 📁 **[1. What Got Leaked (All 8 Files — 5 Videos + 3 Maps)](#what-got-leaked)**
-  * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
-  * 🚗 [File 2: Highway Driving & Delivery Van Clip (`video2.mp4`)](#driving-clip)
-  * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#full-map)
-  * 🏝️ [File 4: Map Sneak Peek 1 (Dalton Island)](#dalton-island)
-  * 🏝️ [File 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)](#catalan-key)
-  * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene Clip (`taser.mp4`)](#taser-clip)
-  * 💉 [File 7: Junkies Encounter, Police Motorcycle & Zombix Clip (`junkies.mp4`)](#junkies-clip)
-  * ✈️ [File 8: Plane Flyover & Alley Shooting Clip (`plane.mp4`)](#plane-clip)
+---
 
-* 🔗 **[2. Direct Links & Mirror Table](#direct-links)**
+* ⚫ **[Important Facts & Latest Status (Must Read First)](#key-alerts)**
 
-* 📊 **[3. Video Comparison & Technical Details](#video-comparison)**
-  * 📋 [3.1. Comprehensive Video Specs & Quality Table](#video-specs-table)
-  * 🔬 [3.2. Technical Metadata & Audio Forensic Checks](#video-tech-forensics)
+* ⚫ **[1. What Got Leaked (All 8 Files — 5 Videos + 3 Maps)](#what-got-leaked)**
+  * ⚫ [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
+  * ⚫ [File 2: Highway Driving & Delivery Van Clip (`video2.mp4`)](#driving-clip)
+  * ⚫ [File 3: Full State of Leonida Map (`full_map.png`)](#full-map)
+  * 🔵 [File 4: Map Sneak Peek 1 (Dalton Island)](#dalton-island)
+  * 🔵 [File 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)](#catalan-key)
+  * ⚫ [File 6: Taser, Truck Hijacking & Boat Cutscene Clip (`taser.mp4`)](#taser-clip)
+  * ⚫ [File 7: Junkies Encounter, Police Motorcycle & Zombix Clip (`junkies.mp4`)](#junkies-clip)
+  * ⚫ [File 8: Plane Flyover & Alley Shooting Clip (`plane.mp4`)](#plane-clip)
 
-* ⏱️ **[4. Second-by-Second Video Breakdown](#video-breakdown)**
-  * 🏀 [4.1. Video 1: Basketball Gameplay Breakdown (69s)](#bball-breakdown)
-  * 🚗 [4.2. Video 2: Highway Driving Breakdown (68s)](#driving-breakdown)
-  * ⚡ [4.3. Video 3: Taser, Truck Hijacking & Boat Cutscene (124.5s)](#taser-breakdown)
-  * 💉 [4.4. Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (144.5s)](#junkies-breakdown)
-  * ✈️ [4.5. Video 5: Plane Flyover & Alley Shooting Breakdown (141.5s)](#plane-breakdown)
-  * 🎮 [4.6. New HUD & Gameplay Mechanics Discovered](#new-hud-mechanics)
-    * 🔑 [1. Vehicle Theft: Clone Key vs Smash Window](#hud-clone-key)
-    * ⚡ [2. Health & Focus / Stamina Meter](#hud-stamina-meter)
-    * 🗺️ [3. Modern Radar Minimap](#hud-minimap)
-    * 🗣️ [4. RDR2 Dialogue Tree (Greet / Taunt / Defuse / Warn)](#hud-rdr2-dialogue)
-    * 🚨 [5. Police Danger Zone & Search Radius](#hud-wanted-radius)
-    * ⚖️ [6. Karma & Morality System](#hud-karma-morality)
-    * 💊 [7. Zombix Drug Tolerance & Consumables](#hud-zombix-system)
-    * 🌊 [8. Fuzzard Drain Canal Basin](#hud-fuzzard-canal)
-    * ⛽ [9. Vehicle Fuel & Gas Gauge](#hud-fuel-gauge)
-    * 📱 [10. In-Car iFruit CarPlay Navigation](#hud-carplay-nav)
-  * 🐦 [4.6. Community Gameplay Observations on X (@NikTek)](#niktek-breakdown)
+* 🔵 **[2. Direct Links & Mirror Table](#direct-links)**
 
-* 🗺️ **[5. Map & County Breakdown](#map-breakdown)**
-  * 🔍 [5.1. Map Zoom Road Networks & Geography](#map-zoom)
-  * 📐 [5.2. Map Size Comparison (1.656x Bigger than GTA V)](#landmass-size)
-  * 🐊 [5.3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
-  * 🌲 [5.4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
-  * 📍 [5.5. Verified Path in Video 4: South Vice-Dale & Route 97 (@theicybee)](#jason-junkies-path)
+* 🔵 **[3. Video Comparison & Technical Details](#video-comparison)**
+  * 🔵 [3.1. Comprehensive Video Specs & Quality Table](#video-specs-table)
+  * 🔵 [3.2. Technical Metadata & Audio Forensic Checks](#video-tech-forensics)
 
-* 📅 **[6. Complete Timeline & Date Proof](#timeline)**
+* ⚫ **[4. Second-by-Second Video Breakdown](#video-breakdown)**
+  * ⚫ [4.1. Video 1: Basketball Gameplay Breakdown (69s)](#bball-breakdown)
+  * ⚫ [4.2. Video 2: Highway Driving Breakdown (68s)](#driving-breakdown)
+  * ⚫ [4.3. Video 3: Taser, Truck Hijacking & Boat Cutscene (124.5s)](#taser-breakdown)
+  * ⚫ [4.4. Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (144.5s)](#junkies-breakdown)
+  * ⚫ [4.5. Video 5: Plane Flyover & Alley Shooting Breakdown (141.5s)](#plane-breakdown)
+  * 🔵 [4.6. New HUD & Gameplay Mechanics Discovered](#new-hud-mechanics)
+    * 🔵 [1. Vehicle Theft: Clone Key vs Smash Window](#hud-clone-key)
+    * 🔵 [2. Health & Focus / Stamina Meter](#hud-stamina-meter)
+    * 🔵 [3. Modern Radar Minimap](#hud-minimap)
+    * 🔵 [4. RDR2 Dialogue Tree (Greet / Taunt / Defuse / Warn)](#hud-rdr2-dialogue)
+    * 🔵 [5. Police Danger Zone & Search Radius](#hud-wanted-radius)
+    * 🔵 [6. Karma & Morality System](#hud-karma-morality)
+    * 🔵 [7. Zombix Drug Tolerance & Consumables](#hud-zombix-system)
+    * 🔵 [8. Fuzzard Drain Canal Basin](#hud-fuzzard-canal)
+    * 🔵 [9. Vehicle Fuel & Gas Gauge](#hud-fuel-gauge)
+    * 🔵 [10. In-Car iFruit CarPlay Navigation](#hud-carplay-nav)
+  * 🟢 [4.7. Community Gameplay Observations on X (@NikTek)](#niktek-breakdown)
+
+* ⚫ **[5. Map & County Breakdown](#map-breakdown)**
+  * 🔵 [5.1. Map Zoom Road Networks & Geography](#map-zoom)
+  * 🔵 [5.2. Map Size Comparison (1.656x Bigger than GTA V)](#landmass-size)
+  * 🔵 [5.3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
+  * 🔵 [5.4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
+  * 🟢 [5.5. Verified Path in Video 4: South Vice-Dale & Route 97 (@theicybee)](#jason-junkies-path)
+
+* 🔵 **[6. Complete Timeline & Date Proof](#timeline)**
 
 * ❌ **[7. Claims Made on Discord (Archived Evidence — Unverified & Pretender Claims)](#discord-qa)**
   * ❌ [7.1. Lucia's Intro Mission (Unverified Speculation)](#qa-lucia-intro)
@@ -111,17 +121,17 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * ❌ [7.5. Real-Money Creator Currency / Robux Theory (Proved Fake Crypto Bait)](#creator-currency-claim)
   * ❌ [7.6. Discord Server Bans, Replacement Servers & Fake Twitter Drama](#discord-bans)
 
-* 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
+* 🔵 **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
   * ❌ [8.1. Online Accounts & Imposter Handles Breakdown](#official-accounts)
-  * 🌐 [8.2. Official Endpoints & Live Status Tracker](#official-endpoints)
-  * 🖥️ [8.3. Server Infrastructure, IP Resolution & Hosting Providers](#server-hosting)
-  * 💰 [8.4. Blockchain & Money Trail (Token & Website Set Up 3 Days Early)](#token-money-trail)
-    * 🔍 [8.4.1. What Public Blockchain Data Confirms](#blockchain-facts)
-    * 📈 [8.4.2. Was the Leak a Pre-Planned Marketing Stunt?](#marketing-stunt-theory)
-    * 🤔 [8.4.3. What We Still Don't Know & Counter-Points](#blockchain-counterpoints)
+  * 🔵 [8.2. Official Endpoints & Live Status Tracker](#official-endpoints)
+  * 🔵 [8.3. Server Infrastructure, IP Resolution & Hosting Providers](#server-hosting)
+  * 🔵 [8.4. Blockchain & Money Trail (Token & Website Set Up 3 Days Early)](#token-money-trail)
+    * 🔵 [8.4.1. What Public Blockchain Data Confirms](#blockchain-facts)
+    * 🟡 [8.4.2. Was the Leak a Pre-Planned Marketing Stunt?](#marketing-stunt-theory)
+    * 🟡 [8.4.3. What We Still Don't Know & Counter-Points](#blockchain-counterpoints)
     * ❌ [8.4.4. Smart Contract Bytecode: Debunking "GTA Audio SDT" False Positives (@koffiekasper)](#solana-bytecode-analysis)
-  * 🧅 [8.5. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
-    * 📜 [8.5.1. The 'Three Commandments' Manifesto & Demands](#manifesto-three-commandments)
+  * 🔵 [8.5. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
+    * 🔵 [8.5.1. The 'Three Commandments' Manifesto & Demands](#manifesto-three-commandments)
   * ❌ [8.6. Twitter/X Pretender Accounts & Fake Staged Drama (Full Breakdown)](#debunking-twitter)
     * ❌ [8.6.1. Deceptive Username History & Renamed Accounts](#debunking-username-history)
     * ❌ [8.6.2. Fake AI-Generated Banners & Recycled Teasers](#debunking-ai-banners)
@@ -130,27 +140,31 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * ❌ [8.6.5. Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"](#debunking-watermark-proof)
     * ❌ [8.6.6. Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF](#debunking-fbi-raid-larp)
     * ❌ [8.6.7. Deep Investigation: @cyberleek_of Imposter Account & Recycled Media Breakdown](#debunking-cyberleek-of)
-  * ✈️ [8.7. Video 5 Release & Website Poll: "Plane (DAY)" (Delivered via On-Chain Drop)](#poll-plane-winner)
-    * ⏱️ [8.7.1. Poll Countdown & Release Window (Aug 20, 11:26 UTC)](#poll-countdown-timer)
-    * 💸 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
-    * 🗄️ [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
+  * 🔵 [8.7. Video 5 Release & Website Poll: "Plane (DAY)" (Delivered via On-Chain Drop)](#poll-plane-winner)
+    * 🔵 [8.7.1. Poll Countdown & Release Window (Aug 20, 11:26 UTC)](#poll-countdown-timer)
+    * 🔵 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
+    * 🔵 [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
     * ❌ [8.7.4. Scam Warning on Voting Token Sinks](#poll-token-sink)
-  * ⏳ [8.8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
-  * 🟡 [8.9. Game Build Access Analysis: Active Playable Access Confirmed via "LEEK" Bullet Wall Test](#full-build-theory)
+  * 🟢 [8.8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
+  * ⚫ [8.9. Game Build Access Analysis: Active Playable Access Confirmed via "LEEK" Bullet Wall Test](#full-build-theory)
   * ❌ [8.10. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
-  * 🔍 [8.11. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)](#szenebox-profile)
-    * 🇩🇪 [8.11.1. The 2018 Forum Posts & German Slang](#szenebox-2018-posts)
-    * 🇨🇭 [8.11.2. The Second Account (`tech-forum`), Swiss Site (`tech-forum.ch`), Wayback & WHOIS](#szenebox-techforum-account)
-    * 🕵️ [8.11.3. 2023 Forum Activity (Data Leaks, BreachForums & VPNs)](#szenebox-2023-activity)
-    * 🎯 [8.11.4. Age, Server Infrastructure & Summary Profile](#szenebox-identity-summary)
+  * 🟢 [8.11. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)](#szenebox-profile)
+    * 🟢 [8.11.1. The 2018 Forum Posts & German Slang](#szenebox-2018-posts)
+    * 🟢 [8.11.2. The Second Account (`tech-forum`), Swiss Site (`tech-forum.ch`), Wayback & WHOIS](#szenebox-techforum-account)
+    * 🟢 [8.11.3. 2023 Forum Activity (Data Leaks, BreachForums & VPNs)](#szenebox-2023-activity)
+    * 🟢 [8.11.4. Age, Server Infrastructure & Summary Profile](#szenebox-identity-summary)
+  * ⚫ [8.12. On-Chain Control Architecture: ArNS Domains, Funding Wallets & Solana Master Operator Key](#onchain-control-architecture)
+    * ⚫ [8.12.1. ArNS Name Network (`cyberleek`, `cyberleak`, `ciberleek`)](#arns-domain-network)
+    * ⚫ [8.12.2. The 3-Tier Arweave Wallet Pipeline (`3YLNDX...` / `52yK...` / `667Gfn...`)](#arweave-wallet-pipeline)
+    * ⚫ [8.12.3. Solana Master Operator Key (`6Nq6...`) & Program Control](#solana-master-operator)
 
-* 🗣️ **[9. How Everyone Reacted (Industry, Communities & Legal Responses)](#reactions)**
+* 🟢 **[9. How Everyone Reacted (Industry, Communities & Legal Responses)](#reactions)**
   * 🛑 [9.1. Stop Killing Games (Ross Scott) Official Disassociation](#reaction-skg)
-  * 🔴 [9.2. Reddit & Gaming Community Consensus](#reaction-reddit)
+  * 🟢 [9.2. Reddit & Gaming Community Consensus](#reaction-reddit)
   * 📰 [9.3. Major Gaming Press & Media Coverage](#reaction-press)
   * ⚖️ [9.4. Take-Two Interactive & Rockstar Legal Enforcement](#reaction-take-two)
 
-* ❓ **[10. What We Still Don't Know](#unknowns)**
+* 🟡 **[10. What We Still Don't Know](#unknowns)**
 
 * ⚖️ **[11. Final Verdict](#verdict)**
 
@@ -1332,6 +1346,64 @@ Community records prove Cyberleek was **actively participating in data breach an
 * **Why He Wants Physical Discs**: Germany and Europe have very strong consumer rights laws. His anger about digital pre-orders and wanting physical game discs matches the mindset of older European PC gamers who grew up with physical game boxes.
 
 ---
+
+<a id="onchain-control-architecture"></a>
+### 8.12. On-Chain Control Architecture: ArNS Domains, Funding Wallets & Solana Master Operator Key
+
+*(On-chain control architecture research credit: Community researcher `whitemustache0004` & blockchain forensic verification)*
+
+```mermaid
+flowchart TD
+    Fund["Master Funding Wallet<br><b>3YLNDX...</b>"] -->|"Initial AR / Turbo Credits"| ArNS["ArNS Domain Controller<br><b>52yK...</b>"]
+    Fund -->|"Upload Fees / Turbo Balance"| Uploader["Turbo Data Uploader<br><b>667Gfn...</b>"]
+    
+    ArNS -->|"Controls Record"| ANT1["ANT: cyberleek<br><code>84ZX...</code>"]
+    ArNS -->|"Controls Record"| ANT2["ANT: cyberleak<br><code>91aW...</code>"]
+    ArNS -->|"Controls Record"| ANT3["ANT: ciberleek<br><code>2MWe...</code>"]
+    
+    Uploader -->|"Uploads & Bundles"| Manifest["Arweave Manifest TX<br><code>TTZwYqvCeMCRkDkesu336Pyff26WU-BOvqKmD7zoxrQ</code>"]
+    ANT1 -->|"Points to"| Manifest
+    ANT2 -->|"Points to"| Manifest
+    ANT3 -->|"Points to"| Manifest
+    Manifest -->|"Serves Web App"| HTML["Root HTML Build<br><code>Y_lswXhMED7uFgU-iabGqoYIGUCcSJKw68wwpQ9qGVw</code>"]
+    
+    SolAuth["Solana Master Operator Key<br><b>6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3</b>"] -->|"Signs CreateLink (Videos 3, 4, 5)"| SolProg["Solana Program<br><code>7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a</code>"]
+    SolAuth -->|"Signs ProcessResults (Poll Settlement)"| SolProg
+    SolAuth -->|"Initializes Token Accounts"| SolToken["$CYBERLEEK Voting Addresses<br><code>8MAye9...</code>"]
+```
+
+While earlier research focused primarily on leaked video files and social media handles, community on-chain analysis by `whitemustache0004` uncovered the **exact backend control architecture** behind the CyberLeek website, decentralized domains, and Solana smart contract operations:
+
+<a id="arns-domain-network"></a>
+#### 8.12.1. The ArNS Name Network (`cyberleek`, `cyberleak`, `ciberleek`)
+* **Shared Manifest Discovery**: Live AR.IO gateway header inspections prove that the primary domain (`cyberleek.ar.io`) and its defensive typosquats (`cyberleak.ar.io` and `ciberleek.ar.io`) **all resolve to the exact same Arweave manifest**:
+  * **Resolved Manifest ID**: `TTZwYqvCeMCRkDkesu336Pyff26WU-BOvqKmD7zoxrQ`
+  * **Root HTML Data ID**: `Y_lswXhMED7uFgU-iabGqoYIGUCcSJKw68wwpQ9qGVw`
+  * **Manifest Uploader Wallet**: `7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE` (Arweave Block `#1981818`, timestamp `1786966343`)
+* **Individual ANT Smart Contracts**:
+  * `cyberleak.ar.io` → Controlled via ANT Contract `84ZXH1E2QqDXes4idD9fty93qFh3NM3uamx4ZmCVyDiE`
+  * `ciberleek.ar.io` → Controlled via ANT Contract `91aW9R2sHsjCPUdyu5TJUBFgKDdqedZGYAAkXqq9Qp8X`
+  * Base ANT Program ID: `2MWexMHfMhGJwMHv9Qm9YAVCqjUFUJwDJAysW4oCUGk5`
+* **Why This Matters**: Proves the site operators deliberately purchased multiple domain spellings and tied them to individual smart contracts to keep their gateway resilient against domain blocks and takedowns.
+
+<a id="arweave-wallet-pipeline"></a>
+#### 8.12.2. The 3-Tier Arweave Wallet Pipeline (`3YLNDX...` / `52yK...` / `667Gfn...`)
+On-chain transaction traces reveal a clean separation of duties across 3 key Arweave wallets:
+1. **`3YLNDX...` (Master Funding Origin)**: The upstream treasury wallet that originally funded the entire Arweave infrastructure with AR tokens and Turbo gateway credits.
+2. **`52yK...` (ArNS Domain Manager)**: Funded by `3YLNDX...`, this key manages the ANT smart contracts and controls where the ArNS domain records point.
+3. **`667Gfn...` (Turbo Data Uploader)**: Also funded by `3YLNDX...`, this wallet handles payment bundling and uploads files through ArDrive Turbo.
+
+<a id="solana-master-operator"></a>
+#### 8.12.3. Solana Master Operator Key (`6Nq6...`)
+Analysis of all 50 transactions signed by authority **`6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`** on Solana confirms it is the **master operator key for the entire on-chain platform**:
+* **Leak Drop Publications (`Instruction: CreateLink`)**:
+  * Signed the on-chain creation of Video 5 (`plane.mp4`, Tx `2qfZLmTts5...`).
+  * Signed Video 4 (`junkies.mp4`, Tx `3iKf4UjNdi...`).
+  * Signed Video 3 (`taser.mp4`, Account `D2KikcD6xr...`).
+* **Poll Settlement & Execution (`Instruction: ProcessResults`)**:
+  * Signed the 4 settlement transactions on August 20, 2026 (`3Utp76...`, `2oajgX...`, `3FZ8GK...`, `4VvY6D...`) that finalized the winning "Plane DAY" community poll.
+* **Token Account Routing**:
+  * Initialized and managed the designated voting wallets (`8MAye9...`) and associated token pools.
 
 ---
 
