@@ -1435,6 +1435,7 @@ On August 19, 2026, researcher [@nico_s29](https://x.com/nico_s29) uncovered arc
   * *Takeaway*: 100% proves `cyberleek` and `tech-forum` are the exact same person, and reveals his personal XMPP / Jabber contact address: **`cookie@im-tech-forum.ch`** and site admin address **`admin@tech-forum.ch`**.
 
 * **Official Forum Twitter Account (@T3chF0rum)**:
+  *(Account discovery credit: Community researcher `texploit`)*
   * **Handle**: [**@T3chF0rum** (https://x.com/T3chF0rum)](https://x.com/T3chF0rum)
   * **Creation Date**: **January 3, 2018 at 19:21 UTC** (Matching the exact same day Cyberleek posted his introduction on SzeneBox!).
   * **Identical Profile Picture Match**: The Twitter account `@T3chF0rum` uses the **exact same dark flaming skull avatar (pfp)** that user `cyberleek` used on `szenebox.org`, visually confirming they are the exact same operator.
