@@ -43,7 +43,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 * 🚨 **[Important Facts & Latest Status (Must Read First)](#key-alerts)**
 
-* 📁 **[1. What Got Leaked (All 7 Files)](#what-got-leaked)**
+* 📁 **[1. What Got Leaked (All 8 Files — 5 Videos + 3 Maps)](#what-got-leaked)**
   * 🏀 [File 1: Basketball Gameplay Clip (`output.mp4`)](#bball-clip)
   * 🚗 [File 2: Highway Driving & Delivery Van Clip (`video2.mp4`)](#driving-clip)
   * 🗺️ [File 3: Full State of Leonida Map (`full_map.png`)](#full-map)
@@ -51,6 +51,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🏝️ [File 5: Map Sneak Peek 2 (Catalan Key & Gloriana Key)](#catalan-key)
   * ⚡ [File 6: Taser, Truck Hijacking & Boat Cutscene Clip (`taser.mp4`)](#taser-clip)
   * 💉 [File 7: Junkies Encounter, Police Motorcycle & Zombix Clip (`junkies.mp4`)](#junkies-clip)
+  * ✈️ [File 8: Plane Flyover & Alley Shooting Clip (`plane.mp4`)](#plane-clip)
 
 * 🔗 **[2. Direct Links & Mirror Table](#direct-links)**
 
@@ -63,7 +64,8 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🚗 [4.2. Video 2: Highway Driving Breakdown (68s)](#driving-breakdown)
   * ⚡ [4.3. Video 3: Taser, Truck Hijacking & Boat Cutscene (124.5s)](#taser-breakdown)
   * 💉 [4.4. Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (144.5s)](#junkies-breakdown)
-  * 🎮 [4.5. New HUD & Gameplay Mechanics Discovered](#new-hud-mechanics)
+  * ✈️ [4.5. Video 5: Plane Flyover & Alley Shooting Breakdown (141.5s)](#plane-breakdown)
+  * 🎮 [4.6. New HUD & Gameplay Mechanics Discovered](#new-hud-mechanics)
     * 🔑 [1. Vehicle Theft: Clone Key vs Smash Window](#hud-clone-key)
     * ⚡ [2. Health & Focus / Stamina Meter](#hud-stamina-meter)
     * 🗺️ [3. Modern Radar Minimap](#hud-minimap)

@@ -115,3 +115,16 @@
 Handle: @cyberleek_of (https://x.com/cyberleek_of)
 Status: Proved Fake / Imposter Account
 Evidence: Video 4 in-frame watermark disowns all Twitter accounts. Zero new clips; all media re-uploaded from public Arweave gateways.
+
+
+--- VIDEO 5: PLANE FLYOVER & ALLEY SHOOTING (plane.mp4) ---
+Title: GTA 6: plane video (POLL)
+Account: 2q3rEUUZ7ChHTLMx4QBAnew4q7UqaXXcqZ6NVgb7LZ6T
+Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3
+Release Timestamp: 2026-08-20 09:43:02 UTC (1787218982)
+Transaction: 2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH
+Mirror: https://www.upload.ee/files/19668811/plane.mp4.html
+Duration: 141.53s | Resolution: 1920x1080 (HEVC/H.265 Main 10 BT.2020 HDR) | Size: 35,446,922 bytes
+MD5: 9b4bcfec48f2de62cd4ff8989af65662
+SHA1: 8dff04fe2e2c9987f343b821f4f50d576f931274
+SHA256: 583226eb1635c611634e453146828caeaf9fa4c5abb25b21336ad5cfaa613037
