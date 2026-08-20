@@ -106,3 +106,7 @@
 * Fake Twitter Accounts: https://x.com/cyberleek_ar_io (Suspended) & https://x.com/MrCyberLeek (Fake secondary promoter account)
 * Primary Gateway Server: Hetzner Online GmbH (AS24940, Nuremberg, Bavaria, Germany — IP `49.13.45.141` / https://ipinfo.io/49.13.45.141)
 * Reverse DNS Record: `static.141.45.13.49.clients.your-server.de` (Hetzner German Portal)
+
+* Protagonist Developer Internal Name: Jason Duval (Documented in IGN / God is a Geek / Rockstar internal test logs)
+* Manifesto Structure: Cyberleek 'Three Commandments' (Pre-orders, DLC, Physical Discs) cited in Eurogamer / Forbes / Mashable
+* Stop Killing Games Official Disassociation Statement: Documented in IGN / Forbes / Rock Paper Shotgun

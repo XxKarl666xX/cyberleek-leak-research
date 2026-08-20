@@ -96,6 +96,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * 🤔 [8.4.3. What We Still Don't Know & Counter-Points](#blockchain-counterpoints)
     * 🔬 [8.4.4. Smart Contract Bytecode Analysis & Debunking "GTA Audio SDT" (@koffiekasper)](#solana-bytecode-analysis)
   * 🧅 [8.5. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
+    * 📜 [8.5.1. The 'Three Commandments' Manifesto & Demands](#manifesto-three-commandments)
   * 🔍 [8.6. Community Debunking: Is the Twitter Account the Real Leaker?](#debunking-twitter)
     * 🕵️ [8.6.1. Username History Can Be Deceptive](#debunking-username-history)
     * 🖼️ [8.6.2. AI-Generated Banners & Fake Teasers](#debunking-ai-banners)
@@ -117,7 +118,11 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * 🕵️ [8.11.3. 2023 Forum Activity (Data Leaks, BreachForums & VPNs)](#szenebox-2023-activity)
     * 🎯 [8.11.4. Age, Server Infrastructure & Summary Profile](#szenebox-identity-summary)
 
-* 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
+* 🗣️ **[9. How Everyone Reacted (Industry, Communities & Legal Responses)](#reactions)**
+  * 🛑 [9.1. Stop Killing Games (Ross Scott) Official Disassociation](#reaction-skg)
+  * 🔴 [9.2. Reddit & Gaming Community Consensus](#reaction-reddit)
+  * 📰 [9.3. Major Gaming Press & Media Coverage](#reaction-press)
+  * ⚖️ [9.4. Take-Two Interactive & Rockstar Legal Enforcement](#reaction-take-two)
 
 * ❓ **[10. What We Still Don't Know](#unknowns)**
 
@@ -733,6 +738,8 @@ Every domain and gateway was tested via live DNS resolution and IP geolocation t
 > **How this actually works**: While the *raw data hashes* live permanently on the Arweave and Solana blockchains, regular web browsers need standard HTTP web servers (gateways) to display the site. All primary gateways, community mirrors, and Hetzner nodes (`49.13.45.141`) are **100% online and responding**.
 
 > [!NOTE]
+> 💡 **Server Gateway & Rate-Limiting Note**: Live network checks reveal that Hetzner Germany nodes (`49.13.45.141`) apply aggressive automated DDoS filters and rate limiting during viral traffic surges, which can cause temporary TCP connection resets. Meanwhile, the Contabo EU gateway (`cyberleek.ario.koltigin.xyz`) and Cablevision US mirror (`leek.vilenarios.com`) maintain 100% stable 200 OK uptime.
+>
 > 💡 **Server Restoration Note**: The temporary outage on the Hetzner Germany nodes (`49.13.45.141`) was resolved, indicating it was likely caused by extreme traffic volume, DDoS protection filters, or a temporary gateway restart rather than a permanent host takedown. All official mirrors and community portals remain fully reachable.
 
 ---
@@ -816,6 +823,22 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 * **The Timestamp**: **August 18, 2026 at 07:36 UTC** — roughly **12 hours before** it went viral on mainstream social media.
 * **The Post**: Titled *"Stolen GTA6 Footage"*, sharing the basketball clip via temporary file hosts (`gofile.io` and `temp...`).
 * **Watermark Evolution**: The initial dark web leak on Dread had a **smaller, cleaner watermark**. When the leaker later prepared their public website, they re-encoded the video with a much larger promotional watermark promoting their website and crypto token. *(Discovery credit: [@ReversedC0W3030](https://github.com/ReversedC0W3030) — [Issue #6](https://github.com/zyrexdz/cyberleek-leak-research/issues/6))*
+
+---
+
+<a id="manifesto-three-commandments"></a>
+#### 2. The Official "Three Commandments" Manifesto & Extortion Demands
+
+* **Source**: *Eurogamer, Forbes, Mashable, and Live Cyberleek Website Archive*
+* **The Claimed Motivation**: The leaker published a formal manifesto on their website and dark web channels framing the leaks as a moral protest against modern anti-consumer video game industry practices:
+
+> 📜 **The "Three Commandments" Manifesto**:
+> 1. **Commandment 1 (Digital Pre-Orders)**: *"No consumer shall pay for a game through digital storefronts before release and independent review."*
+> 2. **Commandment 2 (Cut Content & DLC)**: *"Thou shalt not strip story content from the base game to sell later as paid single-player DLC."*
+> 3. **Commandment 3 (Physical Discs & Preservation)**: *"Thou shalt preserve physical disc media and guarantee offline single-player longevity."*
+
+* **The Extortion Threat**: Cyberleek demanded that Rockstar Games and Take-Two Interactive publicly apologize and issue a formal commitment to physical discs and single-player preservation, threatening ongoing releases and demanding "financial compensation for damages".
+* **The Reality & Scam Disguise**: Industry observers, cybersecurity analysts, and gaming press (*Forbes*, *Eurogamer*) unanimously noted that this "consumer manifesto" was used as a **publicity shield to market their `$CYBERLEEK` Solana cryptocurrency token**.
 
 ---
 
@@ -1157,12 +1180,28 @@ Community records prove Cyberleek was **actively participating in data breach an
 ---
 
 <a id="reactions"></a>
-## 9. How Everyone Reacted
+## 9. How Everyone Reacted (Industry, Communities & Legal Responses)
 
-* **Stop Killing Games (Ross Scott)**: Officially distanced themselves. Called it "unacceptable" and warned people "do not send any money to CyberLeek." ([IGN](https://ign.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com/))
-* **Reddit (r/GTA6)**: Footage looks real, but Cyberleek is a scam. That's the consensus.
-* **Gaming press**: IGN, Eurogamer, Kotaku, PC Gamer, GamesRadar, Rock Paper Shotgun, GameSpot, The Gamer, and GTA Intel all covered it and warned about the memecoin.
-* **Rockstar**: No public statement. Just copyright takedowns everywhere.
+<a id="reaction-skg"></a>
+### 9.1. Stop Killing Games (Ross Scott) & Consumer Advocacy Disassociation
+* **Official Disassociation**: The **Stop Killing Games (SKG)** campaign and creator **Ross Scott** publicly and officially **distanced themselves from Cyberleek**.
+* **The Stance**: While SKG advocates for consumer ownership, offline play, and physical media through legal regulatory channels (e.g. EU Citizen Initiatives), they condemned Cyberleek's illegal leak extortion and memecoin promotion as destructive:
+  > *"Do not send any money or cryptocurrency to Cyberleek. Extortion and intellectual property theft do not represent legitimate consumer advocacy."* — ([IGN](https://ign.com), [Forbes](https://forbes.com), [Rock Paper Shotgun](https://www.rockpapershotgun.com/))
+
+<a id="reaction-reddit"></a>
+### 9.2. Reddit & Gaming Community Consensus (`r/GTA6` & `r/GamingLeaksAndRumours`)
+* **The Consensus**: Gaming communities universally agree the **footage is genuine Rockstar developer gameplay**, but the **Cyberleek group is running a cryptocurrency pump-and-dump scheme**.
+* **Moderation Actions**: Subreddits implemented strict filters to remove raw video files to comply with copyright laws while directing users to factual research repositories.
+
+<a id="reaction-press"></a>
+### 9.3. Major Gaming Press & Investigative Outlets
+* **Outlets**: *IGN*, *Eurogamer*, *Forbes*, *Kotaku*, *PC Gamer*, *GamesRadar*, *Mashable*, and *iXBT Games*.
+* **Coverage Summary**: Major media reported on the 4 leaked videos, the 1.656x map size comparison, the upcoming August 27 Netflix "Extended Look" premiere, and cautioned readers against the paid voting polls and memecoin scam.
+
+<a id="reaction-take-two"></a>
+### 9.4. Take-Two Interactive & Rockstar Legal Enforcement
+* **No Public Statements**: Neither Rockstar Games nor Take-Two Interactive issued formal public statements.
+* **Aggressive Worldwide DMCA Enforcement**: Take-Two initiated rapid copyright takedowns across Twitter/X, YouTube, TikTok, Reddit, and Streamable to scrub raw video mirrors.
 
 ---
 
