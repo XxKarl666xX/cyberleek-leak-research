@@ -48,54 +48,74 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 * 🔗 **[2. Direct Links & Mirror Table](#direct-links)**
 
 * 📊 **[3. Video Comparison & Technical Details](#video-comparison)**
-  * 📋 [1. Comprehensive Video Specs & Quality Table](#video-specs-table)
-  * 🔬 [2. Technical Metadata & Audio Forensic Checks](#video-tech-forensics)
+  * 📋 [3.1. Comprehensive Video Specs & Quality Table](#video-specs-table)
+  * 🔬 [3.2. Technical Metadata & Audio Forensic Checks](#video-tech-forensics)
 
 * ⏱️ **[4. Second-by-Second Video Breakdown](#video-breakdown)**
-  * 🏀 [Video 1: Basketball Gameplay Breakdown (69s)](#bball-breakdown)
-  * 🚗 [Video 2: Highway Driving Breakdown (68s)](#driving-breakdown)
-  * ⚡ [Video 3: Taser, Truck Hijacking & Boat Cutscene (124.5s)](#taser-breakdown)
-  * 💉 [Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (144.5s)](#junkies-breakdown)
-  * 🎮 [New HUD & Gameplay Mechanics (Clone Key, Stamina, Minimap, RDR2 Defuse, Fuel, CarPlay, Zombix)](#new-hud-mechanics)
-  * 🐦 [Community Gameplay Observations on X (@NikTek)](#niktek-breakdown)
+  * 🏀 [4.1. Video 1: Basketball Gameplay Breakdown (69s)](#bball-breakdown)
+  * 🚗 [4.2. Video 2: Highway Driving Breakdown (68s)](#driving-breakdown)
+  * ⚡ [4.3. Video 3: Taser, Truck Hijacking & Boat Cutscene (124.5s)](#taser-breakdown)
+  * 💉 [4.4. Video 4: Junkies Encounter, Canal Fight & Police Motorcycle (144.5s)](#junkies-breakdown)
+  * 🎮 [4.5. New HUD & Gameplay Mechanics Discovered](#new-hud-mechanics)
+    * 🔑 [1. Vehicle Theft: Clone Key vs Smash Window](#hud-clone-key)
+    * ⚡ [2. Health & Focus / Stamina Meter](#hud-stamina-meter)
+    * 🗺️ [3. Modern Radar Minimap](#hud-minimap)
+    * 🗣️ [4. RDR2 Dialogue Tree (Greet / Taunt / Defuse / Warn)](#hud-rdr2-dialogue)
+    * 🚨 [5. Police Danger Zone & Search Radius](#hud-wanted-radius)
+    * ⚖️ [6. Karma & Morality System](#hud-karma-morality)
+    * 💊 [7. Zombix Drug Tolerance & Consumables](#hud-zombix-system)
+    * 🌊 [8. Fuzzard Drain Canal Basin](#hud-fuzzard-canal)
+    * ⛽ [9. Vehicle Fuel & Gas Gauge](#hud-fuel-gauge)
+    * 📱 [10. In-Car iFruit CarPlay Navigation](#hud-carplay-nav)
+  * 🐦 [4.6. Community Gameplay Observations on X (@NikTek)](#niktek-breakdown)
 
 * 🗺️ **[5. Map & County Breakdown](#map-breakdown)**
-  * 🔍 [1. Map Zoom Road Networks & Geography](#map-zoom)
-  * 📐 [2. Map Size Comparison (1.656x Bigger than GTA V)](#landmass-size)
-  * 🐊 [3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
-  * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
-  * 📍 [5. Verified Path in Video 4: South Vice-Dale & Route 97 (@theicybee)](#jason-junkies-path)
+  * 🔍 [5.1. Map Zoom Road Networks & Geography](#map-zoom)
+  * 📐 [5.2. Map Size Comparison (1.656x Bigger than GTA V)](#landmass-size)
+  * 🐊 [5.3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
+  * 🌲 [5.4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
+  * 📍 [5.5. Verified Path in Video 4: South Vice-Dale & Route 97 (@theicybee)](#jason-junkies-path)
 
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
 
 * 💬 **[7. What Was Claimed in Discord (Archived Q&A — Fake Promoter Claims)](#discord-qa)**
-  * ❌ [1. Lucia's Intro Mission (Debunked Speculation)](#qa-lucia-intro)
-  * ❌ [2. Prison Pickup & Campaign Progression (Debunked Speculation)](#qa-prison-pickup)
-  * 🟡 [3. Leaked Map from 2023 & PS5 Pro Performance](#qa-map-ps5pro)
-  * ❌ [4. "Cyberleek Did Not Record Footage" (Promoter Deflection)](#qa-leaker-recorded)
-  * ❌ [5. Real-Money Creator Currency / Robux (Debunked Crypto Bait)](#creator-currency-claim)
-  * 🚫 [6. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
+  * ❌ [7.1. Lucia's Intro Mission (Debunked Speculation)](#qa-lucia-intro)
+  * ❌ [7.2. Prison Pickup & Campaign Progression (Debunked Speculation)](#qa-prison-pickup)
+  * 🟡 [7.3. Leaked Map from 2023 & PS5 Pro Performance](#qa-map-ps5pro)
+  * ❌ [7.4. "Cyberleek Did Not Record Footage" (Promoter Deflection)](#qa-leaker-recorded)
+  * ❌ [7.5. Real-Money Creator Currency / Robux (Debunked Crypto Bait)](#creator-currency-claim)
+  * 🚫 [7.6. Discord Server Bans, Imposter Servers & Fake Twitter Drama](#discord-bans)
 
 * 🕵️ **[8. Web Research: Online Setup, Dark Web & Debunking](#web-research)**
-  * 👤 [Their Online Accounts & Known Handles](#official-accounts)
-  * 🌐 [1. Official Endpoints & Live Status Tracker](#official-endpoints)
-  * 🖥️ [2. Server Infrastructure, IP Resolution & Hosting Providers](#server-hosting)
-  * 💰 [3. Blockchain & Money Trail (Token & Website Set Up 3 Days Early)](#token-money-trail)
-    * 🔍 [3.1. What Public Blockchain Data Confirms](#blockchain-facts)
-    * 📈 [3.2. Was the Leak a Pre-Planned Marketing Stunt?](#marketing-stunt-theory)
-    * 🤔 [3.3. What We Still Don't Know & Counter-Points](#blockchain-counterpoints)
-    * 🔬 [3.4. Smart Contract Bytecode Analysis & Debunking "GTA Audio SDT" (@koffiekasper)](#solana-bytecode-analysis)
-  * 🧅 [4. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
-  * 🔍 [5. Community Debunking: Imposter Accounts & Fake FBI Drama](#debunking-twitter)
-  * ✈️ [6. Next Video Drop Confirmed: "Plane (DAY)" (Official Poll Winner)](#poll-plane-winner)
-  * ⏳ [7. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
-  * ❌ [8. Debunked Misconception: Full Game Build Theory](#full-build-theory)
-  * ❌ [9. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
-  * 🔍 [10. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)](#szenebox-profile)
-    * 🇩🇪 [10.1. The 2018 Forum Posts & German Slang](#szenebox-2018-posts)
-    * 🇨🇭 [10.2. The Second Account (`tech-forum`), Swiss Site (`tech-forum.ch`), Wayback & WHOIS](#szenebox-techforum-account)
-    * 🕵️ [10.3. 2023 Forum Activity (Data Leaks, BreachForums & VPNs)](#szenebox-2023-activity)
-    * 🎯 [10.4. Age, Server Infrastructure & Summary Profile](#szenebox-identity-summary)
+  * 👤 [8.1. Their Online Accounts & Known Handles](#official-accounts)
+  * 🌐 [8.2. Official Endpoints & Live Status Tracker](#official-endpoints)
+  * 🖥️ [8.3. Server Infrastructure, IP Resolution & Hosting Providers](#server-hosting)
+  * 💰 [8.4. Blockchain & Money Trail (Token & Website Set Up 3 Days Early)](#token-money-trail)
+    * 🔍 [8.4.1. What Public Blockchain Data Confirms](#blockchain-facts)
+    * 📈 [8.4.2. Was the Leak a Pre-Planned Marketing Stunt?](#marketing-stunt-theory)
+    * 🤔 [8.4.3. What We Still Don't Know & Counter-Points](#blockchain-counterpoints)
+    * 🔬 [8.4.4. Smart Contract Bytecode Analysis & Debunking "GTA Audio SDT" (@koffiekasper)](#solana-bytecode-analysis)
+  * 🧅 [8.5. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
+  * 🔍 [8.6. Community Debunking: Is the Twitter Account the Real Leaker?](#debunking-twitter)
+    * 🕵️ [8.6.1. Username History Can Be Deceptive](#debunking-username-history)
+    * 🖼️ [8.6.2. AI-Generated Banners & Fake Teasers](#debunking-ai-banners)
+    * ❌ [8.6.3. Debunked Fake Threat: Blurred 2022 Leaks](#debunking-blurred-threats)
+    * 🎭 [8.6.4. The Outside Promoter / Middleman Reality](#debunking-middleman-reality)
+    * ❌ [8.6.5. Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"](#debunking-watermark-proof)
+    * 🚪 [8.6.6. Debunked Fake Drama: Account Ban & "FBI Raid" GIF Stunt](#debunking-fbi-raid-larp)
+  * ✈️ [8.7. Next Video Drop Confirmed: "Plane (DAY)" (Official Poll & $80 Vote)](#poll-plane-winner)
+    * ⏱️ [8.7.1. Poll Countdown & Release Window (Aug 20, 11:26 UTC)](#poll-countdown-timer)
+    * 💸 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
+    * 🗄️ [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
+    * ⚠️ [8.7.4. Scam Warning on Voting Token Sinks](#poll-token-sink)
+  * ⏳ [8.8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
+  * ❌ [8.9. Debunked Misconception: Full Game Build Theory](#full-build-theory)
+  * ❌ [8.10. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
+  * 🔍 [8.11. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)](#szenebox-profile)
+    * 🇩🇪 [8.11.1. The 2018 Forum Posts & German Slang](#szenebox-2018-posts)
+    * 🇨🇭 [8.11.2. The Second Account (`tech-forum`), Swiss Site (`tech-forum.ch`), Wayback & WHOIS](#szenebox-techforum-account)
+    * 🕵️ [8.11.3. 2023 Forum Activity (Data Leaks, BreachForums & VPNs)](#szenebox-2023-activity)
+    * 🎯 [8.11.4. Age, Server Infrastructure & Summary Profile](#szenebox-identity-summary)
 
 * 🗣️ **[9. How Everyone Reacted (Ross Scott, Reddit, Press, DMCA)](#reactions)**
 
@@ -396,20 +416,24 @@ Here is what happens in all 4 leaked videos, broken down by timestamp:
 
 The community spotted several brand-new UI and gameplay mechanics from the footage:
 
+<a id="hud-clone-key"></a>
 #### 1. Vehicle Theft Choices: `CLONE KEY` vs `SMASH WINDOW`
 ![Clone Key vs Smash Window](assets/hud_clone_key_smash_window.png)
 *When approaching locked vehicles, GTA VI introduces two distinct ways to steal them:*
 * **`CLONE KEY` (Stealth Option)**: Uses a digital key-cloner device to silently unlock and start the car without triggering alarms or police attention.
 * **`SMASH WINDOW` (Loud Option)**: Smashes the side glass for quick entry, but risks triggering the car alarm and alerting nearby cops or NPCs.
 
+<a id="hud-stamina-meter"></a>
 #### 2. Health & Focus / Stamina Meter
 ![Health and Focus Bar](assets/hud_health_focus_bar.png)
 *A sleek pink player health bar with a segmented tick meter (`|||`) tracking character focus and energy levels.*
 
+<a id="hud-minimap"></a>
 #### 3. Modern Radar Minimap
 ![Radar Minimap](assets/hud_minimap_radar.png)
 *The updated GTA VI rounded minimap showing player direction, compass positioning, and activity icons.*
 
+<a id="hud-rdr2-dialogue"></a>
 #### 4. NPC Dialogue Tree: `GREET` / `TAUNT` / `DEFUSE` / `WARN` (RDR2 System in GTA VI)
 ![RDR2 Greet Taunt](assets/hud_rdr2_greet_taunt_stranger.png)
 *When interacting with NPCs or drivers, players get contextual dialogue choices:*
@@ -417,27 +441,33 @@ The community spotted several brand-new UI and gameplay mechanics from the foota
 * **`TAUNT` / `WARN`**: Antagonizes, threatens, or intimidates the NPC.
 * **`STRANGER` Indicator**: Circular targeting lock showing the active conversation partner.
 
+<a id="hud-wanted-radius"></a>
 #### 5. Police Danger Zone & Search Radius (RDR2 Wanted System)
 ![Danger Zone Search Area](assets/hud_rdr2_dangerzone_search_area.png)
 *When wanted, the minimap displays a large red **Danger Zone / Search Radius** (just like RDR2's police investigation areas). Players must break line-of-sight and escape outside the red circle to lose the cops.*
 
+<a id="hud-karma-morality"></a>
 #### 6. Karma & Morality System
 ![Karma Demon Icon](assets/hud_karma_demon_icon.png)
 *A purple smiling demon/devil icon discovered in the UI, pointing to an underlying **Karma / Morality / Honor system** where player choices (stealing, defusing, killing) influence character reputation.*
 
+<a id="hud-zombix-system"></a>
 #### 7. Zombix Medical Consumable & Drug Tolerance System
 ![Zombix Drug Tip](assets/hud_zombix_drug_health_tip.png)
 *In-game tutorial discovery: **"Repeated use of Zombix will temporarily have a weaker effect on your health."***
 * Zombix (originally an advertised painkiller brand in GTA V / GTA Online) is now a fully functional in-game medical consumable in GTA VI that heals the player, but features a **tolerance / diminishing returns mechanic** if used repeatedly.
 
+<a id="hud-fuzzard-canal"></a>
 #### 8. Location System: Fuzzard Drain Canal
 ![Fuzzard Drain Canal](assets/hud_fuzzard_drain_canal_location.png)
 *Active location pop-up above the minimap introducing **Fuzzard Drain Canal**, an authentic South Florida-style concrete drainage basin under major highway interchanges.*
 
+<a id="hud-fuel-gauge"></a>
 #### 9. Vehicle Fuel & Gas Gauge System
 ![Vehicle Fuel System](assets/hud_fuel_gas_system_vapid.png)
 *Below the vehicle name card (**Vapid '70 Ganado**), a dedicated **Gas Pump / Fuel Icon** is visible with a level meter, confirming an active in-game vehicle refueling and gas tank system!*
 
+<a id="hud-carplay-nav"></a>
 #### 10. In-Car iFruit CarPlay Navigation System
 ![iFruit CarPlay Minimap](assets/community_7kkurd_ifruit_carplay_minimap.png)
 *Discovered by X user `@7Kkurd`: When driving modern cars, the top-left of the GPS minimap displays the **iFruit logo** (Apple parody), confirming an in-game **Apple CarPlay / iFruit dashboard integration**.*
@@ -799,14 +829,17 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 
 Community researchers looking closely at the `@cyberleek_ar_io` X account noticed several major red flags suggesting the person tweeting might **not even be the original leaker**, but rather a crypto promoter milking the real leaks for token hype:
 
+<a id="debunking-username-history"></a>
 #### 1. Username History Can Be Deceptive
 ![Vaaatiel Username Change Proof](assets/debunking_vaaatiel_username_proof.png)
 *Proof by `vaaatiel` showing how Twitter's "About" page displays older name change dates.*
 * Twitter's "About this account" date can be delayed or show old data from a renamed account. The March 2026 creation date doesn't prove the account was created specifically for this leak from day one — it could have been an old account renamed right before the leak.
 
+<a id="debunking-ai-banners"></a>
 #### 2. AI-Generated Banners & Fake Teaser Images
 * The account's header banners and teasers were found to be AI-upscaled pictures made from old 2022 leak screenshots, trying to look like they have unlimited new clips.
 
+<a id="debunking-blurred-threats"></a>
 #### 3. ❌ DEBUNKED FAKE THREAT: Posting Blurred 2022 Leaks as "New Clips"
 ![Blurred 2022 Leak Tweet](assets/debunking_blurred_2022_leak_tweet.png)
 *❌ **DEBUNKED FAKE POST**: The fake @cyberleek_ar_io account threatened Rockstar with a blurred image that was actually from the old September 2022 nightclub leak.*
@@ -816,6 +849,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 ---
 
+<a id="debunking-middleman-reality"></a>
 #### 4. The Promoter / Middleman Reality
 ![Twitter for iPhone](assets/debunking_twitter_for_iphone.png)
 *Tweets sent via "Twitter for iPhone" at strange hours.*
@@ -823,6 +857,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 ---
 
+<a id="debunking-watermark-proof"></a>
 #### 5. ❌ OFFICIAL PROOF: "CYBERLEEK DOES NOT HAVE TWITTER"
 ![Cyberleek No Twitter Watermark](assets/cyberleek_watermark_no_twitter_proof.png)
 *Official watermark from the 4th video drop (`junkies.mp4`) explicitly proving Cyberleek never had Twitter.*
@@ -834,6 +869,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 ---
 
+<a id="debunking-fbi-raid-larp"></a>
 #### 6. ❌ DEBUNKED FAKE DRAMA: Account Suspended & Fake "FBI Raid" GIF Stunt
 <div align="center">
   <img src="assets/fake_twitter_cyberleek_suspended.png" alt="Fake Twitter Suspended" width="300" />
@@ -857,21 +893,25 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 *Live poll on the official website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) showing the exact countdown ending August 20, 2026 at 11:26 UTC.*
 
+<a id="poll-countdown-timer"></a>
 * **The Poll Timing & Release Countdown**:
   * **Title**: *"Next GTA 6 Video... Cinematic drive by?"*
   * **Exact Poll End Time**: **August 20, 2026 at 11:26 UTC** (`ends 20. 8. 2026, 11:26`).
   * **Official Website Release Rule**: *"The winning choice will be featured in the 'Content' section within 24h after the poll ends."*
   * **Expected Video 5 Drop Window**: Scheduled to appear between **August 20, 11:26 UTC and August 21, 11:26 UTC**!
   * ⚠️ *Confidence Level*: **High Confidence / Alleged Schedule**. While the official website promises this drop within 24h, leakers can face technical delays or change release timing at any moment.
+<a id="poll-whale-tx"></a>
 * **The Voting Results & The $80 Vote**:
   ![Poll $80 Vote Transaction](assets/cyberleek_poll_vote_80_dollar_tx.jpg)
   *Solana on-chain transfer showing a single payment of 65,342.86 $CYBERLEEK tokens (~$80.24 USD) that won the poll.*
   * **Winning Option**: **`▶ Plane (DAY)`** won with **100.0% of the total vote**.
   * **The $80.24 Transaction**: On-chain transfer logs reveal that a **single voter spent ~$80.24 USD** (`65,342.86 $CYBERLEEK`) to guarantee that `Plane (DAY)` won the poll.
   * **Other Options on Ballot**: `Car (DAY)` (0 votes), `Car (NIGHT)` (0 votes), `Motorcycle (NIGHT)` (0 votes).
+<a id="poll-vault-categories"></a>
 * **What This Reveals About the Leaker's Archive**:
   1. **Video 5 Topic**: The upcoming 5th video drop will showcase **Daytime Airplane Flight / Aerial Gameplay / Cinematic Drive-By** action in Leonida.
   2. **Organized Playtest Vault**: The poll options prove the leaker possesses categorized playtest footage sorted by vehicle types and lighting conditions (`Car Day/Night`, `Motorcycle Night`, `Plane Day`).
+<a id="poll-token-sink"></a>
 * **Scam Warning on Voting Mechanics**:
   * The voting system required community members to send non-refundable `$CYBERLEEK` Solana tokens directly to separate wallet addresses to vote. This served as a classic **token sink** designed to pump on-chain volume and encourage memecoin purchases.
 
