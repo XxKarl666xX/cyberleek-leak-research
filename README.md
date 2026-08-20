@@ -886,6 +886,8 @@ Every date here has a source you can check yourself:
 * ❌ **`vk.com/cyberleek` / `vk.ru/cyberleek` (Russian VK Copycat Handle)**
   * **Created**: August 19, 2026.
   * **The Reality**: An outside user registered the empty handle on Russian social network VKontakte after the leak went viral.
+* ❌ **`t.me/cyberleek` / `@cyberleek` (Fake Telegram Channel)**
+  * **The Reality**: A fake imposter Telegram channel. The real leaker never used Telegram.
 
 **2. Twitter (X) Accounts Breakdown (All Confirmed Fake by Video 4 Watermark):**
 1. ❌ **[@cyberleek_ar_io](https://x.com/cyberleek_ar_io)** — 🔴 **SUSPENDED BY X (August 19, 2026)**
