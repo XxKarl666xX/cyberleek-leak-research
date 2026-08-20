@@ -3,7 +3,8 @@ Thumbs.db
 node_modules/
 *.tmp
 *.log
-.env
-tracker.py
-tracker_state.json
-proxies.txt
+*.env
+*.py
+*.json
+*.txt
+!sources.txt
