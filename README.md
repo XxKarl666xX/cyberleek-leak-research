@@ -841,9 +841,9 @@ Before the leak blew up across Twitter and Reddit, the leaker actually dropped t
 * **Original Author**: `Cyberleek` / `CyberLeeker`
 * **Publication Date**: August 18, 2026 (07:36 UTC)
 * **Corroborating Media Sources**:
-  * [*Eurogamer*: "GTA 6 Gameplay Videos Leak Online Ahead of Official Reveal"](https://www.eurogamer.net/articles/gta-6-leaks-cyberleek-analysis)
-  * [*Forbes*: "New GTA 6 Leaks Surface With Crypto Scam Warnings"](https://www.forbes.com/sites/paultassi/gta-6-leaks-crypto-scam-warnings)
-  * [*Mashable*: "GTA 6 Gameplay Clips Leak Online With Demands to Rockstar"](https://mashable.com/article/gta-6-gameplay-leak-rockstar-games-take-two)
+  * [*Eurogamer*](https://www.eurogamer.net)
+  * [*Forbes*](https://www.forbes.com)
+  * [*Mashable*](https://mashable.com)
 
 > 📜 **Exact Relevant Passage from Source**:
 > 1. **Commandment I: Thou Shalt Not Sell Digital Preorders**: *"No consumer shall pay for a game through digital storefronts before release and independent review. Preorders were created because physical discs had manufacturing limits. In digital distribution, there is no inventory... If publishers want revenue before launch, they can press discs. Print boxes. Put them on shelves."*
@@ -963,7 +963,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 <a id="natedrake-age"></a>
 ### 7. Hard Proof on Footage Age: Radio Song Proves Build is January 2025 or Newer
 
-*(Radio song discovery credit: GitHub contributor [@Phantonymous](https://github.com/Phantonymous) — [Issue #2](https://github.com/zyrexdz/cyberleek-leak-research/issues/2) & industry confirmation by `NateDrake`)*
+*(Radio song discovery credit: GitHub contributor [@Phantomymous](https://github.com/Phantomymous) — [Issue #2](https://github.com/zyrexdz/cyberleek-leak-research/issues/2) & industry confirmation by `NateDrake`)*
 
 <div align="center">
   <img src="assets/community_claim_natedrake_age.png" alt="NateDrake Age Proof" width="340" />
