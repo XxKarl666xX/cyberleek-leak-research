@@ -59,7 +59,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 
 > [!NOTE]
 > ### 🧭 Table of Contents Color Guide:
-> * ⚫ **Black Circle**: **Most Critical / Top-Priority Findings** (Core Leaked Files, Video Breakdowns, Map, LEEK Bullet Proof, Master Operator Keys)
+> * ⚫ **Black Circle**: **Most Important / Top-Priority Findings** (Core Leaked Files, Video Breakdowns, Map, LEEK Bullet Proof, Master Operator Keys)
 > * 🔵 **Blue Circle**: **High-Importance Verified Facts & Technical Details** (Direct Links, Video Specs, Master Timeline, Official Endpoints, Poll Results)
 > * 🟢 **Green Circle**: **Verified Community Research & Real Analysis** (Community Mapping, Radio Song Age Proof, Media Coverage, Legal Notices)
 > * 🟡 **Yellow Circle**: **Unverified Theories & Ongoing Research** (Game Build Access Scope, Open Questions)
@@ -1350,12 +1350,20 @@ Community records prove Cyberleek was **actively participating in data breach an
 <a id="onchain-control-architecture"></a>
 ### 8.12. On-Chain Control Architecture: ArNS Domains, Funding Wallets & Solana Master Operator Key
 
-*(On-chain control architecture research credit: Community researcher `whitemustache0004` & blockchain forensic verification)*
+*(Research credit: Community researcher whitemustache0004 and on-chain verification)*
+
+<div align="center">
+
+<img src="assets/onchain_control_cluster_timeline.png" alt="CyberLeek On-Chain Control Cluster Timeline" width="100%" />
+
+*Visual timeline showing how one single group set up the funding, domain names, file uploads, and voting polls.*
+
+</div>
 
 ```mermaid
 flowchart TD
-    Fund["Master Funding Wallet<br><b>3YLNDX...</b>"] -->|"Initial AR / Turbo Credits"| ArNS["ArNS Domain Controller<br><b>52yK...</b>"]
-    Fund -->|"Upload Fees / Turbo Balance"| Uploader["Turbo Data Uploader<br><b>667Gfn...</b>"]
+    Fund["Master Funding Wallet<br><b>3YLNDX...</b>"] -->|"Initial AR & Turbo Credits"| ArNS["ArNS Domain Controller<br><b>52yK...</b>"]
+    Fund -->|"Upload Fees & Turbo Balance"| Uploader["Turbo Data Uploader<br><b>667Gfn...</b>"]
     
     ArNS -->|"Controls Record"| ANT1["ANT: cyberleek<br><code>84ZX...</code>"]
     ArNS -->|"Controls Record"| ANT2["ANT: cyberleak<br><code>91aW...</code>"]
@@ -1367,45 +1375,49 @@ flowchart TD
     ANT3 -->|"Points to"| Manifest
     Manifest -->|"Serves Web App"| HTML["Root HTML Build<br><code>Y_lswXhMED7uFgU-iabGqoYIGUCcSJKw68wwpQ9qGVw</code>"]
     
-    SolAuth["Solana Master Operator Key<br><b>6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3</b>"] -->|"Signs CreateLink (Videos 3, 4, 5)"| SolProg["Solana Program<br><code>7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a</code>"]
-    SolAuth -->|"Signs ProcessResults (Poll Settlement)"| SolProg
-    SolAuth -->|"Initializes Token Accounts"| SolToken["$CYBERLEEK Voting Addresses<br><code>8MAye9...</code>"]
+    SolAuth["Solana Master Operator Key<br><b>6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3</b>"] -->|"Signs CreateLink for Videos 3, 4, 5"| SolProg["Solana Program<br><code>7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a</code>"]
+    SolAuth -->|"Signs ProcessResults to Settle Poll"| SolProg
+    SolAuth -->|"Initializes Voting Accounts"| SolToken["Token Voting Wallets<br><code>8MAye9...</code>"]
 ```
 
-While earlier research focused primarily on leaked video files and social media handles, community on-chain analysis by `whitemustache0004` uncovered the **exact backend control architecture** behind the CyberLeek website, decentralized domains, and Solana smart contract operations:
+Community researcher whitemustache0004 looked into the blockchain records and found the real backend control system behind the CyberLeek website, decentralized domains, and Solana voting polls.
+
+#### Simple Timeline of the On-Chain Wallets:
+
+| Date | Step | What Happened | Wallets Involved |
+| :--- | :--- | :--- | :--- |
+| **Aug 15, 2026** | **Step 1: Startup Money** | The main boss wallet sends crypto money to two helper wallets. One wallet buys domain names, and the other pays to upload the files. | `3YLNDX...` sends funds to `52yK...` and `667Gfn...` |
+| **Aug 16, 2026** | **Step 2: Buying Domains** | Wallet `52yK...` buys `cyberleek.ar.io`, plus typo backup names like `cyberleak` and `ciberleek`. All three point to the same files. | `52yK...` controls smart contracts `84ZX...` and `91aW...` |
+| **Aug 17–18, 2026** | **Step 3: Uploading Files** | Wallet `667Gfn...` uploads the website code, the full map, and Video 1 (basketball). | `667Gfn...` and `7gFAE...` upload manifest `TTZwY...` |
+| **Aug 19, 2026** | **Step 4: Solana Poll** | Main operator wallet `6Nq6...` publishes Video 4 (junkies) and starts the community voting poll. | `6Nq6...` runs Solana program `7rAgH...` |
+| **Aug 20, 2026** | **Step 5: Finishing Poll & Dropping Video 5** | Wallet `6Nq6...` closes the poll after the 80 dollar vote wins, and drops Video 5 (plane flyover with LEEK bullet proof). | `6Nq6...` publishes transaction `2qfZLm...` |
 
 <a id="arns-domain-network"></a>
 #### 8.12.1. The ArNS Name Network (`cyberleek`, `cyberleak`, `ciberleek`)
-* **Shared Manifest Discovery**: Live AR.IO gateway header inspections prove that the primary domain (`cyberleek.ar.io`) and its defensive typosquats (`cyberleak.ar.io` and `ciberleek.ar.io`) **all resolve to the exact same Arweave manifest**:
-  * **Resolved Manifest ID**: `TTZwYqvCeMCRkDkesu336Pyff26WU-BOvqKmD7zoxrQ`
-  * **Root HTML Data ID**: `Y_lswXhMED7uFgU-iabGqoYIGUCcSJKw68wwpQ9qGVw`
-  * **Manifest Uploader Wallet**: `7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE` (Arweave Block `#1981818`, timestamp `1786966343`)
-* **Individual ANT Smart Contracts**:
-  * `cyberleak.ar.io` → Controlled via ANT Contract `84ZXH1E2QqDXes4idD9fty93qFh3NM3uamx4ZmCVyDiE`
-  * `ciberleek.ar.io` → Controlled via ANT Contract `91aW9R2sHsjCPUdyu5TJUBFgKDdqedZGYAAkXqq9Qp8X`
-  * Base ANT Program ID: `2MWexMHfMhGJwMHv9Qm9YAVCqjUFUJwDJAysW4oCUGk5`
-* **Why This Matters**: Proves the site operators deliberately purchased multiple domain spellings and tied them to individual smart contracts to keep their gateway resilient against domain blocks and takedowns.
+* **Shared Manifest**: Looking at live server headers proves that the main domain (`cyberleek.ar.io`) and backup typos (`cyberleak.ar.io` and `ciberleek.ar.io`) all point to the exact same website package:
+  * **Manifest ID**: `TTZwYqvCeMCRkDkesu336Pyff26WU-BOvqKmD7zoxrQ`
+  * **HTML File ID**: `Y_lswXhMED7uFgU-iabGqoYIGUCcSJKw68wwpQ9qGVw`
+  * **Uploader Wallet**: `7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE`
+* **Smart Contracts**:
+  * `cyberleak.ar.io` is tied to contract `84ZXH1E2QqDXes4idD9fty93qFh3NM3uamx4ZmCVyDiE`
+  * `ciberleek.ar.io` is tied to contract `91aW9R2sHsjCPUdyu5TJUBFgKDdqedZGYAAkXqq9Qp8X`
+* **Why This Matters**: This proves the leakers planned ahead by buying backup misspellings of their website so their portal would stay online if any single link went down.
 
 <a id="arweave-wallet-pipeline"></a>
 #### 8.12.2. The 3-Tier Arweave Wallet Pipeline (`3YLNDX...` / `52yK...` / `667Gfn...`)
-On-chain transaction traces reveal a clean separation of duties across 3 key Arweave wallets:
-1. **`3YLNDX...` (Master Funding Origin)**: The upstream treasury wallet that originally funded the entire Arweave infrastructure with AR tokens and Turbo gateway credits.
-2. **`52yK...` (ArNS Domain Manager)**: Funded by `3YLNDX...`, this key manages the ANT smart contracts and controls where the ArNS domain records point.
-3. **`667Gfn...` (Turbo Data Uploader)**: Also funded by `3YLNDX...`, this wallet handles payment bundling and uploads files through ArDrive Turbo.
+Blockchain history shows how duties were split between 3 wallets:
+1. **`3YLNDX...` (Main Money Source)**: The central wallet that provided the initial funding for the entire setup.
+2. **`52yK...` (Domain Manager)**: Funded by `3YLNDX...`, this key bought and controls the domain names.
+3. **`667Gfn...` (File Uploader)**: Also funded by `3YLNDX...`, this key paid for data storage and uploaded the website and leak files.
 
 <a id="solana-master-operator"></a>
 #### 8.12.3. Solana Master Operator Key (`6Nq6...`)
-Analysis of all 50 transactions signed by authority **`6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`** on Solana confirms it is the **master operator key for the entire on-chain platform**:
-* **Leak Drop Publications (`Instruction: CreateLink`)**:
-  * Signed the on-chain creation of Video 5 (`plane.mp4`, Tx `2qfZLmTts5...`).
-  * Signed Video 4 (`junkies.mp4`, Tx `3iKf4UjNdi...`).
-  * Signed Video 3 (`taser.mp4`, Account `D2KikcD6xr...`).
-* **Poll Settlement & Execution (`Instruction: ProcessResults`)**:
-  * Signed the 4 settlement transactions on August 20, 2026 (`3Utp76...`, `2oajgX...`, `3FZ8GK...`, `4VvY6D...`) that finalized the winning "Plane DAY" community poll.
-* **Token Account Routing**:
-  * Initialized and managed the designated voting wallets (`8MAye9...`) and associated token pools.
+Checking all 50 transactions signed by authority **`6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`** confirms it is the central boss key for the whole platform:
+* **Publishing Leaks**: It signed the transactions for Video 3 (`taser.mp4`), Video 4 (`junkies.mp4`), and Video 5 (`plane.mp4`).
+* **Closing the Poll**: It signed the final settlement transactions on August 20, 2026 to finish the community poll.
+* **Managing Crypto Accounts**: It set up the deposit wallets and token pools for the voting system.
 
----
+------
 
 <a id="reactions"></a>
 ## 9. How Everyone Reacted (Industry, Communities & Legal Responses)
