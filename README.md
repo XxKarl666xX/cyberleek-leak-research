@@ -924,10 +924,7 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 
 <a id="poll-plane-winner"></a>
 ### 6. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Countdown)
-<div align="center">
-  <img src="assets/cyberleek_poll_live_plane_timer.jpg" alt="Cyberleek Live Poll Countdown" width="460" />
-  <img src="assets/cyberleek_official_poll_plane_day_winner.png" alt="Cyberleek Poll Winner Plane" width="460" />
-</div>
+![Cyberleek Live Poll Countdown](assets/cyberleek_poll_live_plane_timer.jpg)
 
 *Live poll on the official website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) showing the exact countdown ending August 20, 2026 at 11:26 UTC.*
 
