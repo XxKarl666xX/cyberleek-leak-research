@@ -1193,7 +1193,7 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 *(Technical analysis and frontend extraction credit: Community researcher Goons / `justarandomnerd`)*
 
 <div align="center">
-  <img src="assets/onchain_poll_rigged_finalbalances_proof.jpg" alt="CyberLeek Poll System Architecture and Code Breakdown" width="100%" />
+  <img src="assets/onchain_poll_architecture_finalbalances_proof.png" alt="CyberLeek Poll System Architecture and Code Breakdown" width="100%" />
   <p><em>Technical architecture showing the frontend voting decoder, the on-chain finalBalances snapshot mechanism, and operator upgrade authority.</em></p>
 </div>
 
