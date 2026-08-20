@@ -147,7 +147,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * 🔵 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
     * 🔵 [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
     * ❌ [8.7.4. Scam Warning on Voting Token Sinks](#poll-token-sink)
-    * ❌ [8.7.5. Code Proof: Reverse Engineering the Rigged Poll System (finalBalances Override)](#poll-rigged-code)
+    * 🔵 [8.7.5. Technical Breakdown: Centralized Poll Architecture & Upgrade Authority](#poll-centralized-architecture)
   * 🟢 [8.8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
   * ⚫ [8.9. Game Build Access Analysis: Active Playable Access Confirmed via "LEEK" Bullet Wall Test](#full-build-theory)
   * ❌ [8.10. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
@@ -1187,18 +1187,18 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 * **Scam Warning on Voting Mechanics**:
   * The voting system required community members to send non-refundable `$CYBERLEEK` Solana tokens directly to separate wallet addresses to vote. This served as a classic **token sink** designed to pump on-chain volume and encourage memecoin purchases.
 
-<a id="poll-rigged-code"></a>
-#### 8.7.5. ❌ Code Proof: Reverse Engineering the Rigged Poll (`finalBalances` Override & Program Upgrade Authority)
+<a id="poll-centralized-architecture"></a>
+#### 8.7.5. 🔵 Technical Breakdown: Centralized Poll Architecture & Upgrade Authority (How Finalization Works)
 
-*(Reverse engineering and code extraction credit: Community researcher Goons / `justarandomnerd`)*
+*(Technical analysis and frontend extraction credit: Community researcher Goons / `justarandomnerd`)*
 
 <div align="center">
-  <img src="assets/onchain_poll_rigged_finalbalances_proof.jpg" alt="CyberLeek Rigged Poll System Architecture and Code Proof" width="100%" />
-  <p><em>Technical architecture showing how the website frontend discards real votes and replaces them with arbitrary operator numbers (finalBalances) upon finalization.</em></p>
+  <img src="assets/onchain_poll_rigged_finalbalances_proof.jpg" alt="CyberLeek Poll System Architecture and Code Breakdown" width="100%" />
+  <p><em>Technical architecture showing the frontend voting decoder, the on-chain finalBalances snapshot mechanism, and operator upgrade authority.</em></p>
 </div>
 
-* **Status**: 🔴 **100% PROVEN RIGGED / FAKE DECENTRALIZED VOTING**
-* **Primary Evidence**: Direct JavaScript inspection of the official frontend application bundle (`index-CE2GuztQ.js`) and Solana ProgramData account `FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9`.
+* **Status**: 🟢 **VERIFIED TECHNICAL CODE ARCHITECTURE**
+* **Primary Evidence**: Direct JavaScript inspection of the official frontend application bundle (`index-CE2GuztQ.js`), Solana ProgramData account `FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9`, and transaction logs for `ProcessResults`.
 
 ##### 1. Hardcoded Program & Token Addresses
 In the initialization block of `index-CE2GuztQ.js`, all core program addresses and token mints are hardcoded into the frontend:
@@ -1210,40 +1210,40 @@ var r = new Z(`TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA`)  // SPL Token Progr
 var i = new Z(`ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL`) // Associated Token Account Program
 ```
 
-##### 2. On-Chain Poll Account Data Decoder: The `finalBalances` Field
+##### 2. On-Chain Poll Account Data Decoder: The `finalBalances` Snapshot Field
 The decoder function `k(e)` reads the raw binary account data for each poll:
 ```javascript
 function k(e) {
     let t = new te(e.slice(8));
     return {
-        authority: t.pubkey(),       // Who controls this poll
+        authority: t.pubkey(),       // Operator wallet controlling the poll
         timestamp: Number(t.i64()),
         pollId: t.bytes(32),
         title: t.str(),
         choices: t.vecStr(),
         endsAt: Number(t.i64()),
-        isFinalized: t.vecBool(),    // Has the operator locked results?
-        finalBalances: t.vecU64()    // Stored balances that OVERRIDE real votes
+        isFinalized: t.vecBool(),    // Whether the poll has been finalized on-chain
+        finalBalances: t.vecU64()    // Stored final balance snapshot array
     };
 }
 ```
 
-##### 3. The Smoking Gun: Real Votes are Discarded Upon Finalization
-The core poll rendering function `N()` exposes exactly how the website calculates and displays vote totals:
+##### 3. How the Frontend Reads Live Votes vs Finalized Snapshots
+The core poll rendering function `N()` handles displaying the vote counts:
 ```javascript
 function N() {
     let r = t[0]; // Most recent poll
     let a = r.isFinalized.every(e => e);    // Check if operator marked poll finalized
-    let s = a && r.finalBalances.length > 0; // Check if operator provided stored balances
+    let s = a && r.finalBalances.length > 0; // Check if stored final balances exist
 
     for (let e = 0; e < r.choices.length; e++) {
         let t = se(r.pollId, e);  // Derive choice token account (PDA)
         if (s) {
-            // FINALIZED: The website ignores live blockchain balances and uses stored numbers!
+            // FINALIZED: Displays the on-chain snapshot balance recorded at finalization
             let t = e < r.finalBalances.length ? r.finalBalances[e] : 0n;
             l.push(t);
         } else {
-            // NOT FINALIZED: Reads real live token balances sent by users
+            // NOT FINALIZED: Reads real live token balances sent by users via RPC
             let n = await re(() => f.getTokenAccountBalance(t), null);
             let r = n ? BigInt(n.value.amount) : 0n;
             l.push(r);
@@ -1252,32 +1252,18 @@ function N() {
 }
 ```
 
-* **How the Trick Works**:
-  1. While a poll is active, the site shows real token balances transferred to each choice wallet.
-  2. Once the poll closes, the operator triggers a `finalize` instruction.
-  3. Instead of locking the real counts, the program allows the operator to input arbitrary numbers into `finalBalances`.
-  4. The website immediately stops reading actual token balances and displays whatever numbers the operator entered. Real community votes are completely discarded.
+##### 4. Technical Understanding: Snapshot Pattern vs Centralized Management
+To accurately understand how the poll operated, two important aspects must be distinguished:
 
-##### 4. Manual Operator Control: "Late Voting Accepted"
-When the poll countdown timer ends, the frontend displays a manual notice:
-```html
-<div class="poll-badge ended">▸ ENDED — LATE VOTING ACCEPTED</div>
-<strong>▸ LATE VOTING ACCEPTED — POLL NOT FINALIZED YET</strong>
-The poll timer has expired, but finalization has not been triggered.
-You can still donate to any choice address above.
-The final tally will be recorded when the finalizers act.
-```
-This confirms finalization is not an automated decentralized smart contract trigger. It is a manual action performed whenever the operator decides to step in.
+* **1. The Votes and Outcome Were Real**: 
+  * The votes were real on-chain SPL token transfers sent to the designated choice addresses (such as `8MAye9...` for Plane DAY).
+  * Storing `finalBalances` upon finalization is a standard Solana Anchor snapshot pattern. It freezes the final vote count so late transfers sent after the deadline cannot alter the outcome retroactively.
+  * The leaker legitimately honored the winning option (`Plane DAY`) and delivered Video 5 as voted.
 
-##### 5. Full Program Upgrade Authority
-Looking at the Solana ProgramData account on-chain:
-* **Program Account**: `7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a`
-* **ProgramData Account**: `FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9`
-* **Slot**: `439488370`
-* **Has Authority**: `1 (TRUE)`
-* **Upgrade Authority**: `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`
-
-This proves wallet `6Nq6...` (the same wallet that published the video leaks and Arweave content) holds full upgrade permissions. They have the power to rewrite the entire smart contract code at any time.
+* **2. The System Was Centrally Administered (Not a Decentralized DAO)**:
+  * **Manual Closing**: In `index-CE2GuztQ.js`, the frontend displayed *"LATE VOTING ACCEPTED — POLL NOT FINALIZED YET. The final tally will be recorded when the finalizers act"*, proving finalization was a manual trigger by the operator rather than an automated smart contract oracle.
+  * **Token Sweep**: In on-chain transaction `3Utp76Ku...`, executing `ProcessResults` transferred the 147,210 donated tokens out of the voting vault into operator wallet `6Nq6...`.
+  * **Full Upgrade Authority**: Solana ProgramData account `FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9` confirms wallet `6Nq6...` holds full `Upgrade Authority` over the contract bytecode.
 
 ---
 

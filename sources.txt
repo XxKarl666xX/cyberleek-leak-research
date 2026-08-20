@@ -184,11 +184,11 @@ Research Credit: whitemustache0004 & Blockchain Verification
 * Main Portal Alternate Subdomain (🟢 UP): https://cyberleek.vilenarios.com/ -> IP 69.124.94.88 (Cablevision Systems Corp., Mahwah, NJ)
 * Discord Authenticity Context: Early pre-ban server (Aug 17-18) was potentially real/alleged operator testing UI, while post-ban replacement servers were unconfirmed copycats.
 
---- RIGGED POLL REVERSE ENGINEERING & PROGRAM UPGRADE PROOF ---
+--- TECHNICAL POLL ARCHITECTURE & PROGRAM UPGRADE PROOF ---
 * Research Credit: Goons / justarandomnerd (https://x.com/justarandomnerd/status/2089916745720996340)
 * Frontend Bundle: index-CE2GuztQ.js
-* Decoder k(e): Discovered finalBalances[] array stored in on-chain account data overriding actual token balances
-* Rendering Logic N(): Switches from getTokenAccountBalance to finalBalances[e] when finalized
+* Decoder k(e): finalBalances[] snapshot array stored in on-chain account data upon finalization
+* Rendering Logic N(): Switches from live getTokenAccountBalance to finalBalances[e] snapshot when finalized
 * Solana ProgramData Account: FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9 (Tag 3, Slot 439488370, has_authority 1)
 * Upgrade Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3 (Permits rewriting entire contract bytecode anytime)
 * Upstream Seed Wallet: J4zoc1rFgPP2Mrknb48BRRoQW9PSGIVIPyuemkKMpAnV (0.102 SOL, Aug 3 18:09 UTC, preBalance 0)
