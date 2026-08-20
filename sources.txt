@@ -141,3 +141,11 @@ ArNS Name cyberleak ANT Contract: 84ZXH1E2QqDXes4idD9fty93qFh3NM3uamx4ZmCVyDiE
 ArNS Name ciberleek ANT Contract: 91aW9R2sHsjCPUdyu5TJUBFgKDdqedZGYAAkXqq9Qp8X
 Solana Master Operator Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3
 Solana Main Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
+
+--- ON-CHAIN TIMESTAMPS & WALLET RELATIONSHIPS (CORRECTED) ---
+Research Credit: whitemustache0004 & Blockchain Verification
+* Aug 14, 2026 09:42 UTC: 3YLNDX... sends 1 SOL funding to 52yK...
+* Aug 14, 2026 18:00-18:17 UTC: 52yK... registers ArNS names (cyberleek, cyberleak, ciberleek) via ANT Process IDs 84ZX... and 91aW...
+* Aug 15, 2026 12:23 UTC: 3YLNDX... funds 667Gfn... (Turbo uploader with matching Arweave key bytes + turbo-sdk tags)
+* Aug 17-19, 2026 16:54 UTC: 6Nq6... launches Solana program 7rAgH... and publishes Video 4 (Tx 3iKf...)
+* Aug 20, 2026 09:30-09:43 UTC: 6Nq6... executes ProcessResults settling poll and publishes Video 5 (Tx 2qfZLm...)
