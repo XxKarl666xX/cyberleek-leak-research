@@ -12,6 +12,7 @@
 * Solana Token Mint ($CYBERLEEK): ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
 * Solscan Explorer: https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
 * DexScreener Tracker: https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
+* Solana Smart Contract Bytecode & Magic Number Analysis: Deployer Wallet `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3` (ELF shared object bytecode analysis & SDT false positive debunking by @koffiekasper)
 
 ## 2. Checked Files & Direct Mirror Links
 

@@ -79,6 +79,10 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 🌐 [1. Official Endpoints & Live Status Tracker](#official-endpoints)
   * 🖥️ [2. Server Infrastructure, IP Resolution & Hosting Providers](#server-hosting)
   * 💰 [3. Blockchain & Money Trail (Token & Website Set Up 3 Days Early)](#token-money-trail)
+    * 🔍 [3.1. What Public Blockchain Data Confirms](#blockchain-facts)
+    * 📈 [3.2. Was the Leak a Pre-Planned Marketing Stunt?](#marketing-stunt-theory)
+    * 🤔 [3.3. What We Still Don't Know & Counter-Points](#blockchain-counterpoints)
+    * 🔬 [3.4. Smart Contract Bytecode Analysis & Debunking "GTA Audio SDT" (@koffiekasper)](#solana-bytecode-analysis)
   * 🧅 [4. Hack Forums & The Dark Web Trail (Dread `CyberLeeker`)](#dread-trail)
   * 🔍 [5. Community Debunking: Imposter Accounts & Fake FBI Drama](#debunking-twitter)
   * ✈️ [6. Next Video Drop Confirmed: "Plane (DAY)" (Official Poll Winner)](#poll-plane-winner)
@@ -697,6 +701,7 @@ A community member investigated public Solana blockchain data on Solscan and unc
              └─ 321.42 SOL ➔ Hok9nbV89yBSKCttxe3goqajwbiqQa9mtHvQBsbJH3Np (Token Creator Hub)
 ```
 
+<a id="blockchain-facts"></a>
 #### 1. What the Public Blockchain Data Confirms (Facts):
 1. **Token & Site Created on August 15**: The `$CYBERLEEK` token, its Raydium trading pool, and the Solana website code (`7rAgHPLD...`) were created on **August 15, 2026** (between 14:00 and 22:00 UTC). The gameplay footage was only published **3 days later** (August 18 on Dread at 07:36 UTC).
 2. **Hidden Money Trail**: Over **156 SOL (~$12,000+)** was moved starting August 13 through a network of around **20 fresh throwaway wallets** with quick paired transfers before being combined into the token creation wallet.
@@ -705,12 +710,14 @@ A community member investigated public Solana blockchain data on Solscan and unc
 
 ---
 
+<a id="marketing-stunt-theory"></a>
 #### 2. The Theory: Was the Leak a Pre-Planned Marketing Stunt to Sell Crypto?
 * **The Theory**: Because the token and website were prepared and funded 3 days before any videos were posted, a popular theory is that the whole leak event was arranged specifically to hype up and sell a new crypto token.
 * **Why This Theory Makes Sense**: Launching the website and liquidity pool first ensured that as soon as the footage went viral, excited fans looking for more info would immediately see the token and trading links.
 
 ---
 
+<a id="blockchain-counterpoints"></a>
 #### 3. Why We CANNOT Be 100% Sure (Counter-Points & What We Still Don't Know):
 While the wallet trail is real, we still have to be careful before jumping to final conclusions:
 1. **The Leaker Could Be an Opportunist, Not the Original Hacker**:
@@ -721,6 +728,24 @@ While the wallet trail is real, we still have to be careful before jumping to fi
    * It is possible that the person holding the game clips partnered with someone else who specializes in crypto launches, meaning the leaker and the token creators might not even be the same individual.
 
 * **Summary**: The blockchain proves the money and token were set up days before the leak went public, making it very likely an organized money-making plan, but we cannot know for sure who originally obtained the game files or their full motivations.
+
+---
+
+<a id="solana-bytecode-analysis"></a>
+#### 4. Smart Contract Bytecode Analysis & Debunking "GTA Audio SDT" (Discovered by @koffiekasper)
+
+![Solana Smart Contract Bytecode Magic Number Chart](assets/solana_bytecode_magic_numbers_chart.png)
+*Sequential magic byte analysis of the Cyberleek Solana smart contract upload payloads. (Analysis and chart courtesy of community researcher @koffiekasper).*
+
+Community researcher **[@koffiekasper](https://github.com/zyrexdz/cyberleek-leak-research)** conducted a binary inspection of the sequential `Write` instructions sent by deployer wallet [`6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3`](https://explorer.solana.com/address/6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3):
+
+1. **How the Smart Contract Was Uploaded**:
+   * On Solana, smart contracts (programs) are written in **Rust** and compiled into **ELF 64-bit binary bytecode** (Solana Bytecode Format).
+   * Because Solana limits individual transaction packet sizes (~1,232 bytes), the deployer wallet uploaded the contract binary into the buffer account across hundreds of sequential `Write` instruction chunks starting at byte offset 0.
+   * Reassembling these sequential payloads reveals the standard `\x7fELF` file header and references to **Rust** and **Cargo** compiler libraries.
+2. **Debunking the "GTA SDT Audio Index" Coincidence**:
+   * When running automated file scanner tools across raw compiled machine code, scanners search for matching byte patterns and often trigger false alarms (such as flagging *"GTA audio index SDT"*, *"WonderSwan ROM"*, or *"OpenPGP Secret Key"* as shown in the chart above).
+   * **Forensic Fact**: These are **100% false positives** (random byte coincidences inside compiled Rust binary code). There are no hidden GTA audio files or secret game assets buried inside the Solana smart contract.
 
 ---
 
