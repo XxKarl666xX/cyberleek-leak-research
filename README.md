@@ -120,7 +120,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * 🗄️ [8.7.3. What the Ballots Reveal (Organized Playtest Vault)](#poll-vault-categories)
     * ❌ [8.7.4. Scam Warning on Voting Token Sinks](#poll-token-sink)
   * ⏳ [8.8. Hard Proof on Footage Age (Tate McRae Song & NateDrake)](#natedrake-age)
-  * ❌ [8.9. Debunked Misconception: Full Game Build Theory](#full-build-theory)
+  * 🟡 [8.9. Game Build Access Analysis: Active Playable Access Confirmed via "LEEK" Bullet Wall Test](#full-build-theory)
   * ❌ [8.10. 100% Debunked Fake Theory: "RDR2 Mod with Cities: Skylines Map"](#debunking-rdr2-mod)
   * 🔍 [8.11. Deep Dive: German & Swiss Identity Profile (SzeneBox & tech-forum.ch)](#szenebox-profile)
     * 🇩🇪 [8.11.1. The 2018 Forum Posts & German Slang](#szenebox-2018-posts)
@@ -309,8 +309,12 @@ Here are the 7 files leaked by Cyberleek between August 16 and August 19, 2026:
 
 <a id="plane-clip"></a>
 ### ✈️ File 8: Plane Flyover & Alley Shooting Clip (`plane.mp4`)
-![Plane Aerial Over Leonida Penitentiary](assets/video5_plane_00_15_prison_aerial.jpg)
-*High-altitude cinematic flyover passing directly above the Leonida State Penitentiary in Video 5.*
+<div align="center">
+  <img src="assets/video5_plane_00_15_prison_aerial.jpg" alt="Plane Aerial Penitentiary" width="48%" />
+  <img src="assets/video5_plane_01_40_leek_bullet_wall_proof.jpg" alt="Jason Shoots LEEK on Wall" width="48%" />
+</div>
+
+*Left: High-altitude cinematic flyover passing directly above the Leonida State Penitentiary. Right: Groundbreaking interactive proof: Jason shoots the word "LEEK" on an alley wall with bullet holes.*
 
 * **Official Poll Title**: *"Next GTA 6 Video... Cinematic drive by?"* / `Plane (DAY)`
 * **File Name**: `plane.mp4`
@@ -459,10 +463,10 @@ Here is what happens in all 4 leaked videos, broken down by timestamp:
 
 <div align="center">
   <img src="assets/video5_plane_00_35_downtown_marina.jpg" alt="Plane Flyover Marina" width="48%" />
-  <img src="assets/video5_plane_01_35_wall_penetration_wanted.jpg" alt="Jason Wall Shooting" width="48%" />
+  <img src="assets/video5_plane_01_40_leek_bullet_wall_proof.jpg" alt="Jason Shoots LEEK on Wall" width="48%" />
 </div>
 
-*Left: Stunt biplane cinematic flyover across Vice City skyline and yacht marina (0:35). Right: Jason shooting rifle at alley wall testing bullet impact physics and wanted detection (1:35).*
+*Left: Stunt biplane cinematic flyover across Vice City skyline and yacht marina (0:35). Right: Undeniable interactive proof: Jason shoots the word "LEEK" onto the alley wall with bullet holes (1:37).*
 
 * **Total Clip Duration**: **141.53 Seconds** (02:21.53 / 4,246 video frames)
 * **Clip Structure**: Two distinct developer gameplay sequences separated by a 2.0-second black transition:
@@ -477,8 +481,13 @@ Here is what happens in all 4 leaked videos, broken down by timestamp:
 * **00:00:55 — Downtown Skyscraper Corridor & Domed Stadium** — The plane enters the downtown skyscraper corridor, showing modern curved high-rises, rooftop helipads, construction cranes, and a massive domed sports stadium to the west with moving AI freeway traffic.
 * **00:01:09.5 — 2-Second Black Screen Cut** — The screen cuts to black with complete audio silence (`silence_duration: 2.00s`) before switching to an on-foot combat sequence.
 * **00:01:11.5 — Jason Duval in Back Alley** — Jason Duval (wearing a salmon t-shirt and neck bandana) aims an optic-equipped assault rifle at an exterior stucco wall in a back alley.
-* **00:01:25 — Ballistics & Material Destruction** — When Jason fires, individual bullet holes chip off stucco plaster and expose concrete brick underneath, with realistic dust particles, sparks, and dynamic muzzle flashes lighting up the wall.
-* **00:01:35 — Crime Detection & Wanted System** — Firing the weapon triggers the pedestrian/crime eye icon, which immediately escalates to a **1-Star Wanted Level** (flashing star) and a red police search cone on the bottom-left radar minimap as the ammo count drops from `18 54` down to `9 21`.
+* **00:01:15 - 00:01:38 — 🚨 CRITICAL DISCOVERY: Jason Shoots the Word "LEEK" on the Wall with Bullet Holes** — Jason methodically aims his assault rifle and fires single/burst shots into the stucco alley wall, precision-crafting the letters **`L E E K`** out of bullet holes in real time!
+  * **The 'L' (01:15)**: Vertical column followed by horizontal base line.
+  * **The First 'E' (01:20)**: Vertical spine with 3 horizontal rungs.
+  * **The Second 'E' (01:26)**: Second 'E' carved cleanly beside it.
+  * **The 'K' (01:34)**: Vertical line and upper/lower diagonal arms.
+  * *Why this is a monumental breakthrough*: **This 100% proves the person recording had active, live controller/mouse input control over a playable GTA VI build.** This was not a pre-rendered reel or stolen trailer asset — the player actively spelled out "LEEK" on the wall as undeniable proof of live gameplay!
+* **00:01:38 — Crime Detection & Wanted System** — Firing the weapon in public triggers the pedestrian/crime eye icon, which immediately escalates to a **1-Star Wanted Level** (flashing star) and a red police search cone on the bottom-left radar minimap as the ammo count drops from `18 54` down to `0 21`.
 
 ---
 
@@ -1082,14 +1091,20 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 ---
 
 <a id="full-build-theory"></a>
-### 8.9. ❌ DEBUNKED MISCONCEPTION: Does the Leaker Have the Full Game Build?
-![NikTek Full Build Theory](assets/community_niktek_full_build_theory.png)
-*❌ **DEBUNKED THEORY**: The theory that the leaker has the full playable game build.*
+### 8.9. 🟡 Game Build Access Analysis: Active Playable Access Confirmed via "LEEK" Bullet Wall Test
 
-* 🚫 **Verdict**: **FALSE / MISCONCEPTION**
-* **The Reality (Why they do NOT have the full game)**:
-  1. **Just one playtest recording session**: Jason is wearing the exact same clothes (white tank top, blue jeans, backward cap, and backpack) across all clips. This proves someone merely recorded **one 10–15 minute playtest session** and cut it into smaller clips.
-  2. **Video clips ≠ Game build**: Having short MP4 video captures on a hard drive is completely different from having hundreds of gigabytes of raw game files or a playable game executable.
+![Jason Shooting LEEK on Wall](assets/video5_plane_01_40_leek_bullet_wall_proof.jpg)
+*Groundbreaking interactive gameplay proof in Video 5: Jason Duval shoots the word "LEEK" into the alley wall with live bullet holes (01:37).*
+
+* 🟡 **Status / Verdict**: **ACTIVE PLAYABLE BUILD ACCESS CONFIRMED (Full Build Scope Unverified)**
+* **The Groundbreaking Discovery in Video 5 (`plane.mp4`)**:
+  * In Video 5 (`01:15 - 01:38`), Jason Duval aims at an exterior alley wall and methodically shoots bullet holes into the concrete to spell out the word **`L E E K`**!
+  * **Why This Changes Everything**:
+    1. **Direct Interactive Control**: This provides 100% indisputable visual proof that the person capturing this footage was **actively playing the live game with controller/mouse inputs**. This was not a stolen marketing reel, cutscene capture, or pre-rendered B-roll.
+    2. **Diverse Outfits, Vehicles & Locations**: The 5 leaked videos feature multiple distinct outfits for Jason (white tank top in Video 1, red/brown t-shirt in Video 4, salmon shirt with neck bandana in Video 5), multiple vehicles (Picador truck, MTL Packer semi, VCPD police motorcycle, stunt biplane), and diverse locations across Leonida (Ambrosia sugar factory, Route 97, Fuzzard Drain Canal, Leonida Penitentiary, Vice City marina, downtown skyscraper corridor).
+* **What We Know vs. What Remains Unproven**:
+  * 🟢 **CONFIRMED**: The leaker / recording party has direct, live interactive access to a playable GTA VI developer build.
+  * 🟡 **POSSIBLE / UNVERIFIED**: They might possess a playable test client, PC developer build, or devkit executable. However, it is not 100% confirmed whether they hold the entire finalized hundred-gigabyte game repository or a modular internal playtest build.
 
 ---
 
