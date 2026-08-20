@@ -1,0 +1,200 @@
+# CYBERLEEK & MEDIA LEAK CHECKED SOURCES
+
+## 1. Main Websites, Web3 Endpoints & Server Resolution
+* Main Website Portal (🟢 WORKS / UP): https://leek.vilenarios.com/ -> IP `69.124.94.88` (Cablevision Systems Corp., AS6128, Mahwah, NJ, USA)
+* ArNS Community Gateway (🟢 WORKS / UP): https://cyberleek.ario.koltigin.xyz -> IP `176.57.189.36` (Contabo GmbH, AS51167, Lauterbourg, France / EU)
+* Turbo Gateway Mirror (🟢 WORKS / UP): https://cyberleek.turbo-gateway.com -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
+* Default ArNS Gateway (🟢 WORKS / UP): https://cyberleek.ar.io -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
+* Secondary Turbo Gateway (🟢 WORKS / UP): https://leek.turbo-gateway.com -> IP `49.13.45.141` (Hetzner Online GmbH, AS24940, Nuremberg, Germany)
+* Main Portal (🟢 WORKS / UP): https://leek.vilenarios.com -> IP `69.124.94.88` (Cablevision Systems Corp., Mahwah, NJ, USA — `ool-457c5e58.dyn.optonline.net`)
+* Gateway Node Server (🟢 UP): IP `49.13.45.141` (Hetzner Online GmbH, Nuremberg, Bavaria, Germany — `static.141.45.13.49.clients.your-server.de`)
+* Solana Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
+* Solana Token Mint ($CYBERLEEK): ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
+* Solscan Explorer: https://solscan.io/account/7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
+* DexScreener Tracker: https://dexscreener.com/solana/ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
+* Solana Smart Contract Bytecode & Magic Number Analysis: Deployer Wallet `6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3` (ELF shared object bytecode analysis & SDT false positive debunking by @koffiekasper)
+
+## 2. Checked Files & Direct Mirror Links
+
+### Video 1: Basketball Gameplay Clip (output.mp4) — 1440p HEVC (69.0s)
+* Arweave Permanent Ledger (Block #1982091): https://arweave.net/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
+* Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/3XQv_9ndgQ48DAZTeEYqRdVFryunBb0tI4gEVQpTJUs
+* Backup Mirror: https://www.upload.ee/files/19658673/output.mp4.html
+* SHA-256: bbcb8f662b694fc894f09d57a92c4e3cae6df5b9e078ecba6cb6002f23cf9e90
+* MD5: fae109d94943fcfcbffc58a8a4789528
+
+### Video 2: Highway Driving & Delivery Van Clip (video2.mp4) — 1080p HEVC (68.0s)
+* Arweave Permanent Ledger (Block #1982709): https://arweave.net/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
+* Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg
+* Secondary Mirror: https://transfiles.ru/ybyf9
+* Third Mirror: https://www.upload.ee/files/19662951/video2.mp4.html
+* SHA-256: c2a2284d8bb5be8d022b7d41f021703666d40026e632b7937faeb5ef4c49d6ae
+* MD5: 2e5bbfe76c5b9671d4715694a974b8fb
+
+### Video 3: Taser Weapon Test, Truck Steal & Boat Scene (taser.mp4) — 1080p HEVC (124.5s)
+* Main Mirror: https://gofile.io/d/qW134pdk
+* Backup Mirror: https://bedrive.ru/ead5
+* SHA-256: 785697aa8ae852aed899588ccf7d705b43addbc50e5ac690c7df9a1c60972287
+* SHA-1: 5d51153818628d52bbc86c7887fb2cf9a73f83f2
+* MD5: 92c97b54211d6d08cceda9ac62a10ef6
+
+### Video 4: Junkies Encounter, Police Motorcycle & Canal Fight (junkies.mp4) — 1080p HEVC (144.5s)
+* Main Mirror: https://gofile.io/d/t87ORtpm
+* Solana On-Chain Post: Account 2XRc2NJhXkcFNBzWeMkbGunBMLLKRjdEkV9aBWZQ1ow
+* Solana Transaction (BlockTime 1787158475 / 2026-08-19 16:54:35 UTC): 3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv
+* SHA-256: 44927e1820ee191df93666fb4d8add3fad7990d39ed3c4cabee60027ed0fc6d2
+* SHA-1: c7124956ea8e474f92b31188ec0c311a9a341bcb
+* MD5: 6abf17ae32673056c8d34d7b3e15baa1
+
+### Video 5: Plane Flyover & Alley Wall Shooting (plane.mp4) — 1080p HEVC HDR (141.5s)
+* Main Mirror: https://www.upload.ee/files/19668811/plane.mp4.html
+* Solana On-Chain Post: Account 2q3rEUUZ7ChHTLMx4QBAnew4q7UqaXXcqZ6NVgb7LZ6T
+* Solana Transaction (BlockTime 1787218982 / 2026-08-20 09:43:02 UTC): 2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH
+* Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3
+* SHA-256: 583226eb1635c611634e453146828caeaf9fa4c5abb25b21336ad5cfaa613037
+* SHA-1: 8dff04fe2e2c9987f343b821f4f50d576f931274
+* MD5: 9b4bcfec48f2de62cd4ff8989af65662
+
+### File 6: Full State of Leonida Map (full_map.png) — 2590x3240 PNG (3.54 MB)
+* Arweave Permanent Ledger (Block #1982664): https://arweave.net/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
+* Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/GVTWJUbg27XLsFEMctFUL45Z3beIyDWfKuhTe3Sp_w0
+* Backup Mirror: https://www.upload.ee/files/19662855/full_map.png.html
+* SHA-256: c5a07256f62f3ae37904540621f2b07d2f647fd10867b620622b3471910563f6
+* MD5: 23a7aee2466b437d3de34a6fc0f44657
+
+### File 7: Map Sneak Peek 1 (Dalton Island) — 1110x880 PNG
+* Arweave Link: https://arweave.net/MyMFWWJkSuOoi2MehJ1TDC2kSLk_Twwl57WdPe5ceGg
+* SHA-256: 0d1f9f522b7cd5ac4e4b9702a73e1b7aaac86b3cbd4befb725c488fa4ff9bb12
+
+### File 8: Map Sneak Peek 2 (Catalan Key) — 1140x907 PNG
+* Arweave Permanent Ledger (Block #1981170): https://arweave.net/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
+* Arweave Viewblock Explorer: https://viewblock.io/arweave/tx/zbfExgTitr6LZ9Cu8lv3P8hjDr56uYyEIVkYU1OdZ-0
+* SHA-256: b223c52138bc03a6fc4f27ab0dd58f95cf7ae173efb948a452ea7bf5b552cbac
+
+## 3. Dark Web & Community Helper Credits
+* Dread Dark Web Forum (/d/leaks): Stolen GTA6 Footage post by CyberLeeker (Aug 18, 2026 – 07:36 UTC)
+* Twitter Post Finder: @bnwkr (Dread discovery credit)
+* Discord Q&A Screenshots: @gamingskew (Server screenshots credit)
+* 2018 Szenebox Forum Discovery: @nico_s29 & @gamingskew (Jan 3, 2018 introduction post & identity profile credit)
+* Community Twitter Checkers: garza & vaaatiel (Twitter account & blurred fake post checks credit)
+* Community Map Insight: martipk (Developer overview map verification credit)
+* Footage Age Insight: NateDrake (Internal build age verification credit)
+* Radio Track & 2025 Build Age Discovery: @Phantomymous on GitHub (Issue #2 Tate McRae "Sports Car" radio station discovery credit)
+* HUD & Map Discoveries: GTA VI UNMODERATED Discord Server (HUD elements, Clone Key mechanics, RDR2 Defuse tree, Danger Zone, Karma icon, Fuel gauge, Map Zoom & Legendary Animals credit)
+* Twitter Gameplay Breakdown: @NikTek on X (6-star wanted level, RDR2 melee disarm, wearable dropped hats, restricted area AI breakdown credit)
+* In-Car iFruit CarPlay Discovery: @7Kkurd on X (iFruit logo on vehicle GPS minimap credit)
+* Creator Currency / Real-Money Claim Breakdown: @GamingCulture on X (Robux-style creator economy report credit)
+* Blockchain Funding & Token Creation Discovery: @TheRealJoeSchro on GitHub (Issue #3 wallet trail & Solscan discovery credit)
+* Dark Web Watermark Evolution Insight: @ReversedC0W3030 on GitHub (Issue #6 Dread cleaner video comparison credit)
+* Hetzner Payment & Verification Nuance: @XxKarl666xX on GitHub (Issue #7 VPS PayPal verification correction credit)
+* Fake Twitter Suspension & FBI GIF Discovery: jorin77 on Discord
+* RDR2 Mod Theory Fact-Checking: @DailyInterw6ac claim debunking (Engine memory, physics, and voice acting proof)
+* Landmass Size Python Analysis: u/UUT- on r/GTA6unmoderated (1.656x GTA 5 landmass calculation credit)
+* Reddit Community Mapping Project: https://www.reddit.com/r/GTA6/
+* GTAForums Community Mapping Project: https://gtaforums.com/topic/985269-gta-vi-mapping-project/
+
+## 4. German Identity & Infrastructure Proofs
+* German Scene & Security Forum: SzeneBox (https://szenebox.org/ — Founded 2007)
+* User Profile: `cyberleek` (https://szenebox.org/members/5490.html — Registered pre-2018, Dark Flaming Skull Avatar)
+* Introduction Thread (Live): https://www.szenebox.org/12-vorstellungen/7977-vorstellung_cyberleek/?highlight=CyberLeek#post45643 ("💡 Vorstellung Cyberleek" — Jan 3, 2018)
+* Introduction Thread (Archive): https://szenebox.org/archive/index.php/t-18889.html
+* JS Hackit Thread: https://www.szenebox.org/52-exploits_codes_tools/7978-js_hackit_-_hilfe/ (Jan 3, 2018)
+* Tech-Forum & XMPP Link Thread: https://www.szenebox.org/207-archiv/7928-tech-forum_stellt_sich_vor/index2.html#post70405 (`tech-forum.ch` / `cookie@im-tech-forum.ch`)
+* Wayback Machine Archives: https://web.archive.org/web/*/https://tech-forum.ch
+  * Snapshot 1 (March 28, 2019 - 200 OK): http://web.archive.org/web/20190328090751/http://tech-forum.ch/
+  * Snapshot 2 (August 11, 2018): https://web.archive.org/web/20180811201124/https://tech-forum.ch/
+  * Snapshot 3 (August 4, 2018): http://web.archive.org/web/20180804025115/http://tech-forum.ch/
+* Swiss WHOIS Registry: Pre-2021 SWITCH records for `tech-forum.ch` (Discovered by @Nico-Strecker — Issue #12)
+* Third-Party Threat Intel Mention: Tec-Bite Article (https://www.tec-bite.ch/is-any-of-your-companies-data-in-dark-web/ — Feb 2023)
+* Third-Party Cybercrime Index: Dancho Danchev Memoir (https://dn721608.ca.archive.org/0/items/dancho-danchev-cyber-intelligence-cybercrime-memoir-second-edition-2023/Dancho_Danchev_Cyber_Intelligence_Cybercrime_Memoir_Second_Edition_2023.pdf — Page 396)
+* WebSec Exploit Hunting Thread: https://www.szenebox.org/50-suche_websec-interessierten_%C3%BC_austausch_%C3%BCber_sicherheitsl%C3%BCcke_-15752-post96416/ (April 9, 2023)
+* Cloudflare & VPN Bypass Thread: https://www.szenebox.org/72-_anti_bot_spam_cloudflare-16781-post98065/ (July 23–25, 2023)
+* Data Leaks & BreachForums Thread: https://www.szenebox.org/42-szene_daily_talk_offtopic/16718-wo_findet_data_leaks/#post98128 (July 28, 2023)
+* Google Search Crawler Index: SzeneBox posts from `cyberleek` (Jan 3, 2018 — JS Hackit & ToLink.to XSS Vulnerability Report)
+* Video 4 Leak Watermark Proof: "CYBERLEEK DOES NOT HAVE TWITTER" (Official Video 4 drop explicitly confirming @cyberleek_ar_io is fake)
+* Fake Twitter Accounts: https://x.com/cyberleek_ar_io (Suspended) & https://x.com/MrCyberLeek (Fake secondary promoter account)
+* Primary Gateway Server: Hetzner Online GmbH (AS24940, Nuremberg, Bavaria, Germany — IP `49.13.45.141` / https://ipinfo.io/49.13.45.141)
+* Reverse DNS Record: `static.141.45.13.49.clients.your-server.de` (Hetzner German Portal)
+
+* Protagonist Developer Internal Name: Jason Duval (Documented in IGN / God is a Geek / Rockstar internal test logs)
+* Manifesto Structure: Cyberleek 'Three Commandments' (Pre-orders, DLC, Physical Discs) cited in Eurogamer / Forbes / Mashable
+* Stop Killing Games Official Disassociation Statement: Documented in IGN / Forbes / Rock Paper Shotgun
+
+--- TWITTER IMPOSTER ACCOUNT INVESTIGATION (@cyberleek_of) ---
+Handle: @cyberleek_of (https://x.com/cyberleek_of)
+Status: Proved Fake / Imposter Account
+Evidence: Video 4 in-frame watermark disowns all Twitter accounts. Zero new clips; all media re-uploaded from public Arweave gateways.
+
+
+--- VIDEO 5: PLANE FLYOVER & ALLEY SHOOTING (plane.mp4) ---
+Title: GTA 6: plane video (POLL)
+Account: 2q3rEUUZ7ChHTLMx4QBAnew4q7UqaXXcqZ6NVgb7LZ6T
+Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3
+Release Timestamp: 2026-08-20 09:43:02 UTC (1787218982)
+Transaction: 2qfZLmTts5GdBpGSfEpwcKPfAgsVJyxPabKoqTwzoWyK8rCNQTi4apPbdKDxKuzgAxr58QnixksbDUTpTT3Zp9NH
+Mirror: https://www.upload.ee/files/19668811/plane.mp4.html
+Duration: 141.53s | Resolution: 1920x1080 (HEVC/H.265 Main 10 BT.2020 HDR) | Size: 35,446,922 bytes
+MD5: 9b4bcfec48f2de62cd4ff8989af65662
+SHA1: 8dff04fe2e2c9987f343b821f4f50d576f931274
+SHA256: 583226eb1635c611634e453146828caeaf9fa4c5abb25b21336ad5cfaa613037
+
+
+--- ON-CHAIN CONTROL ARCHITECTURE & WALLET RELATIONSHIPS ---
+Research Credit: whitemustache0004 & Blockchain Verification
+Master Arweave Funding Origin: 3YLNDX...
+ArNS Domain Manager Key: 52yK...
+Turbo Data Uploader Key: 667Gfn...
+Arweave Manifest TX: TTZwYqvCeMCRkDkesu336Pyff26WU-BOvqKmD7zoxrQ (Owner: 7gFAEaOIEHNhx2BqiVtpCgF_7HUePnN8E2aejRR6vTE, Block #1981818)
+Root HTML Data ID: Y_lswXhMED7uFgU-iabGqoYIGUCcSJKw68wwpQ9qGVw
+ArNS Name cyberleak ANT Contract: 84ZXH1E2QqDXes4idD9fty93qFh3NM3uamx4ZmCVyDiE
+ArNS Name ciberleek ANT Contract: 91aW9R2sHsjCPUdyu5TJUBFgKDdqedZGYAAkXqq9Qp8X
+Solana Master Operator Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3
+Solana Main Program ID: 7rAgHPLDc9NryZmNdeEzyDui6D9PHkvTxMjKhNSa7w3a
+
+--- ON-CHAIN TIMESTAMPS & WALLET RELATIONSHIPS (CORRECTED) ---
+Research Credit: whitemustache0004 & Blockchain Verification
+* Aug 14, 2026 09:42 UTC: 3YLNDX... sends 1 SOL funding to 52yK...
+* Aug 14, 2026 18:00-18:17 UTC: 52yK... registers ArNS names (cyberleek, cyberleak, ciberleek) via ANT Process IDs 84ZX... and 91aW...
+* Aug 15, 2026 12:23 UTC: 3YLNDX... funds 667Gfn... (Turbo uploader with matching Arweave key bytes + turbo-sdk tags)
+* Aug 17-19, 2026 16:54 UTC: 6Nq6... launches Solana program 7rAgH... and publishes Video 4 (Tx 3iKf...)
+* Aug 20, 2026 09:30-09:43 UTC: 6Nq6... executes ProcessResults settling poll and publishes Video 5 (Tx 2qfZLm...)
+
+
+--- DISCORD INVESTIGATION & LUCIA ENDING MOCKUP ARCHIVE ---
+* Reddit Sources: r/GTA6unmoderated/comments/1vsny4e/lucia_ending_leak/ & /comments/1vsod39/ & r/GamingLeaksAndRumours/comments/1vsofem/comment/p4mqxso
+* Archived Teaser Image: assets/discord_claim_6_lucia_ending_fake_mockup.png
+* Status: 100% PROVEN FAKE INSPECT ELEMENT MOCKUP (HTML text edit, deleted 'go' from gofile.io, no on-chain ballot)
+* Exact Timing & Discovery: Aug 19, 2026 at 16:08 UTC on Discord, reposted to Reddit between 17:25 and 17:43 GMT (Credit: davit_36049)
+
+
+--- EXTERNAL DOMAIN SQUATS & USERNAME INVESTIGATION (ISSUE #15) ---
+* cyberleek.com: Registered 2026-08-18 19:25:17 UTC via Cloudflare (IP 188.114.97.8) - Opportunistic domain squat
+* github.com/cyberleek: Created 2022-03-01 (Unrelated developer coincidence, QuickQR Pro privacy gist)
+* vk.com/cyberleek: Registered 2026-08-19 (Russian VK copycat handle)
+* Credit: ShadowNineX & Nico-Strecker (GitHub Issue #15), davit_36049 (Discord Lucia investigation)
+
+
+--- DEXSCREENER TOKEN METADATA & TWITTER LINK INVESTIGATION ---
+* DexScreener API Pair: ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
+* Websites: https://cyberleek.ar.io/
+* Socials: https://x.com/cyberleek_ar_io (Suspended)
+* Archived Proofs: assets/dexscreener_cyberleek_twitter_profile_proof.png & assets/dexscreener_twitter_suspended_proof.png
+* DexScreener research credit: martimdjere
+* Lucia Ending Discord teaser timing: Aug 19, 2026 at 16:08 UTC (Credit: davit_36049)
+
+* Main Portal Alternate Subdomain (🟢 UP): https://cyberleek.vilenarios.com/ -> IP 69.124.94.88 (Cablevision Systems Corp., Mahwah, NJ)
+* Discord Authenticity Context: Early pre-ban server (Aug 17-18) was potentially real/alleged operator testing UI, while post-ban replacement servers were unconfirmed copycats.
+
+--- TECHNICAL POLL ARCHITECTURE & PROGRAM UPGRADE PROOF ---
+* Research Credit: Goons / justarandomnerd (https://x.com/justarandomnerd/status/2089916745720996340)
+* Frontend Bundle: index-CE2GuztQ.js
+* Decoder k(e): finalBalances[] snapshot array stored in on-chain account data upon finalization
+* Rendering Logic N(): Switches from live getTokenAccountBalance to finalBalances[e] snapshot when finalized
+* Solana ProgramData Account: FYcfytdvRSmTgx1wroRhKL26ay5ZwZfy5W5chKBmsJV9 (Tag 3, Slot 439488370, has_authority 1)
+* Upgrade Authority: 6Nq6KAzFKFCKDXYg1kqs23EuBBEWoWAgmBQAQtq4FaF3 (Permits rewriting entire contract bytecode anytime)
+* Upstream Seed Wallet: J4zoc1rFgPP2Mrknb48BRRoQW9PSGIVIPyuemkKMpAnV (0.102 SOL, Aug 3 18:09 UTC, preBalance 0)
+* Operational Wallet: 26sZDubW854zGAasvrUaRAgY54MiC97CEHWZKPRMPMQ9 (897 txs, 156 SOL accumulated)
+* Admin Email: admin@tech-forum.ch & cookie@im-tech-forum.ch
+* Official Forum Twitter: https://x.com/T3chF0rum (Joined Jan 3, 2018 at 19:21 UTC, shares identical flaming skull avatar - Discovery credit: texploit · Password reset email verification to admin@tech-forum.ch: pwn4life)
+* Password Reset Proof Image: assets/twitter_t3chforum_password_reset_email_proof.png
+* Historical WHOIS Trace for tech-forum.ch (2017): Registered by Manuel H., Lenzburg, Switzerland (Street address and last name redacted for privacy)
