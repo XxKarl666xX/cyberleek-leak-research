@@ -10,6 +10,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
 > <a id="key-alerts"></a>
 > ### 🚨 Critical Facts & Latest Status (Must Read First)
 > 
+> * ✈️ **NEXT LEAK DROP INCOMING (Video 5: Plane DAY)**: The official website poll concludes today (**August 20, 2026 at 11:26 UTC**). The site confirms the winning video — **`Plane (DAY) — Cinematic Drive-By`** — is scheduled to drop in the Content section within **24 hours after the poll ends**!
 > * 🟢 **LIVE STATUS UPDATE**: ALL official websites, portals, and Web3 gateway mirrors ([**`https://leek.vilenarios.com/`**](https://leek.vilenarios.com/), [**`https://cyberleek.ario.koltigin.xyz`**](https://cyberleek.ario.koltigin.xyz), [**`https://leek.turbo-gateway.com`**](https://leek.turbo-gateway.com), [**`https://cyberleek.turbo-gateway.com`**](https://cyberleek.turbo-gateway.com), [**`https://cyberleek.ar.io`**](https://cyberleek.ar.io)) are **100% ONLINE & ACTIVE (UP)**!
 > * ❌ **CYBERLEEK DOES NOT HAVE TWITTER (Confirmed Fake)**: Both the suspended [@cyberleek_ar_io](https://x.com/cyberleek_ar_io) and its secondary backup account [**@MrCyberLeek**](https://x.com/MrCyberLeek) on X are **100% FAKE / IMPOSTERS** run by an outside promoter seeking clout.
 > * 💬 **DISCORD Q&A CLAIMS ARE UNVERIFIED / PROMOTER FICTION**: All text claims from the old "Cyberleek Discord" (Lucia intro mission, prison pickup, 2023 map claim, Robux currency) were posted on a server shared by the fake Twitter promoter. Only the 4 video files, map images, on-chain Solana tx, and official website portals are genuine.
@@ -63,6 +64,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
   * 📐 [2. Map Size Comparison (1.656x Bigger than GTA V)](#landmass-size)
   * 🐊 [3. Legendary Animals Confirmed (RDR2 Hunting System)](#legendary-animals)
   * 🌲 [4. Deep Dive: Lummox County & Mount Kalaga](#lummox-county)
+  * 📍 [5. Verified Path in Video 4: South Vice-Dale & Route 97 (@theicybee)](#jason-junkies-path)
 
 * 📅 **[6. Complete Timeline & Date Proof](#timeline)**
 
@@ -513,6 +515,27 @@ The leaked map names 5 counties. We checked them against official Rockstar trail
 
 ---
 
+<a id="jason-junkies-path"></a>
+### 5. Verified Location Path in Video 4 (`junkies.mp4`): South Vice-Dale County & Route 97
+
+![Jason Verified Path in Video 4](assets/community_theicybee_jason_junkies_path.png)
+*Mapping breakdown by community researcher `@theicybee` confirming Jason's exact route in Video 4 across South Vice-Dale County.*
+
+Community researcher **[@theicybee](https://github.com/zyrexdz/cyberleek-leak-research)** successfully identified and mapped Jason's exact movement in Video 4 (`junkies.mp4`):
+
+1. **The In-Game Highway Sign ("TO 97")**:
+   * At the very start of Video 4 (`00:00`), Jason walks towards an intersection with an overhead green road sign marked **"TO 97"** with a right turn arrow.
+   * On the GTA VI map, this road in **South Vice-Dale County** (just north-east of Hamlet and east of the radio mast) is the primary connecting highway for Route 97.
+2. **The Canal Basin Alignment (Fuzzard Drain Canal)**:
+   * At `00:36`, Jason steals the police motorcycle and drives down into the concrete slopes of **Fuzzard Drain Canal**.
+   * On the map, the red path curves directly through this concrete drainage canal basin leading into the water inlet between Vice-Dale County and the southern industrial port area.
+3. **Sunset Lighting Match**:
+   * The low golden-hour sun setting in the west matches the open horizon toward the western wetlands and radio tower.
+4. **Why This Matters**:
+   * This provides direct in-game visual confirmation linking the leaked video footage to the exact coordinates on the community GTA VI Mapping Project.
+
+---
+
 <a id="timeline"></a>
 ## 6. Complete Timeline & Date Proof
 
@@ -826,9 +849,22 @@ Community researchers looking closely at the `@cyberleek_ar_io` X account notice
 ---
 
 <a id="poll-plane-winner"></a>
-### 6. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Ended)
-![Cyberleek Poll Winner Plane](assets/cyberleek_official_poll_plane_day_winner.png)
-*The closed poll on the official leaker website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) confirming "Plane (DAY)" won 100% of the vote.*
+### 6. Next Video Drop Confirmed: "Plane (DAY) — Cinematic Drive-By" (Official Poll Countdown)
+<div align="center">
+  <img src="assets/cyberleek_poll_live_plane_timer.jpg" alt="Cyberleek Live Poll Countdown" width="460" />
+  <img src="assets/cyberleek_official_poll_plane_day_winner.png" alt="Cyberleek Poll Winner Plane" width="460" />
+</div>
+
+*Live poll on the official website (`cyberleek.turbo-gateway.com` / `cyberleek.ar.io`) showing the exact countdown ending August 20, 2026 at 11:26 UTC.*
+
+* **The Poll Timing & Release Countdown**:
+  * **Title**: *"Next GTA 6 Video... Cinematic drive by?"*
+  * **Exact Poll End Time**: **August 20, 2026 at 11:26 UTC** (`ends 20. 8. 2026, 11:26`).
+  * **Official Website Release Rule**: *"The winning choice will be featured in the 'Content' section within 24h after the poll ends."*
+  * **Expected Video 5 Drop Window**: Scheduled to appear between **August 20, 11:26 UTC and August 21, 11:26 UTC**!
+* **The Voting Results**:
+  * **Winning Option**: **`▶ Plane (DAY)`** won with **100.0% of the total vote** (`65,342.86 $CYBERLEEK` tokens donated to wallet `8MAye9xrLzeeapUMo2XM9r3TRsoTNnz9pywqoTpiiK1B`).
+  * **Other Options on Ballot**: `Car (DAY)` (0 votes), `Car (NIGHT)` (0 votes), `Motorcycle (NIGHT)` (0 votes).
 
 * **The Poll Breakdown**:
   * **Title**: *"Next GTA 6 Video... Cinematic drive by?"*
