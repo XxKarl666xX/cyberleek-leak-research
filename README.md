@@ -141,6 +141,7 @@ Everything we know about the August 2026 GTA VI gameplay leaks. Every claim back
     * ❌ [8.6.5. Official Proof: "CYBERLEEK DOES NOT HAVE TWITTER"](#debunking-watermark-proof)
     * ❌ [8.6.6. Proved Fake Drama: Account Suspension & Staged "FBI Raid" Meme GIF](#debunking-fbi-raid-larp)
     * ❌ [8.6.7. Deep Investigation: @cyberleek_of Imposter Account & Recycled Media Breakdown](#debunking-cyberleek-of)
+    * ❌ [8.6.8. How DexScreener Linked @cyberleek_ar_io Before Account Suspension](#debunking-dexscreener-twitter)
   * 🔵 [8.7. Video 5 Release & Website Poll: "Plane (DAY)" (Delivered via On-Chain Drop)](#poll-plane-winner)
     * 🔵 [8.7.1. Poll Countdown & Release Window (Aug 20, 11:26 UTC)](#poll-countdown-timer)
     * 🔵 [8.7.2. The $80.24 Vote Transfer (65,342 $CYBERLEEK)](#poll-whale-tx)
@@ -1112,6 +1113,34 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
   2. **Zero Genuinely New Files**: Every single gameplay clip, map crop, or screenshot posted by `@cyberleek_of` was downloaded from the public Arweave web portal (`cyberleek.ar.io` / `cyberleek.turbo-gateway.com`), re-encoded with higher compression artifacts, and reposted.
   3. **Threat Repackaging**: The account reposts the website's written manifesto demands ("Three Commandments", August 27 Netflix deadline) as if they were personal tweets, attempting to impersonate the site creator.
   4. **Timing & Origin**: Created/renamed on X *after* the initial leak drop (August 18–19, 2026), operating as a third-wave imposter after `@cyberleek_ar_io` was suspended and `@MrCyberLeek` posted the fake SWAT meme.
+
+---
+
+<a id="debunking-dexscreener-twitter"></a>
+#### 8.6.8. ❌ How DexScreener Linked @cyberleek_ar_io Before Account Suspension
+
+<div align="center">
+
+| DexScreener Token Social Profile | Clicking Twitter Leads to Suspended Account |
+| :---: | :---: |
+| <img src="assets/dexscreener_cyberleek_twitter_profile_proof.png" alt="DexScreener CyberLeek Profile Proof" width="360" /> | <img src="assets/dexscreener_twitter_suspended_proof.png" alt="DexScreener Suspended Twitter Proof" width="360" /> |
+| *DexScreener profile for token `ApZuxdpz...` showing Website and Twitter buttons.* | *Clicking the Twitter button opens the suspended `@cyberleek_ar_io` page.* |
+
+</div>
+
+* **Why Over 88,000 People Followed the Account**:
+  When the `$CYBERLEEK` Solana token (`ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg`) was created, the token profile was set up with social links pointing to both `https://cyberleek.ar.io` and `https://x.com/cyberleek_ar_io`.
+  Because DexScreener automatically pulled and displayed these buttons side by side, crypto traders and gaming fans assumed the Twitter handle was the official channel for the leaker.
+
+* **How the Imposter Used This Credibility**:
+  The promoter leveraged this traffic to build an audience of over 88.9k followers, teasing fake drop countdowns (like promising an 8 PM EST leak) and posting blurred screenshots of old 2022 leaks.
+
+* **Why the Real Leaker Added the Video 4 Watermark**:
+  Once the Twitter account started making false claims, the actual leaker holding the video files officially disowned them by embedding a permanent watermark in Video 4 (`junkies.mp4`):
+  > **`"CYBERLEEK DOES NOT HAVE TWITTER — OFFICIAL NEWS ONLY HERE"`**
+
+* **Current Status**:
+  X permanently suspended `@cyberleek_ar_io` for impersonation, DMCA violations, and token promotion. As shown in the live screenshot above, clicking the Twitter button on DexScreener now goes straight to the account suspended notice.
 
 ---
 

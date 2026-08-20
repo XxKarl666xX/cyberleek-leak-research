@@ -162,3 +162,10 @@ Research Credit: whitemustache0004 & Blockchain Verification
 * github.com/cyberleek: Created 2022-03-01 (Unrelated developer coincidence, QuickQR Pro privacy gist)
 * vk.com/cyberleek: Registered 2026-08-19 (Russian VK copycat handle)
 * Credit: ShadowNineX & Nico-Strecker (GitHub Issue #15), davit_36049 (Discord Lucia investigation)
+
+
+--- DEXSCREENER TOKEN METADATA & TWITTER LINK INVESTIGATION ---
+* DexScreener API Pair: ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg
+* Websites: https://cyberleek.ar.io/
+* Socials: https://x.com/cyberleek_ar_io (Suspended)
+* Archived Proofs: assets/dexscreener_cyberleek_twitter_profile_proof.png & assets/dexscreener_twitter_suspended_proof.png
