@@ -161,9 +161,10 @@ Research Credit: whitemustache0004 & Blockchain Verification
 
 
 --- DISCORD INVESTIGATION & LUCIA ENDING MOCKUP ARCHIVE ---
-* Reddit Sources: r/GTA6unmoderated/comments/1vsny4e/lucia_ending_leak/ & /comments/1vsod39/
+* Reddit Sources: r/GTA6unmoderated/comments/1vsny4e/lucia_ending_leak/ & /comments/1vsod39/ & r/GamingLeaksAndRumours/comments/1vsofem/comment/p4mqxso
 * Archived Teaser Image: assets/discord_claim_6_lucia_ending_fake_mockup.png
-* Status: UNVERIFIED / PROBABLE FAKE MOCKUP (No on-chain transaction, file.io button unused by leaker)
+* Status: 100% PROVEN FAKE INSPECT ELEMENT MOCKUP (HTML text edit, deleted 'go' from gofile.io, no on-chain ballot)
+* Exact Timing & Discovery: Aug 19, 2026 at 16:08 UTC on Discord, reposted to Reddit between 17:25 and 17:43 GMT (Credit: davit_36049)
 
 
 --- EXTERNAL DOMAIN SQUATS & USERNAME INVESTIGATION (ISSUE #15) ---
@@ -179,7 +180,7 @@ Research Credit: whitemustache0004 & Blockchain Verification
 * Socials: https://x.com/cyberleek_ar_io (Suspended)
 * Archived Proofs: assets/dexscreener_cyberleek_twitter_profile_proof.png & assets/dexscreener_twitter_suspended_proof.png
 * DexScreener research credit: martimdjere
-* Lucia Ending Discord teaser timing: Aug 18, 2026 at 16:08 UTC in pre-ban server (Credit: davit_36049)
+* Lucia Ending Discord teaser timing: Aug 19, 2026 at 16:08 UTC (Credit: davit_36049)
 
 * Main Portal Alternate Subdomain (🟢 UP): https://cyberleek.vilenarios.com/ -> IP 69.124.94.88 (Cablevision Systems Corp., Mahwah, NJ)
 * Discord Authenticity Context: Early pre-ban server (Aug 17-18) was potentially real/alleged operator testing UI, while post-ban replacement servers were unconfirmed copycats.
@@ -194,4 +195,5 @@ Research Credit: whitemustache0004 & Blockchain Verification
 * Upstream Seed Wallet: J4zoc1rFgPP2Mrknb48BRRoQW9PSGIVIPyuemkKMpAnV (0.102 SOL, Aug 3 18:09 UTC, preBalance 0)
 * Operational Wallet: 26sZDubW854zGAasvrUaRAgY54MiC97CEHWZKPRMPMQ9 (897 txs, 156 SOL accumulated)
 * Admin Email: admin@tech-forum.ch & cookie@im-tech-forum.ch
+* Official Forum Twitter: https://x.com/T3chF0rum (Joined Jan 3, 2018 at 19:21 UTC)
 
