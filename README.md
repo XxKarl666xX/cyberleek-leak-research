@@ -696,7 +696,8 @@ Every date here has a source you can check yourself:
 | **2026-08-18 19:05** | `video2.mp4` (Driving clip) uploaded | [Block #1982709](https://viewblock.io/arweave/tx/hhOoYZtHBqQi3d-dmxcGooXKTbiT3HJ2-eNsE7HNtKg) | Cryptographically proves driving clip was uploaded to Arweave. |
 | **2026-08-18 ~20:00+** | Leaks go viral on X and Reddit; `$CYBERLEEK` Solana coin launched | Social media explosion | Mainstream leak explosion. |
 | **2026-08-18 ~20:00+** | Take-Two Interactive starts taking down clips everywhere | Outlets report DMCAs | Confirms Rockstar owns the material. |
-| **2026-08-18** | Original leak mirror Discord server gets banned by Discord; copycat replacement servers created (`ZWjnQSSJ2P`) | Server ban logs & Reddit reports | Proves early mirror server was banned by Discord Trust & Safety. |
+| **2026-08-18 16:08** | Early Discord teaser: user `CyberLeek` teases upcoming poll & `upcoming 1.png` (Lucia Ending card) in original server | [Archived Screenshot](#qa-lucia-ending-mockup) | Shows early website feature testing before `taser.mp4` drop. |
+| **2026-08-18 ~22:00** | Original leak mirror Discord server gets banned by Discord; copycat replacement servers created (`ZWjnQSSJ2P`) | Server ban logs & Reddit reports | Proves early mirror server was banned by Discord Trust & Safety. |
 | **2026-08-19 ~12:00** | `taser.mp4` (Taser test, truck hijack, and boat scene) surfaces on mirrors | [Gofile Mirror](https://gofile.io/d/qW134pdk) | Proves third video surfaced. |
 | **2026-08-19 ~15:00** | Community checks by `garza` & `vaaatiel` expose fake blurred 2022 teasers on X | Discord investigation | Exposes Twitter promoter middleman manipulation. |
 | **2026-08-19 16:54** | `junkies.mp4` (Junkies Encounter, Police Motorcycle, Fuzzard Drain Canal & Boat Cutscene) posted on-chain | [Solana Tx `3iKf4UjN...`](https://solscan.io/tx/3iKf4UjNdiCPR9K6PX8Y2WgP1cPB7QRwzBcC1g7HpKw8ruNGrRqzGeEhdN6PgijMVLk8XSMhpMYajMrv1MGe7cLv) / [Gofile Mirror](https://gofile.io/d/t87ORtpm) | Cryptographically proves fourth video posted on-chain by Cyberleek authority wallet. |
@@ -826,10 +827,10 @@ Every date here has a source you can check yourself:
 
 * **Status**: 🔴 **UNVERIFIED / PROBABLE FAKE MOCKUP**
 * **Where It Surfaced**: Shared on Reddit in `r/GTA6unmoderated` (`/comments/1vsny4e/lucia_ending_leak/` and `/comments/1vsod39/cyberleek_is_trying_to_post_the_lucia_ending_video/`).
-* **The Discord Message**:
-  > User `CyberLeek` posted at 16:08:
+* **Timeline & Discovery Context (Credit: `davit_36049`)**:
+  > On **August 18, 2026 at 16:08 UTC** (in the original leak mirror Discord server, right before the server was banned and just before `taser.mp4` surfaced), user `CyberLeek` posted:
   > *"poll coming soon, check the site https://gofile.io/d/a0OiqRwL https://cyberleek.ar.io/"*
-  > Attached file: `upcoming 1.png` (11.5 KB) showing the web card for `GTA 6: LUCIA ENDING VIDEO`.
+  > Attached file: `upcoming 1.png` (11.5 KB) showing an early preview web card for `GTA 6: LUCIA ENDING VIDEO`.
 * **Technical Red Flags and Why It Is Unverified**:
   1. **File.io Mirror Button**: The mockup shows a download button for `FILE.IO MIRROR 1`. The real leaker never used `file.io` on the website or on the blockchain. `File.io` is a temporary one-time download tool that deletes files after a single download. The real leaker used `gofile.io`, `upload.ee`, `bedrive.ru`, and `arweave`.
   2. **Non-Developer Naming**: Real developer test clips from this leaker use simple gameplay test names like `output.mp4` (basketball), `video2.mp4` (driving), `taser.mp4`, `junkies.mp4`, and `plane.mp4`. "Lucia Ending Video" sounds like community hype bait.
@@ -1118,6 +1119,8 @@ Community researchers who closely analyzed the `@cyberleek_ar_io` Twitter/X acco
 
 <a id="debunking-dexscreener-twitter"></a>
 #### 8.6.8. ❌ How DexScreener Linked @cyberleek_ar_io Before Account Suspension
+
+*(DexScreener token metadata link research credit: Community researcher `martimdjere`)*
 
 <div align="center">
 
